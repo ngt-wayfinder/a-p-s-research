@@ -55,3 +55,20 @@ This register lists effective dates, old codes and names, and new codes and name
 A reusable parser is now committed at [`scripts/crossmatch_asx_code_changes.py`](../scripts/crossmatch_asx_code_changes.py). It accepts a locally saved complete ASX code-change HTML page and `operating_candidates.csv`, and emits matched historical change events as CSV. It requires Beautiful Soup (`pip install beautifulsoup4`).
 
 **Next input required:** a saved full HTML copy of https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html with all 2018–2026 year sections present. Before certifying completion, verify all year sections and ensure no rows were missed because of webpage layout. A browser's Save Page As → Webpage, HTML Only may provide the necessary input; dynamic content must be expanded first if applicable.
+
+## 2026 register supplied by user — cross-match (13 October 2026)
+
+**Source:** User-transcribed 2026 ASX company name/code-change register, 53 entries. This section records a comparison with the 316-code working universe; it does not independently authenticate the transcription against the ASX website.
+
+- **Rows provided:** 53 (including the future-dated 15 Oct 2026 GLL → GSE entry).
+- **Candidate matches by old or new code:** 1 unique company — **MHC**.
+- **Candidate ticker-code changes:** **0**.
+- **Candidate name-only changes:** **1**.
+
+| Effective date | Old code | Old name | New code | New name | Classification | Decision |
+|---|---|---|---|---|---|---|
+| 16 Jan 2026 | MHC | Manhattan Corporation Limited | MHC | Manhattan Gold Corporation Limited | Name change; code unchanged | Retain MHC; CSV already uses new name |
+
+**Caveats:** The 15 Oct 2026 entry is future-dated relative to the research date (13 Oct) and is not treated as an already-effective change. This match covers **only the 2026 entries supplied**, not 2018–2025 or any omissions from the supplied transcription. Other 2026 entries have no old/new ticker match to the 316 candidates.
+
+**Next:** Obtain and cross-match the **2025** ASX change-register section, followed by earlier years. The full 2018–2026 historical audit remains **IN PROGRESS**.
