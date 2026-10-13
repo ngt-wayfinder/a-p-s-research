@@ -101,44 +101,44 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | DEV | DEVEX RESOURCES LIMITED | P3 — routine issuer confirmation | Issuer 2026 reports confirm DevEx Resources; multiple equity classes require mapping: https://www.devexresources.com.au/investors/ |
 | DCC | DIGITALX LIMITED | P3 — routine issuer confirmation | Issuer 2026 announcement archive located; specific filing and identity not checked: https://www.digitalx.com/asx-announcements-presentations-and-reports/ |
 | DXB | DIMERIX LIMITED | P3 — routine issuer confirmation | Issuer primary filing corroborates identity (2026); full legal continuity pending. https://announcements.asx.com.au/asxpdf/20260428/pdf/06yxzb4916vlq6.pdf |
-| DUG | DUG TECHNOLOGY LTD | P3 — routine issuer confirmation | Not independently checked |
+| DUG | DUG TECHNOLOGY LTD | P3 — routine issuer confirmation | 2025 primary ASX results corroborate DUG Technology Ltd ASX DUG; 2026 check pending. https://announcements.asx.com.au/asxpdf/20250227/pdf/06g0t02p8r3t58.pdf |
 | EBR | EBR SYSTEMS INC. | P2 — parent/security-form check | P2 VERIFIED — **RESOLVED 1 Apr 2026 (Australian time):** issuer ASX announcement 26 Mar 2026 confirms 1-for-10 reverse split of underlying US common shares, while ASX CDIs are **not consolidated**; CDI-to-common-share ratio changes from 1:1 to 10:1. Primary issuer filing: https://wcsecure.weblink.com.au/pdf/EBR/03072291.pdf . SEC-hosted 2025 annual report explicitly says historic figures were not adjusted for the proposed split: https://www.sec.gov/Archives/edgar/data/1347123/000121465926003810/j325265ars.pdf . June 2026 issuer capital raising confirms 10 CDIs = 1 US share: https://www.sec.gov/Archives/edgar/data/1347123/000121465926007314/z692638k.htm . **Handling:** preserve CDI historical prices/units; normalise US share counts and per-US-share financial metrics for pre/post split; no 10x adjustment to unchanged CDI units solely for this event. |
-| EIQ | ECHOIQ LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| EDE | EDEN INNOVATIONS LTD | P3 — routine issuer confirmation | Not independently checked |
+| EIQ | ECHOIQ LIMITED | P3 — routine issuer confirmation | 2026 ASX-announced Echo IQ Ltd ASX EIQ attached to Pro Medicus filing; proposed financing/reseller arrangement subject to definitive documents. https://announcements.asx.com.au/asxpdf/20260625/pdf/070zsss29bsg3w.pdf |
+| EDE | EDEN INNOVATIONS LTD | P3 — routine issuer confirmation | Initial triage completed; no adequate 2026 primary issuer evidence established in this pass. Identity, security form and continuity remain pending. |
 | EDU | EDU HOLDINGS LIMITED | P2 — parent/security-form check | 2026 issuer FY25 results corroborated; ABN 85 108 962 152; legal succession pending |
-| ELT | ELEMENTOS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| EL8 | ELEVATE URANIUM LTD | P3 — routine issuer confirmation | Not independently checked |
-| EML | EML PAYMENTS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| EMP | EMPEROR ENERGY LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| EMV | EMVISION MEDICAL DEVICES LTD | P3 — routine issuer confirmation | Not independently checked |
-| ENR | ENCOUNTER RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| ETM | ENERGY TRANSITION MINERALS LTD | P3 — routine issuer confirmation | Not independently checked |
+| ELT | ELEMENTOS LIMITED | P3 — routine issuer confirmation | Initial triage completed; no adequate 2026 primary issuer evidence established in this pass. Identity, security form and continuity remain pending. |
+| EL8 | ELEVATE URANIUM LTD | P3 — routine issuer confirmation | 2026 issuer half-year financial report corroborates Elevate Uranium Ltd; 2025 employee options/performance rights are distinct from ordinary shares. https://announcements.asx.com.au/asxpdf/20260313/pdf/06xcmfvn1n4l04.pdf |
+| EML | EML PAYMENTS LIMITED | P3 — routine issuer confirmation | 2026 issuer interim report corroborates EML Payments Limited; legal lineage pending. https://announcements.asx.com.au/asxpdf/20260225/pdf/06wqbfzq6cd51z.pdf |
+| EMP | EMPEROR ENERGY LIMITED | P3 — routine issuer confirmation | Initial triage completed; no adequate 2026 primary issuer evidence established in this pass. Identity, security form and continuity remain pending. |
+| EMV | EMVISION MEDICAL DEVICES LTD | P3 — routine issuer confirmation | Initial triage completed; no adequate 2026 primary issuer evidence established in this pass. Identity, security form and continuity remain pending. |
+| ENR | ENCOUNTER RESOURCES LIMITED | P3 — routine issuer confirmation | Initial triage completed; no adequate 2026 primary issuer evidence established in this pass. Identity, security form and continuity remain pending. |
+| ETM | ENERGY TRANSITION MINERALS LTD | P3 — routine issuer confirmation | Initial triage completed; no adequate 2026 primary issuer evidence established in this pass. Identity, security form and continuity remain pending. |
 | EWC | ENERGY WORLD CORPORATION LTD | P1 — issuer reuse/status exception | P1 ISSUER CORROBORATED — issuer investor site identifies Energy World Corporation Ltd (ASX:EWC), ACN 009 124 994, and links June 2026 company disclosure: https://ewc-energy.com/ . No historical entity substitution established from this source; current tradeability unverified. |
 | ECT | ENVIRONMENTAL CLEAN TECHNOLOGIES LIMITED. | P2 — parent/security-form check | ISSUER corroborated — 6 Oct 2026 issuer announcement, ABN 28 009 120 405: https://www.marketindex.com.au/asx/ect/announcements/ect-strengthens-board-for-next-phase-of-growth-6A1347881 . MATERIAL CORPORATE ACTION: 1-for-15 ordinary-share consolidation completed 26 Aug 2025, per issuer ASX filing https://announcements.asx.com.au/asxpdf/20250826/pdf/06nc9sp162507s.pdf . Historical share counts/prices need basis control. |
-| EQU | EQUUS ENERGY LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| EQU | EQUUS ENERGY LIMITED | P3 — routine issuer confirmation | Initial triage completed; no adequate 2026 primary issuer evidence established in this pass. Identity, security form and continuity remain pending. |
 | EGH | EUREKA GROUP HOLDINGS LIMITED | P2 — parent/security-form check | ISSUER corroborated — Feb 2026 half-year issuer results, ABN 15 097 241 159: https://announcements.asx.com.au/asxpdf/20260224/pdf/06wnlx6brfb1rg.pdf . Historical succession/ISIN pending. |
-| EVZ | EVZ LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| FAL | FALCON METALS LTD | P3 — routine issuer confirmation | Not independently checked |
-| FXG | FELIX GOLD LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| FEX | FENIX RESOURCES LTD | P3 — routine issuer confirmation | Not independently checked |
+| EVZ | EVZ LIMITED | P3 — routine issuer confirmation | Initial triage completed; no adequate 2026 primary issuer evidence established in this pass. Identity, security form and continuity remain pending. |
+| FAL | FALCON METALS LTD | P3 — routine issuer confirmation | Initial triage completed; no adequate 2026 primary issuer evidence established in this pass. Identity, security form and continuity remain pending. |
+| FXG | FELIX GOLD LIMITED | P3 — routine issuer confirmation | Initial triage completed; no adequate 2026 primary issuer evidence established in this pass. Identity, security form and continuity remain pending. |
+| FEX | FENIX RESOURCES LTD | P3 — routine issuer confirmation | 2026 issuer half-year results corroborate Fenix Resources Ltd ASX FEX; production expansion impacts financial comparisons, not issuer identity. https://announcements.asx.com.au/asxpdf/20260225/pdf/06wq7t7c6ylctc.pdf |
 | FDR | FINDER ENERGY HOLDINGS LIMITED | P2 — parent/security-form check | 2026 issuer SPP booklet corroborated; ordinary shares |
-| FMR | FMR RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| FML | FOCUS MINERALS LTD | P3 — routine issuer confirmation | Not independently checked |
-| FHE | FRONTIER ENERGY LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| GEM | G8 EDUCATION LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| GLN | GALAN LITHIUM LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| GML | GATEWAY MINING LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| GSS | GENETIC SIGNATURES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| GL1 | GLOBAL LITHIUM RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| GHY | GOLD HYDROGEN LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| GHM | GOLDEN HORSE MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| FMR | FMR RESOURCES LIMITED | P3 — routine issuer confirmation | Initial triage completed; no adequate 2026 primary issuer evidence established in this pass. Identity, security form and continuity remain pending. |
+| FML | FOCUS MINERALS LTD | P3 — routine issuer confirmation | Initial triage completed; no adequate 2026 primary issuer evidence established in this pass. Identity, security form and continuity remain pending. |
+| FHE | FRONTIER ENERGY LIMITED | P3 — routine issuer confirmation | Initial triage completed; no adequate 2026 primary issuer evidence established in this pass. Identity, security form and continuity remain pending. |
+| GEM | G8 EDUCATION LIMITED | P3 — routine issuer confirmation | 2026 issuer full-year results corroborate G8 Education Limited ASX GEM; financial impairment is not corporate-action issuer change. https://announcements.asx.com.au/asxpdf/20260223/pdf/06wlhl3rrb1dvq.pdf |
+| GLN | GALAN LITHIUM LIMITED | P3 — routine issuer confirmation | 2026 issuer January announcement corroborates Galan Lithium Limited ASX GLN; capital placement and Jan trading halt require separate action/status checks. https://announcements.asx.com.au/asxpdf/20260129/pdf/06vplmwtzrrq91.pdf |
+| GML | GATEWAY MINING LIMITED | P3 — routine issuer confirmation | Initial triage completed; no adequate 2026 primary issuer evidence established in this pass. Identity, security form and continuity remain pending. |
+| GSS | GENETIC SIGNATURES LIMITED | P3 — routine issuer confirmation | Initial triage completed; no adequate 2026 primary issuer evidence established in this pass. Identity, security form and continuity remain pending. |
+| GL1 | GLOBAL LITHIUM RESOURCES LIMITED | P3 — routine issuer confirmation | Initial triage completed; no adequate 2026 primary issuer evidence established in this pass. Identity, security form and continuity remain pending. |
+| GHY | GOLD HYDROGEN LIMITED | P3 — routine issuer confirmation | Initial triage completed; no adequate 2026 primary issuer evidence established in this pass. Identity, security form and continuity remain pending. |
+| GHM | GOLDEN HORSE MINERALS LIMITED | P3 — routine issuer confirmation | Initial triage completed; no adequate 2026 primary issuer evidence established in this pass. Identity, security form and continuity remain pending. |
 | GRR | GRANGE RESOURCES LIMITED. | P2 — parent/security-form check | 2026 issuer quarterly activities report confirms Grange Resources Limited ASX GRR and ABN 80 009 132 405; historical succession/ISIN pending. https://announcements.asx.com.au/asxpdf/20260729/pdf/071sjv6sp79sgf.pdf |
-| GBR | GREAT BOULDER RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| GW1 | GREENWING RESOURCES LTD | P3 — routine issuer confirmation | Not independently checked |
+| GBR | GREAT BOULDER RESOURCES LIMITED | P3 — routine issuer confirmation | Initial triage completed; no adequate 2026 primary issuer evidence established in this pass. Identity, security form and continuity remain pending. |
+| GW1 | GREENWING RESOURCES LTD | P3 — routine issuer confirmation | Initial triage completed; no adequate 2026 primary issuer evidence established in this pass. Identity, security form and continuity remain pending. |
 | GWR | GWR GROUP LIMITED | P1 — issuer reuse/status exception | P1 ISSUER CORROBORATED — company investor archive lists GWR Group 29 Sep 2026 annual report and Sep 2026 capital return: https://gwrgroup.com.au/investor-centre/asx-announcements/ . Capital return is a corporate action to assess separately; does not establish name/issuer change or current trading status. |
-| HMG | HAMELIN GOLD LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| HMX | HAMMER METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| HAV | HAVILAH RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| HMG | HAMELIN GOLD LIMITED | P3 — routine issuer confirmation | Initial triage completed; no adequate 2026 primary issuer evidence established in this pass. Identity, security form and continuity remain pending. |
+| HMX | HAMMER METALS LIMITED | P3 — routine issuer confirmation | Initial triage completed; no adequate 2026 primary issuer evidence established in this pass. Identity, security form and continuity remain pending. |
+| HAV | HAVILAH RESOURCES LIMITED | P3 — routine issuer confirmation | Initial triage completed; no adequate 2026 primary issuer evidence established in this pass. Identity, security form and continuity remain pending. |
 | HLO | HELLOWORLD TRAVEL LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | HMD | HERAMED LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | HTM | HIGH-TECH METALS LTD | P3 — routine issuer confirmation | Not independently checked |
@@ -366,3 +366,8 @@ Upgraded AZY (2025 primary issuer and option expiry), AR9 (2025 primary issuer p
 ### P3 batch 3 evidence follow-up (13 October 2026)
 
 Primary ASX issuer filings now recorded for BPM, BRK, CRS, CCV, CPN, CAF, DXB, CXU, CTT, BB1, BIO, CYM. Seven are 2026 evidence and five 2025 evidence. Batch-3 evidence now 19/30 issuer-specific, plus DCC archive and BCM secondary index; 9 triage-only. Overall 70/220 P3 initially processed, 150 untouched. Issuer corroboration does not establish full lineage or current trading status.
+
+
+### P3 batch 4 — next 30 initial reviews (13 October 2026)
+
+DUG, EIQ, EDE, ELT, EL8, EML, EMP, EMV, ENR, ETM, EQU, EVZ, FAL, FXG, FEX, FMR, FML, FHE, GEM, GLN, GML, GSS, GL1, GHY, GHM, GBR, GW1, HMG, HMX, HAV. Primary 2026 issuer evidence for EL8, EML, FEX, GEM, GLN; 2025 issuer evidence DUG; 2026 ASX filing reproducing Echo IQ announcement EIQ. Remaining 23 need primary issuer confirmation. Historical-action flags: EL8 options/performance rights; GLN placement/trading halt; EIQ proposed financing terms not proven final. **100/220 P3 initially processed, 120 untouched.** No candidate exclusions, no current tradeability conclusions.
