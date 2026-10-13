@@ -400,3 +400,27 @@ A reusable parser is now committed at [`scripts/crossmatch_asx_code_changes.py`]
 **All six historical code collisions are resolved for the narrow purpose of historical issuer separation.** None is a duplicate within the present 316-code universe. **Retain all 316 candidates.** For historical financial-data joins, require issuer name and relevant date/corporate identity in addition to ticker; explicitly exclude these six old-issuer histories from corresponding current-candidate records.
 
 **Remaining Stage 2.2 data-quality work (not covered by collision verification):** confirm current issuer continuity and any intervening names for EVO, WRK and 3DA; ensure chained historical aliases are preserved (e.g. PNL→GCX→TM1); confirm that future-dated 2026 entries were excluded from any as-of-13-Oct-2026 statistics. Do not claim the whole stage complete until those checks are addressed.
+
+## Stage 2.2 Action 4 — EVO, WRK and 3DA issuer-name discrepancy review (13 October 2026)
+
+**Method:** Compare the current `operating_candidates.csv` names with issuer/ASX announcements and corporate filings. Keep changes of *legal parent entity* separate from simple legal-name changes.
+
+| Code | Current CSV name | Findings and effective events | Disposition |
+|---|---|---|---|
+| EVO | EMBARK EARLY EDUCATION LIMITED | Evolve Education Group Limited → Embark Education Limited (18 Oct 2022), then Embark Education Group Limited (10 Feb 2023), ticker EVO unchanged; 2023 scheme swapped shares 1:1 into newly incorporated Australian parent **Embark Early Education Limited**, admitted to ASX 27 Jun 2023. | **MATCH VERIFIED**; do not overwrite CSV; record 2023 parent substitution as corporate succession, not just name change |
+| WRK | WRKR LTD | Integrated Payment Technologies Limited → WRK in 2021; ASX announcement titled *Change of Company Name and Amended Constitution* dated 25 Nov 2021 identifies wrkr Ltd. The supplied ASX 2021 register instead gives intermediate 'mrkr Ltd' at 30 Nov; inconsistency in the historic naming requires careful annotation, but same listed WRK code and present name are confirmed. | **CURRENT NAME VERIFIED**; no CSV edit; historical 'mrkr' transcription should not be silently treated as a distinct issuer |
+| 3DA | AMAERO INC. | Amaero International Limited → Amaero Ltd, effective ASX 8 Apr 2025, ticker 3DA unchanged. In June 2026 court-approved scheme, US Delaware parent **Amaero Inc.** replaced the Australian parent and ASX trading continued through CDIs under 3DA; 22 Jun 2026 company announcement identifies Amaero Inc. (ASX:3DA). | **MATCH VERIFIED**; no CSV edit; preserve legal parent/ISIN/security type transition |
+
+### Primary/source references
+
+- EVO issuer's 2022 announcement: https://www.asx.com.au/asxpdf/20221003/pdf/45ftkwdr9yrmry.pdf
+- EVO 2022 annual accounts showing the 2022 and Feb 2023 names: https://announcements.asx.com.au/asxpdf/20230301/pdf/45m633t7f7fmtw.pdf
+- EVO 2023 report explicitly describing the Australian parent scheme and ASX admission: https://announcements.asx.com.au/asxpdf/20240227/pdf/060v93w4mhksq3.pdf
+- WRK 25 Nov 2021 issuer announcement: https://www.marketindex.com.au/asx/wrk/announcements/change-of-company-name-and-amended-constitution-2A1341520
+- WRK ASX announcement history: https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=WRK&by=asxCode&period=M6&timeframe=D
+- 3DA FY2025 annual report with 8 Apr 2025 name change: https://announcements.asx.com.au/asxpdf/20250818/pdf/06mzddnk2gylmw.pdf
+- 3DA court-approved scheme effective June 2026: https://www.globenewswire.com/news-release/2026/06/11/3310566/0/en/Amaero-Re-domiciliation-Schemes-Become-Effective.html
+- 3DA issuer announcement of completed re-domiciliation on 22 Jun 2026: https://www.marketindex.com.au/asx/3da/announcements/amaero-expands-powder-capacity-ahead-of-schedule-3A695692
+- ASX 3DA issuer profile now lists AMAERO INC. and CHESS Depositary Interests: https://www.asx.com.au/markets/company/3DA
+
+**Decision:** All three present CSV names are supported. No edits to `operating_candidates.csv`, no candidate exclusions. **Next remaining action:** Verify the multi-stage historical ticker chains and check as-of-date handling before closing Stage 2.2.
