@@ -1,8 +1,8 @@
 # Step 1.3.2 — Action 2.3: Remaining issuer-continuity queue
 
-**Research date:** 13 October 2026. **Status:** triage prepared; 5 P1 issuer identity checks corroborated by independent ASX/issuer evidence (ALR, ASL, ARX, AR1, VAL); remaining 274 not independently checked. These checks do not confirm current trading status or full ACN/ISIN history.
+**Research date:** 13 October 2026. **Status:** triage prepared; 12 P1 issuer identity checks corroborated by independent ASX/issuer evidence; BSA remains evidence-gapped; 266 other P2/P3 issuer checks not independently checked. These checks do not confirm current trading status or full ACN/ISIN history.
 
-This queue is the set difference of all **316** codes in `operating_candidates.csv` and the **37** already documented in `STEP_1_3_2_NAME_CONTINUITY_REVIEW.md`. Exactly **279** candidates remain. Rows explicitly marked *Not independently checked* have no independent issuer evidence yet; the five annotated P1 rows have limited independent corroboration. Priority is a **workflow heuristic, not an issuer-risk finding**. P1 = previously flagged ticker-reuse or trading-status exceptions; P2 = issuer name contains a parent/security-form term; P3 = remaining codes. The P2/P3 labels are not evidence of any corporate action.
+This queue is the set difference of all **316** codes in `operating_candidates.csv` and the **37** already documented in `STEP_1_3_2_NAME_CONTINUITY_REVIEW.md`. Exactly **279** candidates remain. Rows explicitly marked *Not independently checked* have no independent issuer evidence yet; 12 annotated P1 rows have limited independent corroboration; BSA was reviewed but not independently corroborated. Priority is a **workflow heuristic, not an issuer-risk finding**. P1 = previously flagged ticker-reuse or trading-status exceptions; P2 = issuer name contains a parent/security-form term; P3 = remaining codes. The P2/P3 labels are not evidence of any corporate action.
 
 **Priority counts:** P1 13; P2 46; P3 220; total 279.
 
@@ -75,7 +75,7 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | BRN | BRAINCHIP HOLDINGS LTD | P2 — parent/security-form check | Not independently checked |
 | BCM | BRAZILIAN CRITICAL MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | BRK | BROOKSIDE ENERGY LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| BSA | BSA LIMITED | P1 — issuer reuse/status exception | Not independently checked |
+| BSA | BSA LIMITED | P1 — issuer reuse/status exception | P1 REVIEWED — evidence gap: no independently retrieved dated issuer filing in this pass. Retain unresolved issuer-identity status; separate prior trading reinstatement evidence from current trading status. |
 | BUB | BUBS AUSTRALIA LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | CRS | CAPRICE RESOURCES LTD | P3 — routine issuer confirmation | Not independently checked |
 | CVV | CARAVEL MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
@@ -113,7 +113,7 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | EMV | EMVISION MEDICAL DEVICES LTD | P3 — routine issuer confirmation | Not independently checked |
 | ENR | ENCOUNTER RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | ETM | ENERGY TRANSITION MINERALS LTD | P3 — routine issuer confirmation | Not independently checked |
-| EWC | ENERGY WORLD CORPORATION LTD | P1 — issuer reuse/status exception | Not independently checked |
+| EWC | ENERGY WORLD CORPORATION LTD | P1 — issuer reuse/status exception | P1 ISSUER CORROBORATED — issuer investor site identifies Energy World Corporation Ltd (ASX:EWC), ACN 009 124 994, and links June 2026 company disclosure: https://ewc-energy.com/ . No historical entity substitution established from this source; current tradeability unverified. |
 | ECT | ENVIRONMENTAL CLEAN TECHNOLOGIES LIMITED. | P2 — parent/security-form check | Not independently checked |
 | EQU | EQUUS ENERGY LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | EGH | EUREKA GROUP HOLDINGS LIMITED | P2 — parent/security-form check | Not independently checked |
@@ -135,7 +135,7 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | GRR | GRANGE RESOURCES LIMITED. | P2 — parent/security-form check | Not independently checked |
 | GBR | GREAT BOULDER RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | GW1 | GREENWING RESOURCES LTD | P3 — routine issuer confirmation | Not independently checked |
-| GWR | GWR GROUP LIMITED | P1 — issuer reuse/status exception | Not independently checked |
+| GWR | GWR GROUP LIMITED | P1 — issuer reuse/status exception | P1 ISSUER CORROBORATED — company investor archive lists GWR Group 29 Sep 2026 annual report and Sep 2026 capital return: https://gwrgroup.com.au/investor-centre/asx-announcements/ . Capital return is a corporate action to assess separately; does not establish name/issuer change or current trading status. |
 | HMG | HAMELIN GOLD LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | HMX | HAMMER METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | HAV | HAVILAH RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
@@ -195,7 +195,7 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | MLG | MLG OZ LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | MVF | MONASH IVF GROUP LIMITED | P2 — parent/security-form check | Not independently checked |
 | MXO | MOTIO LTD | P3 — routine issuer confirmation | Not independently checked |
-| MRD | MOUNT RIDLEY MINES LIMITED | P1 — issuer reuse/status exception | Not independently checked |
+| MRD | MOUNT RIDLEY MINES LIMITED | P1 — issuer reuse/status exception | P1 ISSUER CORROBORATED — issuer announcement dated 4 Sep 2026 identifies Mount Ridley Mines Limited, ABN 93 092 304 964: https://www.marketindex.com.au/asx/mrd/announcements/-2-million-placement-to-advance-selectro-and-grass-patch-6A1342191 . ASX archive flags *other historical MRD users* (https://www.asx.com.au/asx/v2/statistics/announcements.do?by=issuerId&issuerId=1787&timeframe=Y&year=2000); issuer-aware historical joins required. Trading halt outcome unresolved. |
 | MYR | MYER HOLDINGS LIMITED | P2 — parent/security-form check | Not independently checked |
 | NYM | NARRYER METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | NMR | NATIVE MINERAL RESOURCES HOLDINGS LIMITED | P2 — parent/security-form check | Not independently checked |
@@ -211,7 +211,7 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | OMA | OMEGA OIL & GAS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | OBL | OMNI BRIDGEWAY LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | OCC | ORTHOCELL LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| PAR | PARADIGM BIOPHARMACEUTICALS LIMITED.. | P1 — issuer reuse/status exception | Not independently checked |
+| PAR | PARADIGM BIOPHARMACEUTICALS LIMITED.. | P1 — issuer reuse/status exception | P1 ISSUER CORROBORATED — 27 Apr 2026 ASX-hosted investor presentation identifies Paradigm Biopharmaceuticals (ASX:PAR): https://announcements.asx.com.au/asxpdf/20260427/pdf/06ywp9vzwtwhzl.pdf . The previously recorded voluntary-administration/suspension classification requires a separate *dated* 2026 recheck; April presentation cannot prove current status. |
 | PGC | PARAGON CARE LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | PC2 | PC GOLD LTD | P3 — routine issuer confirmation | Not independently checked |
 | PEN | PENINSULA ENERGY LIMITED | P3 — routine issuer confirmation | Not independently checked |
@@ -226,7 +226,7 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | QML | QMINES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | RZI | RAIZ INVEST LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | RDY | READYTECH HOLDINGS LIMITED | P2 — parent/security-form check | Not independently checked |
-| REC | RECHARGE METALS LIMITED | P1 — issuer reuse/status exception | Not independently checked |
+| REC | RECHARGE METALS LIMITED | P1 — issuer reuse/status exception | P1 ISSUER CORROBORATED — ASX-filed 26 Sep 2025 AGM announcement identifies Recharge Metals Limited (ASX:REC), ABN 13 647 703 839: https://announcements.asx.com.au/asxpdf/20250926/pdf/06pr0hgjlfwv4f.pdf . ASX historical issuer-code archive lists another REC user (https://www.asx.com.au/asx/v2/statistics/announcements.do?by=issuerId&issuerId=3924&timeframe=Y&year=2020). Current halt/trading outcome unresolved. |
 | RNU | RENASCOR RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | RMC | RESIMAC GROUP LTD | P2 — parent/security-form check | Not independently checked |
 | RML | RESOLUTION MINERALS LTD | P3 — routine issuer confirmation | Not independently checked |
@@ -235,7 +235,7 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | RWL | RUBICON WATER LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | RTR | RUMBLE RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | SLD | "SALUDA MEDICAL | P3 — routine issuer confirmation | Not independently checked |
-| SFM | SANTA FE MINERALS LTD | P1 — issuer reuse/status exception | Not independently checked |
+| SFM | SANTA FE MINERALS LTD | P1 — issuer reuse/status exception | P1 ISSUER CORROBORATED — 29 Apr 2026 ASX-filed shareholder AGM notice identifies Santa Fe Minerals Limited (ASX:SFM): https://announcements.asx.com.au/asxpdf/20260429/pdf/06yzpdsw3fflnd.pdf . Current tradeability not established. |
 | SMI | SANTANA MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | STN | SATURN METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | SCX | SCX.AI HOLDINGS LIMITED | P2 — parent/security-form check | Not independently checked |
@@ -262,7 +262,7 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | SOP | SYNERTEC CORPORATION LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | SYR | SYRAH RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | TAM | TANAMI GOLD NL | P3 — routine issuer confirmation | Not independently checked |
-| TM1 | TERRA METALS LIMITED | P1 — issuer reuse/status exception | Not independently checked |
+| TM1 | TERRA METALS LIMITED | P1 — issuer reuse/status exception | P1 ISSUER CORROBORATED — ASX-filed 27 Feb 2026 Appendix 3B identifies Terra Metals Limited, TM1 fully paid ordinary shares: https://announcements.asx.com.au/asxpdf/20260227/pdf/06wvtsxwydq9zt.pdf . Historical PNL→GCX→TM1 chain documented in ticker register; ASX archive shows *other historical GCX users*: https://www.asx.com.au/asx/v2/statistics/announcements.do?by=issuerId&issuerId=6032&timeframe=Y&year=2008 . Current halt outcome unresolved. |
 | TER | TERRACOM LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | TTM | TITAN MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | TTT | TITOMIC LIMITED | P3 — routine issuer confirmation | Not independently checked |
@@ -291,3 +291,8 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | WC8 | WILDCAT RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | WZR | WISR LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | XRF | XRF SCIENTIFIC LIMITED | P3 — routine issuer confirmation | Not independently checked |
+
+
+### Priority 1 follow-up — 13 October 2026
+
+Reviewed the remaining eight Priority 1 tickers. Seven (EWC, GWR, MRD, PAR, REC, SFM, TM1) have independent issuer-name corroboration from dated company/ASX filings or investor disclosures. **BSA remains unresolved** for lack of a retrieved primary filing in this pass. This is issuer identity evidence only: do **not** treat as proof of current tradeability, absence of delisting, or full legal succession. GWR capital return and historical MRD/REC code reuse warrant explicit corporate-action/data-join checks. The 316 candidate records remain unchanged.
