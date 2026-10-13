@@ -1,6 +1,6 @@
 # Step 1.3.2 — Action 2.3: Remaining issuer-continuity queue
 
-**Research date:** 13 October 2026. **Status:** triage prepared; 13 P1 issuer identity checks corroborated by independent ASX/issuer evidence; 266 P2/P3 issuer checks not independently checked. These checks do not confirm current trading status or full ACN/ISIN history.
+**Research date:** 13 October 2026. **Status:** triage prepared; 13 P1 issuer identity checks corroborated by independent ASX/issuer evidence; 263 P2/P3 issuer checks not independently checked. These checks do not confirm current trading status or full ACN/ISIN history.
 
 This queue is the set difference of all **316** codes in `operating_candidates.csv` and the **37** already documented in `STEP_1_3_2_NAME_CONTINUITY_REVIEW.md`. Exactly **279** candidates remain. Rows explicitly marked *Not independently checked* have no independent issuer evidence yet; all 13 annotated P1 rows have limited independent corroboration; none of these findings independently clears current tradeability. Priority is a **workflow heuristic, not an issuer-risk finding**. P1 = previously flagged ticker-reuse or trading-status exceptions; P2 = issuer name contains a parent/security-form term; P3 = remaining codes. The P2/P3 labels are not evidence of any corporate action.
 
@@ -13,7 +13,7 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | Code | Candidate CSV company name | Triage priority | Independent issuer check |
 |---|---|---|---|
 | 14D | 1414 DEGREES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| AX1 | ACCENT GROUP LIMITED | P2 — parent/security-form check | Not independently checked |
+| AX1 | ACCENT GROUP LIMITED | P2 — parent/security-form check | P2 VERIFIED — ASX-filed 4 May 2026 trading update identifies Accent Group Limited (ASX:AX1), consistent with CSV name (https://announcements.asx.com.au/asxpdf/20260504/pdf/06z63tw1rf6dwj.pdf). No parent substitution or CDI treatment evidenced by this filing; full ACN/ISIN review outstanding. |
 | ACW | ACTINOGEN MEDICAL LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | ACE | ACUSENSUS LIMITED. | P2 — parent/security-form check | Not independently checked |
 | ADH | ADAIRS LIMITED | P3 — routine issuer confirmation | Not independently checked |
@@ -93,7 +93,7 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | CBE | COBRE LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | COD | CODA MINERALS LTD | P3 — routine issuer confirmation | Not independently checked |
 | COI | COMET RIDGE LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| CRN | CORONADO GLOBAL RESOURCES INC. | P2 — parent/security-form check | Not independently checked |
+| CRN | CORONADO GLOBAL RESOURCES INC. | P2 — parent/security-form check | P2 VERIFIED — ASX issuer profile confirms CORONADO GLOBAL RESOURCES INC., CRN, ISIN AU0000026122, security **CHESS Depositary Interests 10:1**, ASX listed 23 Oct 2018 (https://www.asx.com.au/markets/company/CRN). Foreign issuer; treat 10 CDIs = 1 underlying share, do not treat ASX CDI count as US common-share count. Parent legal incorporation/ARBN to verify separately. |
 | CYM | CYPRIUM METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | DAL | DALAROO METALS LTD | P3 — routine issuer confirmation | Not independently checked |
 | DTR | DATELINE RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
@@ -102,7 +102,7 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | DCC | DIGITALX LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | DXB | DIMERIX LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | DUG | DUG TECHNOLOGY LTD | P3 — routine issuer confirmation | Not independently checked |
-| EBR | EBR SYSTEMS INC. | P2 — parent/security-form check | Not independently checked |
+| EBR | EBR SYSTEMS INC. | P2 — parent/security-form check | P2 VERIFIED — 2025 issuer annual report (ASX filed 27 Mar 2026) confirms EBR Systems Inc, CDIs 1:1 underlying share (https://announcements.asx.com.au/asxpdf/20260327/pdf/06xw6ts0h00w6q.pdf). June 2026 ASX entitlement booklet defines EBR Systems Inc ARBN 654 147 127 and **10 CDIs = 1 US common share** (https://announcements.asx.com.au/asxpdf/20260611/pdf/070jbgwzsl28d6.pdf). **Material security-ratio change/inconsistency across source dates: require effective-date and conversion corporate-action validation before historical price/share-count joins.** |
 | EIQ | ECHOIQ LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | EDE | EDEN INNOVATIONS LTD | P3 — routine issuer confirmation | Not independently checked |
 | EDU | EDU HOLDINGS LIMITED | P2 — parent/security-form check | Not independently checked |
@@ -301,3 +301,8 @@ Reviewed the remaining eight Priority 1 tickers. Seven (EWC, GWR, MRD, PAR, REC,
 ### Priority 1 completion note — BSA (13 October 2026)
 
 BSA's issuer identity is supported by the ASX-filed February 2026 half-year report and May 2026 Appendix 3G (ACN 088 412 748); the August 2026 annual report confirms the listed parent. All 13 P1 candidates now have some independently corroborated issuer-identity evidence. **This does not sign off full legal-entity lineage or Step 1.2 trading status.** BSA's September 2026 suspension history requires a separate dated follow-up.
+
+
+### Priority 2 batch 1 — 13 October 2026
+
+Three issuer identities independently corroborated: AX1, CRN and EBR. **CRN CDIs represent 10 units per common share** per ASX profile. **EBR 2025 annual report describes a 1:1 CDI/share relationship, but a June 2026 offer booklet specifies 10 CDIs per common share.** Do not collapse these into one ratio without verifying effective dates, security consolidation or other conversion events. The present candidate CSV remains unchanged. Remaining P2 count: 43; remaining unverified P2/P3: 263. This review is issuer/security-form evidence, not proof of current trading status.
