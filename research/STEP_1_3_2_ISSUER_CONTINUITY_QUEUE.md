@@ -1,6 +1,6 @@
 # Step 1.3.2 — Action 2.3: Remaining issuer-continuity queue
 
-**Research date:** 13 October 2026. **Status:** triage prepared; 13 P1 issuer identity checks corroborated by independent ASX/issuer evidence; 263 P2/P3 issuer checks not independently checked. These checks do not confirm current trading status or full ACN/ISIN history.
+**Research date:** 13 October 2026. **Status:** triage prepared; 13 P1 issuer identity checks corroborated by independent ASX/issuer evidence; 253 P2/P3 issuer checks not independently checked. These checks do not confirm current trading status or full ACN/ISIN history.
 
 This queue is the set difference of all **316** codes in `operating_candidates.csv` and the **37** already documented in `STEP_1_3_2_NAME_CONTINUITY_REVIEW.md`. Exactly **279** candidates remain. Rows explicitly marked *Not independently checked* have no independent issuer evidence yet; all 13 annotated P1 rows have limited independent corroboration; none of these findings independently clears current tradeability. Priority is a **workflow heuristic, not an issuer-risk finding**. P1 = previously flagged ticker-reuse or trading-status exceptions; P2 = issuer name contains a parent/security-form term; P3 = remaining codes. The P2/P3 labels are not evidence of any corporate action.
 
@@ -15,14 +15,14 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | 14D | 1414 DEGREES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | AX1 | ACCENT GROUP LIMITED | P2 — parent/security-form check | P2 VERIFIED — ASX-filed 4 May 2026 trading update identifies Accent Group Limited (ASX:AX1), consistent with CSV name (https://announcements.asx.com.au/asxpdf/20260504/pdf/06z63tw1rf6dwj.pdf). No parent substitution or CDI treatment evidenced by this filing; full ACN/ISIN review outstanding. |
 | ACW | ACTINOGEN MEDICAL LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| ACE | ACUSENSUS LIMITED. | P2 — parent/security-form check | Not independently checked |
+| ACE | ACUSENSUS LIMITED. | P2 — parent/security-form check | INDEX CORROBORATED — S&P/ASX June 2026 index notice identifies ACE as Acusensus Limited, but is not an issuer filing; issuer ACN/ISIN and continuity remain unverified. Source: https://announcements.asx.com.au/asxpdf/20260605/pdf/070ck790lxncyr.pdf |
 | ADH | ADAIRS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | AI1 | ADISYN LTD | P3 — routine issuer confirmation | Not independently checked |
 | AVM | ADVANCE METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| AIH | ADVANCED INNERGY HOLDINGS LIMITED | P2 — parent/security-form check | Not independently checked |
+| AIH | ADVANCED INNERGY HOLDINGS LIMITED | P2 — parent/security-form check | INDEX CORROBORATED — S&P/ASX March 2026 index notice identifies AIH as Advanced Innergy Holdings Limited; issuer filing, ACN/ISIN and predecessor review still required. Source: https://announcements.asx.com.au/asxpdf/20260306/pdf/06x4vd88v6bpg7.pdf |
 | AGR | AGUIA RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | AUQ | ALARA RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| ALC | ALCIDION GROUP LIMITED | P2 — parent/security-form check | Not independently checked |
+| ALC | ALCIDION GROUP LIMITED | P2 — parent/security-form check | ISSUER CORROBORATED — 29 Apr 2026 Alcidion quarterly activities report identifies Alcidion Group Limited (ASX:ALC), ABN 77 143 142 410; parent-substitution history and ISIN still to verify. Source: https://announcements.asx.com.au/asxpdf/20260429/pdf/06yz2ypw46c3pn.pdf |
 | ARN | ALDORO RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | AQZ | ALLIANCE AVIATION SERVICES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | AGE | ALLIGATOR ENERGY LIMITED | P3 — routine issuer confirmation | Not independently checked |
@@ -30,7 +30,7 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | ATH | ALTERITY THERAPEUTICS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | ALU | ALURION RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | ALV | ALVO MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| AMA | AMA GROUP LIMITED | P2 — parent/security-form check | Not independently checked |
+| AMA | AMA GROUP LIMITED | P2 — parent/security-form check | ISSUER CORROBORATED — 1 Oct 2025 ASX-filed AGM notice defines AMA Group Limited ACN 113 883 560 and fully paid ordinary shares; further historical continuity checks outstanding. Source: https://announcements.asx.com.au/asxpdf/20251001/pdf/06pyj02jc7bbv0.pdf |
 | ARR | AMERICAN RARE EARTHS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | AL3 | AML3D LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | ANX | ANAX METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
@@ -54,16 +54,16 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | AR1 | AUSTRAL RESOURCES AUSTRALIA LTD | P1 — issuer reuse/status exception | Independent issuer identity corroborated: ASX FY27 broker-report list names AR1 as Austral Resources Australia Ltd (https://www.asx.com.au/investors/investment-tools-and-resources/broker-reports.html); issuer's 2 Apr 2026 Appendix 2A names AUSTRAL RESOURCES AUSTRALIA LTD, AR1 ordinary shares (https://www.marketindex.com.au/asx/ar1/announcements/application-for-quotation-of-securities-ar1-2A1664103). Separate from Arrowhead Resources (historic AR1→EM1 in 2018). ACN/ISIN not yet verified; no current trading-status conclusion. |
 | AUZ | AUSTRALIAN MINES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | AVL | AUSTRALIAN VANADIUM LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| ASG | AUTOSPORTS GROUP LIMITED. | P2 — parent/security-form check | Not independently checked |
-| BBN | BABY BUNTING GROUP LIMITED | P2 — parent/security-form check | Not independently checked |
+| ASG | AUTOSPORTS GROUP LIMITED. | P2 — parent/security-form check | ISSUER CORROBORATED — 26 Feb 2026 issuer announcement identifies Autosports Group Limited (ASX:ASG); ACN/ISIN and full corporate lineage not established. Source: https://announcements.asx.com.au/asxpdf/20260226/pdf/06ws4wn5nfx4pr.pdf |
+| BBN | BABY BUNTING GROUP LIMITED | P2 — parent/security-form check | ISSUER CORROBORATED — 24 Jun 2026 issuer trading update identifies Baby Bunting Group Limited; no evidence of parent substitution from this filing; ACN/ISIN not yet checked. Source: https://announcements.asx.com.au/asxpdf/20260624/pdf/070yd7m1qkrhyk.pdf |
 | BM1 | BALLARD MINING LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| BGD | BARTON GOLD HOLDINGS LIMITED | P2 — parent/security-form check | Not independently checked |
+| BGD | BARTON GOLD HOLDINGS LIMITED | P2 — parent/security-form check | ISSUER CORROBORATED — 1 Jun 2026 issuer placement notice identifies Barton Gold Holdings Limited and ordinary shares, 239,698,877 pre-placement and 30m proposed new ordinary shares; check completion in separate capital-action work. Source: https://announcements.asx.com.au/asxpdf/20260601/pdf/07059kdk7gjn4z.pdf |
 | BAS | BASS OIL LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| BLX | BEACON LIGHTING GROUP LIMITED | P2 — parent/security-form check | Not independently checked |
-| BFG | BELL FINANCIAL GROUP LIMITED | P2 — parent/security-form check | Not independently checked |
+| BLX | BEACON LIGHTING GROUP LIMITED | P2 — parent/security-form check | ISSUER CORROBORATED — 4 May 2026 issuer Appendix 3Y names Beacon Lighting Group Limited, ABN 90 164 122 785; full parent succession and ISIN not yet checked. Source: https://www.marketindex.com.au/asx/blx/announcements/blx-appendix-3y-3A692629 |
+| BFG | BELL FINANCIAL GROUP LIMITED | P2 — parent/security-form check | ISSUER CORROBORATED — 7 May 2026 issuer AGM announcement names Bell Financial Group Limited, ABN 27 152 260 814; issuer investor site provides Aug 2026 reports. Historical legal-entity continuity not exhaustively verified. Source: https://www.marketindex.com.au/asx/bfg/announcements/2026-agm-results-3A692893 |
 | BVR | BELLAVISTA RESOURCES LTD | P3 — routine issuer confirmation | Not independently checked |
 | BKY | BERKELEY ENERGIA LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| BET | BETMAKERS TECHNOLOGY GROUP LTD | P2 — parent/security-form check | Not independently checked |
+| BET | BETMAKERS TECHNOLOGY GROUP LTD | P2 — parent/security-form check | ISSUER CORROBORATED — 29 Apr 2026 issuer Q3 update names BetMakers Technology Group Ltd, ABN 21 164 521 395; legal-parent history and ISIN not yet checked. Source: https://announcements.asx.com.au/asxpdf/20260429/pdf/06yzpzr04q7xff.pdf |
 | BWN | BHAGWAN MARINE LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | BIO | BIOME AUSTRALIA LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | BB1 | BLINKLAB LIMITED | P3 — routine issuer confirmation | Not independently checked |
@@ -311,3 +311,8 @@ Three issuer identities independently corroborated: AX1, CRN and EBR. **CRN CDIs
 ### EBR CDI ratio discrepancy — resolved (13 October 2026)
 
 The 26 March 2026 **issuer ASX announcement** confirms the reverse split of EBR's underlying common stock at **1-for-10**, effective **1 April 2026 (Australian time)**. The CDIs were **not consolidated**: the CDI:common-share conversion changed from **1:1 before** to **10:1 after**. The 2025 annual report's earlier ratio and June 2026 offer booklet's later ratio therefore reflect distinct effective periods, **not contradictory company identities**. No issuer exclusion or CSV rename. Historical US common-share denominators and per-US-share figures require corporate-action-aware adjustment; ASX CDI unit histories must not be split-adjusted mechanically by 10 for this event. Sources: https://wcsecure.weblink.com.au/pdf/EBR/03072291.pdf ; https://www.sec.gov/Archives/edgar/data/1347123/000121465926003810/j325265ars.pdf ; https://www.sec.gov/Archives/edgar/data/1347123/000121465926007314/z692638k.htm .
+
+
+### Priority 2 batch 2 — 13 October 2026 (10 tickers)
+
+Reviewed **ACE, AIH, ALC, AMA, ASG, BBN, BGD, BLX, BFG, BET** against dated public evidence; individual row notes link the supporting document. **Eight** have issuer-authored disclosure corroborating the CSV identity (ALC, AMA, ASG, BBN, BGD, BLX, BFG, BET). **Two** (ACE, AIH) have S&P/ASX index-list evidence only and **must not be treated as independently issuer-verified** until primary company filings are examined. This batch is an initial *name/issuer identity check*, not exhaustive historical parent-entity or ISIN verification. No evidence in the reviewed documents requires a candidate exclusion or CSV rename. **P2 progress: 13/46 reviewed, 33 not yet reviewed; of the 13, two remain issuer-evidence provisional.** Total P2/P3 unreviewed: 253.
