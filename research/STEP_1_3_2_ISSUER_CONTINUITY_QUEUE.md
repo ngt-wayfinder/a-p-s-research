@@ -1,8 +1,8 @@
 # Step 1.3.2 — Action 2.3: Remaining issuer-continuity queue
 
-**Research date:** 13 October 2026. **Status:** triage prepared; 3 P1 issuer identity checks corroborated by independent ASX evidence (ALR, ASL, ARX); remaining 276 not independently checked. These checks do not confirm current trading status or full ACN/ISIN history.
+**Research date:** 13 October 2026. **Status:** triage prepared; 5 P1 issuer identity checks corroborated by independent ASX/issuer evidence (ALR, ASL, ARX, AR1, VAL); remaining 274 not independently checked. These checks do not confirm current trading status or full ACN/ISIN history.
 
-This queue is the set difference of all **316** codes in `operating_candidates.csv` and the **37** already documented in `STEP_1_3_2_NAME_CONTINUITY_REVIEW.md`. Exactly **279** candidates remain. Rows explicitly marked *Not independently checked* have no independent issuer evidence yet; the three annotated P1 rows have limited independent corroboration. Priority is a **workflow heuristic, not an issuer-risk finding**. P1 = previously flagged ticker-reuse or trading-status exceptions; P2 = issuer name contains a parent/security-form term; P3 = remaining codes. The P2/P3 labels are not evidence of any corporate action.
+This queue is the set difference of all **316** codes in `operating_candidates.csv` and the **37** already documented in `STEP_1_3_2_NAME_CONTINUITY_REVIEW.md`. Exactly **279** candidates remain. Rows explicitly marked *Not independently checked* have no independent issuer evidence yet; the five annotated P1 rows have limited independent corroboration. Priority is a **workflow heuristic, not an issuer-risk finding**. P1 = previously flagged ticker-reuse or trading-status exceptions; P2 = issuer name contains a parent/security-form term; P3 = remaining codes. The P2/P3 labels are not evidence of any corporate action.
 
 **Priority counts:** P1 13; P2 46; P3 220; total 279.
 
@@ -51,7 +51,7 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | AWJ | AURIC MINING LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | AUE | AURUM RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | AHC | AUSTCO HEALTHCARE LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| AR1 | AUSTRAL RESOURCES AUSTRALIA LTD | P1 — issuer reuse/status exception | Not independently checked |
+| AR1 | AUSTRAL RESOURCES AUSTRALIA LTD | P1 — issuer reuse/status exception | Independent issuer identity corroborated: ASX FY27 broker-report list names AR1 as Austral Resources Australia Ltd (https://www.asx.com.au/investors/investment-tools-and-resources/broker-reports.html); issuer's 2 Apr 2026 Appendix 2A names AUSTRAL RESOURCES AUSTRALIA LTD, AR1 ordinary shares (https://www.marketindex.com.au/asx/ar1/announcements/application-for-quotation-of-securities-ar1-2A1664103). Separate from Arrowhead Resources (historic AR1→EM1 in 2018). ACN/ISIN not yet verified; no current trading-status conclusion. |
 | AUZ | AUSTRALIAN MINES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | AVL | AUSTRALIAN VANADIUM LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | ASG | AUTOSPORTS GROUP LIMITED. | P2 — parent/security-form check | Not independently checked |
@@ -274,7 +274,7 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | TGN | TUNGSTEN MINING NL | P3 — routine issuer confirmation | Not independently checked |
 | TYR | TYRO PAYMENTS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | USL | UNICO SILVER LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| VAL | VALIANT GOLD LIMITED | P1 — issuer reuse/status exception | Not independently checked |
+| VAL | VALIANT GOLD LIMITED | P1 — issuer reuse/status exception | Independent ASX admission evidence: ASX notice 25 Mar 2026 (https://asxonline.com/content/asxonline/public/notices/2026/march/0331.26.03.html), and Valiant Gold IPO completion confirms first VAL quotation 27 Mar 2026 (https://company-announcements.afr.com/asx/val/bb74128f-2bba-11f1-a6df-1a10ddfe25b2.pdf). Distinct from Valor Resources, historic VAL→THB in 2024. ACN/ISIN not yet verified; no current trading-status conclusion. |
 | VR8 | VANADIUM RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | VBX | VBX LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | VMC | VENUS METALS CORPORATION LIMITED | P3 — routine issuer confirmation | Not independently checked |
