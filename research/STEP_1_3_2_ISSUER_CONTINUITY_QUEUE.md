@@ -89,7 +89,7 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | CTS | CERETAS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | CTT | CETTIRE LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | CLV | CLOVER CORPORATION LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| CEH | COAST ENTERTAINMENT HOLDINGS LIMITED | P2 — parent/security-form check | Not independently checked |
+| CEH | COAST ENTERTAINMENT HOLDINGS LIMITED | P2 — parent/security-form check | 2026 ASX Appendix 4D confirms CEH and ABN 51 628 881 603: https://announcements.asx.com.au/asxpdf/20260213/pdf/06w898v7bb90hw.pdf ; historical succession not yet checked |
 | CBE | COBRE LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | COD | CODA MINERALS LTD | P3 — routine issuer confirmation | Not independently checked |
 | COI | COMET RIDGE LIMITED | P3 — routine issuer confirmation | Not independently checked |
