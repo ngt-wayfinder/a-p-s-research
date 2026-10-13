@@ -375,3 +375,28 @@ A reusable parser is now committed at [`scripts/crossmatch_asx_code_changes.py`]
 **Interpretation:** 111 matched *change events*, not necessarily 111 unique issuers. Six historic ticker collisions: VAL (2024), COF (2020), ASL and ARX (2019), AR1 and ALR (2018). The 316-company candidate universe remains unchanged.
 
 **Outstanding quality checks before marking Stage 2.2 complete:** Verify current-issuer history for six code collisions; confirm name mismatches such as EVO and WRK; verify 2025 3DA name mismatch; consider chained changes not directly touching present candidate codes (e.g., PNL→GCX→TM1). User-supplied annual tables cover 2018–2026; not independently authenticated. Future-dated 2026 events must be excluded as of 13 Oct 2026.
+
+## Stage 2.2 Action 3 — Six historical code collisions: issuer separation check (13 October 2026)
+
+**Method:** Compare each dated historic ASX name/code change to the exact present candidate code and name in `operating_candidates.csv`. The official ASX historical register (https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html) corroborates the dated old/new issuer pairs. A matching ticker *alone* does not establish corporate continuity. This check establishes that the historic issuer is different from the candidate identified by the current CSV; it does **not** independently establish current live listing/trading status or the current issuer's full corporate history.
+
+| Code reused | Historical event (ASX register) | Candidate in CSV | Conclusion |
+|---|---|---|---|
+| VAL | 9 Apr 2024: Valor Resources Limited (VAL) → Thunderbird Resources Limited (THB) | VAL — Valiant Gold Limited | **SEPARATE**: Valor/Thunderbird data must not be attributed to Valiant Gold |
+| COF | 10 Feb 2020: Centuria Metropolitan REIT (CMA) → Centuria Office REIT (COF) | COF — Carma Limited | **SEPARATE**: Centuria REIT financials must not be attributed to Carma |
+| ASL | 25 Oct 2019: Ausdrill Limited (ASL) → Perenti Global Limited (PRN) | ASL — Andean Silver Limited | **SEPARATE**: Ausdrill/Perenti data must not be attributed to Andean Silver; Andean's own MMC→ASL event is dated 11 Jul 2024 |
+| ARX | 26 Jun 2019: Arc Exploration Limited (ARX) → Cyprium Metals Limited (CYM) | ARX — Aroa Biosurgery Limited | **SEPARATE**: Arc/Cyprium data must not be attributed to Aroa |
+| AR1 | 17 Apr 2018: Arrowhead Resources Limited (AR1) → Emerge Gaming Limited (EM1) | AR1 — Austral Resources Australia Ltd | **SEPARATE**: Arrowhead/Emerge data must not be attributed to Austral Resources |
+| ALR | 12 Apr 2018: Aberdeen Leaders Limited (ALR) → Concentrated Leaders Fund Limited (CLF) | ALR — Altair Minerals Limited | **SEPARATE**: Aberdeen/CLF data must not be attributed to Altair; Altair's own CHK→ALR event is dated 17 May 2024 |
+
+### Additional primary issuer evidence
+
+- **COF:** Centuria Office REIT's FY2020 financial statements expressly document the 10 Feb 2020 CMA→COF transition: https://www.asx.com.au/asxpdf/20200805/pdf/44l6gdgdpdd681.pdf
+- **ARX:** Arc Exploration's 17 Jun 2019 ASX announcement confirms its proposed name/code change to Cyprium Metals/CYM: https://announcements.asx.com.au/asxpdf/20190617/pdf/445wkc0swmh9r9.pdf
+- **ALR:** Concentrated Leaders Fund's ASX-filed company history confirms it previously traded as Aberdeen Leaders under ALR before changing to CLF in April 2018: https://announcements.asx.com.au/asxpdf/20200903/pdf/44m9r950skyrtm.pdf
+
+### Disposition
+
+**All six historical code collisions are resolved for the narrow purpose of historical issuer separation.** None is a duplicate within the present 316-code universe. **Retain all 316 candidates.** For historical financial-data joins, require issuer name and relevant date/corporate identity in addition to ticker; explicitly exclude these six old-issuer histories from corresponding current-candidate records.
+
+**Remaining Stage 2.2 data-quality work (not covered by collision verification):** confirm current issuer continuity and any intervening names for EVO, WRK and 3DA; ensure chained historical aliases are preserved (e.g. PNL→GCX→TM1); confirm that future-dated 2026 entries were excluded from any as-of-13-Oct-2026 statistics. Do not claim the whole stage complete until those checks are addressed.
