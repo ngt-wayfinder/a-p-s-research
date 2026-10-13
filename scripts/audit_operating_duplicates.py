@@ -4,7 +4,6 @@ import csv
 import re
 import sys
 from collections import defaultdict
-from difflib import SequenceMatcher
 from itertools import combinations
 
 THRESHOLD = 0.84
@@ -21,6 +20,16 @@ def duplicates(rows, key):
         buckets[key(row)].append(row)
     return {k: v for k, v in buckets.items() if len(v) > 1}
 
+def similarity(a, b):
+    """Normalized Levenshtein similarity (same metric as initial audit)."""
+    prev = list(range(len(b) + 1))
+    for i, ca in enumerate(a, 1):
+        cur = [i]
+        for j, cb in enumerate(b, 1):
+            cur.append(min(cur[-1] + 1, prev[j] + 1, prev[j - 1] + (ca != cb)))
+        prev = cur
+    return 1 - prev[-1] / max(len(a), len(b), 1)
+
 def audit(path):
     with open(path, encoding="utf-8-sig", newline="") as handle:
         rows = list(csv.DictReader(handle))
@@ -35,15 +44,13 @@ def audit(path):
         an, bn = normalize(a["Company_Name"]), normalize(b["Company_Name"])
         if an == bn:
             continue
-        # Python difflib similarity may differ from the edit-distance
-        # metric used in the initial 13 Oct 2026 report.
-        score = SequenceMatcher(None, an, bn, autojunk=False).ratio()
+        score = similarity(an, bn)
         if score >= THRESHOLD:
             similar.append((round(score, 3), a["ASX_Code"], b["ASX_Code"], a["Company_Name"], b["Company_Name"]))
     similar.sort(reverse=True)
     print(f"Records: {len(rows)}; unique tickers: {len(set(r['ASX_Code'] for r in rows))}")
     print(f"Duplicate tickers: {len(exact_ticker)}; exact names: {len(exact_name)}; normalized names: {len(normalized_name)}")
-    print(f"Fuzzy matches (SequenceMatcher >= {THRESHOLD}): {len(similar)}")
+    print(f"Fuzzy matches (normalized Levenshtein >= {THRESHOLD}): {len(similar)}")
     for score, code_a, code_b, name_a, name_b in similar:
         print(f"{code_a}/{code_b}: {score:.3f} | {name_a} | {name_b}")
     return bool(exact_ticker or exact_name or normalized_name)
