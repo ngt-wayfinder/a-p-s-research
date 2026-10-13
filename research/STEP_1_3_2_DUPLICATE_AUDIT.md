@@ -34,4 +34,4 @@ Action 2: investigate flagged pairs and any identity-related corporate actions, 
 
 ## Reproducibility
 
-`scripts/audit_operating_duplicates.py` is a reusable Python script for ticker/name duplicates and fuzzy review. It uses Python's `difflib.SequenceMatcher` for fuzzy scoring, **which differs from the initial Levenshtein-based scores above**; reruns may yield a different fuzzy match count. Exact duplicate results are directly comparable.
+`scripts/audit_operating_duplicates.py` is a reusable Python script for ticker/name duplicates and fuzzy review. It uses the same normalized Levenshtein fuzzy-scoring method as the initial audit; the threshold is 0.84.
