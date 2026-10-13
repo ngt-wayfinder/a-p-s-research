@@ -1,6 +1,6 @@
 # Step 1.3.2 — Action 2.3: Remaining issuer-continuity queue
 
-**Research date:** 13 October 2026. **Status:** triage prepared; 13 P1 issuer identity checks corroborated by independent ASX/issuer evidence; 253 P2/P3 issuer checks not independently checked. These checks do not confirm current trading status or full ACN/ISIN history.
+**Research date:** 13 October 2026. **Status:** triage prepared; 13 P1 issuer identity checks corroborated by independent ASX/issuer evidence; 243 P2/P3 issuer checks not independently checked. These checks do not confirm current trading status or full ACN/ISIN history.
 
 This queue is the set difference of all **316** codes in `operating_candidates.csv` and the **37** already documented in `STEP_1_3_2_NAME_CONTINUITY_REVIEW.md`. Exactly **279** candidates remain. Rows explicitly marked *Not independently checked* have no independent issuer evidence yet; all 13 annotated P1 rows have limited independent corroboration; none of these findings independently clears current tradeability. Priority is a **workflow heuristic, not an issuer-risk finding**. P1 = previously flagged ticker-reuse or trading-status exceptions; P2 = issuer name contains a parent/security-form term; P3 = remaining codes. The P2/P3 labels are not evidence of any corporate action.
 
@@ -72,7 +72,7 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | BML | BOAB METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | BOT | BOTANIX PHARMACEUTICALS LTD | P3 — routine issuer confirmation | Not independently checked |
 | BPM | BPM MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| BRN | BRAINCHIP HOLDINGS LTD | P2 — parent/security-form check | Not independently checked |
+| BRN | BRAINCHIP HOLDINGS LTD | P2 — parent/security-form check | 2026 issuer AGM filing corroborated; legal succession pending |
 | BCM | BRAZILIAN CRITICAL MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | BRK | BROOKSIDE ENERGY LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | BSA | BSA LIMITED | P1 — issuer reuse/status exception | P1 ISSUER CORROBORATED — ASX-filed 2026 half-year report identifies BSA Limited as an Australian-incorporated ASX-listed company (https://announcements.asx.com.au/asxpdf/20260220/pdf/06wjrz3p9rnvwm.pdf). ASX Appendix 3G dated 1 May 2026 identifies BSA Limited, ACN 088 412 748, ASX code BSA (https://www.marketindex.com.au/asx/bsa/announcements/notification-regarding-unquoted-securities-bsa-2A1669611). FY2026 annual report (20 Aug 2026) identifies BSA as listed ultimate parent (https://financialfilings.com/filings/bsa-limited/annual-report/2026/57006560/). September 2026 suspension notices exist; tradeability is NOT established by these identity filings. Historic parent continuity before 2026 not exhaustively checked. |
@@ -105,7 +105,7 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | EBR | EBR SYSTEMS INC. | P2 — parent/security-form check | P2 VERIFIED — **RESOLVED 1 Apr 2026 (Australian time):** issuer ASX announcement 26 Mar 2026 confirms 1-for-10 reverse split of underlying US common shares, while ASX CDIs are **not consolidated**; CDI-to-common-share ratio changes from 1:1 to 10:1. Primary issuer filing: https://wcsecure.weblink.com.au/pdf/EBR/03072291.pdf . SEC-hosted 2025 annual report explicitly says historic figures were not adjusted for the proposed split: https://www.sec.gov/Archives/edgar/data/1347123/000121465926003810/j325265ars.pdf . June 2026 issuer capital raising confirms 10 CDIs = 1 US share: https://www.sec.gov/Archives/edgar/data/1347123/000121465926007314/z692638k.htm . **Handling:** preserve CDI historical prices/units; normalise US share counts and per-US-share financial metrics for pre/post split; no 10x adjustment to unchanged CDI units solely for this event. |
 | EIQ | ECHOIQ LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | EDE | EDEN INNOVATIONS LTD | P3 — routine issuer confirmation | Not independently checked |
-| EDU | EDU HOLDINGS LIMITED | P2 — parent/security-form check | Not independently checked |
+| EDU | EDU HOLDINGS LIMITED | P2 — parent/security-form check | 2026 issuer FY25 results corroborated; ABN 85 108 962 152; legal succession pending |
 | ELT | ELEMENTOS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | EL8 | ELEVATE URANIUM LTD | P3 — routine issuer confirmation | Not independently checked |
 | EML | EML PAYMENTS LIMITED | P3 — routine issuer confirmation | Not independently checked |
@@ -114,14 +114,14 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | ENR | ENCOUNTER RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | ETM | ENERGY TRANSITION MINERALS LTD | P3 — routine issuer confirmation | Not independently checked |
 | EWC | ENERGY WORLD CORPORATION LTD | P1 — issuer reuse/status exception | P1 ISSUER CORROBORATED — issuer investor site identifies Energy World Corporation Ltd (ASX:EWC), ACN 009 124 994, and links June 2026 company disclosure: https://ewc-energy.com/ . No historical entity substitution established from this source; current tradeability unverified. |
-| ECT | ENVIRONMENTAL CLEAN TECHNOLOGIES LIMITED. | P2 — parent/security-form check | Not independently checked |
+| ECT | ENVIRONMENTAL CLEAN TECHNOLOGIES LIMITED. | P2 — parent/security-form check | 2025 issuer annual report corroborated; 2026 confirmation pending |
 | EQU | EQUUS ENERGY LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| EGH | EUREKA GROUP HOLDINGS LIMITED | P2 — parent/security-form check | Not independently checked |
+| EGH | EUREKA GROUP HOLDINGS LIMITED | P2 — parent/security-form check | Historical issuer financial report corroborated; 2026 confirmation pending |
 | EVZ | EVZ LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | FAL | FALCON METALS LTD | P3 — routine issuer confirmation | Not independently checked |
 | FXG | FELIX GOLD LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | FEX | FENIX RESOURCES LTD | P3 — routine issuer confirmation | Not independently checked |
-| FDR | FINDER ENERGY HOLDINGS LIMITED | P2 — parent/security-form check | Not independently checked |
+| FDR | FINDER ENERGY HOLDINGS LIMITED | P2 — parent/security-form check | 2026 issuer SPP booklet corroborated; ordinary shares |
 | FMR | FMR RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | FML | FOCUS MINERALS LTD | P3 — routine issuer confirmation | Not independently checked |
 | FHE | FRONTIER ENERGY LIMITED | P3 — routine issuer confirmation | Not independently checked |
@@ -132,7 +132,7 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | GL1 | GLOBAL LITHIUM RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | GHY | GOLD HYDROGEN LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | GHM | GOLDEN HORSE MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| GRR | GRANGE RESOURCES LIMITED. | P2 — parent/security-form check | Not independently checked |
+| GRR | GRANGE RESOURCES LIMITED. | P2 — parent/security-form check | Third-party 2026 mention only; issuer filing pending |
 | GBR | GREAT BOULDER RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | GW1 | GREENWING RESOURCES LTD | P3 — routine issuer confirmation | Not independently checked |
 | GWR | GWR GROUP LIMITED | P1 — issuer reuse/status exception | P1 ISSUER CORROBORATED — company investor archive lists GWR Group 29 Sep 2026 annual report and Sep 2026 capital return: https://gwrgroup.com.au/investor-centre/asx-announcements/ . Capital return is a corporate action to assess separately; does not establish name/issuer change or current trading status. |
@@ -144,13 +144,13 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | HTM | HIGH-TECH METALS LTD | P3 — routine issuer confirmation | Not independently checked |
 | HZN | HORIZON OIL LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | HCH | HOT CHILI LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| HUM | HUMM GROUP LIMITED | P2 — parent/security-form check | Not independently checked |
+| HUM | HUMM GROUP LIMITED | P2 — parent/security-form check | 2026 issuer announcement corroborated; ACN 122 574 583 |
 | IMA | IMAGE RESOURCES NL | P3 — routine issuer confirmation | Not independently checked |
 | IMM | IMMUTEP LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | IMU | IMUGENE LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| IFN | INFRAGREEN GROUP LIMITED | P2 — parent/security-form check | Not independently checked |
+| IFN | INFRAGREEN GROUP LIMITED | P2 — parent/security-form check | 2025 index notice only; issuer filing pending |
 | INN | INNOVAERO TECHNOLOGIES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| IMB | INTELLIGENT MONITORING GROUP LIMITED | P2 — parent/security-form check | Not independently checked |
+| IMB | INTELLIGENT MONITORING GROUP LIMITED | P2 — parent/security-form check | December 2025 issuer announcement corroborated; ABN 36 060 774 227; 2026 confirmation pending |
 | IVZ | INVICTUS ENERGY LTD | P3 — routine issuer confirmation | Not independently checked |
 | ION | IONDRIVE LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | INR | IONEER LTD | P3 — routine issuer confirmation | Not independently checked |
