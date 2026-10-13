@@ -424,3 +424,35 @@ A reusable parser is now committed at [`scripts/crossmatch_asx_code_changes.py`]
 - ASX 3DA issuer profile now lists AMAERO INC. and CHESS Depositary Interests: https://www.asx.com.au/markets/company/3DA
 
 **Decision:** All three present CSV names are supported. No edits to `operating_candidates.csv`, no candidate exclusions. **Next remaining action:** Verify the multi-stage historical ticker chains and check as-of-date handling before closing Stage 2.2.
+
+## Stage 2.2 Action 5 — Multistage alias-chain and as-of-date review (13 October 2026)
+
+**Evidence basis:** Official ASX annual name/code change registers for 2018–2026 (https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html), matched to the repository's current `operating_candidates.csv`. For TM1, the ASX historical issuer announcement page independently lists the entire previous-code sequence: https://www.asx.com.au/asx/v2/statistics/announcements.do?by=issuerId&issuerId=19946&timeframe=Y&year=2008. These are **corporate-code histories**, not evidence that every historical security was equivalent to a present share on a split-adjusted basis.
+
+### Verified historical sequences relevant to current candidates
+
+| Current candidate | Chronological ticker/name sequence | Evidence / handling |
+|---|---|---|
+| TM1 (Terra Metals) | PNL (Paringa Resources) → GCX (GCX Metals), 5 May 2022 → TM1 (Terra Metals), 19 Apr 2024 | **ASX issuer-announcement code history independently confirms both links.** PNL and GCX are aliases, not extra candidates. Other historic companies used GCX: issuer-aware joins mandatory |
+| LOT (Lotus Resources) | RIR (Riva Resources) → HCO (Hylea Metals), 26 Mar 2018 → LOT, 27 Sep 2019 | Both links in ASX annual register; store RIR and HCO as historic aliases |
+| TSO (Tesoro Gold) | PKA (Plukka) → TSO (Tesoro Resources), 3 Feb 2020 → TSO (Tesoro Gold), 2 May 2022 | Code change followed by name-only change; PKA historic alias |
+| ACF (Acrow) | NMG (NMG Corporation) → ACF (Acrow Formwork and Construction Services), 29 Mar 2018 → ACF (Acrow Limited), 27 Nov 2023 | Code change followed by name-only change |
+| SHN (Sunshine Metals) | PEL (Pelican Resources) → SHN (Sunshine Gold), 1 Dec 2020 → SHN (Sunshine Metals), 10 Jul 2023 | Code change followed by name-only change |
+| MEK (Meeka Metals) | LCD → MEK, 1 Dec 2021 → MEK name change, 2022 | Code change followed by name-only change; see annual sections for source names |
+| MYE (Mastermyne) | MYE Mastermyne → Metarock, 2021 → Mastermyne, 2024 | Repeated name changes under one ticker; not multiple issuers solely on that basis |
+| PNN (Power Minerals) | PNN PepinNini Lithium → PepinNini Minerals, 2019/2020 register event → later PNN name change in 2022 | Multiple name-only events; preserve dated names |
+| ETM (Energy Transition Minerals) | GGG (Greenland Minerals and Energy → Greenland Minerals name-only in 2018) → ETM, 10 Nov 2022 | Name change precedes ticker change |
+| ASL (Andean Silver) | MMC (Mitre Mining Corporation) → ASL, 11 Jul 2024 | Do **not** append unrelated Ausdrill (ASL) → PRN (2019) |
+| ALR (Altair Minerals) | CHK (Cohiba Minerals) → ALR, 17 May 2024 | Do **not** append unrelated Aberdeen Leaders (ALR) → CLF (2018) |
+
+**Scope qualification:** The sequences above are supported by ASX annual entries and/or issuer history; they are not a claim that every possible predecessor outside 2018–2026 has been exhausted. No new candidates or exclusions result from these alias checks.
+
+### As-of-date control
+
+The supplied 2026 table includes a **15 Oct 2026 GLL→GSE** event, which is *after* the 13 Oct 2026 research date. It is **excluded from effective-as-of-date history**. It was not among the matched 2026 candidate events, so the matched-event totals are unaffected. The sole matched 2026 event, MHC's 16 Jan 2026 name change, predates the research date.
+
+### Action 2.2 disposition
+
+**Annual cross-match and identified historical ticker-chain verification COMPLETE (2018–13 Oct 2026), with documented scope limits.** Totals remain **111 directly matched change events = 64 code changes + 41 name-only + 6 code collisions**. The PNL→GCX intermediate event is an additional chain link *not counted* in the 111 direct matches. The candidate universe remains **316**, unchanged.
+
+**Important:** Step **1.3.2 as a whole remains IN PROGRESS**: roadmap Actions 2.3–2.5 (systematic issuer name changes, mergers, delistings/corporate actions) are still pending. Likewise Step 1.2 trading-status verification is not complete. Do not infer that all 316 candidates are currently tradeable.
