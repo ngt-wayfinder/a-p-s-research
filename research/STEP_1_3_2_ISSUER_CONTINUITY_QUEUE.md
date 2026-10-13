@@ -139,158 +139,158 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | HMG | HAMELIN GOLD LIMITED | P3 — routine issuer confirmation | Initial triage completed; no adequate 2026 primary issuer evidence established in this pass. Identity, security form and continuity remain pending. |
 | HMX | HAMMER METALS LIMITED | P3 — routine issuer confirmation | Initial triage completed; no adequate 2026 primary issuer evidence established in this pass. Identity, security form and continuity remain pending. |
 | HAV | HAVILAH RESOURCES LIMITED | P3 — routine issuer confirmation | Initial triage completed; no adequate 2026 primary issuer evidence established in this pass. Identity, security form and continuity remain pending. |
-| HLO | HELLOWORLD TRAVEL LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| HMD | HERAMED LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| HTM | HIGH-TECH METALS LTD | P3 — routine issuer confirmation | Not independently checked |
-| HZN | HORIZON OIL LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| HCH | HOT CHILI LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| HLO | HELLOWORLD TRAVEL LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| HMD | HERAMED LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| HTM | HIGH-TECH METALS LTD | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| HZN | HORIZON OIL LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| HCH | HOT CHILI LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
 | HUM | HUMM GROUP LIMITED | P2 — parent/security-form check | 2026 issuer announcement corroborated; ACN 122 574 583 |
-| IMA | IMAGE RESOURCES NL | P3 — routine issuer confirmation | Not independently checked |
-| IMM | IMMUTEP LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| IMU | IMUGENE LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| IMA | IMAGE RESOURCES NL | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| IMM | IMMUTEP LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| IMU | IMUGENE LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
 | IFN | INFRAGREEN GROUP LIMITED | P2 — parent/security-form check | ISSUER corroborated — Sep 2025 issuer announcement, ACN 668 228 742: https://announcements.asx.com.au/asxpdf/20250926/pdf/06pq5qs277zx9w.pdf . Ordinary share evidence: https://announcements.asx.com.au/asxpdf/20250627/pdf/06l66nr9wnwqrw.pdf . 2026 update pending. |
-| INN | INNOVAERO TECHNOLOGIES LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| INN | INNOVAERO TECHNOLOGIES LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
 | IMB | INTELLIGENT MONITORING GROUP LIMITED | P2 — parent/security-form check | December 2025 issuer announcement corroborated; ABN 36 060 774 227; 2026 confirmation pending |
-| IVZ | INVICTUS ENERGY LTD | P3 — routine issuer confirmation | Not independently checked |
-| ION | IONDRIVE LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| INR | IONEER LTD | P3 — routine issuer confirmation | Not independently checked |
-| IXR | IONIC RARE EARTHS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| ILA | ISLAND PHARMACEUTICALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| IVZ | INVICTUS ENERGY LTD | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| ION | IONDRIVE LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| INR | IONEER LTD | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| IXR | IONIC RARE EARTHS LIMITED | P3 — routine issuer confirmation | Issuer filing confirms Ionic Rare Earths ASX IXR, ACN 083 646 477, completed 1-for-30 consolidation 5 Dec 2025; ordinary shares/options/rights affected. https://www.marketindex.com.au/asx/ixr/announcements/capital-consolidation-complete-3A683309 |
+| ILA | ISLAND PHARMACEUTICALS LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
 | JGH | JADE GAS HOLDINGS LIMITED | P2 — parent/security-form check | 2026 issuer annual report confirms Australian parent and JGH ASX code: https://announcements.asx.com.au/asxpdf/20260330/pdf/06xz4q9ck03gjv.pdf |
-| JAV | JAVELIN MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| JLL | JINDALEE LITHIUM LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| KAU | KAISER REEF LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| KZR | KALAMAZOO RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| KAO | KAOKO METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| KGL | KGL RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| KLI | KILLI RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| KSL | KINA SECURITIES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| KRR | KING RIVER RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| KME | KIP MCGRATH EDUCATION CENTRES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| KTK | KTEK AEROSYSTEMS LTD | P3 — routine issuer confirmation | Not independently checked |
-| LKE | LAKE RESOURCES N.L. | P3 — routine issuer confirmation | Not independently checked |
-| LRV | LARVOTTO RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| LMG | LATROBE MAGNESIUM LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| LFT | LI-FT POWER LTD. | P3 — routine issuer confirmation | Not independently checked |
-| LML | LINCOLN MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| LAU | LINDSAY AUSTRALIA LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| LNQ | LINQ MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| LKY | LOCKSLEY RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| LOT | LOTUS RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| LTP | LTR PHARMA LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| JAV | JAVELIN MINERALS LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| JLL | JINDALEE LITHIUM LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| KAU | KAISER REEF LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| KZR | KALAMAZOO RESOURCES LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| KAO | KAOKO METALS LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| KGL | KGL RESOURCES LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| KLI | KILLI RESOURCES LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| KSL | KINA SECURITIES LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| KRR | KING RIVER RESOURCES LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| KME | KIP MCGRATH EDUCATION CENTRES LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| KTK | KTEK AEROSYSTEMS LTD | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| LKE | LAKE RESOURCES N.L. | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| LRV | LARVOTTO RESOURCES LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| LMG | LATROBE MAGNESIUM LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| LFT | LI-FT POWER LTD. | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| LML | LINCOLN MINERALS LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| LAU | LINDSAY AUSTRALIA LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| LNQ | LINQ MINERALS LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| LKY | LOCKSLEY RESOURCES LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| LOT | LOTUS RESOURCES LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| LTP | LTR PHARMA LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
 | LDX | LUMOS DIAGNOSTICS HOLDINGS LIMITED | P2 — parent/security-form check | 2026 issuer SPP announcement confirms LDX, fully paid ordinary shares and attaching options: https://announcements.asx.com.au/asxpdf/20260501/pdf/06z44jt40njxq5.pdf |
-| LM8 | LUNNON METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| LM8 | LUNNON METALS LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
 | LUX | LUX COPPER CORP. LTD | P2 — parent/security-form check | July 2026 registry distribution schedule corroborates LUX ordinary shares and escrowed classes; corporate issuer identity requires primary prospectus check: https://www.marketindex.com.au/asx/lux/announcements/distribution-schedule-6A1333970 |
-| M24 | MAMBA EXPLORATION LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| MKR | MANUKA RESOURCES LTD. | P3 — routine issuer confirmation | Not independently checked |
-| MPK | MANY PEAKS MINERALS LTD | P3 — routine issuer confirmation | Not independently checked |
-| MEU | MARMOTA LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| MMA | MARONAN METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| M24 | MAMBA EXPLORATION LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| MKR | MANUKA RESOURCES LTD. | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| MPK | MANY PEAKS MINERALS LTD | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| MEU | MARMOTA LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| MMA | MARONAN METALS LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
 | MM8 | MEDALLION METALS LIMITED. | P2 — parent/security-form check | 2026 issuer SPP announcement confirms Medallion Metals and ABN 89 609 225 023: https://announcements.asx.com.au/asxpdf/20260114/pdf/06v7rvqnccjmlc.pdf |
-| MMI | METRO MINING LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| MX1 | MICRO-X LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| MM1 | MIDAS MINERALS LTD | P3 — routine issuer confirmation | Not independently checked |
-| MNB | MINBOS RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| MSV | MITCHELL SERVICES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| MLG | MLG OZ LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| MMI | METRO MINING LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| MX1 | MICRO-X LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| MM1 | MIDAS MINERALS LTD | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| MNB | MINBOS RESOURCES LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| MSV | MITCHELL SERVICES LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| MLG | MLG OZ LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
 | MVF | MONASH IVF GROUP LIMITED | P2 — parent/security-form check | 2026 issuer trading update confirms Monash IVF Group and MVF: https://announcements.asx.com.au/asxpdf/20260612/pdf/070kb7gmrhsyp8.pdf |
-| MXO | MOTIO LTD | P3 — routine issuer confirmation | Not independently checked |
+| MXO | MOTIO LTD | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
 | MRD | MOUNT RIDLEY MINES LIMITED | P1 — issuer reuse/status exception | P1 ISSUER CORROBORATED — issuer announcement dated 4 Sep 2026 identifies Mount Ridley Mines Limited, ABN 93 092 304 964: https://www.marketindex.com.au/asx/mrd/announcements/-2-million-placement-to-advance-selectro-and-grass-patch-6A1342191 . ASX archive flags *other historical MRD users* (https://www.asx.com.au/asx/v2/statistics/announcements.do?by=issuerId&issuerId=1787&timeframe=Y&year=2000); issuer-aware historical joins required. Trading halt outcome unresolved. |
 | MYR | MYER HOLDINGS LIMITED | P2 — parent/security-form check | 2026 issuer 1H26 results confirm Myer Holdings and ABN 14 119 085 602; apparel integration noted: https://announcements.asx.com.au/asxpdf/20260324/pdf/06xqwdmjdn32mg.pdf |
-| NYM | NARRYER METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| NYM | NARRYER METALS LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
 | NMR | NATIVE MINERAL RESOURCES HOLDINGS LIMITED | P2 — parent/security-form check | 2026 FY26 issuer financial report listed by ASX announcement distributor; detailed issuer document still to inspect: https://www.marketindex.com.au/asx/nmr/announcements/fy26-financial-report-2A1700800 |
-| NTI | NEUROTECH INTERNATIONAL LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| NOL | NOBLEOAK LIFE LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| NMD | NORMANDY MINERALS LTD | P3 — routine issuer confirmation | Not independently checked |
-| NTU | NORTHERN MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| NOU | NOUMI LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| NVX | NOVONIX LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| NTI | NEUROTECH INTERNATIONAL LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| NOL | NOBLEOAK LIFE LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| NMD | NORMANDY MINERALS LTD | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| NTU | NORTHERN MINERALS LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| NOU | NOUMI LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| NVX | NOVONIX LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
 | NYR | NYRADA INC. | P2 — parent/security-form check | 2026 issuer annual report confirms Delaware parent, ARBN 625 401 818 and NYR 1:1 CDIs representing Class A common shares: https://www.nyrada.com/annualreport/2026/ |
-| OD6 | OD6 METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| OD6 | OD6 METALS LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
 | OFX | OFX GROUP LIMITED | P2 — parent/security-form check | 2025 issuer quarterly release confirms OFX Group, ASX OFX, ABN 12 165 602 273; 2026 primary check pending: https://announcements.asx.com.au/asxpdf/20251027/pdf/06r1wrpm6bw5dt.pdf |
-| OMA | OMEGA OIL & GAS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| OBL | OMNI BRIDGEWAY LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| OCC | ORTHOCELL LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| OMA | OMEGA OIL & GAS LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| OBL | OMNI BRIDGEWAY LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| OCC | ORTHOCELL LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
 | PAR | PARADIGM BIOPHARMACEUTICALS LIMITED.. | P1 — issuer reuse/status exception | P1 ISSUER CORROBORATED — 27 Apr 2026 ASX-hosted investor presentation identifies Paradigm Biopharmaceuticals (ASX:PAR): https://announcements.asx.com.au/asxpdf/20260427/pdf/06ywp9vzwtwhzl.pdf . The previously recorded voluntary-administration/suspension classification requires a separate *dated* 2026 recheck; April presentation cannot prove current status. |
-| PGC | PARAGON CARE LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| PC2 | PC GOLD LTD | P3 — routine issuer confirmation | Not independently checked |
-| PEN | PENINSULA ENERGY LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| PGC | PARAGON CARE LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| PC2 | PC GOLD LTD | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| PEN | PENINSULA ENERGY LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
 | PWR | PETER WARREN AUTOMOTIVE HOLDINGS LIMITED | P2 — parent/security-form check | 2026 issuer investor archive confirms FY26 results and 2 Oct 2026 Wakeling acquisition completion; corporate acquisition not assumed parent change: https://www.pwah.com.au/site/investor-centre/asx-announcements |
-| PVT | PIVOTAL METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| PVT | PIVOTAL METALS LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
 | PLT | PLENTI GROUP LIMITED | P2 — parent/security-form check | 2026 issuer annual report confirms Plenti Group Limited ASX PLT and ACN 166 646 635; historical succession/ISIN still pending. https://announcements.asx.com.au/asxpdf/20260826/pdf/072pnqf0w07w9w.pdf |
-| PVE | PO VALLEY ENERGY LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| POL | POLYMETALS RESOURCES LTD | P3 — routine issuer confirmation | Not independently checked |
-| PPS | PRAEMIUM LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| PTX | PRESCIENT THERAPEUTICS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| PSC | PROSPECT RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| QML | QMINES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| RZI | RAIZ INVEST LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| PVE | PO VALLEY ENERGY LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| POL | POLYMETALS RESOURCES LTD | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| PPS | PRAEMIUM LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| PTX | PRESCIENT THERAPEUTICS LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| PSC | PROSPECT RESOURCES LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| QML | QMINES LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| RZI | RAIZ INVEST LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
 | RDY | READYTECH HOLDINGS LIMITED | P2 — parent/security-form check | 2026 annual report listed 27 Aug 2026 in market announcements; issuer report content/ACN not independently inspected. https://www.marketindex.com.au/asx/rdy |
 | REC | RECHARGE METALS LIMITED | P1 — issuer reuse/status exception | P1 ISSUER CORROBORATED — ASX-filed 26 Sep 2025 AGM announcement identifies Recharge Metals Limited (ASX:REC), ABN 13 647 703 839: https://announcements.asx.com.au/asxpdf/20250926/pdf/06pr0hgjlfwv4f.pdf . ASX historical issuer-code archive lists another REC user (https://www.asx.com.au/asx/v2/statistics/announcements.do?by=issuerId&issuerId=3924&timeframe=Y&year=2020). Current halt/trading outcome unresolved. |
-| RNU | RENASCOR RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| RNU | RENASCOR RESOURCES LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
 | RMC | RESIMAC GROUP LTD | P2 — parent/security-form check | 2026 issuer annual report confirms Resimac Group Ltd ASX RMC and ABN 67 002 997 935; historical succession/ISIN pending. https://announcements.asx.com.au/asxpdf/20260828/pdf/072s82ylcgtz85.pdf |
-| RML | RESOLUTION MINERALS LTD | P3 — routine issuer confirmation | Not independently checked |
+| RML | RESOLUTION MINERALS LTD | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
 | RFG | RETAIL FOOD GROUP LIMITED | P2 — parent/security-form check | 2026 annual report listed 26 Aug 2026; issuer report content/ACN not independently inspected. https://hotcopper.com.au/asx/rfg/announcements/ |
-| RIV | RIVCO AUSTRALIA LTD | P3 — routine issuer confirmation | Not independently checked |
-| RWL | RUBICON WATER LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| RTR | RUMBLE RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| SLD | "SALUDA MEDICAL | P3 — routine issuer confirmation | Not independently checked |
+| RIV | RIVCO AUSTRALIA LTD | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| RWL | RUBICON WATER LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| RTR | RUMBLE RESOURCES LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| SLD | "SALUDA MEDICAL | P3 — routine issuer confirmation | ASX primary notice confirms Saluda Medical Inc SLD listed as 10:1 CDIs with US-person restrictions; quoted CDI class, not direct common stock. https://www.asxonline.com/content/asxonline/public/notices/2025/december/1591.25.12.html |
 | SFM | SANTA FE MINERALS LTD | P1 — issuer reuse/status exception | P1 ISSUER CORROBORATED — 29 Apr 2026 ASX-filed shareholder AGM notice identifies Santa Fe Minerals Limited (ASX:SFM): https://announcements.asx.com.au/asxpdf/20260429/pdf/06yzpdsw3fflnd.pdf . Current tradeability not established. |
-| SMI | SANTANA MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| STN | SATURN METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| SMI | SANTANA MINERALS LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| STN | SATURN METALS LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
 | SCX | SCX.AI HOLDINGS LIMITED | P2 — parent/security-form check | Issuer website identifies SCX.ai Holdings Limited ASX:SCX and ACN 688 872 095; legal continuity/security form not fully checked. https://scx.ai/investors |
-| SEA | SEA FOREST LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| SNM | SENTINEL METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| SEA | SEA FOREST LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| SNM | SENTINEL METALS LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
 | SSG | SHAVER SHOP GROUP LIMITED | P2 — parent/security-form check | 2026 issuer annual report confirms Shaver Shop Group Limited ASX SSG and ABN 78 150 747 649; historical succession/ISIN pending. https://announcements.asx.com.au/asxpdf/20260828/pdf/072s0b46twc9bk.pdf |
 | SNX | SIERRA NEVADA GOLD INC. | P2 — parent/security-form check | ISSUER corroborated — Apr 2026 AGM notice confirms Sierra Nevada Gold Inc, ARBN 653 575 618 and 1 CDI representing 1 US common share: https://announcements.asx.com.au/asxpdf/20260428/pdf/06yy0pccc500yl.pdf . Foreign issuer; maintain CDI/share distinction. |
-| SVL | SILVER MINES LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| SVL | SILVER MINES LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
 | SHG | SINGULAR HEALTH GROUP LTD | P2 — parent/security-form check | 2026 issuer half-year report confirms Singular Health Group Ltd ASX SHG and ACN 626 548 214; historical succession/ISIN pending. https://announcements.asx.com.au/asxpdf/20260227/pdf/06wvtx18vrbx38.pdf |
-| SKY | SKY METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| SPZ | SMART PARKING LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| SVR | SOLVAR LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| SKY | SKY METALS LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| SPZ | SMART PARKING LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| SVR | SOLVAR LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
 | SXL | SOUTHERN CROSS MEDIA GROUP LIMITED | P2 — parent/security-form check | ISSUER corroborated — 11 Jun 2026 issuer trading update: https://announcements.asx.com.au/asxpdf/20260611/pdf/070hztpwgkz8c7.pdf . MATERIAL MERGER: Seven West Media combined with Southern Cross Media effective 7 Jan 2026; FY26 pro forma metrics assume merger on 1 Jul 2025 and must not be treated as historical statutory comparables. |
-| SPD | SOUTHERN PALLADIUM LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| SVM | SOVEREIGN METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| SGQ | ST GEORGE MINING LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| SPD | SOUTHERN PALLADIUM LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| SVM | SOVEREIGN METALS LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| SGQ | ST GEORGE MINING LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
 | SPL | STARPHARMA HOLDINGS LIMITED | P2 — parent/security-form check | ISSUER corroborated — 26 Aug 2026 FY26 results issuer release: https://www.marketindex.com.au/asx/spl/announcements/fy26-key-financial-results-and-annual-report-3A699854 . Historical succession/ISIN pending. |
-| SLB | STELAR METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| SRZ | STELLAR RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| STK | STRICKLAND METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| STX | STRIKE ENERGY LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| SS1 | SUN SILVER LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| STM | SUNSTONE METALS LTD | P3 — routine issuer confirmation | Not independently checked |
-| SOP | SYNERTEC CORPORATION LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| SYR | SYRAH RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| TAM | TANAMI GOLD NL | P3 — routine issuer confirmation | Not independently checked |
+| SLB | STELAR METALS LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| SRZ | STELLAR RESOURCES LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| STK | STRICKLAND METALS LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| STX | STRIKE ENERGY LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| SS1 | SUN SILVER LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| STM | SUNSTONE METALS LTD | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| SOP | SYNERTEC CORPORATION LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| SYR | SYRAH RESOURCES LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| TAM | TANAMI GOLD NL | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
 | TM1 | TERRA METALS LIMITED | P1 — issuer reuse/status exception | P1 ISSUER CORROBORATED — ASX-filed 27 Feb 2026 Appendix 3B identifies Terra Metals Limited, TM1 fully paid ordinary shares: https://announcements.asx.com.au/asxpdf/20260227/pdf/06wvtsxwydq9zt.pdf . Historical PNL→GCX→TM1 chain documented in ticker register; ASX archive shows *other historical GCX users*: https://www.asx.com.au/asx/v2/statistics/announcements.do?by=issuerId&issuerId=6032&timeframe=Y&year=2008 . Current halt outcome unresolved. |
-| TER | TERRACOM LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| TTM | TITAN MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| TTT | TITOMIC LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| TVN | TIVAN LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| TER | TERRACOM LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| TTM | TITAN MINERALS LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| TTT | TITOMIC LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| TVN | TIVAN LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
 | TOK | TOLU MINERALS LIMITED. | P2 — parent/security-form check | 2026 issuer annual report corroborates Tolu Minerals Limited; PNG-incorporated, ARBN 657 300 359. https://announcements.asx.com.au/asxpdf/20260331/pdf/06y0b7kswgq80l.pdf ; PNG registration https://announcements.asx.com.au/asxpdf/20250331/pdf/06h66ygfd759bl.pdf . Security form/ISIN pending. |
 | TOR | TORQUE METALS LIMITED.. | P2 — parent/security-form check | 2026 issuer half-year financial statements corroborate Torque Metals Limited, ABN 44 621 122 905, ASX TOR. https://announcements.asx.com.au/asxpdf/20260316/pdf/06xhf3m202xd16.pdf ; historical succession/ISIN pending. |
-| TRE | TOUBANI RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| TNC | TRUE NORTH COPPER LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| TGN | TUNGSTEN MINING NL | P3 — routine issuer confirmation | Not independently checked |
-| TYR | TYRO PAYMENTS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| USL | UNICO SILVER LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| TRE | TOUBANI RESOURCES LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| TNC | TRUE NORTH COPPER LIMITED | P3 — routine issuer confirmation | ASX primary notice confirms 2024 voluntary administration and suspension of CHESS approval; Aug 2026 halt indicates later market activity, current status needs dated check. https://asxonline.com/content/asxonline/public/notices/2024/october/1233.24.10.html |
+| TGN | TUNGSTEN MINING NL | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| TYR | TYRO PAYMENTS LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| USL | UNICO SILVER LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
 | VAL | VALIANT GOLD LIMITED | P1 — issuer reuse/status exception | Independent ASX admission evidence: ASX notice 25 Mar 2026 (https://asxonline.com/content/asxonline/public/notices/2026/march/0331.26.03.html), and Valiant Gold IPO completion confirms first VAL quotation 27 Mar 2026 (https://company-announcements.afr.com/asx/val/bb74128f-2bba-11f1-a6df-1a10ddfe25b2.pdf). Distinct from Valor Resources, historic VAL→THB in 2024. ACN/ISIN not yet verified; no current trading-status conclusion. |
-| VR8 | VANADIUM RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| VBX | VBX LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| VMC | VENUS METALS CORPORATION LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| VBC | VERBREC LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| VHM | VHM LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| VTM | VICTORY METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| VVA | VIVA LEISURE LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| VYS | VYSARN LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| WTM | WARATAH MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| VR8 | VANADIUM RESOURCES LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| VBX | VBX LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| VMC | VENUS METALS CORPORATION LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| VBC | VERBREC LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| VHM | VHM LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| VTM | VICTORY METALS LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| VVA | VIVA LEISURE LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| VYS | VYSARN LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| WTM | WARATAH MINERALS LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
 | WJL | WEBJET GROUP LIMITED | P2 — parent/security-form check | 2026 issuer results corroborate Webjet Group Limited ACN 679 116 762 ASX WJL: https://announcements.asx.com.au/asxpdf/20260520/pdf/06zs1jh6zq9y1p.pdf . Material 30 Sep 2024 demerger from Web Travel Group; predecessor operating results must be segmented, not joined as same listed issuer: https://announcements.asx.com.au/asxpdf/20241127/pdf/06bwtcz6mvrwpk.pdf . 19 May 2026 trading halt does not establish present tradeability. |
-| WWI | WEST WITS MINING LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| WCN | WHITE CLIFF MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| WEC | WHITE ENERGY COMPANY LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| WC8 | WILDCAT RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| WZR | WISR LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| XRF | XRF SCIENTIFIC LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| WWI | WEST WITS MINING LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| WCN | WHITE CLIFF MINERALS LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| WEC | WHITE ENERGY COMPANY LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| WC8 | WILDCAT RESOURCES LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| WZR | WISR LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
+| XRF | XRF SCIENTIFIC LIMITED | P3 — routine issuer confirmation | Initial universe triage completed; no issuer-primary identity, security-class, corporate-action or current trading-status verification performed for this row. Primary source pending. |
 
 
 ### Priority 1 follow-up — 13 October 2026
@@ -376,3 +376,8 @@ DUG, EIQ, EDE, ELT, EL8, EML, EMP, EMV, ENR, ETM, EQU, EVZ, FAL, FXG, FEX, FMR, 
 ### P3 batch 4 evidence follow-up (13 October 2026)
 
 Upgraded EMV (2026 primary issuer), ENR and GBR (2025 primary issuers). ENR 2025 placement and GBR two-tranche placement require confirmation of allotted shares before capitalisation modelling. Batch 4 now 10 issuer-evidence records and 20 provisional. P3 100/220 initially processed, 120 untouched. Full historical legal continuity and tradeability remain outstanding.
+
+
+### P3 remaining 120 initial triage (13 October 2026)
+
+All remaining 120 rows moved from untouched to initial-triage status, **not verified**. Primary ASX evidence recorded for IXR (1:30 Dec 2025 consolidation), SLD (10:1 CDIs and US-person restrictions) and TNC (2024 CHESS suspension; later 2026 activity requiring dated status reconciliation). The other 117 are still explicitly pending primary issuer verification. This completes 220/220 P3 initial triage, not the 220 issuer continuity verifications. Previous P3 batches also retain their own outstanding evidence gaps. 316 candidate rows unchanged.
