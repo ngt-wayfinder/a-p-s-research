@@ -39,7 +39,7 @@
 
 3. **1.3 [IN PROGRESS] Reconcile the universe and validate operating-company classification**
    - **1.3.1 [COMPLETED]** Reconciled the historical **318** provisional operating candidates with **316** working candidates using uploaded `ASX_Operating_Company_Classification.xlsx`: **GDF (Garda Property Group)** and **GDI (GDI Property Group)** were excluded because both are classified as Equity Real Estate Investment Trusts (REITs) in the source workbook. **318 − 2 = 316**. This explains the count difference; broader business-model review remains outstanding.
-   - **1.3.2 [NOT STARTED]** Check duplicates, ticker changes, delistings and corporate actions affecting identity.
+   - **1.3.2 [IN PROGRESS]** Check duplicates, ticker changes, delistings and corporate actions affecting identity. **Action 1 completed:** 316 records, 316 unique tickers, no exact/normalized duplicate names; four fuzzy-name pairs flagged. Results: [duplicate audit](research/STEP_1_3_2_DUPLICATE_AUDIT.md). **Action 2 pending:** verify similar-name pairs and historical ticker changes/delistings against ASX evidence.
    - **1.3.3 [NOT STARTED]** Validate operating-business versus investment-vehicle classification using current company activities and official reports. Specifically review GWR's business model.
    - **1.3.4 [NOT STARTED]** Produce an auditable final candidate register with inclusion/exclusion reasons and source dates.
 
@@ -119,7 +119,7 @@
 
 ## Immediate next action
 
-**Step 1.3.2:** Check the 316-company candidate list for duplicate tickers, ticker changes, delistings and relevant corporate actions. Then complete 1.3.3–1.3.4. In parallel, keep the 1.2.6 trading-status follow-ups open until independently confirmed.
+**Step 1.3.2 Action 2:** Verify the four similar-name pairs and investigate ticker changes, delistings and relevant corporate actions against authoritative ASX evidence. The static duplicate audit (Action 1) is complete. Then complete 1.3.3–1.3.4. In parallel, keep the 1.2.6 trading-status follow-ups open until independently confirmed.
 
 ## Research controls
 
