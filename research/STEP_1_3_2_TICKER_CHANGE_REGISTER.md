@@ -322,3 +322,56 @@ A reusable parser is now committed at [`scripts/crossmatch_asx_code_changes.py`]
 **Additional notes:** CEL name changes again to Challenger Gold in 2023. 2019 old codes ASL and ARX are historical ticker collisions, not valid predecessors of the present candidate issuers. Earlier collisions recorded: VAL (2024), COF (2020).
 
 **Next:** Reconcile the 2018 ASX change register. Stage 2.2 remains **IN PROGRESS**.
+
+## 2018 register supplied by user — full 2018-section cross-match (13 October 2026)
+
+**Source:** User-transcribed 2018 ASX name/code-change register; old/new codes matched against actual 316-code `operating_candidates.csv` in GitHub. Transcription not independently authenticated.
+
+**Result: 13 matched events: 10 historical code changes into current candidate tickers, 1 name-only event, and 2 historical old-code collisions.** No candidate exclusions.
+
+### Historical ticker changes (10)
+
+| Date | Old code | Current candidate code | Company at change |
+|---|---|---|---|
+| 5 Dec 2018 | PRY | HLS | Healius Limited |
+| 4 Dec 2018 | HOM | RMC | Resimac Group Ltd |
+| 4 Dec 2018 | KRC | KRR | King River Resources Limited |
+| 6 Nov 2018 | GSC | INR | Ioneer Ltd |
+| 24 Sep 2018 | EMG | FEX | Fenix Resources Ltd |
+| 15 Aug 2018 | DMI | GLN | Galan Lithium Limited |
+| 9 Jul 2018 | ESI | ECT | Environmental Clean Technologies Limited |
+| 21 Jun 2018 | IHS | IVZ | Invictus Energy Ltd |
+| 29 Mar 2018 | NMG | ACF | Acrow Formwork and Construction Services Limited |
+| 14 Mar 2018 | DM1 | WZR | Wisr Limited |
+
+### Name-only change (1)
+
+| Date | Code | Old name | New name |
+|---|---|---|---|
+| 14 Dec 2018 | HLS | Healius Ltd | Healius Limited |
+
+### Historical old-code collisions (2)
+
+| Date | Historic event | Current candidate | Interpretation |
+|---|---|---|---|
+| 17 Apr 2018 | AR1 (Arrowhead Resources Limited) → EM1 (Emerge Gaming Limited) | AR1 = Austral Resources Australia Ltd | Different issuer; do not associate historic Arrowhead data with Austral Resources |
+| 12 Apr 2018 | ALR (Aberdeen Leaders Limited) → CLF (Concentrated Leaders Fund Limited) | ALR = Altair Minerals Limited | Different issuer; do not associate historic Aberdeen Leaders data with Altair Minerals |
+
+### Stage 2.2 reconciliation summary, 2018–2026
+
+| Year | Matched events | Ticker changes into candidates | Name-only changes | Historical ticker collisions |
+|---|---:|---:|---:|---:|
+| 2026 | 1 | 0 | 1 | 0 |
+| 2025 | 8 | 1 | 7 | 0 |
+| 2024 | 8 | 5 | 2 | 1 |
+| 2023 | 19 | 11 | 8 | 0 |
+| 2022 | 12 | 6 | 6 | 0 |
+| 2021 | 18 | 12 | 6 | 0 |
+| 2020 | 18 | 12 | 5 | 1 |
+| 2019 | 14 | 7 | 5 | 2 |
+| 2018 | 13 | 10 | 1 | 2 |
+| **TOTAL** | **111** | **64** | **41** | **6** |
+
+**Interpretation:** 111 matched *change events*, not necessarily 111 unique issuers. Six historic ticker collisions: VAL (2024), COF (2020), ASL and ARX (2019), AR1 and ALR (2018). The 316-company candidate universe remains unchanged.
+
+**Outstanding quality checks before marking Stage 2.2 complete:** Verify current-issuer history for six code collisions; confirm name mismatches such as EVO and WRK; verify 2025 3DA name mismatch; consider chained changes not directly touching present candidate codes (e.g., PNL→GCX→TM1). User-supplied annual tables cover 2018–2026; not independently authenticated. Future-dated 2026 events must be excluded as of 13 Oct 2026.
