@@ -197,3 +197,46 @@ A reusable parser is now committed at [`scripts/crossmatch_asx_code_changes.py`]
 - **No candidate exclusions** or changes to `operating_candidates.csv`.
 
 **Next:** Reconcile the 2021 ASX change register. Stage 2.2 remains **IN PROGRESS**.
+
+## 2021 register supplied by user — full 2021-section cross-match (13 October 2026)
+
+**Source:** User-transcribed ASX 2021 name/code-change register. Matched old and new ticker columns to the 316-code `operating_candidates.csv` from GitHub. Source transcription not independently authenticated.
+
+**Result:** 18 matching change events: **12 historical code changes** into current candidate tickers and **6 name-only changes**. No candidate exclusions.
+
+### Historical ticker changes (12)
+
+| Date | Old | Candidate code | Company at change |
+|---|---|---|---|
+| 17 Dec 2021 | TPS | IMB | Intelligent Monitoring Group |
+| 15 Dec 2021 | UCW | EDU | EDU Holdings |
+| 8 Dec 2021 | HWH | EIQ | EchoIQ |
+| 6 Dec 2021 | VIC | JAV | Javelin Minerals |
+| 1 Dec 2021 | LCD | MEK | Meeka Gold |
+| 30 Nov 2021 | IP1 | WRK | mrkr |
+| 30 Nov 2021 | FNP | NOU | Noumi |
+| 25 Oct 2021 | SUD | ALA | Arovella Therapeutics |
+| 30 Sep 2021 | HGM | JGH | Jade Gas Holdings |
+| 29 Jul 2021 | BSM | GW1 | Greenwing Resources |
+| 8 Jun 2021 | MEY | EL8 | Elevate Uranium |
+| 12 Jan 2021 | PMY | BML | Boab Metals |
+
+### Name-only changes (6)
+
+| Date | Code | Old name | New name at change |
+|---|---|---|---|
+| 16 Dec 2021 | PPE | People Infrastructure | Peoplein |
+| 25 Nov 2021 | EZL | Euroz | Euroz Hartleys Group |
+| 18 Nov 2021 | CVN | Carnarvon Petroleum | Carnarvon Energy |
+| 17 Nov 2021 | MYE | Mastermyne Group | Metarock Group |
+| 17 Sep 2021 | MXI | MaxiTRANS Industries | MaxiPARTS |
+| 6 Jul 2021 | AIM | Access Innovation Holdings | Ai-Media Technologies |
+
+### Multi-year history notes
+
+- **MEK:** LCD (Latitude Consolidated) → MEK (Meeka Gold) in 2021; MEK name change to Meeka Metals in 2022.
+- **MYE:** Mastermyne Group → Metarock Group (2021), reverting to Mastermyne Group in 2024; ticker MYE unchanged.
+- **WRK:** Historical change from IP1 to WRK (named 'mrkr Ltd' in 2021 register); current CSV name 'WRKR LTD'. Verify subsequent name history as needed.
+- **No candidate exclusions** or edits to `operating_candidates.csv`.
+
+**Next:** Reconcile the 2020 ASX change register. Stage 2.2 remains **IN PROGRESS**.
