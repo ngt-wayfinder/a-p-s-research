@@ -240,3 +240,46 @@ A reusable parser is now committed at [`scripts/crossmatch_asx_code_changes.py`]
 - **No candidate exclusions** or edits to `operating_candidates.csv`.
 
 **Next:** Reconcile the 2020 ASX change register. Stage 2.2 remains **IN PROGRESS**.
+
+## 2020 register supplied by user — full 2020-section cross-match (13 October 2026)
+
+**Source:** User-transcribed ASX 2020 company name/code-change register. Matched both old and new ticker columns against the actual 316-code `operating_candidates.csv`. The source transcription has not been independently authenticated against ASX.
+
+**Result: 18 matched entries — 12 historical code changes into current candidates, 5 name-only changes, and 1 historical code collision (COF).** No candidate exclusions.
+
+### Historical ticker changes (12)
+
+| Effective date | Old code | Current candidate code | Company at change |
+|---|---|---|---|
+| 10 Dec 2020 | LCM | VBC | Verbrec Limited |
+| 1 Dec 2020 | PEL | SHN | Sunshine Gold Limited |
+| 30 Nov 2020 | FXL | HUM | Humm Group Limited |
+| 27 Nov 2020 | AZV | AHC | Austco Healthcare Limited |
+| 12 Nov 2020 | XTD | MXO | Motio Ltd |
+| 21 Oct 2020 | ARM | ANX | Anax Metals Limited |
+| 19 Aug 2020 | AYR | STK | Strickland Metals Limited |
+| 23 Jul 2020 | FRN | WC8 | Wildcat Resources Limited |
+| 2 Jul 2020 | BPL | ARR | American Rare Earths Limited |
+| 3 Apr 2020 | IMF | OBL | Omni Bridgeway Limited |
+| 24 Mar 2020 | OVL | IXR | Ionic Rare Earths Limited |
+| 3 Feb 2020 | PKA | TSO | Tesoro Resources Limited |
+
+### Name-only changes (5)
+
+| Effective date | Code | Old name | New name at change |
+|---|---|---|---|
+| 30 Dec 2020 | ODY | Odyssey Energy Limited | Odyssey Gold Ltd |
+| 9 Dec 2020 | CHN | Chalice Gold Mines Limited | Chalice Mining Limited |
+| 18 Nov 2020 | COG | Consolidated Operations Group Limited | COG Financial Services Limited |
+| 25 Sep 2020 | EMD | Emerald Clinics Limited | Emyria Limited |
+| 11 Sep 2020 | PNN | PepinNini Lithium Limited | PepinNini Minerals Limited |
+
+### Historical code collision (1)
+
+| Effective date | Old code | New code | Historic issuer | Current candidate | Decision |
+|---|---|---|---|---|---|
+| 10 Feb 2020 | CMA | COF | Centuria Metropolitan REIT → Centuria Office REIT | COF = Carma Limited | **Different issuer; do not link historical Centuria REIT data to Carma** |
+
+**Multi-year notes:** PEL → SHN (2020) followed by Sunshine Gold → Sunshine Metals name change (2023); PKA → TSO (2020) followed by Tesoro Resources → Tesoro Gold (2022); PNN name changes in 2020 and 2022. A separate 2024 code collision was recorded for VAL.
+
+**Next:** Reconcile the 2019 ASX change register. Stage 2.2 remains **IN PROGRESS**.
