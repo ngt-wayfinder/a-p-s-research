@@ -1,6 +1,6 @@
 # Step 1.3.2 — Action 2.3: Remaining issuer-continuity queue
 
-**Research date:** 13 October 2026. **Status:** triage prepared; 13 P1 issuer identity checks corroborated by independent ASX/issuer evidence; 220 P3 issuer checks not independently checked. These checks do not confirm current trading status or full ACN/ISIN history.
+**Research date:** 13 October 2026. **Status:** triage prepared; 13 P1 issuer identity checks corroborated by independent ASX/issuer evidence; 210 P3 issuer checks not independently checked. These checks do not confirm current trading status or full ACN/ISIN history.
 
 This queue is the set difference of all **316** codes in `operating_candidates.csv` and the **37** already documented in `STEP_1_3_2_NAME_CONTINUITY_REVIEW.md`. Exactly **279** candidates remain. Rows explicitly marked *Not independently checked* have no independent issuer evidence yet; all 13 annotated P1 rows have limited independent corroboration; none of these findings independently clears current tradeability. Priority is a **workflow heuristic, not an issuer-risk finding**. P1 = previously flagged ticker-reuse or trading-status exceptions; P2 = issuer name contains a parent/security-form term; P3 = remaining codes. The P2/P3 labels are not evidence of any corporate action.
 
@@ -12,20 +12,20 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 
 | Code | Candidate CSV company name | Triage priority | Independent issuer check |
 |---|---|---|---|
-| 14D | 1414 DEGREES LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| 14D | 1414 DEGREES LIMITED | P3 — routine issuer confirmation | 2026 issuer corroborated (ABN 57 138 803 620); 1 Sep 2026 acquisition of Vast Solar Aurora Pty Ltd flags project ownership, not proven parent change. https://www.marketindex.com.au/asx/14d/announcements/14d-secures-100-of-aurora-energy-precinct-2A1694120 |
 | AX1 | ACCENT GROUP LIMITED | P2 — parent/security-form check | P2 VERIFIED — ASX-filed 4 May 2026 trading update identifies Accent Group Limited (ASX:AX1), consistent with CSV name (https://announcements.asx.com.au/asxpdf/20260504/pdf/06z63tw1rf6dwj.pdf). No parent substitution or CDI treatment evidenced by this filing; full ACN/ISIN review outstanding. |
-| ACW | ACTINOGEN MEDICAL LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| ACW | ACTINOGEN MEDICAL LIMITED | P3 — routine issuer confirmation | 2026 issuer corroborated: Actinogen Medical Limited ACN 086 778 476, ASX ACW. https://investors.actinogen.com.au/announcements/7705819?fromLink=true |
 | ACE | ACUSENSUS LIMITED. | P2 — parent/security-form check | ISSUER corroborated — Nov 2025 Acusensus ASX AGM release: https://announcements.asx.com.au/asxpdf/20251119/pdf/06s5l3hlxr5h4q.pdf . Full historical succession/ISIN outstanding. |
-| ADH | ADAIRS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| AI1 | ADISYN LTD | P3 — routine issuer confirmation | Not independently checked |
-| AVM | ADVANCE METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| ADH | ADAIRS LIMITED | P3 — routine issuer confirmation | 2026 issuer corroborated: Adairs Limited ASX ADH, February 2026 1H results. https://announcements.asx.com.au/asxpdf/20260223/pdf/06wltn60g9ry6q.pdf |
+| AI1 | ADISYN LTD | P3 — routine issuer confirmation | Reviewed; no sufficiently grounded 2026 primary issuer filing in this batch. Identity/security class remains provisional. |
+| AVM | ADVANCE METALS LIMITED | P3 — routine issuer confirmation | 2026 issuer corroborated: Advance Metals Limited ASX AVM, February 2026 board-authorised presentation. https://announcements.asx.com.au/asxpdf/20260216/pdf/06wc293zpt4ykb.pdf |
 | AIH | ADVANCED INNERGY HOLDINGS LIMITED | P2 — parent/security-form check | ISSUER corroborated — Jan 2026 AGM proxy form: https://announcements.asx.com.au/asxpdf/20260120/pdf/06vf3qf93prd1b.pdf . Proposed Matrix Composites takeover (20 Apr 2026) is a separate transaction, not evidence of completion: https://announcements.asx.com.au/asxpdf/20260420/pdf/06yn2px0gr8x1h.pdf |
-| AGR | AGUIA RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| AUQ | ALARA RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| AGR | AGUIA RESOURCES LIMITED | P3 — routine issuer confirmation | 2026 issuer corroborated: Aguia Resources Limited ASX AGR; July 2026 proposed issue of fully paid ordinary shares, completion separately unverified. https://www.marketindex.com.au/asx/agr/announcements/proposed-issue-of-securities-agr-2A1685357 |
+| AUQ | ALARA RESOURCES LIMITED | P3 — routine issuer confirmation | Reviewed; no sufficiently grounded 2026 primary issuer filing in this batch. Identity/security class remains provisional. |
 | ALC | ALCIDION GROUP LIMITED | P2 — parent/security-form check | ISSUER CORROBORATED — 29 Apr 2026 Alcidion quarterly activities report identifies Alcidion Group Limited (ASX:ALC), ABN 77 143 142 410; parent-substitution history and ISIN still to verify. Source: https://announcements.asx.com.au/asxpdf/20260429/pdf/06yz2ypw46c3pn.pdf |
-| ARN | ALDORO RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| AQZ | ALLIANCE AVIATION SERVICES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| AGE | ALLIGATOR ENERGY LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| ARN | ALDORO RESOURCES LIMITED | P3 — routine issuer confirmation | 2026 issuer securities-announcement listing corroborated: Aldoro Resources ASX ARN; verify primary document and securities class. https://www.marketindex.com.au/asx/arn/announcements/proposed-issue-of-securities-arn-6A1334515 |
+| AQZ | ALLIANCE AVIATION SERVICES LIMITED | P3 — routine issuer confirmation | 2025 issuer corroborated: Alliance Aviation Services Limited ACN 153 361 525 ASX AQZ; 2026 confirmation pending. https://announcements.asx.com.au/asxpdf/20250821/pdf/06n4tp9r3gbxw5.pdf |
+| AGE | ALLIGATOR ENERGY LIMITED | P3 — routine issuer confirmation | 2026 annual report listing corroborates Alligator Energy ASX AGE; detailed report/security verification pending. https://www.marketindex.com.au/asx/age/announcements/annual-report-2026-2A1700738 |
 | ALR | ALTAIR MINERALS LIMITED | P1 — issuer reuse/status exception | Primary issuer evidence found: 27 Apr 2026 Altair Minerals ASX announcement (https://announcements.asx.com.au/asxpdf/20260427/pdf/06ywhv0xtg23bp.pdf); CHK→ALR 17 May 2024 ASX code-change register; unrelated Aberdeen Leaders ALR→CLF 2018. Current issuer name corroborated; ACN/ISIN not yet checked. |
 | ATH | ALTERITY THERAPEUTICS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | ALU | ALURION RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
@@ -341,3 +341,8 @@ New 2026 issuer-authored ASX filings corroborate PLT, RMC, SSG, SHG, and GRR (pr
 ### P2 evidence follow-up (13 October 2026)
 
 Issuer-source identity corroboration added for ACE, AIH, ECT, EGH, IFN, SNX, SXL, SPL. **Critical historical-data flags:** ECT 1:15 consolidation (26 Aug 2025); SXL/Seven West Media merger (7 Jan 2026) with FY26 pro-forma versus statutory basis; SNX US common stock represented by 1:1 CDIs. AIH/Matrix proposed acquisition is not treated as completed without implementation evidence. These updates close selected issuer-source gaps only, not full legal-entity succession, ISIN history or Step 1.2 tradeability. No change to 316 candidates.
+
+
+### Priority 3 batch 1 (13 October 2026)
+
+Initial review of 14D, ACW, ADH, AI1, AVM, AGR, AUQ, ARN, AQZ, AGE. Issuer-primary 2026 evidence for 14D, ACW, ADH, AVM and AGR; ARN/AGE have 2026 announcement-listing evidence, AQZ issuer-primary 2025 evidence, and AI1/AUQ lack adequate primary evidence in this pass. Corporate action flags: 14D Aurora project ownership; AGR proposed ordinary share issue (not proven completed). 10/220 P3 initially reviewed; 210 P3 remain. No trading-status or full issuer-lineage clearance and no change to 316 candidates.
