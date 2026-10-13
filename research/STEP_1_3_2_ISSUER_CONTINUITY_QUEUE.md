@@ -1,8 +1,8 @@
 # Step 1.3.2 — Action 2.3: Remaining issuer-continuity queue
 
-**Research date:** 13 October 2026. **Status:** triage prepared; 12 P1 issuer identity checks corroborated by independent ASX/issuer evidence; BSA remains evidence-gapped; 266 other P2/P3 issuer checks not independently checked. These checks do not confirm current trading status or full ACN/ISIN history.
+**Research date:** 13 October 2026. **Status:** triage prepared; 13 P1 issuer identity checks corroborated by independent ASX/issuer evidence; 266 P2/P3 issuer checks not independently checked. These checks do not confirm current trading status or full ACN/ISIN history.
 
-This queue is the set difference of all **316** codes in `operating_candidates.csv` and the **37** already documented in `STEP_1_3_2_NAME_CONTINUITY_REVIEW.md`. Exactly **279** candidates remain. Rows explicitly marked *Not independently checked* have no independent issuer evidence yet; 12 annotated P1 rows have limited independent corroboration; BSA was reviewed but not independently corroborated. Priority is a **workflow heuristic, not an issuer-risk finding**. P1 = previously flagged ticker-reuse or trading-status exceptions; P2 = issuer name contains a parent/security-form term; P3 = remaining codes. The P2/P3 labels are not evidence of any corporate action.
+This queue is the set difference of all **316** codes in `operating_candidates.csv` and the **37** already documented in `STEP_1_3_2_NAME_CONTINUITY_REVIEW.md`. Exactly **279** candidates remain. Rows explicitly marked *Not independently checked* have no independent issuer evidence yet; all 13 annotated P1 rows have limited independent corroboration; none of these findings independently clears current tradeability. Priority is a **workflow heuristic, not an issuer-risk finding**. P1 = previously flagged ticker-reuse or trading-status exceptions; P2 = issuer name contains a parent/security-form term; P3 = remaining codes. The P2/P3 labels are not evidence of any corporate action.
 
 **Priority counts:** P1 13; P2 46; P3 220; total 279.
 
@@ -75,7 +75,7 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | BRN | BRAINCHIP HOLDINGS LTD | P2 — parent/security-form check | Not independently checked |
 | BCM | BRAZILIAN CRITICAL MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | BRK | BROOKSIDE ENERGY LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| BSA | BSA LIMITED | P1 — issuer reuse/status exception | P1 REVIEWED — evidence gap: no independently retrieved dated issuer filing in this pass. Retain unresolved issuer-identity status; separate prior trading reinstatement evidence from current trading status. |
+| BSA | BSA LIMITED | P1 — issuer reuse/status exception | P1 ISSUER CORROBORATED — ASX-filed 2026 half-year report identifies BSA Limited as an Australian-incorporated ASX-listed company (https://announcements.asx.com.au/asxpdf/20260220/pdf/06wjrz3p9rnvwm.pdf). ASX Appendix 3G dated 1 May 2026 identifies BSA Limited, ACN 088 412 748, ASX code BSA (https://www.marketindex.com.au/asx/bsa/announcements/notification-regarding-unquoted-securities-bsa-2A1669611). FY2026 annual report (20 Aug 2026) identifies BSA as listed ultimate parent (https://financialfilings.com/filings/bsa-limited/annual-report/2026/57006560/). September 2026 suspension notices exist; tradeability is NOT established by these identity filings. Historic parent continuity before 2026 not exhaustively checked. |
 | BUB | BUBS AUSTRALIA LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | CRS | CAPRICE RESOURCES LTD | P3 — routine issuer confirmation | Not independently checked |
 | CVV | CARAVEL MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
@@ -296,3 +296,8 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 ### Priority 1 follow-up — 13 October 2026
 
 Reviewed the remaining eight Priority 1 tickers. Seven (EWC, GWR, MRD, PAR, REC, SFM, TM1) have independent issuer-name corroboration from dated company/ASX filings or investor disclosures. **BSA remains unresolved** for lack of a retrieved primary filing in this pass. This is issuer identity evidence only: do **not** treat as proof of current tradeability, absence of delisting, or full legal succession. GWR capital return and historical MRD/REC code reuse warrant explicit corporate-action/data-join checks. The 316 candidate records remain unchanged.
+
+
+### Priority 1 completion note — BSA (13 October 2026)
+
+BSA's issuer identity is supported by the ASX-filed February 2026 half-year report and May 2026 Appendix 3G (ACN 088 412 748); the August 2026 annual report confirms the listed parent. All 13 P1 candidates now have some independently corroborated issuer-identity evidence. **This does not sign off full legal-entity lineage or Step 1.2 trading status.** BSA's September 2026 suspension history requires a separate dated follow-up.
