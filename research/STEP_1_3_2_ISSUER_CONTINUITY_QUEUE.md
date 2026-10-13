@@ -15,11 +15,11 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | 14D | 1414 DEGREES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | AX1 | ACCENT GROUP LIMITED | P2 — parent/security-form check | P2 VERIFIED — ASX-filed 4 May 2026 trading update identifies Accent Group Limited (ASX:AX1), consistent with CSV name (https://announcements.asx.com.au/asxpdf/20260504/pdf/06z63tw1rf6dwj.pdf). No parent substitution or CDI treatment evidenced by this filing; full ACN/ISIN review outstanding. |
 | ACW | ACTINOGEN MEDICAL LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| ACE | ACUSENSUS LIMITED. | P2 — parent/security-form check | INDEX CORROBORATED — S&P/ASX June 2026 index notice identifies ACE as Acusensus Limited, but is not an issuer filing; issuer ACN/ISIN and continuity remain unverified. Source: https://announcements.asx.com.au/asxpdf/20260605/pdf/070ck790lxncyr.pdf |
+| ACE | ACUSENSUS LIMITED. | P2 — parent/security-form check | ISSUER corroborated — Nov 2025 Acusensus ASX AGM release: https://announcements.asx.com.au/asxpdf/20251119/pdf/06s5l3hlxr5h4q.pdf . Full historical succession/ISIN outstanding. |
 | ADH | ADAIRS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | AI1 | ADISYN LTD | P3 — routine issuer confirmation | Not independently checked |
 | AVM | ADVANCE METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| AIH | ADVANCED INNERGY HOLDINGS LIMITED | P2 — parent/security-form check | INDEX CORROBORATED — S&P/ASX March 2026 index notice identifies AIH as Advanced Innergy Holdings Limited; issuer filing, ACN/ISIN and predecessor review still required. Source: https://announcements.asx.com.au/asxpdf/20260306/pdf/06x4vd88v6bpg7.pdf |
+| AIH | ADVANCED INNERGY HOLDINGS LIMITED | P2 — parent/security-form check | ISSUER corroborated — Jan 2026 AGM proxy form: https://announcements.asx.com.au/asxpdf/20260120/pdf/06vf3qf93prd1b.pdf . Proposed Matrix Composites takeover (20 Apr 2026) is a separate transaction, not evidence of completion: https://announcements.asx.com.au/asxpdf/20260420/pdf/06yn2px0gr8x1h.pdf |
 | AGR | AGUIA RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | AUQ | ALARA RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | ALC | ALCIDION GROUP LIMITED | P2 — parent/security-form check | ISSUER CORROBORATED — 29 Apr 2026 Alcidion quarterly activities report identifies Alcidion Group Limited (ASX:ALC), ABN 77 143 142 410; parent-substitution history and ISIN still to verify. Source: https://announcements.asx.com.au/asxpdf/20260429/pdf/06yz2ypw46c3pn.pdf |
@@ -114,9 +114,9 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | ENR | ENCOUNTER RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | ETM | ENERGY TRANSITION MINERALS LTD | P3 — routine issuer confirmation | Not independently checked |
 | EWC | ENERGY WORLD CORPORATION LTD | P1 — issuer reuse/status exception | P1 ISSUER CORROBORATED — issuer investor site identifies Energy World Corporation Ltd (ASX:EWC), ACN 009 124 994, and links June 2026 company disclosure: https://ewc-energy.com/ . No historical entity substitution established from this source; current tradeability unverified. |
-| ECT | ENVIRONMENTAL CLEAN TECHNOLOGIES LIMITED. | P2 — parent/security-form check | 2025 issuer annual report corroborated; 2026 confirmation pending |
+| ECT | ENVIRONMENTAL CLEAN TECHNOLOGIES LIMITED. | P2 — parent/security-form check | ISSUER corroborated — 6 Oct 2026 issuer announcement, ABN 28 009 120 405: https://www.marketindex.com.au/asx/ect/announcements/ect-strengthens-board-for-next-phase-of-growth-6A1347881 . MATERIAL CORPORATE ACTION: 1-for-15 ordinary-share consolidation completed 26 Aug 2025, per issuer ASX filing https://announcements.asx.com.au/asxpdf/20250826/pdf/06nc9sp162507s.pdf . Historical share counts/prices need basis control. |
 | EQU | EQUUS ENERGY LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| EGH | EUREKA GROUP HOLDINGS LIMITED | P2 — parent/security-form check | Historical issuer financial report corroborated; 2026 confirmation pending |
+| EGH | EUREKA GROUP HOLDINGS LIMITED | P2 — parent/security-form check | ISSUER corroborated — Feb 2026 half-year issuer results, ABN 15 097 241 159: https://announcements.asx.com.au/asxpdf/20260224/pdf/06wnlx6brfb1rg.pdf . Historical succession/ISIN pending. |
 | EVZ | EVZ LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | FAL | FALCON METALS LTD | P3 — routine issuer confirmation | Not independently checked |
 | FXG | FELIX GOLD LIMITED | P3 — routine issuer confirmation | Not independently checked |
@@ -148,7 +148,7 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | IMA | IMAGE RESOURCES NL | P3 — routine issuer confirmation | Not independently checked |
 | IMM | IMMUTEP LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | IMU | IMUGENE LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| IFN | INFRAGREEN GROUP LIMITED | P2 — parent/security-form check | 2025 index notice only; issuer filing pending |
+| IFN | INFRAGREEN GROUP LIMITED | P2 — parent/security-form check | ISSUER corroborated — Sep 2025 issuer announcement, ACN 668 228 742: https://announcements.asx.com.au/asxpdf/20250926/pdf/06pq5qs277zx9w.pdf . Ordinary share evidence: https://announcements.asx.com.au/asxpdf/20250627/pdf/06l66nr9wnwqrw.pdf . 2026 update pending. |
 | INN | INNOVAERO TECHNOLOGIES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | IMB | INTELLIGENT MONITORING GROUP LIMITED | P2 — parent/security-form check | December 2025 issuer announcement corroborated; ABN 36 060 774 227; 2026 confirmation pending |
 | IVZ | INVICTUS ENERGY LTD | P3 — routine issuer confirmation | Not independently checked |
@@ -242,17 +242,17 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | SEA | SEA FOREST LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | SNM | SENTINEL METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | SSG | SHAVER SHOP GROUP LIMITED | P2 — parent/security-form check | 2026 issuer annual report confirms Shaver Shop Group Limited ASX SSG and ABN 78 150 747 649; historical succession/ISIN pending. https://announcements.asx.com.au/asxpdf/20260828/pdf/072s0b46twc9bk.pdf |
-| SNX | SIERRA NEVADA GOLD INC. | P2 — parent/security-form check | 2026 half-year accounts listed 11 Sep 2026; foreign-incorporated issuer/security type and document content pending. https://www.marketindex.com.au/asx/snx |
+| SNX | SIERRA NEVADA GOLD INC. | P2 — parent/security-form check | ISSUER corroborated — Apr 2026 AGM notice confirms Sierra Nevada Gold Inc, ARBN 653 575 618 and 1 CDI representing 1 US common share: https://announcements.asx.com.au/asxpdf/20260428/pdf/06yy0pccc500yl.pdf . Foreign issuer; maintain CDI/share distinction. |
 | SVL | SILVER MINES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | SHG | SINGULAR HEALTH GROUP LTD | P2 — parent/security-form check | 2026 issuer half-year report confirms Singular Health Group Ltd ASX SHG and ACN 626 548 214; historical succession/ISIN pending. https://announcements.asx.com.au/asxpdf/20260227/pdf/06wvtx18vrbx38.pdf |
 | SKY | SKY METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | SPZ | SMART PARKING LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | SVR | SOLVAR LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| SXL | SOUTHERN CROSS MEDIA GROUP LIMITED | P2 — parent/security-form check | Historical index holdings corroborate Southern Cross Media ticker SXL (2012 only); 2026 issuer identity and corporate actions unverified. https://announcements.asx.com.au/asxpdf/20120427/pdf/425wjg0mv79d0w.pdf |
+| SXL | SOUTHERN CROSS MEDIA GROUP LIMITED | P2 — parent/security-form check | ISSUER corroborated — 11 Jun 2026 issuer trading update: https://announcements.asx.com.au/asxpdf/20260611/pdf/070hztpwgkz8c7.pdf . MATERIAL MERGER: Seven West Media combined with Southern Cross Media effective 7 Jan 2026; FY26 pro forma metrics assume merger on 1 Jul 2025 and must not be treated as historical statutory comparables. |
 | SPD | SOUTHERN PALLADIUM LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | SVM | SOVEREIGN METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | SGQ | ST GEORGE MINING LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| SPL | STARPHARMA HOLDINGS LIMITED | P2 — parent/security-form check | Historical index holdings corroborate Starpharma ticker SPL (2012 only); 2026 issuer identity and corporate actions unverified. https://announcements.asx.com.au/asxpdf/20120427/pdf/425wjg0mv79d0w.pdf |
+| SPL | STARPHARMA HOLDINGS LIMITED | P2 — parent/security-form check | ISSUER corroborated — 26 Aug 2026 FY26 results issuer release: https://www.marketindex.com.au/asx/spl/announcements/fy26-key-financial-results-and-annual-report-3A699854 . Historical succession/ISIN pending. |
 | SLB | STELAR METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | SRZ | STELLAR RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | STK | STRICKLAND METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
@@ -336,3 +336,8 @@ TOK: PNG-incorporated issuer, ARBN 657 300 359; TOR: Australian issuer, ABN 44 6
 ### P2 evidence-gap follow-up (13 October 2026)
 
 New 2026 issuer-authored ASX filings corroborate PLT, RMC, SSG, SHG, and GRR (primary URLs in rows). These replace missing or third-party-only evidence; they do **not** establish full historical legal-entity continuity, ISIN or tradeability. Remaining weaker-evidence P2 cases include ACE, AIH, ECT, EGH, IFN, SNX, SXL and SPL. No changes to the 316 candidate rows.
+
+
+### P2 evidence follow-up (13 October 2026)
+
+Issuer-source identity corroboration added for ACE, AIH, ECT, EGH, IFN, SNX, SXL, SPL. **Critical historical-data flags:** ECT 1:15 consolidation (26 Aug 2025); SXL/Seven West Media merger (7 Jan 2026) with FY26 pro-forma versus statutory basis; SNX US common stock represented by 1:1 CDIs. AIH/Matrix proposed acquisition is not treated as completed without implementation evidence. These updates close selected issuer-source gaps only, not full legal-entity succession, ISIN history or Step 1.2 tradeability. No change to 316 candidates.
