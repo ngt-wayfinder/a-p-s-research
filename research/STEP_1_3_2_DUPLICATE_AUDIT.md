@@ -35,3 +35,10 @@ Action 2: investigate flagged pairs and any identity-related corporate actions, 
 ## Reproducibility
 
 `scripts/audit_operating_duplicates.py` is a reusable Python script for ticker/name duplicates and fuzzy review. It uses the same normalized Levenshtein fuzzy-scoring method as the initial audit; the threshold is 0.84.
+
+## Action 2 — Pair-by-pair verification
+
+- **AUQ / AS1 — VERIFIED DISTINCT (13 Oct 2026):** Different ABNs (27 122 892 719 vs 39 006 710 774) and different mining projects (Oman vs Guinea). Both retained. [Evidence record](identity_checks/AUQ_AS1_2026-10-13.md).
+- **AS1 / AAR — PENDING.**
+- **SHN / STM — PENDING.**
+- **KGL / MGX — PENDING.**
