@@ -132,7 +132,7 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | GL1 | GLOBAL LITHIUM RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | GHY | GOLD HYDROGEN LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | GHM | GOLDEN HORSE MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| GRR | GRANGE RESOURCES LIMITED. | P2 — parent/security-form check | Third-party 2026 mention only; issuer filing pending |
+| GRR | GRANGE RESOURCES LIMITED. | P2 — parent/security-form check | 2026 issuer quarterly activities report confirms Grange Resources Limited ASX GRR and ABN 80 009 132 405; historical succession/ISIN pending. https://announcements.asx.com.au/asxpdf/20260729/pdf/071sjv6sp79sgf.pdf |
 | GBR | GREAT BOULDER RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | GW1 | GREENWING RESOURCES LTD | P3 — routine issuer confirmation | Not independently checked |
 | GWR | GWR GROUP LIMITED | P1 — issuer reuse/status exception | P1 ISSUER CORROBORATED — company investor archive lists GWR Group 29 Sep 2026 annual report and Sep 2026 capital return: https://gwrgroup.com.au/investor-centre/asx-announcements/ . Capital return is a corporate action to assess separately; does not establish name/issuer change or current trading status. |
@@ -217,7 +217,7 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | PEN | PENINSULA ENERGY LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | PWR | PETER WARREN AUTOMOTIVE HOLDINGS LIMITED | P2 — parent/security-form check | 2026 issuer investor archive confirms FY26 results and 2 Oct 2026 Wakeling acquisition completion; corporate acquisition not assumed parent change: https://www.pwah.com.au/site/investor-centre/asx-announcements |
 | PVT | PIVOTAL METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| PLT | PLENTI GROUP LIMITED | P2 — parent/security-form check | Reviewed — primary 2026 issuer filing not retrieved; identity/security form pending. |
+| PLT | PLENTI GROUP LIMITED | P2 — parent/security-form check | 2026 issuer annual report confirms Plenti Group Limited ASX PLT and ACN 166 646 635; historical succession/ISIN still pending. https://announcements.asx.com.au/asxpdf/20260826/pdf/072pnqf0w07w9w.pdf |
 | PVE | PO VALLEY ENERGY LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | POL | POLYMETALS RESOURCES LTD | P3 — routine issuer confirmation | Not independently checked |
 | PPS | PRAEMIUM LIMITED | P3 — routine issuer confirmation | Not independently checked |
@@ -228,7 +228,7 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | RDY | READYTECH HOLDINGS LIMITED | P2 — parent/security-form check | 2026 annual report listed 27 Aug 2026 in market announcements; issuer report content/ACN not independently inspected. https://www.marketindex.com.au/asx/rdy |
 | REC | RECHARGE METALS LIMITED | P1 — issuer reuse/status exception | P1 ISSUER CORROBORATED — ASX-filed 26 Sep 2025 AGM announcement identifies Recharge Metals Limited (ASX:REC), ABN 13 647 703 839: https://announcements.asx.com.au/asxpdf/20250926/pdf/06pr0hgjlfwv4f.pdf . ASX historical issuer-code archive lists another REC user (https://www.asx.com.au/asx/v2/statistics/announcements.do?by=issuerId&issuerId=3924&timeframe=Y&year=2020). Current halt/trading outcome unresolved. |
 | RNU | RENASCOR RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| RMC | RESIMAC GROUP LTD | P2 — parent/security-form check | Reviewed — primary 2026 issuer filing not retrieved; identity/security form pending. |
+| RMC | RESIMAC GROUP LTD | P2 — parent/security-form check | 2026 issuer annual report confirms Resimac Group Ltd ASX RMC and ABN 67 002 997 935; historical succession/ISIN pending. https://announcements.asx.com.au/asxpdf/20260828/pdf/072s82ylcgtz85.pdf |
 | RML | RESOLUTION MINERALS LTD | P3 — routine issuer confirmation | Not independently checked |
 | RFG | RETAIL FOOD GROUP LIMITED | P2 — parent/security-form check | 2026 annual report listed 26 Aug 2026; issuer report content/ACN not independently inspected. https://hotcopper.com.au/asx/rfg/announcements/ |
 | RIV | RIVCO AUSTRALIA LTD | P3 — routine issuer confirmation | Not independently checked |
@@ -241,10 +241,10 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | SCX | SCX.AI HOLDINGS LIMITED | P2 — parent/security-form check | Issuer website identifies SCX.ai Holdings Limited ASX:SCX and ACN 688 872 095; legal continuity/security form not fully checked. https://scx.ai/investors |
 | SEA | SEA FOREST LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | SNM | SENTINEL METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| SSG | SHAVER SHOP GROUP LIMITED | P2 — parent/security-form check | Reviewed — primary 2026 issuer filing not retrieved; identity/security form pending. |
+| SSG | SHAVER SHOP GROUP LIMITED | P2 — parent/security-form check | 2026 issuer annual report confirms Shaver Shop Group Limited ASX SSG and ABN 78 150 747 649; historical succession/ISIN pending. https://announcements.asx.com.au/asxpdf/20260828/pdf/072s0b46twc9bk.pdf |
 | SNX | SIERRA NEVADA GOLD INC. | P2 — parent/security-form check | 2026 half-year accounts listed 11 Sep 2026; foreign-incorporated issuer/security type and document content pending. https://www.marketindex.com.au/asx/snx |
 | SVL | SILVER MINES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| SHG | SINGULAR HEALTH GROUP LTD | P2 — parent/security-form check | Reviewed — primary 2026 issuer filing not retrieved; identity/security form pending. |
+| SHG | SINGULAR HEALTH GROUP LTD | P2 — parent/security-form check | 2026 issuer half-year report confirms Singular Health Group Ltd ASX SHG and ACN 626 548 214; historical succession/ISIN pending. https://announcements.asx.com.au/asxpdf/20260227/pdf/06wvtx18vrbx38.pdf |
 | SKY | SKY METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | SPZ | SMART PARKING LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | SVR | SOLVAR LIMITED | P3 — routine issuer confirmation | Not independently checked |
@@ -331,3 +331,8 @@ Ten tickers reviewed: PLT, RDY, RMC, RFG, SCX, SSG, SNX, SHG, SXL, SPL. **Only S
 ### P2 batch 6 — final initial reviews (13 October 2026)
 
 TOK: PNG-incorporated issuer, ARBN 657 300 359; TOR: Australian issuer, ABN 44 621 122 905; WJL: ACN 679 116 762 and material **30 September 2024 demerger** from Web Travel Group (WEB). Primary ASX filing links recorded in rows. **46/46 P2 rows now initially reviewed**, but many have provisional/old/third-party-only evidence and parent/security-form details remain unresolved. **Do not mark Step 1.3.2 complete.** Remaining 220 P3 initial checks; no changes to 316-company universe.
+
+
+### P2 evidence-gap follow-up (13 October 2026)
+
+New 2026 issuer-authored ASX filings corroborate PLT, RMC, SSG, SHG, and GRR (primary URLs in rows). These replace missing or third-party-only evidence; they do **not** establish full historical legal-entity continuity, ISIN or tradeability. Remaining weaker-evidence P2 cases include ACE, AIH, ECT, EGH, IFN, SNX, SXL and SPL. No changes to the 316 candidate rows.
