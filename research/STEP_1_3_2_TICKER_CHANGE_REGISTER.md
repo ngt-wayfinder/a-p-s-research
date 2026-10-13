@@ -72,3 +72,24 @@ A reusable parser is now committed at [`scripts/crossmatch_asx_code_changes.py`]
 **Caveats:** The 15 Oct 2026 entry is future-dated relative to the research date (13 Oct) and is not treated as an already-effective change. This match covers **only the 2026 entries supplied**, not 2018–2025 or any omissions from the supplied transcription. Other 2026 entries have no old/new ticker match to the 316 candidates.
 
 **Next:** Obtain and cross-match the **2025** ASX change-register section, followed by earlier years. The full 2018–2026 historical audit remains **IN PROGRESS**.
+
+## 2025 register supplied by user — cross-match (13 October 2026)
+
+**Source:** User-transcribed 2025 ASX company name/code-change table. Entries were compared against the 316 candidate codes. This is a source-based reconciliation, not independent authentication of the transcription against ASX.
+
+**Results:** 8 matching candidate tickers; **1 code change** (D2O → RIV) and **7 name-only changes**.
+
+| Effective date | Old code | Old name | New code | New name | Change type | Candidate action |
+|---|---|---|---|---|---|---|
+| 8 Apr 2025 | 3DA | Amaero International Ltd | 3DA | Amaero Ltd | Name only | Retain 3DA; verify discrepancy with candidate CSV 'AMAERO INC.' |
+| 28 Jul 2025 | MTM | MTM Critical Metals Limited | MTM | Metallium Limited | Name only | Retain |
+| 7 Aug 2025 | RMI | Resource Mining Corporation Limited | RMI | Resource Minerals International Ltd | Name only | Retain |
+| 15 Oct 2025 | D2O | Duxton Water Limited | RIV | Rivco Australia Ltd | **Code and name** | Retain RIV; link D2O historical price/announcement records |
+| 2 Dec 2025 | IVR | Investigator Resources Ltd | IVR | Investigator Silver Limited | Name only | Retain |
+| 4 Dec 2025 | MGX | Mount Gibson Iron Limited | MGX | MGX Resources Limited | Name only | Retain |
+| 4 Dec 2025 | OCN | Oceana Lithium Limited | OCN | Oceana Metals Limited | Name only | Retain |
+| 10 Dec 2025 | RAC | Race Oncology Ltd | RAC | Racura Oncology Ltd | Name only | Retain |
+
+**Notes:** MGX and RAC were already mentioned in the initial illustrative register and are not additional unique matches. RIV is the one candidate requiring a historical ticker alias. A company-name mismatch between 3DA's CSV name and the 2025 table is a review item, not evidence of a duplicate. This is a **2025-section comparison only**; earlier years remain outstanding.
+
+**Next:** Obtain and compare the 2024 ASX code/name-change register against the same 316 candidates.
