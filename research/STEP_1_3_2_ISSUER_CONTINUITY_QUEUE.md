@@ -1,6 +1,6 @@
 # Step 1.3.2 — Action 2.3: Remaining issuer-continuity queue
 
-**Research date:** 13 October 2026. **Status:** triage prepared; 13 P1 issuer identity checks corroborated by independent ASX/issuer evidence; 223 P2/P3 issuer checks not independently checked. These checks do not confirm current trading status or full ACN/ISIN history.
+**Research date:** 13 October 2026. **Status:** triage prepared; 13 P1 issuer identity checks corroborated by independent ASX/issuer evidence; 220 P3 issuer checks not independently checked. These checks do not confirm current trading status or full ACN/ISIN history.
 
 This queue is the set difference of all **316** codes in `operating_candidates.csv` and the **37** already documented in `STEP_1_3_2_NAME_CONTINUITY_REVIEW.md`. Exactly **279** candidates remain. Rows explicitly marked *Not independently checked* have no independent issuer evidence yet; all 13 annotated P1 rows have limited independent corroboration; none of these findings independently clears current tradeability. Priority is a **workflow heuristic, not an issuer-risk finding**. P1 = previously flagged ticker-reuse or trading-status exceptions; P2 = issuer name contains a parent/security-form term; P3 = remaining codes. The P2/P3 labels are not evidence of any corporate action.
 
@@ -267,8 +267,8 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | TTM | TITAN MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | TTT | TITOMIC LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | TVN | TIVAN LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| TOK | TOLU MINERALS LIMITED. | P2 — parent/security-form check | Not independently checked |
-| TOR | TORQUE METALS LIMITED.. | P2 — parent/security-form check | Not independently checked |
+| TOK | TOLU MINERALS LIMITED. | P2 — parent/security-form check | 2026 issuer annual report corroborates Tolu Minerals Limited; PNG-incorporated, ARBN 657 300 359. https://announcements.asx.com.au/asxpdf/20260331/pdf/06y0b7kswgq80l.pdf ; PNG registration https://announcements.asx.com.au/asxpdf/20250331/pdf/06h66ygfd759bl.pdf . Security form/ISIN pending. |
+| TOR | TORQUE METALS LIMITED.. | P2 — parent/security-form check | 2026 issuer half-year financial statements corroborate Torque Metals Limited, ABN 44 621 122 905, ASX TOR. https://announcements.asx.com.au/asxpdf/20260316/pdf/06xhf3m202xd16.pdf ; historical succession/ISIN pending. |
 | TRE | TOUBANI RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | TNC | TRUE NORTH COPPER LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | TGN | TUNGSTEN MINING NL | P3 — routine issuer confirmation | Not independently checked |
@@ -284,7 +284,7 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | VVA | VIVA LEISURE LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | VYS | VYSARN LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | WTM | WARATAH MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| WJL | WEBJET GROUP LIMITED | P2 — parent/security-form check | Not independently checked |
+| WJL | WEBJET GROUP LIMITED | P2 — parent/security-form check | 2026 issuer results corroborate Webjet Group Limited ACN 679 116 762 ASX WJL: https://announcements.asx.com.au/asxpdf/20260520/pdf/06zs1jh6zq9y1p.pdf . Material 30 Sep 2024 demerger from Web Travel Group; predecessor operating results must be segmented, not joined as same listed issuer: https://announcements.asx.com.au/asxpdf/20241127/pdf/06bwtcz6mvrwpk.pdf . 19 May 2026 trading halt does not establish present tradeability. |
 | WWI | WEST WITS MINING LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | WCN | WHITE CLIFF MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | WEC | WHITE ENERGY COMPANY LIMITED | P3 — routine issuer confirmation | Not independently checked |
@@ -326,3 +326,8 @@ Ten reviewed: JGH, LDX, LUX, MM8, MVF, MYR, NMR, NYR, OFX, PWR. Most issuer iden
 ### P2 batch 5 (13 October 2026)
 
 Ten tickers reviewed: PLT, RDY, RMC, RFG, SCX, SSG, SNX, SHG, SXL, SPL. **Only SCX has a current issuer-owned identity source from this pass.** RDY/RFG/SNX have 2026 announcement-listing evidence but underlying issuer filings were not inspected. SXL/SPL historical index holdings are not 2026 confirmation. PLT/RMC/SSG/SHG remain evidence gaps. These are review statuses, not completed legal-parent/security-form verification. P2 reviewed 43/46; three not yet reviewed. P2/P3 not yet reviewed 223. No CSV exclusions or trading-status conclusion.
+
+
+### P2 batch 6 — final initial reviews (13 October 2026)
+
+TOK: PNG-incorporated issuer, ARBN 657 300 359; TOR: Australian issuer, ABN 44 621 122 905; WJL: ACN 679 116 762 and material **30 September 2024 demerger** from Web Travel Group (WEB). Primary ASX filing links recorded in rows. **46/46 P2 rows now initially reviewed**, but many have provisional/old/third-party-only evidence and parent/security-form details remain unresolved. **Do not mark Step 1.3.2 complete.** Remaining 220 P3 initial checks; no changes to 316-company universe.
