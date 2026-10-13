@@ -1,0 +1,1637 @@
+[
+  {
+    "ASX_Code": "SGI",
+    "facts": {
+      "current_legal_issuer": "STEALTH GROUP HOLDINGS LTD",
+      "ACN": "615518020",
+      "ABN": "UNKNOWN",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "ORDINARY FULLY PAID",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20261007/pdf/0752246fd4ny9f.pdf",
+        "title": "Application for quotation of securities - SGI",
+        "date": "2026-10-07",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer STEALTH GROUP HOLDINGS LTD; ACN 615518020; ORDINARY FULLY PAID. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260819/pdf/072x4b0zcy9wjf.pdf",
+        "title": "2026 Annual Report to Shareholders",
+        "date": "2026-08-19",
+        "page_section": "Cover / General information / issued capital / consolidated entity disclosure",
+        "fact": "Annual report names Stealth Group Holdings Ltd reporting issuer; statutory period/capital note available. Current legal/security history remains incomplete.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: ORDINARY FULLY PAID class confirmed; permanent ISIN and complete historical classes/actions still open.",
+    "trading_conclusion": "UNRESOLVED as at13Oct2026; archive headlines alone cannot certify current tradability.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 39 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "SGQ",
+    "facts": {
+      "current_legal_issuer": "ST GEORGE MINING LIMITED",
+      "ACN": "139308973",
+      "ABN": "UNKNOWN",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "ORDINARY FULLY PAID",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260918/pdf/07487vbns54212.pdf",
+        "title": "Application for quotation of securities - SGQ",
+        "date": "2026-09-18",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer ST GEORGE MINING LIMITED; ACN 139308973; ORDINARY FULLY PAID. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260929/pdf/074p3mpsfz1gff.pdf",
+        "title": "Annual Report to Shareholders",
+        "date": "2026-09-29",
+        "page_section": "Cover / General information / issued capital / consolidated entity disclosure",
+        "fact": "Annual report names St George Mining Limited reporting issuer; statutory period/capital note available. Current legal/security history remains incomplete.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260615/pdf/070mlyhy45qbsx.pdf",
+        "title": "Trading Halt",
+        "date": "2026-06-15",
+        "page_section": "ASX Market Announcement p1 and attached issuer request",
+        "fact": "Market Announcement 15 June 2026 St George Mining Limited (ASX: SGQ) – Trading Halt Trading in the securities of St George Mining Limited (‘SGQ’) will be halted at the request of SGQ, pending the release of an announcement by SGQ. Unless ASX decides otherwise, the securities will remain in trading halt until the earlier of: • the commencement of normal trading on Wednesday, 17 June 2026; or For personal use only • the release of the announcement to the market. SGQ’s request for a trading halt is attached below for the information of the market. Issued by ASX Compliance 15 June 2026 Market Announcement 1/1 ASX Lim",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: ORDINARY FULLY PAID class confirmed; permanent ISIN and complete historical classes/actions still open.",
+    "trading_conclusion": "Trading Halt documented2026-06-15; current13Oct2026 state remains unresolved pending release/lifting/current-state evidence.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 134 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "SHG",
+    "facts": {
+      "current_legal_issuer": "SINGULAR HEALTH GROUP LTD",
+      "ACN": "UNKNOWN",
+      "ABN": "58639242765",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia",
+      "ISIN": "UNKNOWN",
+      "security_type": "ORDINARY FULLY PAID",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260817/pdf/072v8n6jw0l5t5.pdf",
+        "title": "Application for quotation of securities - SHG",
+        "date": "2026-08-17",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer SINGULAR HEALTH GROUP LTD; ABN 58639242765; ORDINARY FULLY PAID. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260831/pdf/073gk2kn0x855s.pdf",
+        "title": "Appendix 4E and Annual Report to Shareholders",
+        "date": "2026-08-31",
+        "page_section": "Cover / General information / issued capital / consolidated entity disclosure",
+        "fact": "Annual report names Singular Health Group Ltd reporting issuer; statutory period/capital note available. Current legal/security history remains incomplete. Appendix4E ABN58 639242765; generalinformation Australia-incorporated parent; ordinary fully paid shares. Earlier626548214 baseline identity is wrong/unsupported.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: ORDINARY FULLY PAID class confirmed; permanent ISIN and complete historical classes/actions still open.",
+    "trading_conclusion": "UNRESOLVED as at13Oct2026; archive headlines alone cannot certify current tradability.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 35 announcement rows through13Oct2026 examined for identity/class/status sources.",
+      "Correct baseline ACN626548214; actual parent identifier ABN58639242765 (ACN639242765 separately ABR-confirmed in prior actual primary read)."
+    ]
+  },
+  {
+    "ASX_Code": "SHN",
+    "facts": {
+      "current_legal_issuer": "SUNSHINE METALS LIMITED",
+      "ACN": "063388821",
+      "ABN": "UNKNOWN",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "ORDINARY FULLY PAID",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260820/pdf/0730dd1325jhj8.pdf",
+        "title": "Application for quotation of securities - SHN",
+        "date": "2026-08-20",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer SUNSHINE METALS LIMITED; ACN 063388821; ORDINARY FULLY PAID. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260428/pdf/06yxv3bw9dx6wr.pdf",
+        "title": "Trading Halt",
+        "date": "2026-04-28",
+        "page_section": "ASX Market Announcement p1 and attached issuer request",
+        "fact": "Market Announcement 28 April 2026 Sunshine Metals Limited (ASX: SHN) – Trading Halt Trading in the securities of Sunshine Metals Limited (‘SHN’) will be halted at the request of SHN, pending the release of an announcement by SHN. Unless ASX decides otherwise, the securities will remain in trading halt until the earlier of: • the commencement of normal trading on Thursday, 30 April 2026; or For personal use only • the release of the announcement to the market. SHN’s request for a trading halt is attached below for the information of the market. Issued by ASX Compliance 28 April 2026 Market Announcement 1/1 ASX Lim",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: ORDINARY FULLY PAID class confirmed; permanent ISIN and complete historical classes/actions still open.",
+    "trading_conclusion": "Trading Halt documented2026-04-28; current13Oct2026 state remains unresolved pending release/lifting/current-state evidence.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 67 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "SKY",
+    "facts": {
+      "current_legal_issuer": "SKY METALS LIMITED",
+      "ACN": "098952035",
+      "ABN": "UNKNOWN",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "ORDINARY FULLY PAID",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20261008/pdf/075374qjjy05qg.pdf",
+        "title": "Application for quotation of securities - SKY",
+        "date": "2026-10-08",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer SKY METALS LIMITED; ACN 098952035; ORDINARY FULLY PAID. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260917/pdf/0746jl2ksh6n0p.pdf",
+        "title": "2026 Annual Report",
+        "date": "2026-09-17",
+        "page_section": "Cover / General information / issued capital / consolidated entity disclosure",
+        "fact": "Annual report names Sky Metals Limited reporting issuer; statutory period/capital note available. Current legal/security history remains incomplete.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260810/pdf/072lf9d1flyrnp.pdf",
+        "title": "Reinstatement to Quotation",
+        "date": "2026-08-10",
+        "page_section": "ASX Market Announcement p1 and attached issuer request",
+        "fact": "Market Announcement 10 August 2026 Sky Metals Limited (ASX: SKY) – Reinstatement to Quotation Description The suspension of trading in the securities of Sky Metals Limited (‘SKY’) will be lifted immediately following the release by SKY of an announcement regarding SKY’s Tallebung Tin-Tungsten-Silver Project. For personal use only Issued by ASX Supervision 10 August 2026 Market Announcement 1/1 ASX Limited ASX Customer Service Centre 131 279 | asx.com.au #11123359v1",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: ORDINARY FULLY PAID class confirmed; permanent ISIN and complete historical classes/actions still open.",
+    "trading_conclusion": "Reinstatement to Quotation documented2026-08-10; current13Oct2026 state remains unresolved pending release/lifting/current-state evidence.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 83 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "SLB",
+    "facts": {
+      "current_legal_issuer": "STELAR METALS LIMITED",
+      "ACN": "UNKNOWN",
+      "ABN": "43651636065",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "ORDINARY FULLY PAID",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260812/pdf/072p9fxpf47ndc.pdf",
+        "title": "Application for quotation of securities - SLB",
+        "date": "2026-08-12",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer STELAR METALS LIMITED; ABN 43651636065; ORDINARY FULLY PAID. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260730/pdf/0726rhzbhqndwk.pdf",
+        "title": "Trading Halt",
+        "date": "2026-07-30",
+        "page_section": "ASX Market Announcement p1 and attached issuer request",
+        "fact": "Market Announcement 30 July 2026 Stelar Metals Limited (ASX: SLB) – Trading Halt Trading in the securities of Stelar Metals Limited (‘SLB’) will be halted at the request of SLB, pending the release of an announcement by SLB. Unless ASX decides otherwise, the securities will remain in trading halt until the earlier of: • the commencement of normal trading on Monday, 3 August 2026; or For personal use only • the release of the announcement to the market. SLB’s request for a trading halt is attached below for the information of the market. Issued by ASX Supervision 30 July 2026 Market Announcement 1/1 ASX Limited AS",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: ORDINARY FULLY PAID class confirmed; permanent ISIN and complete historical classes/actions still open.",
+    "trading_conclusion": "Trading Halt documented2026-07-30; current13Oct2026 state remains unresolved pending release/lifting/current-state evidence.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 58 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "SOP",
+    "facts": {
+      "current_legal_issuer": "SYNERTEC CORPORATION LIMITED",
+      "ACN": "UNKNOWN",
+      "ABN": "UNKNOWN",
+      "ARBN": "161803032",
+      "incorporation_jurisdiction": "Bermuda",
+      "ISIN": "UNKNOWN",
+      "security_type": "ORDINARY FULLY PAID",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260820/pdf/072znchb1whmlm.pdf",
+        "title": "Application for quotation of securities - SOP",
+        "date": "2026-08-20",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer SYNERTEC CORPORATION LIMITED; ARBN 161803032; ORDINARY FULLY PAID. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260831/pdf/073hn1fvbtk7wz.pdf",
+        "title": "Appendix 4E and 2026 Annual Report",
+        "date": "2026-08-31",
+        "page_section": "Cover / General information / issued capital / consolidated entity disclosure",
+        "fact": "Annual report names Synertec Corporation Limited reporting issuer; statutory period/capital note available. Current legal/security history remains incomplete. Parent explicitly incorporated in Bermuda, ARBN161803032.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260901/pdf/073kp2slzgp8st.pdf",
+        "title": "Trading Halt",
+        "date": "2026-09-01",
+        "page_section": "ASX Market Announcement p1 and attached issuer request",
+        "fact": "Market Announcement 1 September 2026 Synertec Corporation Limited (ASX: SOP) – Trading Halt Trading in the securities of Synertec Corporation Limited (‘SOP’) will be halted at the request of SOP, pending the release of an announcement by SOP. Unless ASX decides otherwise, the securities will remain in trading halt until the earlier of: • the commencement of normal trading on Thursday, 3 September 2026; or For personal use only • the release of the announcement to the market. SOP’s request for a trading halt is attached below for the information of the market. Issued by ASX Supervision 1 September 2026 Market Anno",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: ORDINARY FULLY PAID class confirmed; permanent ISIN and complete historical classes/actions still open.",
+    "trading_conclusion": "Trading Halt documented2026-09-01; current13Oct2026 state remains unresolved pending release/lifting/current-state evidence.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 55 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "SPD",
+    "facts": {
+      "current_legal_issuer": "SOUTHERN PALLADIUM LIMITED",
+      "ACN": "646391899",
+      "ABN": "UNKNOWN",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "ORDINARY FULLY PAID",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260601/pdf/07061661c09fg4.pdf",
+        "title": "Application for quotation of securities - SPD",
+        "date": "2026-06-01",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer SOUTHERN PALLADIUM LIMITED; ACN 646391899; ORDINARY FULLY PAID. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260806/pdf/072h760dlscf8d.pdf",
+        "title": "Trading Halt",
+        "date": "2026-08-06",
+        "page_section": "ASX Market Announcement p1 and attached issuer request",
+        "fact": "Market Announcement 6 August 2026 Southern Palladium Limited (ASX: SPD) – Trading Halt Trading in the securities of Southern Palladium Limited (‘SPD’) will be halted at the request of SPD, pending the release of an announcement by SPD. Unless ASX decides otherwise, the securities will remain in trading halt until the earlier of: • the commencement of normal trading on Monday, 10 August 2026; or For personal use only • the release of the announcement to the market. SPD’s request for a trading halt is attached below for the information of the market. Issued by ASX Compliance 6 August 2026 Market Announcement 1/1 AS",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: ORDINARY FULLY PAID class confirmed; permanent ISIN and complete historical classes/actions still open.",
+    "trading_conclusion": "Trading Halt documented2026-08-06; current13Oct2026 state remains unresolved pending release/lifting/current-state evidence.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 50 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "SPL",
+    "facts": {
+      "current_legal_issuer": "STARPHARMA HOLDINGS LIMITED",
+      "ACN": "UNKNOWN",
+      "ABN": "20078532180",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "ORDINARY FULLY PAID",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20261005/pdf/074y2fgcn7wygp.pdf",
+        "title": "Application for quotation of securities - SPL",
+        "date": "2026-10-05",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer STARPHARMA HOLDINGS LIMITED; ABN 20078532180; ORDINARY FULLY PAID. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260826/pdf/0737ntwn1x01cl.pdf",
+        "title": "2026 Annual Report",
+        "date": "2026-08-26",
+        "page_section": "Cover / General information / issued capital / consolidated entity disclosure",
+        "fact": "Annual report names Starpharma Holdings Limited reporting issuer; statutory period/capital note available. Current legal/security history remains incomplete.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: ORDINARY FULLY PAID class confirmed; permanent ISIN and complete historical classes/actions still open.",
+    "trading_conclusion": "UNRESOLVED as at13Oct2026; archive headlines alone cannot certify current tradability.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 57 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "SPZ",
+    "facts": {
+      "current_legal_issuer": "SMART PARKING LIMITED",
+      "ACN": "UNKNOWN",
+      "ABN": "45119327169",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "ORDINARY FULLY PAID",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260402/pdf/06y32hj0yrrj5m.pdf",
+        "title": "Application for quotation of securities - SPZ",
+        "date": "2026-04-02",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer SMART PARKING LIMITED; ABN 45119327169; ORDINARY FULLY PAID. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260914/pdf/0741klq0hvtxnd.pdf",
+        "title": "Annual Report 2026",
+        "date": "2026-09-14",
+        "page_section": "Cover / General information / issued capital / consolidated entity disclosure",
+        "fact": "Annual report names Smart Parking Limited reporting issuer; statutory period/capital note available. Current legal/security history remains incomplete.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: ORDINARY FULLY PAID class confirmed; permanent ISIN and complete historical classes/actions still open.",
+    "trading_conclusion": "UNRESOLVED as at13Oct2026; archive headlines alone cannot certify current tradability.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 39 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "SRZ",
+    "facts": {
+      "current_legal_issuer": "STELLAR RESOURCES LIMITED",
+      "ACN": "108758961",
+      "ABN": "UNKNOWN",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "ORDINARY FULLY PAID",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260814/pdf/072rsrmcp9g3sz.pdf",
+        "title": "Application for quotation of securities - SRZ",
+        "date": "2026-08-14",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer STELLAR RESOURCES LIMITED; ACN 108758961; ORDINARY FULLY PAID. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260925/pdf/074hm7050mf9by.pdf",
+        "title": "Annual Report to Shareholders",
+        "date": "2026-09-25",
+        "page_section": "Cover / General information / issued capital / consolidated entity disclosure",
+        "fact": "Annual report names Stellar Resources Limited reporting issuer; statutory period/capital note available. Current legal/security history remains incomplete.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260430/pdf/06z1wfrnk6fs6s.pdf",
+        "title": "Trading Halt",
+        "date": "2026-04-30",
+        "page_section": "ASX Market Announcement p1 and attached issuer request",
+        "fact": "Market Announcement 30 April 2026 Stellar Resources Limited (ASX: SRZ) – Trading Halt Trading in the securities of Stellar Resources Limited (‘SRZ’) will be halted at the request of SRZ, pending the release of an announcement by SRZ. Unless ASX decides otherwise, the securities will remain in trading halt until the earlier of: • the commencement of normal trading on Monday, 4 May 2026; or For personal use only • the release of the announcement to the market. SRZ’s request for a trading halt is attached below for the information of the market. Issued by ASX Compliance 30 April 2026 Market Announcement 1/1 ASX Limi",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: ORDINARY FULLY PAID class confirmed; permanent ISIN and complete historical classes/actions still open.",
+    "trading_conclusion": "Trading Halt documented2026-04-30; current13Oct2026 state remains unresolved pending release/lifting/current-state evidence.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 53 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "SS1",
+    "facts": {
+      "current_legal_issuer": "SUN SILVER LIMITED",
+      "ACN": "UNKNOWN",
+      "ABN": "86665307433",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "ORDINARY FULLY PAID",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260908/pdf/073w976kghj7j4.pdf",
+        "title": "Application for quotation of securities - SS1",
+        "date": "2026-09-08",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer SUN SILVER LIMITED; ABN 86665307433; ORDINARY FULLY PAID. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260331/pdf/06y0ld905sscxg.pdf",
+        "title": "Annual Report to shareholders",
+        "date": "2026-03-31",
+        "page_section": "Cover / General information / issued capital / consolidated entity disclosure",
+        "fact": "Annual report names Sun Silver Limited reporting issuer; statutory period/capital note available. Current legal/security history remains incomplete.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: ORDINARY FULLY PAID class confirmed; permanent ISIN and complete historical classes/actions still open.",
+    "trading_conclusion": "UNRESOLVED as at13Oct2026; archive headlines alone cannot certify current tradability.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 47 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "STK",
+    "facts": {
+      "current_legal_issuer": "STRICKLAND METALS LIMITED",
+      "ACN": "UNKNOWN",
+      "ABN": "20109361195",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "ORDINARY FULLY PAID",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260909/pdf/073wyj6hy5qt9b.pdf",
+        "title": "Application for quotation of securities - STK",
+        "date": "2026-09-09",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer STRICKLAND METALS LIMITED; ABN 20109361195; ORDINARY FULLY PAID. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260930/pdf/074qf6wn2r0422.pdf",
+        "title": "Annual Report to shareholders",
+        "date": "2026-09-30",
+        "page_section": "Cover / General information / issued capital / consolidated entity disclosure",
+        "fact": "Annual report names Strickland Metals Limited reporting issuer; statutory period/capital note available. Current legal/security history remains incomplete.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260203/pdf/06vxlswmrf87sr.pdf",
+        "title": "Trading Halt",
+        "date": "2026-02-03",
+        "page_section": "ASX Market Announcement p1 and attached issuer request",
+        "fact": "Market Announcement 3 February 2026 Strickland Metals Limited (ASX: STK) – Trading Halt Trading in the securities of Strickland Metals Limited (‘STK’) will be halted at the request of STK, pending the release of an announcement by STK. Unless ASX decides otherwise, the securities will remain in trading halt until the earlier of: • the commencement of normal trading on Friday, 6 February 2026; or For personal use only • the release of the announcement to the market. STK’s request for a trading halt is attached below for the information of the market. Issued by ASX Compliance 3 February 2026 Market Announcement 1/1",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: ORDINARY FULLY PAID class confirmed; permanent ISIN and complete historical classes/actions still open.",
+    "trading_conclusion": "Trading Halt documented2026-02-03; current13Oct2026 state remains unresolved pending release/lifting/current-state evidence.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 54 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "STM",
+    "facts": {
+      "current_legal_issuer": "SUNSTONE METALS LTD",
+      "ACN": "UNKNOWN",
+      "ABN": "68123184412",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "ORDINARY FULLY PAID",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260831/pdf/073hzd7gzl8jgv.pdf",
+        "title": "Application for quotation of securities - STM",
+        "date": "2026-08-31",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer SUNSTONE METALS LTD; ABN 68123184412; ORDINARY FULLY PAID. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260918/pdf/074823s8vxz18t.pdf",
+        "title": "Annual Report to shareholders",
+        "date": "2026-09-18",
+        "page_section": "Cover / General information / issued capital / consolidated entity disclosure",
+        "fact": "Annual report names Sunstone Metals Ltd reporting issuer; statutory period/capital note available. Current legal/security history remains incomplete.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260625/pdf/070zvz0qj2g0z9.pdf",
+        "title": "Trading Halt",
+        "date": "2026-06-25",
+        "page_section": "ASX Market Announcement p1 and attached issuer request",
+        "fact": "Market Announcement 25 June 2026 Sunstone Metals Ltd (ASX: STM) – Trading Halt Trading in the securities of Sunstone Metals Ltd (‘STM’) will be halted at the request of STM, pending the release of an announcement by STM. Unless ASX decides otherwise, the securities will remain in trading halt until the earlier of: • the commencement of normal trading on Monday, 29 June 2026; or For personal use only • the release of the announcement to the market. STM’s request for a trading halt is attached below for the information of the market. Issued by ASX Compliance 25 June 2026 Market Announcement 1/1 ASX Limited ASX Cust",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: ORDINARY FULLY PAID class confirmed; permanent ISIN and complete historical classes/actions still open.",
+    "trading_conclusion": "Trading Halt documented2026-06-25; current13Oct2026 state remains unresolved pending release/lifting/current-state evidence.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 65 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "STX",
+    "facts": {
+      "current_legal_issuer": "STRIKE ENERGY LIMITED",
+      "ACN": "078012745",
+      "ABN": "UNKNOWN",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "ORDINARY FULLY PAID",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260924/pdf/074gjmszbn4sbx.pdf",
+        "title": "Application for quotation of securities - STX",
+        "date": "2026-09-24",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer STRIKE ENERGY LIMITED; ACN 078012745; ORDINARY FULLY PAID. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260923/pdf/074dj00r82d3y1.pdf",
+        "title": "2026 Strike Energy Ltd Annual Report",
+        "date": "2026-09-23",
+        "page_section": "Cover / General information / issued capital / consolidated entity disclosure",
+        "fact": "Annual report names Strike Energy Limited reporting issuer; statutory period/capital note available. Current legal/security history remains incomplete.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: ORDINARY FULLY PAID class confirmed; permanent ISIN and complete historical classes/actions still open.",
+    "trading_conclusion": "UNRESOLVED as at13Oct2026; archive headlines alone cannot certify current tradability.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 50 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "SVM",
+    "facts": {
+      "current_legal_issuer": "SOVEREIGN METALS LIMITED",
+      "ACN": "120833427",
+      "ABN": "UNKNOWN",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "ORDINARY FULLY PAID",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260417/pdf/06ylpgkqvfn5ps.pdf",
+        "title": "Application for quotation of securities - SVM",
+        "date": "2026-04-17",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer SOVEREIGN METALS LIMITED; ACN 120833427; ORDINARY FULLY PAID. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260925/pdf/074jcjhyphf0dp.pdf",
+        "title": "Annual Report to shareholders",
+        "date": "2026-09-25",
+        "page_section": "Cover / General information / issued capital / consolidated entity disclosure",
+        "fact": "Annual report names Sovereign Metals Limited reporting issuer; statutory period/capital note available. Current legal/security history remains incomplete.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: ORDINARY FULLY PAID class confirmed; permanent ISIN and complete historical classes/actions still open.",
+    "trading_conclusion": "UNRESOLVED as at13Oct2026; archive headlines alone cannot certify current tradability.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 34 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "SVR",
+    "facts": {
+      "current_legal_issuer": "SOLVAR LIMITED",
+      "ACN": "117296143",
+      "ABN": "UNKNOWN",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "ORDINARY FULLY PAID",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260827/pdf/073b833mjbwmdc.pdf",
+        "title": "Application for quotation of securities - SVR",
+        "date": "2026-08-27",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer SOLVAR LIMITED; ACN 117296143; ORDINARY FULLY PAID. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260819/pdf/072xq9h6wh2rxv.pdf",
+        "title": "FY26 Appendix 4E and Annual Report",
+        "date": "2026-08-19",
+        "page_section": "Cover / General information / issued capital / consolidated entity disclosure",
+        "fact": "Annual report names Solvar Limited reporting issuer; statutory period/capital note available. Current legal/security history remains incomplete.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: ORDINARY FULLY PAID class confirmed; permanent ISIN and complete historical classes/actions still open.",
+    "trading_conclusion": "UNRESOLVED as at13Oct2026; archive headlines alone cannot certify current tradability.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 47 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "SXL",
+    "facts": {
+      "current_legal_issuer": "Southern Cross Media Group Limited",
+      "ACN": "UNKNOWN",
+      "ABN": "91116024536",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "UNRESOLVED",
+      "corporate_action_exceptions": "Seven West acquisition7Jan2026; statutory and proforma comparability break."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260107/pdf/06v1809mqkns8d.pdf",
+        "title": "Appendix 2A -application for quotation of securities",
+        "date": "2026-01-07",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer Southern Cross Media Group Limited; legacy form issuer-registration reconciliation pending; UNRESOLVED. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260811/pdf/072m86ryzkzqx7.pdf",
+        "title": "Southern Cross Media Group 2026 Annual Report",
+        "date": "2026-08-11",
+        "page_section": "Cover / General information / issued capital / consolidated entity disclosure",
+        "fact": "Annual report names Southern Cross Media Group Limited reporting issuer; statutory period/capital note available. Current legal/security history remains incomplete. ABN 91116024536 confirmed. SWM acquisition completed7Jan2026; preserve separate premerger issuer statutory financials and distinguish merged proforma information.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: permanent ISIN and full quoted/unquoted class/action history not signed off.",
+    "trading_conclusion": "UNRESOLVED as at13Oct2026; archive headlines alone cannot certify current tradability.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 77 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "SYR",
+    "facts": {
+      "current_legal_issuer": "SYRAH RESOURCES LIMITED",
+      "ACN": "125242284",
+      "ABN": "UNKNOWN",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "ORDINARY FULLY PAID",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260520/pdf/06zs9c246xdyrj.pdf",
+        "title": "Application for quotation of securities - SYR",
+        "date": "2026-05-20",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer SYRAH RESOURCES LIMITED; ACN 125242284; ORDINARY FULLY PAID. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260326/pdf/06xv29j0wp3tr8.pdf",
+        "title": "2025 Annual Report",
+        "date": "2026-03-26",
+        "page_section": "Cover / General information / issued capital / consolidated entity disclosure",
+        "fact": "Annual report names Syrah Resources Limited reporting issuer; statutory period/capital note available. Current legal/security history remains incomplete.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260325/pdf/06xsby4lmfh02z.pdf",
+        "title": "Trading Halt",
+        "date": "2026-03-25",
+        "page_section": "ASX Market Announcement p1 and attached issuer request",
+        "fact": "Market Announcement 25 March 2026 Syrah Resources Limited (ASX: SYR) – Trading Halt Trading in the securities of Syrah Resources Limited (‘SYR’) will be halted at the request of SYR, pending the release of an announcement by SYR. Unless ASX decides otherwise, the securities will remain in trading halt until the earlier of: • the commencement of normal trading on Friday, 27 March 2026; or For personal use only • the release of the announcement to the market. SYR’s request for a trading halt is attached below for the information of the market. Issued by ASX Compliance 25 March 2026 Market Announcement 1/1 ASX Limit",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: ORDINARY FULLY PAID class confirmed; permanent ISIN and complete historical classes/actions still open.",
+    "trading_conclusion": "Trading Halt documented2026-03-25; current13Oct2026 state remains unresolved pending release/lifting/current-state evidence.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 52 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "TAM",
+    "facts": {
+      "current_legal_issuer": "Tanami Gold NL",
+      "ACN": "UNKNOWN",
+      "ABN": "UNKNOWN",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "UNRESOLVED",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260922/pdf/074cf9knlwgm6l.pdf",
+        "title": "Annual Report to shareholders",
+        "date": "2026-09-22",
+        "page_section": "Cover / General information / issued capital / consolidated entity disclosure",
+        "fact": "Annual report names Tanami Gold NL reporting issuer; statutory period/capital note available. Current legal/security history remains incomplete.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260506/pdf/06z963qm5blf5v.pdf",
+        "title": "Trading Halt",
+        "date": "2026-05-06",
+        "page_section": "ASX Market Announcement p1 and attached issuer request",
+        "fact": "Market Announcement 6 May 2026 Tanami Gold NL (ASX: TAM) – Trading Halt Trading in the securities of Tanami Gold NL (‘TAM’) will be halted at the request of TAM, pending the release of an announcement by TAM. Unless ASX decides otherwise, the securities will remain in trading halt until the earlier of: • the commencement of normal trading on Friday, 8 May 2026; or For personal use only • the release of the announcement to the market. TAM’s request for a trading halt is attached below for the information of the market. Issued by ASX Compliance 6 May 2026 Market Announcement 1/1 ASX Limited ASX Customer Service Cen",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: permanent ISIN and full quoted/unquoted class/action history not signed off.",
+    "trading_conclusion": "Trading Halt documented2026-05-06; current13Oct2026 state remains unresolved pending release/lifting/current-state evidence.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 29 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "TER",
+    "facts": {
+      "current_legal_issuer": "TERRACOM LIMITED",
+      "ACN": "143533537",
+      "ABN": "UNKNOWN",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "ORDINARY FULLY PAID",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260225/pdf/06wr8rftqt8vqd.pdf",
+        "title": "Application for quotation of securities - TER",
+        "date": "2026-02-25",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer TERRACOM LIMITED; ACN 143533537; ORDINARY FULLY PAID. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20261007/pdf/07514h3g5pwcq5.pdf",
+        "title": "FY2026 Audited Annual Report",
+        "date": "2026-10-07",
+        "page_section": "Cover / General information / issued capital / consolidated entity disclosure",
+        "fact": "Annual report names TerraCom Limited reporting issuer; statutory period/capital note available. Current legal/security history remains incomplete.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20261007/pdf/07521jhfkbw5v6.pdf",
+        "title": "Reinstatement to Quotation",
+        "date": "2026-10-07",
+        "page_section": "ASX Market Announcement p1 and attached issuer request",
+        "fact": "Market Announcement 7 October 2026 TerraCom Limited (ASX: TER) – Reinstatement to Quotation Description The suspension of trading in the securities of TerraCom Limited (‘TER’) will be lifted from the commencement of trading on Thursday, 8 October 2026 following lodgement of its Audited Annual Accounts for the financial year ended 30 June 2026. Issued by For personal use only ASX Supervision 7 October 2026 Market Announcement 1/1 ASX Limited ASX Customer Service Centre 131 279 | asx.com.au #11151268v1",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: ORDINARY FULLY PAID class confirmed; permanent ISIN and complete historical classes/actions still open.",
+    "trading_conclusion": "Reinstatement to Quotation documented2026-10-07; current13Oct2026 state remains unresolved pending release/lifting/current-state evidence.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 55 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "TGN",
+    "facts": {
+      "current_legal_issuer": "TUNGSTEN MINING NL",
+      "ACN": "152084403",
+      "ABN": "UNKNOWN",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "ORDINARY FULLY PAID",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260924/pdf/074glc8s0yj3j0.pdf",
+        "title": "Application for quotation of securities - TGN",
+        "date": "2026-09-24",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer TUNGSTEN MINING NL; ACN 152084403; ORDINARY FULLY PAID. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260929/pdf/074p51k82flxtq.pdf",
+        "title": "Annual Report to shareholders",
+        "date": "2026-09-29",
+        "page_section": "Cover / General information / issued capital / consolidated entity disclosure",
+        "fact": "Annual report names Tungsten Mining NL reporting issuer; statutory period/capital note available. Current legal/security history remains incomplete.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260921/pdf/0749rx5wcq0gk4.pdf",
+        "title": "Trading Halt",
+        "date": "2026-09-21",
+        "page_section": "ASX Market Announcement p1 and attached issuer request",
+        "fact": "Market Announcement 21 September 2026 Tungsten Mining NL (ASX: TGN) – Trading Halt Trading in the securities of Tungsten Mining NL (‘TGN’) will be halted at the request of TGN, pending the release of an announcement by TGN. Unless ASX decides otherwise, the securities will remain in trading halt until the earlier of: • the commencement of normal trading on Wednesday, 23 September 2026; or For personal use only • the release of the announcement to the market. TGN’s request for a trading halt is attached below for the information of the market. Issued by ASX Supervision 21 September 2026 Market Announcement 1/1 ASX",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: ORDINARY FULLY PAID class confirmed; permanent ISIN and complete historical classes/actions still open.",
+    "trading_conclusion": "Trading Halt documented2026-09-21; current13Oct2026 state remains unresolved pending release/lifting/current-state evidence.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 58 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "TM1",
+    "facts": {
+      "current_legal_issuer": "TERRA METALS LIMITED",
+      "ACN": "UNKNOWN",
+      "ABN": "44155933010",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "ORDINARY FULLY PAID",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260701/pdf/0717jjw9tsf467.pdf",
+        "title": "Application for quotation of securities - TM1",
+        "date": "2026-07-01",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer TERRA METALS LIMITED; ABN 44155933010; ORDINARY FULLY PAID. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260930/pdf/074rvsxgtg5gt1.pdf",
+        "title": "2026 Annual Report to Shareholders",
+        "date": "2026-09-30",
+        "page_section": "Cover / General information / issued capital / consolidated entity disclosure",
+        "fact": "Annual report names Terra Metals Limited reporting issuer; statutory period/capital note available. Current legal/security history remains incomplete.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20261012/pdf/0756rq3nmpsh65.pdf",
+        "title": "Trading Halt",
+        "date": "2026-10-12",
+        "page_section": "ASX Market Announcement p1 and attached issuer request",
+        "fact": "Market Announcement 12 October 2026 Terra Metals Limited (ASX: TM1) – Trading Halt Trading in the securities of Terra Metals Limited (‘TM1’) will be halted at the request of TM1, pending the release of an announcement by TM1. Unless ASX decides otherwise, the securities will remain in trading halt until the earlier of: • the commencement of normal trading on Wednesday, 14 October 2026; or For personal use only • the release of the announcement to the market. TM1’s request for a trading halt is attached below for the information of the market. Issued by ASX Supervision 12 October 2026 Market Announcement 1/1 ASX L",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: ORDINARY FULLY PAID class confirmed; permanent ISIN and complete historical classes/actions still open.",
+    "trading_conclusion": "Trading halt documented12Oct2026 until earlier of14Oct normal trading or price-query/exploration response;13OctAGM notice is not lifting evidence. Live trading state still unverified.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 68 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "TNC",
+    "facts": {
+      "current_legal_issuer": "TRUE NORTH COPPER LIMITED",
+      "ACN": "UNKNOWN",
+      "ABN": "28119421868",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "ORDINARY FULLY PAID",
+      "corporate_action_exceptions": "1-for100 consolidation reflected in comparative capital movements, approval23Dec2024; completedDec2025/Feb2026 placement tranches; administration21Oct2024; exact reinstatement sequence and temporary TNCYY ISIN mapping pending."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260916/pdf/0744vfhs13jmcm.pdf",
+        "title": "Application for quotation of securities - TNC",
+        "date": "2026-09-16",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer TRUE NORTH COPPER LIMITED; ABN 28119421868; ORDINARY FULLY PAID. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260914/pdf/0742tblwhjqzkk.pdf",
+        "title": "Annual Report to shareholders",
+        "date": "2026-09-14",
+        "page_section": "Cover / General information / issued capital / consolidated entity disclosure",
+        "fact": "Annual report names True North Copper Limited reporting issuer; statutory period/capital note available. Current legal/security history remains incomplete. Note16 confirms completed Dec2025/FEB2026 placement tranches and1-for100 consolidation in prior-year capital movement (shareholder approval23Dec2024); administration21Oct2024.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260813/pdf/072q4ytw5ymm6t.pdf",
+        "title": "Trading Halt",
+        "date": "2026-08-13",
+        "page_section": "ASX Market Announcement p1 and attached issuer request",
+        "fact": "Market Announcement 13 August 2026 True North Copper Limited (ASX: TNC) – Trading Halt Trading in the securities of True North Copper Limited (‘TNC’) will be halted at the request of TNC, pending the release of an announcement by TNC. Unless ASX decides otherwise, the securities will remain in trading halt until the earlier of: • the commencement of normal trading on Monday, 17 August 2026; or For personal use only • the release of the announcement to the market. TNC’s request for a trading halt is attached below for the information of the market. Issued by ASX Supervision 13 August 2026 Market Announcement 1/1 A",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: ORDINARY FULLY PAID class confirmed; permanent ISIN and complete historical classes/actions still open.",
+    "trading_conclusion": "Trading Halt documented2026-08-13; current13Oct2026 state remains unresolved pending release/lifting/current-state evidence.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 79 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "TOK",
+    "facts": {
+      "current_legal_issuer": "TOLU MINERALS LIMITED",
+      "ACN": "UNKNOWN",
+      "ABN": "UNKNOWN",
+      "ARBN": "657300359",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "ORDINARY FULLY PAID",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260623/pdf/070xg2vdytjl4g.pdf",
+        "title": "Application for quotation of securities - TOK",
+        "date": "2026-06-23",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer TOLU MINERALS LIMITED; ARBN 657300359; ORDINARY FULLY PAID. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260617/pdf/070q92vpxtqfz1.pdf",
+        "title": "Addendum to Annual Report",
+        "date": "2026-06-17",
+        "page_section": "Cover / General information / issued capital / consolidated entity disclosure",
+        "fact": "Annual report names Tolu Minerals Limited reporting issuer; statutory period/capital note available. Current legal/security history remains incomplete.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: ORDINARY FULLY PAID class confirmed; permanent ISIN and complete historical classes/actions still open.",
+    "trading_conclusion": "UNRESOLVED as at13Oct2026; archive headlines alone cannot certify current tradability.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 44 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "TOR",
+    "facts": {
+      "current_legal_issuer": "TORQUE METALS LIMITED",
+      "ACN": "621122905",
+      "ABN": "UNKNOWN",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "ORDINARY FULLY PAID",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260511/pdf/06zgpt87qbx7dn.pdf",
+        "title": "Application for quotation of securities - TOR",
+        "date": "2026-05-11",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer TORQUE METALS LIMITED; ACN 621122905; ORDINARY FULLY PAID. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260925/pdf/074jcgdwcqmdv0.pdf",
+        "title": "Annual Report to shareholders",
+        "date": "2026-09-25",
+        "page_section": "Cover / General information / issued capital / consolidated entity disclosure",
+        "fact": "Annual report names Torque Metals Limited reporting issuer; statutory period/capital note available. Current legal/security history remains incomplete.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20261007/pdf/07513txw05sstw.pdf",
+        "title": "Trading Halt",
+        "date": "2026-10-07",
+        "page_section": "ASX Market Announcement p1 and attached issuer request",
+        "fact": "Market Announcement 7 October 2026 Torque Metals Limited (ASX: TOR) – Trading Halt Trading in the securities of Torque Metals Limited (‘TOR’) will be halted at the request of TOR, pending the release of an announcement by TOR. Unless ASX decides otherwise, the securities will remain in trading halt until the earlier of: • the commencement of normal trading on Friday, 9 October 2026; or For personal use only • the release of the announcement to the market. TOR’s request for a trading halt is attached below for the information of the market. Issued by ASX Supervision 7 October 2026 Market Announcement 1/1 ASX Limit",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: ORDINARY FULLY PAID class confirmed; permanent ISIN and complete historical classes/actions still open.",
+    "trading_conclusion": "Trading Halt documented2026-10-07; current13Oct2026 state remains unresolved pending release/lifting/current-state evidence.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 66 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "TRE",
+    "facts": {
+      "current_legal_issuer": "TOUBANI RESOURCES LIMITED",
+      "ACN": "UNKNOWN",
+      "ABN": "80661082435",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "ORDINARY FULLY PAID",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260814/pdf/072ry94qst0lj8.pdf",
+        "title": "Application for quotation of securities - TRE",
+        "date": "2026-08-14",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer TOUBANI RESOURCES LIMITED; ABN 80661082435; ORDINARY FULLY PAID. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260330/pdf/06xxxj8s7wfkym.pdf",
+        "title": "Annual Report to shareholders",
+        "date": "2026-03-30",
+        "page_section": "Cover / General information / issued capital / consolidated entity disclosure",
+        "fact": "Annual report names Toubani Resources Limited reporting issuer; statutory period/capital note available. Current legal/security history remains incomplete. Conflicting jurisdiction wording: directors report Australia; Note1 Ontario2Oct2002 / Australia registration8Jan2024.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260713/pdf/071n4n5vpklxcq.pdf",
+        "title": "Trading Halt",
+        "date": "2026-07-13",
+        "page_section": "ASX Market Announcement p1 and attached issuer request",
+        "fact": "Market Announcement 13 July 2026 Toubani Resources Limited (ASX: TRE) – Trading Halt (2) Description The securities of Toubani Resources Limited (‘TRE’) will be placed in trading halt at the request of TRE, pending it releasing an announcement regarding the outcome of the institutional component of the accelerated entitlement offer. Unless ASX decides otherwise, the securities will remain in trading halt until the commencement of normal trading on Wednesday, 15 July 2026. For personal use only Issued by ASX Compliance 13 July 2026 Market Announcement 1/1 ASX Limited ASX Customer Service Centre 131 279 | asx.com.a",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: ORDINARY FULLY PAID class confirmed; permanent ISIN and complete historical classes/actions still open.",
+    "trading_conclusion": "Trading Halt documented2026-07-13; current13Oct2026 state remains unresolved pending release/lifting/current-state evidence.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open.",
+      "Same FY2025 annual report: directors report Australia-incorporated; Note1 Ontario2Oct2002 and Australia registration8Jan2024. Current continuance legal history/certificate required."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 97 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "TSO",
+    "facts": {
+      "current_legal_issuer": "TESORO GOLD LTD",
+      "ACN": "UNKNOWN",
+      "ABN": "91106854175",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "ORDINARY FULLY PAID",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260717/pdf/071t78t9w369sr.pdf",
+        "title": "Application for quotation of securities - TSO",
+        "date": "2026-07-17",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer TESORO GOLD LTD; ABN 91106854175; ORDINARY FULLY PAID. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260326/pdf/06xvddy0t5l17y.pdf",
+        "title": "Annual Report to shareholders",
+        "date": "2026-03-26",
+        "page_section": "Cover / General information / issued capital / consolidated entity disclosure",
+        "fact": "Annual report names Tesoro Gold Ltd reporting issuer; statutory period/capital note available. Current legal/security history remains incomplete.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: ORDINARY FULLY PAID class confirmed; permanent ISIN and complete historical classes/actions still open.",
+    "trading_conclusion": "UNRESOLVED as at13Oct2026; archive headlines alone cannot certify current tradability.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 51 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "TTM",
+    "facts": {
+      "current_legal_issuer": "TITAN MINERALS LIMITED",
+      "ACN": "UNKNOWN",
+      "ABN": "97117790897",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "ORDINARY FULLY PAID",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260520/pdf/06zrvyzqgjctr9.pdf",
+        "title": "Application for quotation of securities - TTM",
+        "date": "2026-05-20",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer TITAN MINERALS LIMITED; ABN 97117790897; ORDINARY FULLY PAID. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260430/pdf/06z1dfqq9mc8dc.pdf",
+        "title": "Annual Report to shareholders",
+        "date": "2026-04-30",
+        "page_section": "Cover / General information / issued capital / consolidated entity disclosure",
+        "fact": "Annual report names Titan Minerals Limited reporting issuer; statutory period/capital note available. Current legal/security history remains incomplete.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: ORDINARY FULLY PAID class confirmed; permanent ISIN and complete historical classes/actions still open.",
+    "trading_conclusion": "UNRESOLVED as at13Oct2026; archive headlines alone cannot certify current tradability.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 40 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "TTT",
+    "facts": {
+      "current_legal_issuer": "TITOMIC LIMITED",
+      "ACN": "602793644",
+      "ABN": "UNKNOWN",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "ORDINARY FULLY PAID",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260908/pdf/073vjm2h5wdnx3.pdf",
+        "title": "Application for quotation of securities - TTT",
+        "date": "2026-09-08",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer TITOMIC LIMITED; ACN 602793644; ORDINARY FULLY PAID. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260227/pdf/06wvjgnw8gkwst.pdf",
+        "title": "Annual Report to Shareholders",
+        "date": "2026-02-27",
+        "page_section": "Cover / General information / issued capital / consolidated entity disclosure",
+        "fact": "Annual report names Titomic Limited reporting issuer; statutory period/capital note available. Current legal/security history remains incomplete.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260831/pdf/073h605khpynbj.pdf",
+        "title": "Trading Halt",
+        "date": "2026-08-31",
+        "page_section": "ASX Market Announcement p1 and attached issuer request",
+        "fact": "Market Announcement 31 August 2026 Titomic Limited (ASX: TTT) – Trading Halt Trading in the securities of Titomic Limited (‘TTT’) will be halted at the request of TTT, pending the release of an announcement by TTT. Unless ASX decides otherwise, the securities will remain in trading halt until the earlier of: • the commencement of normal trading on Wednesday, 2 September 2026; or For personal use only • the release of the announcement to the market. TTT’s request for a trading halt is attached below for the information of the market. Issued by ASX Compliance 31 August 2026 Market Announcement 1/1 ASX Limited ASX C",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: ORDINARY FULLY PAID class confirmed; permanent ISIN and complete historical classes/actions still open.",
+    "trading_conclusion": "Trading Halt documented2026-08-31; current13Oct2026 state remains unresolved pending release/lifting/current-state evidence.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 70 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "TVN",
+    "facts": {
+      "current_legal_issuer": "TIVAN LIMITED",
+      "ACN": "UNKNOWN",
+      "ABN": "12000817023",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "ORDINARY FULLY PAID",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20261012/pdf/0757790tyvnz8q.pdf",
+        "title": "Application for quotation of securities - TVN",
+        "date": "2026-10-12",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer TIVAN LIMITED; ABN 12000817023; ORDINARY FULLY PAID. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260928/pdf/074l77n7h11lg7.pdf",
+        "title": "TVN Annual Report to Shareholders",
+        "date": "2026-09-28",
+        "page_section": "Cover / General information / issued capital / consolidated entity disclosure",
+        "fact": "Annual report names Tivan Limited reporting issuer; statutory period/capital note available. Current legal/security history remains incomplete.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260623/pdf/070xjkc8b4x753.pdf",
+        "title": "Trading Halt",
+        "date": "2026-06-23",
+        "page_section": "ASX Market Announcement p1 and attached issuer request",
+        "fact": "Market Announcement 23 June 2026 Tivan Limited (ASX: TVN) – Trading Halt Trading in the securities of Tivan Limited (‘TVN’) will be halted at the request of TVN, pending the release of an announcement by TVN. Unless ASX decides otherwise, the securities will remain in trading halt until the earlier of: • the commencement of normal trading on Thursday, 25 June 2026; or For personal use only • the release of the announcement to the market. TVN’s request for a trading halt is attached below for the information of the market. Issued by ASX Compliance 23 June 2026 Market Announcement 1/1 ASX Limited ASX Customer Servi",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: ORDINARY FULLY PAID class confirmed; permanent ISIN and complete historical classes/actions still open.",
+    "trading_conclusion": "Trading Halt documented2026-06-23; current13Oct2026 state remains unresolved pending release/lifting/current-state evidence.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 152 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "TYR",
+    "facts": {
+      "current_legal_issuer": "TYRO PAYMENTS LIMITED",
+      "ACN": "UNKNOWN",
+      "ABN": "49103575042",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "ORDINARY FULLY PAID",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20261008/pdf/0753bkmw64lb6d.pdf",
+        "title": "Application for quotation of securities - TYR",
+        "date": "2026-10-08",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer TYRO PAYMENTS LIMITED; ABN 49103575042; ORDINARY FULLY PAID. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260825/pdf/0735cf612qrd0w.pdf",
+        "title": "Annual Report to shareholders",
+        "date": "2026-08-25",
+        "page_section": "Cover / General information / issued capital / consolidated entity disclosure",
+        "fact": "Annual report names Tyro Payments Limited reporting issuer; statutory period/capital note available. Current legal/security history remains incomplete.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: ORDINARY FULLY PAID class confirmed; permanent ISIN and complete historical classes/actions still open.",
+    "trading_conclusion": "UNRESOLVED as at13Oct2026; archive headlines alone cannot certify current tradability.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 53 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "USL",
+    "facts": {
+      "current_legal_issuer": "UNICO SILVER LIMITED",
+      "ACN": "UNKNOWN",
+      "ABN": "34116865546",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "ORDINARY FULLY PAID",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20261001/pdf/074t52pyvyzjzv.pdf",
+        "title": "Application for quotation of securities - USL",
+        "date": "2026-10-01",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer UNICO SILVER LIMITED; ABN 34116865546; ORDINARY FULLY PAID. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260929/pdf/074p039vmtwz5j.pdf",
+        "title": "2026 Annual Report to Shareholders",
+        "date": "2026-09-29",
+        "page_section": "Cover / General information / issued capital / consolidated entity disclosure",
+        "fact": "Annual report names Unico Silver Limited reporting issuer; statutory period/capital note available. Current legal/security history remains incomplete.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260922/pdf/074c38v98n90l9.pdf",
+        "title": "Trading Halt",
+        "date": "2026-09-22",
+        "page_section": "ASX Market Announcement p1 and attached issuer request",
+        "fact": "Market Announcement 22 September 2026 Unico Silver Limited (ASX: USL) – Trading Halt Trading in the securities of Unico Silver Limited (‘USL’) will be halted at the request of USL, pending the release of an announcement by USL. Unless ASX decides otherwise, the securities will remain in trading halt until the earlier of: • the commencement of normal trading on Thursday, 24 September 2026; or For personal use only • the release of the announcement to the market. USL’s request for a trading halt is attached below for the information of the market. Issued by ASX Supervision 22 September 2026 Market Announcement 1/1 ",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: ORDINARY FULLY PAID class confirmed; permanent ISIN and complete historical classes/actions still open.",
+    "trading_conclusion": "Trading Halt documented2026-09-22; current13Oct2026 state remains unresolved pending release/lifting/current-state evidence.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 67 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "VAL",
+    "facts": {
+      "current_legal_issuer": "Valiant Gold Limited",
+      "ACN": "691820532",
+      "ABN": "UNKNOWN",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "UNRESOLVED",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260929/pdf/074p25srrdmk7j.pdf",
+        "title": "Annual Report to Shareholders",
+        "date": "2026-09-29",
+        "page_section": "Cover / General information / issued capital / consolidated entity disclosure",
+        "fact": "Annual report names Valiant Gold Limited reporting issuer; statutory period/capital note available. Current legal/security history remains incomplete. ACN 691820532 confirmed.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "SEPARATE issuer: 2026 Valiant Gold ACN691820532; historicVAL/Valor Resources renamedTHB9Apr2024 must be excluded.",
+    "security_conclusion": "PARTIAL: permanent ISIN and full quoted/unquoted class/action history not signed off.",
+    "trading_conclusion": "UNRESOLVED as at13Oct2026; archive headlines alone cannot certify current tradability.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 31 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  },
+  {
+    "ASX_Code": "VR8",
+    "facts": {
+      "current_legal_issuer": "VANADIUM RESOURCES LIMITED",
+      "ACN": "618307887",
+      "ABN": "UNKNOWN",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNRESOLVED",
+      "ISIN": "UNKNOWN",
+      "security_type": "ORDINARY FULLY PAID",
+      "corporate_action_exceptions": "Complete historical corporate-action reconciliation outstanding."
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260916/pdf/0744s84fcl6wl6.pdf",
+        "title": "Application for quotation of securities - VR8",
+        "date": "2026-09-16",
+        "page_section": "Appendix2A Part1 issuer/registration; summary/Part3 security class",
+        "fact": "Issuer VANADIUM RESOURCES LIMITED; ACN 618307887; ORDINARY FULLY PAID. Application for quotation, not independent proof of current trading/resumption.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260930/pdf/074rq0p5xcgl8s.pdf",
+        "title": "Annual Report to shareholders",
+        "date": "2026-09-30",
+        "page_section": "Cover / General information / issued capital / consolidated entity disclosure",
+        "fact": "Annual report names Vanadium Resources Limited reporting issuer; statutory period/capital note available. Current legal/security history remains incomplete.",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20261001/pdf/074syyc17781t9.pdf",
+        "title": "Trading Halt",
+        "date": "2026-10-01",
+        "page_section": "ASX Market Announcement p1 and attached issuer request",
+        "fact": "Market Announcement 1 October 2026 Vanadium Resources Limited (ASX: VR8) – Trading Halt Trading in the securities of Vanadium Resources Limited (‘VR8’) will be halted at the request of VR8, pending the release of an announcement by VR8. Unless ASX decides otherwise, the securities will remain in trading halt until the earlier of: • the commencement of normal trading on Monday, 5 October 2026; or For personal use only • the release of the announcement to the market. VR8’s request for a trading halt is attached below for the information of the market. Issued by ASX Supervision 1 October 2026 Market Announcement 1/1",
+        "verification_method": "Fresh direct official ASX PDF download and complete pdftotext extraction; issuer/class or selected note passages read."
+      }
+    ],
+    "historical_conclusion": "PARTIAL: full legal lineage, code reuse, mergers/RTOs, delisting/relisting events and adjusted historical joins not signed off.",
+    "security_conclusion": "PARTIAL: ORDINARY FULLY PAID class confirmed; permanent ISIN and complete historical classes/actions still open.",
+    "trading_conclusion": "Trading Halt documented2026-10-01; current13Oct2026 state remains unresolved pending release/lifting/current-state evidence.",
+    "unresolved": [
+      "Full legal-history and ticker-reuse reconciliation remains open.",
+      "Permanent ISIN and complete share-class/corporate-action reconciliation remains open.",
+      "Current13Oct2026 trading-state confirmation and any halt/suspension lifting evidence remain open."
+    ],
+    "investigated": true,
+    "notes": [
+      "Fresh official2026 ASX issuer archive read; 32 announcement rows through13Oct2026 examined for identity/class/status sources."
+    ]
+  }
+]

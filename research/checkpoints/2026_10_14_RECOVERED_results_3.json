@@ -1,0 +1,1585 @@
+[
+  {
+    "ASX_Code": "EDU",
+    "facts": {
+      "legal_name": "EDU HOLDINGS LIMITED",
+      "ABN": "85108962152",
+      "registration_number": "108962152",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=85108962152",
+        "title": "ABN Lookup historical details for 85108962152",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified EDU HOLDINGS LIMITED; ABN 85108962152; registration 108962152",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "ELT",
+    "facts": {},
+    "evidence": [],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "EL8",
+    "facts": {
+      "legal_name": "ELEVATE URANIUM LTD",
+      "ABN": "71001666600",
+      "registration_number": "001666600",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=71001666600",
+        "title": "ABN Lookup historical details for 71001666600",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified ELEVATE URANIUM LTD; ABN 71001666600; registration 001666600",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "EXR",
+    "facts": {
+      "legal_name": "ELIXIR ENERGY LIMITED",
+      "ABN": "51108230995",
+      "registration_number": "108230995",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=51108230995",
+        "title": "ABN Lookup historical details for 51108230995",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified ELIXIR ENERGY LIMITED; ABN 51108230995; registration 108230995",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "EVO",
+    "facts": {
+      "legal_name": "EMBARK EARLY EDUCATION LIMITED",
+      "ABN": "52667611752",
+      "registration_number": "667611752",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=52667611752",
+        "title": "ABN Lookup historical details for 52667611752",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified EMBARK EARLY EDUCATION LIMITED; ABN 52667611752; registration 667611752",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "EML",
+    "facts": {
+      "legal_name": "EML PAYMENTS LIMITED",
+      "ABN": "93104757904",
+      "registration_number": "104757904",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=93104757904",
+        "title": "ABN Lookup historical details for 93104757904",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified EML PAYMENTS LIMITED; ABN 93104757904; registration 104757904",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "EMP",
+    "facts": {
+      "legal_name": "EMPEROR ENERGY LIMITED",
+      "ABN": "56006024764",
+      "registration_number": "006024764",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=56006024764",
+        "title": "ABN Lookup historical details for 56006024764",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified EMPEROR ENERGY LIMITED; ABN 56006024764; registration 006024764",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "EMV",
+    "facts": {
+      "legal_name": "EMVISION MEDICAL DEVICES LTD",
+      "ABN": "38620388230",
+      "registration_number": "620388230",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=38620388230",
+        "title": "ABN Lookup historical details for 38620388230",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified EMVISION MEDICAL DEVICES LTD; ABN 38620388230; registration 620388230",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "EMD",
+    "facts": {
+      "legal_name": "EMYRIA LIMITED",
+      "ABN": "96625085734",
+      "registration_number": "625085734",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=96625085734",
+        "title": "ABN Lookup historical details for 96625085734",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified EMYRIA LIMITED; ABN 96625085734; registration 625085734",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "ENR",
+    "facts": {
+      "legal_name": "ENCOUNTER RESOURCES LIMITED",
+      "ABN": "47109815796",
+      "registration_number": "109815796",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=47109815796",
+        "title": "ABN Lookup historical details for 47109815796",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified ENCOUNTER RESOURCES LIMITED; ABN 47109815796; registration 109815796",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "ETM",
+    "facts": {
+      "legal_name": "ENERGY TRANSITION MINERALS LTD",
+      "ABN": "85118463004",
+      "registration_number": "118463004",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=85118463004",
+        "title": "ABN Lookup historical details for 85118463004",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified ENERGY TRANSITION MINERALS LTD; ABN 85118463004; registration 118463004",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "EWC",
+    "facts": {
+      "legal_name": "ENERGY WORLD CORPORATION LTD",
+      "ABN": "34009124994",
+      "registration_number": "009124994",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=34009124994",
+        "title": "ABN Lookup historical details for 34009124994",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified ENERGY WORLD CORPORATION LTD; ABN 34009124994; registration 009124994",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "ECT",
+    "facts": {
+      "legal_name": "ENVIRONMENTAL CLEAN TECHNOLOGIES LIMITED",
+      "ABN": "28009120405",
+      "registration_number": "009120405",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=28009120405",
+        "title": "ABN Lookup historical details for 28009120405",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified ENVIRONMENTAL CLEAN TECHNOLOGIES LIMITED; ABN 28009120405; registration 009120405",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "EQU",
+    "facts": {
+      "legal_name": "EQUUS ENERGY LIMITED",
+      "ABN": "16108398983",
+      "registration_number": "108398983",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=16108398983",
+        "title": "ABN Lookup historical details for 16108398983",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified EQUUS ENERGY LIMITED; ABN 16108398983; registration 108398983",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "EGH",
+    "facts": {
+      "legal_name": "EUREKA GROUP HOLDINGS LIMITED",
+      "ABN": "15097241159",
+      "registration_number": "097241159",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=15097241159",
+        "title": "ABN Lookup historical details for 15097241159",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified EUREKA GROUP HOLDINGS LIMITED; ABN 15097241159; registration 097241159",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "EZL",
+    "facts": {
+      "legal_name": "EUROZ HARTLEYS GROUP LIMITED",
+      "ABN": "53000364465",
+      "registration_number": "000364465",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=53000364465",
+        "title": "ABN Lookup historical details for 53000364465",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified EUROZ HARTLEYS GROUP LIMITED; ABN 53000364465; registration 000364465",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "EVZ",
+    "facts": {
+      "legal_name": "EVZ LIMITED",
+      "ABN": "87010550357",
+      "registration_number": "010550357",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=87010550357",
+        "title": "ABN Lookup historical details for 87010550357",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified EVZ LIMITED; ABN 87010550357; registration 010550357",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "FAL",
+    "facts": {
+      "legal_name": "FALCON METALS LTD",
+      "ABN": "87651893097",
+      "registration_number": "651893097",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=87651893097",
+        "title": "ABN Lookup historical details for 87651893097",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified FALCON METALS LTD; ABN 87651893097; registration 651893097",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "FXG",
+    "facts": {
+      "legal_name": "FELIX GOLD LIMITED",
+      "ABN": "35645790281",
+      "registration_number": "645790281",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=35645790281",
+        "title": "ABN Lookup historical details for 35645790281",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified FELIX GOLD LIMITED; ABN 35645790281; registration 645790281",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "FEX",
+    "facts": {
+      "legal_name": "FENIX RESOURCES LTD",
+      "ABN": "68125323622",
+      "registration_number": "125323622",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=68125323622",
+        "title": "ABN Lookup historical details for 68125323622",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified FENIX RESOURCES LTD; ABN 68125323622; registration 125323622",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "FDR",
+    "facts": {
+      "legal_name": "FINDER ENERGY HOLDINGS LIMITED",
+      "ABN": "70656811719",
+      "registration_number": "656811719",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=70656811719",
+        "title": "ABN Lookup historical details for 70656811719",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified FINDER ENERGY HOLDINGS LIMITED; ABN 70656811719; registration 656811719",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "FMR",
+    "facts": {
+      "legal_name": "FMR RESOURCES LIMITED",
+      "ABN": "29107371497",
+      "registration_number": "107371497",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=29107371497",
+        "title": "ABN Lookup historical details for 29107371497",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified FMR RESOURCES LIMITED; ABN 29107371497; registration 107371497",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "FML",
+    "facts": {
+      "legal_name": "FOCUS MINERALS LTD",
+      "ABN": "56005470799",
+      "registration_number": "005470799",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=56005470799",
+        "title": "ABN Lookup historical details for 56005470799",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified FOCUS MINERALS LTD; ABN 56005470799; registration 005470799",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "FHE",
+    "facts": {
+      "legal_name": "FRONTIER ENERGY LIMITED",
+      "ABN": "64139522553",
+      "registration_number": "139522553",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=64139522553",
+        "title": "ABN Lookup historical details for 64139522553",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified FRONTIER ENERGY LIMITED; ABN 64139522553; registration 139522553",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "G50",
+    "facts": {
+      "legal_name": "G50 CORP LIMITED",
+      "ABN": "18645022233",
+      "registration_number": "645022233",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=18645022233",
+        "title": "ABN Lookup historical details for 18645022233",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified G50 CORP LIMITED; ABN 18645022233; registration 645022233",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "GEM",
+    "facts": {
+      "legal_name": "G8 EDUCATION LIMITED",
+      "ABN": "95123828553",
+      "registration_number": "123828553",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=95123828553",
+        "title": "ABN Lookup historical details for 95123828553",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified G8 EDUCATION LIMITED; ABN 95123828553; registration 123828553",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "GLN",
+    "facts": {
+      "legal_name": "GALAN LITHIUM LIMITED",
+      "ABN": "87149349646",
+      "registration_number": "149349646",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=87149349646",
+        "title": "ABN Lookup historical details for 87149349646",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified GALAN LITHIUM LIMITED; ABN 87149349646; registration 149349646",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "GML",
+    "facts": {
+      "legal_name": "GATEWAY MINING LIMITED",
+      "ABN": "31008402391",
+      "registration_number": "008402391",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=31008402391",
+        "title": "ABN Lookup historical details for 31008402391",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified GATEWAY MINING LIMITED; ABN 31008402391; registration 008402391",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "GSS",
+    "facts": {
+      "legal_name": "GENETIC SIGNATURES LIMITED",
+      "ABN": "30095913205",
+      "registration_number": "095913205",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=30095913205",
+        "title": "ABN Lookup historical details for 30095913205",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified GENETIC SIGNATURES LIMITED; ABN 30095913205; registration 095913205",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "GL1",
+    "facts": {
+      "legal_name": "GLOBAL LITHIUM RESOURCES LIMITED",
+      "ABN": "58626093150",
+      "registration_number": "626093150",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=58626093150",
+        "title": "ABN Lookup historical details for 58626093150",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified GLOBAL LITHIUM RESOURCES LIMITED; ABN 58626093150; registration 626093150",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "GHY",
+    "facts": {
+      "legal_name": "GOLD HYDROGEN LIMITED",
+      "ABN": "74647468899",
+      "registration_number": "647468899",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=74647468899",
+        "title": "ABN Lookup historical details for 74647468899",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified GOLD HYDROGEN LIMITED; ABN 74647468899; registration 647468899",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "GHM",
+    "facts": {},
+    "evidence": [],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "GRR",
+    "facts": {
+      "legal_name": "GRANGE RESOURCES LIMITED",
+      "ABN": "80009132405",
+      "registration_number": "009132405",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=80009132405",
+        "title": "ABN Lookup historical details for 80009132405",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified GRANGE RESOURCES LIMITED; ABN 80009132405; registration 009132405",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "GBR",
+    "facts": {
+      "legal_name": "GREAT BOULDER RESOURCES LTD.",
+      "ABN": "70611695955",
+      "registration_number": "611695955",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=70611695955",
+        "title": "ABN Lookup historical details for 70611695955",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified GREAT BOULDER RESOURCES LTD.; ABN 70611695955; registration 611695955",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "GW1",
+    "facts": {},
+    "evidence": [],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "GWR",
+    "facts": {
+      "legal_name": "GWR GROUP LIMITED",
+      "ABN": "54102622051",
+      "registration_number": "102622051",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=54102622051",
+        "title": "ABN Lookup historical details for 54102622051",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified GWR GROUP LIMITED; ABN 54102622051; registration 102622051",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "HMG",
+    "facts": {
+      "legal_name": "HAMELIN GOLD LIMITED",
+      "ABN": "15650439580",
+      "registration_number": "650439580",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=15650439580",
+        "title": "ABN Lookup historical details for 15650439580",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified HAMELIN GOLD LIMITED; ABN 15650439580; registration 650439580",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "HMX",
+    "facts": {
+      "legal_name": "HAMMER METALS LIMITED",
+      "ABN": "87095092158",
+      "registration_number": "095092158",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=87095092158",
+        "title": "ABN Lookup historical details for 87095092158",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified HAMMER METALS LIMITED; ABN 87095092158; registration 095092158",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "HAV",
+    "facts": {
+      "legal_name": "HAVILAH RESOURCES LIMITED",
+      "ABN": "39077435520",
+      "registration_number": "077435520",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=39077435520",
+        "title": "ABN Lookup historical details for 39077435520",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified HAVILAH RESOURCES LIMITED; ABN 39077435520; registration 077435520",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "HLS",
+    "facts": {
+      "legal_name": "HEALIUS LIMITED",
+      "ABN": "24064530516",
+      "registration_number": "064530516",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=24064530516",
+        "title": "ABN Lookup historical details for 24064530516",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified HEALIUS LIMITED; ABN 24064530516; registration 064530516",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "HLO",
+    "facts": {
+      "legal_name": "HELLOWORLD TRAVEL LIMITED",
+      "ABN": "60091214998",
+      "registration_number": "091214998",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=60091214998",
+        "title": "ABN Lookup historical details for 60091214998",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified HELLOWORLD TRAVEL LIMITED; ABN 60091214998; registration 091214998",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "HMD",
+    "facts": {
+      "legal_name": "HERAMED LIMITED",
+      "ABN": "65626295314",
+      "registration_number": "626295314",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=65626295314",
+        "title": "ABN Lookup historical details for 65626295314",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified HERAMED LIMITED; ABN 65626295314; registration 626295314",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "HTM",
+    "facts": {
+      "legal_name": "HIGH-TECH METALS LTD",
+      "ABN": "68657249995",
+      "registration_number": "657249995",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=68657249995",
+        "title": "ABN Lookup historical details for 68657249995",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified HIGH-TECH METALS LTD; ABN 68657249995; registration 657249995",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "HZN",
+    "facts": {
+      "legal_name": "HORIZON OIL LIMITED",
+      "ABN": "51009799455",
+      "registration_number": "009799455",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=51009799455",
+        "title": "ABN Lookup historical details for 51009799455",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified HORIZON OIL LIMITED; ABN 51009799455; registration 009799455",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "HCH",
+    "facts": {
+      "legal_name": "HOT CHILI LIMITED",
+      "ABN": "91130955725",
+      "registration_number": "130955725",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=91130955725",
+        "title": "ABN Lookup historical details for 91130955725",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified HOT CHILI LIMITED; ABN 91130955725; registration 130955725",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "HUM",
+    "facts": {
+      "legal_name": "HUMM GROUP LIMITED",
+      "ABN": "75122574583",
+      "registration_number": "122574583",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=75122574583",
+        "title": "ABN Lookup historical details for 75122574583",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified HUMM GROUP LIMITED; ABN 75122574583; registration 122574583",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "IMA",
+    "facts": {
+      "legal_name": "IMAGE RESOURCES NL",
+      "ABN": "57063977579",
+      "registration_number": "063977579",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=57063977579",
+        "title": "ABN Lookup historical details for 57063977579",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified IMAGE RESOURCES NL; ABN 57063977579; registration 063977579",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "IMM",
+    "facts": {
+      "legal_name": "IMMUTEP LIMITED",
+      "ABN": "90009237889",
+      "registration_number": "009237889",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=90009237889",
+        "title": "ABN Lookup historical details for 90009237889",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified IMMUTEP LIMITED; ABN 90009237889; registration 009237889",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "IMU",
+    "facts": {
+      "legal_name": "IMUGENE LIMITED",
+      "ABN": "99009179551",
+      "registration_number": "009179551",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=99009179551",
+        "title": "ABN Lookup historical details for 99009179551",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified IMUGENE LIMITED; ABN 99009179551; registration 009179551",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "IFN",
+    "facts": {
+      "legal_name": "INFRAGREEN GROUP LIMITED",
+      "ABN": "85668228742",
+      "registration_number": "668228742",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=85668228742",
+        "title": "ABN Lookup historical details for 85668228742",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified INFRAGREEN GROUP LIMITED; ABN 85668228742; registration 668228742",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "INN",
+    "facts": {},
+    "evidence": [],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "IMB",
+    "facts": {
+      "legal_name": "INTELLIGENT MONITORING GROUP LIMITED",
+      "ABN": "36060774227",
+      "registration_number": "060774227",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=36060774227",
+        "title": "ABN Lookup historical details for 36060774227",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified INTELLIGENT MONITORING GROUP LIMITED; ABN 36060774227; registration 060774227",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  },
+  {
+    "ASX_Code": "IVR",
+    "facts": {
+      "legal_name": "INVESTIGATOR SILVER LIMITED",
+      "ABN": "90115338979",
+      "registration_number": "115338979",
+      "jurisdiction": "UNKNOWN",
+      "registration_number_type": "ACN_OR_ARBN_ABR_LABEL; reconcile against issuer filing"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=90115338979",
+        "title": "ABN Lookup historical details for 90115338979",
+        "date": "2026-10-13 retrieval in original sustained run",
+        "page_section": "Entity name history and ASIC registration",
+        "fact": "Primary page identified INVESTIGATOR SILVER LIMITED; ABN 90115338979; registration 115338979",
+        "verification_method": "RECOVERED_PRIOR_LIVE_PRIMARY_READ: actual tool results in this assignment, not user-supplied/cached project data; local evidence snapshot lost in environment reset"
+      }
+    ],
+    "historical_conclusion": "Partial ABR name/identifier corroboration; full historical continuity and market-data comparability remain open.",
+    "security_conclusion": "UNRESOLVED pending reconstruction of current PDFs and full historical securities audit",
+    "trading_conclusion": "UNRESOLVED_CURRENT_STATUS",
+    "unresolved": [
+      "Full historical issuer/ticker chain and ticker-reuse exclusions not signed off",
+      "Complete historical security class, options/rights, splits/consolidations and ISIN unresolved",
+      "Current trading/listing status on 13 October 2026 unresolved",
+      "Country of incorporation requires explicit issuer/registry primary statement; ABR Australian Public Company label alone insufficient"
+    ],
+    "investigated": true,
+    "notes": "Original run systematically searched/opened primary sources across this entire53-company cohort. Workspace reset lost local snapshots; recovered only facts explicit in retained live-tool conversation. Fresh primary re-read underway; no issuer fully signed off."
+  }
+]

@@ -1,0 +1,2548 @@
+[
+  {
+    "ASX_Code": "NYM",
+    "facts": {
+      "current_legal_issuer": "Narryer Metals Limited",
+      "ACN": "651 575 898",
+      "ABN": "60 651 575 898",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "UNKNOWN",
+      "security_type": "Fully paid ordinary shares identified; full class/action chronology unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20221111/pdf/45hhyrwwk9nn6n.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=60651575898",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Narryer Metals Limited; ABN 60 651 575 898",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20221111/pdf/45hhyrwwk9nn6n.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2022-11-11",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Narryer Metals Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "PARTIAL_CLASS_CONFIRMED; full classes/ISIN/action history unresolved",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "NMR",
+    "facts": {
+      "current_legal_issuer": "Native Mineral Resources Holdings Limited",
+      "ACN": "643 293 716",
+      "ABN": "93 643 293 716",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "UNKNOWN",
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20201112/pdf/44ptchxrwh3fnn.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=93643293716",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Native Mineral Resources Holdings Limited; ABN 93 643 293 716",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20201112/pdf/44ptchxrwh3fnn.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2020-11-12",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Native Mineral Resources Holdings Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "UNRESOLVED",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "NTI",
+    "facts": {
+      "current_legal_issuer": "Neurotech International Limited",
+      "ACN": "610 205 402",
+      "ABN": "73 610 205 402",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "UNKNOWN",
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20260226/pdf/06wtq3w26czs38.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=73610205402",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Neurotech International Limited; ABN 73 610 205 402",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260226/pdf/06wtq3w26czs38.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2026-02-26",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Neurotech International Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "UNRESOLVED",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "NOL",
+    "facts": {
+      "current_legal_issuer": "NobleOak Life Limited",
+      "ACN": "087 648 708",
+      "ABN": "85 087 648 708",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "ABR legal-name dates (not ASX trading-effective dates): NOBLEOAK LIFE LIMITED from 22 Nov 2007; ACORN PRUDENTIAL LTD 17 Nov 2005–22 Nov 2007; UNITED ANCIENT ORDER OF DRUIDS FRIENDLY SOCIETY N.S.W. LTD 4 Aug 2000–17 Nov 2005 (earlier spelling FREINDLY 30 May 2000–4 Aug 2000)",
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20210721/pdf/44yhslf991qc6m.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=85087648708",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "NobleOak Life Limited; ABN 85 087 648 708",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=85087648708",
+        "title": "ABN Lookup — historical details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name From/To and ASIC registration",
+        "fact": "NOBLEOAK LIFE LIMITED from 22 Nov 2007; ACORN PRUDENTIAL LTD 17 Nov 2005–22 Nov 2007; UNITED ANCIENT ORDER OF DRUIDS FRIENDLY SOCIETY N.S.W. LTD 4 Aug 2000–17 Nov 2005 (earlier spelling FREINDLY 30 May 2000–4 Aug 2000)",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20210721/pdf/44yhslf991qc6m.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2021-07-21",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "NobleOak Life Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "UNRESOLVED",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "NMD",
+    "facts": {
+      "current_legal_issuer": "Normandy Minerals Ltd",
+      "ACN": "UNKNOWN",
+      "ABN": "UNKNOWN",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNKNOWN",
+      "previous_names_and_tickers": "UNKNOWN",
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled"
+    },
+    "evidence": [
+      {
+        "url": "https://asxonline.com/content/asxonline/public/notices/2026/september/1078.26.09.html",
+        "title": "Normandy Minerals Ltd — DvP IPO Settlement NMDZZ",
+        "date": "2026-09-14",
+        "page_section": "Bid Details",
+        "fact": "InterimNMDZZ settlement ISINAU 0000487076; conversiontoNMD indicative 5 Oct 2026 subjecttoASXrequirements",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "UNRESOLVED",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement",
+      "NMDZZ settlement ISIN and indicativeconversiondo not establishfinalquoted NMD class/ISIN oractualadmission; read actualnotice"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "NTU",
+    "facts": {
+      "current_legal_issuer": "Northern Minerals Limited",
+      "ACN": "UNKNOWN",
+      "ABN": "61 119 966 353",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "ABR legal-name dates (not ASX trading-effective dates): NORTHERN MINERALS LIMITED from 2 Jun 2011; NORTHERN URANIUM LIMITED 1 Jul 2006–2 Jun 2011",
+      "security_type": "Fully paid ordinary shares identified; full class/action chronology unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20200518/pdf/44hxfmhsz9cvw9.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=61119966353",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Northern Minerals Limited; ABN 61 119 966 353",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=61119966353",
+        "title": "ABN Lookup — historical details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name From/To and ASIC registration",
+        "fact": "NORTHERN MINERALS LIMITED from 2 Jun 2011; NORTHERN URANIUM LIMITED 1 Jul 2006–2 Jun 2011",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20200518/pdf/44hxfmhsz9cvw9.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2020-05-18",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Northern Minerals Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "PARTIAL_CLASS_CONFIRMED; full classes/ISIN/action history unresolved",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "NOU",
+    "facts": {
+      "current_legal_issuer": "Noumi Limited",
+      "ACN": "UNKNOWN",
+      "ABN": "41 002 814 235",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "ABR legal-name dates (not ASX trading-effective dates): NOUMI LIMITED from 19 Nov 2021; FREEDOM FOODS GROUP LIMITED 3 Nov 2010–19 Nov 2021; FREEDOM NUTRITIONAL PRODUCTS LIMITED 1 Feb 2007–3 Nov 2010; SO NATURAL FOODS AUSTRALIA LIMITED 2 May 2000–1 Feb 2007",
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20220222/pdf/4566ysfc14620f.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=41002814235",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Noumi Limited; ABN 41 002 814 235",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=41002814235",
+        "title": "ABN Lookup — historical details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name From/To and ASIC registration",
+        "fact": "NOUMI LIMITED from 19 Nov 2021; FREEDOM FOODS GROUP LIMITED 3 Nov 2010–19 Nov 2021; FREEDOM NUTRITIONAL PRODUCTS LIMITED 1 Feb 2007–3 Nov 2010; SO NATURAL FOODS AUSTRALIA LIMITED 2 May 2000–1 Feb 2007",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20220222/pdf/4566ysfc14620f.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2022-02-22",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Noumi Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "UNRESOLVED",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "NVX",
+    "facts": {
+      "current_legal_issuer": "Novonix Limited",
+      "ACN": "157 690 830",
+      "ABN": "54 157 690 830",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "ABR legal-name dates (not ASX trading-effective dates): NOVONIX LIMITED from 12 Jul 2017; GRAPHITECORP LIMITED 9 Dec 2015–12 Jul 2017; GRAPHITECORP PTY LIMITED 1 Jul 2014–9 Dec 2015",
+      "security_type": "Fully paid ordinary shares identified; full class/action chronology unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20260316/pdf/06xgtm1lzhpld3.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=54157690830",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Novonix Limited; ABN 54 157 690 830",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=54157690830",
+        "title": "ABN Lookup — historical details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name From/To and ASIC registration",
+        "fact": "NOVONIX LIMITED from 12 Jul 2017; GRAPHITECORP LIMITED 9 Dec 2015–12 Jul 2017; GRAPHITECORP PTY LIMITED 1 Jul 2014–9 Dec 2015",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260316/pdf/06xgtm1lzhpld3.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2026-03-16",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Novonix Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "PARTIAL_CLASS_CONFIRMED; full classes/ISIN/action history unresolved",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "NYR",
+    "facts": {
+      "current_legal_issuer": "Nyrada Inc.",
+      "ACN": "NOT_APPLICABLE_FOREIGN_ISSUER",
+      "ABN": "54 625 401 818",
+      "ARBN": "625 401 818",
+      "incorporation_jurisdiction": "Delaware, United States",
+      "previous_names_and_tickers": "UNKNOWN",
+      "security_type": "CDIs1:1 common shares; 2025 annual report specifies Class A",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20251001/pdf/06pyt9pkhp79mc.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=54625401818",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Nyrada Inc.; ABN 54 625 401 818",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20251001/pdf/06pyt9pkhp79mc.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2025-10-01",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Nyrada Inc ASXNYR ARBN 625401818 incorporatedDelaware; equityplan defines oneCDI as interestinoneCommonShare",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "PARTIAL_CLASS_CONFIRMED; full classes/ISIN/action history unresolved",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "OCN",
+    "facts": {
+      "current_legal_issuer": "Oceana Metals Limited",
+      "ACN": "UNKNOWN",
+      "ABN": "UNKNOWN",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNKNOWN",
+      "previous_names_and_tickers": "UNKNOWN",
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20260428/pdf/06yxv7mgbzyq24.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260428/pdf/06yxv7mgbzyq24.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2026-04-28",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Oceana Metals Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "UNRESOLVED",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "OD6",
+    "facts": {
+      "current_legal_issuer": "OD6 Metals Limited",
+      "ACN": "654 839 602",
+      "ABN": "34 654 839 602",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "ABR legal-name dates (not ASX trading-effective dates): OD 6 METALS LIMITED from 17 Mar 2022; ODETTE SIX METALS LIMITED 27 Oct 2021–17 Mar 2022",
+      "security_type": "Fully paid ordinary shares identified; full class/action chronology unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20260319/pdf/06xm0d9xlw1wd7.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=34654839602",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "OD 6 Metals Limited; ABN 34 654 839 602",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=34654839602",
+        "title": "ABN Lookup — historical details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name From/To and ASIC registration",
+        "fact": "OD 6 METALS LIMITED from 17 Mar 2022; ODETTE SIX METALS LIMITED 27 Oct 2021–17 Mar 2022",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260319/pdf/06xm0d9xlw1wd7.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2026-03-19",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "OD 6 Metals Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "PARTIAL_CLASS_CONFIRMED; full classes/ISIN/action history unresolved",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "ODY",
+    "facts": {
+      "current_legal_issuer": "Odyssey Gold Ltd",
+      "ACN": "UNKNOWN",
+      "ABN": "73 116 151 636",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "ABR legal-name dates (not ASX trading-effective dates): ODYSSEY GOLD LTD from 25 Nov 2020; ODYSSEY ENERGY LIMITED 8 Sep 2005–25 Nov 2020",
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20221103/pdf/45h63kq4qwbc26.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=73116151636",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Odyssey Gold Ltd; ABN 73 116 151 636",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=73116151636",
+        "title": "ABN Lookup — historical details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name From/To and ASIC registration",
+        "fact": "ODYSSEY GOLD LTD from 25 Nov 2020; ODYSSEY ENERGY LIMITED 8 Sep 2005–25 Nov 2020",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20221103/pdf/45h63kq4qwbc26.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2022-11-03",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Odyssey Gold Ltd issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "UNRESOLVED",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "OFX",
+    "facts": {
+      "current_legal_issuer": "OFX Group Limited",
+      "ACN": "165 602 273",
+      "ABN": "12 165 602 273",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "ABR legal-name dates (not ASX trading-effective dates): OFX GROUP LIMITED from 25 Aug 2016; OZFOREX GROUP LIMITED 2 Sep 2013–25 Aug 2016",
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20230125/pdf/45kyqczs5jss01.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=12165602273",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "OFX Group Limited; ABN 12 165 602 273",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=12165602273",
+        "title": "ABN Lookup — historical details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name From/To and ASIC registration",
+        "fact": "OFX GROUP LIMITED from 25 Aug 2016; OZFOREX GROUP LIMITED 2 Sep 2013–25 Aug 2016",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20230125/pdf/45kyqczs5jss01.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2023-01-25",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "OFX Group Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "UNRESOLVED",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "OMA",
+    "facts": {
+      "current_legal_issuer": "Omega Oil & Gas Limited",
+      "ACN": "644 588 787",
+      "ABN": "45 644 588 787",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "ABR legal-name dates (not ASX trading-effective dates): OMEGA OIL & GAS LIMITED from 15 Feb 2023; LUCO ENERGY PTY LTD 23 Sep 2020–15 Feb 2023",
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20221021/pdf/45glls7lxpcfpt.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=45644588787",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Omega Oil & Gas Limited; ABN 45 644 588 787",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=45644588787",
+        "title": "ABN Lookup — historical details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name From/To and ASIC registration",
+        "fact": "OMEGA OIL & GAS LIMITED from 15 Feb 2023; LUCO ENERGY PTY LTD 23 Sep 2020–15 Feb 2023",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20221021/pdf/45glls7lxpcfpt.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2022-10-21",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Omega Oil & Gas Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "UNRESOLVED",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement",
+      "ABR Australian Private Company and Omega-name-from15Feb2023 differ from2022 IPO prospectus; obtain ASIC name/conversion certificate"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "OBL",
+    "facts": {
+      "current_legal_issuer": "Omni Bridgeway Limited",
+      "ACN": "UNKNOWN",
+      "ABN": "45 067 298 088",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "ABR legal-name dates (not ASX trading-effective dates): OMNI BRIDGEWAY LIMITED from 3 Mar 2020; IMF BENTHAM LIMITED 14 Nov 2014–3 Mar 2020; BENTHAM IMF LIMITED 28 Nov 2013–14 Nov 2014; IMF (AUSTRALIA) LTD. 6 Dec 2002–28 Nov 2013; INSOLVENCY MANAGEMENT FUND LIMITED 20 Jun 2000–6 Dec 2002",
+      "security_type": "Fully paid ordinary shares identified; full class/action chronology unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20250828/pdf/06ngppk23c1fs7.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=45067298088",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Omni Bridgeway Limited; ABN 45 067 298 088",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=45067298088",
+        "title": "ABN Lookup — historical details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name From/To and ASIC registration",
+        "fact": "OMNI BRIDGEWAY LIMITED from 3 Mar 2020; IMF BENTHAM LIMITED 14 Nov 2014–3 Mar 2020; BENTHAM IMF LIMITED 28 Nov 2013–14 Nov 2014; IMF (AUSTRALIA) LTD. 6 Dec 2002–28 Nov 2013; INSOLVENCY MANAGEMENT FUND LIMITED 20 Jun 2000–6 Dec 2002",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20250828/pdf/06ngppk23c1fs7.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2025-08-28",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Omni Bridgeway Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "PARTIAL_CLASS_CONFIRMED; full classes/ISIN/action history unresolved",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "OCC",
+    "facts": {
+      "current_legal_issuer": "Orthocell Limited",
+      "ACN": "UNKNOWN",
+      "ABN": "57 118 897 135",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "ABR legal-name dates (not ASX trading-effective dates): ORTHOCELL LIMITED from 24 Sep 2012; Orthocell Pty Ltd 22 Mar 2006–24 Sep 2012",
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20240830/pdf/067b0sl6tvwrm1.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=57118897135",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Orthocell Limited; ABN 57 118 897 135",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=57118897135",
+        "title": "ABN Lookup — historical details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name From/To and ASIC registration",
+        "fact": "ORTHOCELL LIMITED from 24 Sep 2012; Orthocell Pty Ltd 22 Mar 2006–24 Sep 2012",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20240830/pdf/067b0sl6tvwrm1.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2024-08-30",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Orthocell governance PDF headerABN 57118897135 but bodyABN 57118891135; preserve discrepancy",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "UNRESOLVED",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement",
+      "30Aug2024 governance statement internally conflicts ABN57118897135 header versus57118891135 body; ABR supports header value"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "PAR",
+    "facts": {
+      "current_legal_issuer": "Paradigm Biopharmaceuticals Limited",
+      "ACN": "UNKNOWN",
+      "ABN": "94 169 346 963",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "UNKNOWN",
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20260227/pdf/06wv5xn2300fzk.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=94169346963",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Paradigm Biopharmaceuticals Limited; ABN 94 169 346 963",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260227/pdf/06wv5xn2300fzk.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2026-02-27",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Paradigm Biopharmaceuticals Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://paradigmbiopharma.com/announcements/7761228",
+        "title": "ASX Continuation of Suspension (issuer reproduction)",
+        "date": "2026-09-30",
+        "page_section": "ASX Compliance market notice text surfaced by issuer-site retrieval",
+        "fact": "ASX suspendedPAR underLR 17.3 followingvoluntaryadministrators; financialconditionLR 12.2 inadequate; continuesuntilASXsatisfied. Renderedpagehidesbody; originalASXPDFpending",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "UNRESOLVED",
+    "trading_conclusion": "SUSPENSION_NOTICE_LOCATED_2026_09_30; later reinstatement sequence unresolved",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "PGC",
+    "facts": {
+      "current_legal_issuer": "Paragon Care Limited",
+      "ACN": "UNKNOWN",
+      "ABN": "76 064 551 426",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "ABR legal-name dates (not ASX trading-effective dates): PARAGON CARE LIMITED from 6 Jun 2008; CITROFRESH INTERNATIONAL LIMITED 26 Jul 2004–6 Jun 2008; PLEXUS INTERNATIONAL LIMITED 4 May 2000–26 Jul 2004",
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20241018/pdf/0698697rd983l0.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=76064551426",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Paragon Care Limited; ABN 76 064 551 426",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=76064551426",
+        "title": "ABN Lookup — historical details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name From/To and ASIC registration",
+        "fact": "PARAGON CARE LIMITED from 6 Jun 2008; CITROFRESH INTERNATIONAL LIMITED 26 Jul 2004–6 Jun 2008; PLEXUS INTERNATIONAL LIMITED 4 May 2000–26 Jul 2004",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20241018/pdf/0698697rd983l0.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2024-10-18",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Paragon Care Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "UNRESOLVED",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "PC2",
+    "facts": {
+      "current_legal_issuer": "PC Gold Ltd",
+      "ACN": "UNKNOWN",
+      "ABN": "91 609 609 047",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNKNOWN",
+      "previous_names_and_tickers": "UNKNOWN",
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20260209/pdf/06w309ghqfv05j.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260209/pdf/06w309ghqfv05j.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2026-02-09",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Appendix 3 B identifies PC GOLD LTD, ABN 91 609 609 047, ASX PC 2. Proposed issues in this form are not evidence of completed allotments",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "UNRESOLVED",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "PEN",
+    "facts": {
+      "current_legal_issuer": "Peninsula Energy Limited",
+      "ACN": "UNKNOWN",
+      "ABN": "67 062 409 303",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "UNKNOWN",
+      "security_type": "Fully paid ordinary shares identified; full class/action chronology unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20240110/pdf/05z9zkcd2zx7t4.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=67062409303",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Peninsula Energy Limited; ABN 67 062 409 303",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20240110/pdf/05z9zkcd2zx7t4.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2024-01-10",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Peninsula Energy Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "PARTIAL_CLASS_CONFIRMED; full classes/ISIN/action history unresolved",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "PPE",
+    "facts": {
+      "current_legal_issuer": "Peoplein Limited",
+      "ACN": "UNKNOWN",
+      "ABN": "39 615 173 076",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "ABR legal-name dates (not ASX trading-effective dates): PEOPLEIN LIMITED from 11 Dec 2021; PEOPLE INFRASTRUCTURE LTD. 2 Nov 2017–11 Dec 2021; AWX HCO ONE PTY LTD 5 Oct 2016–2 Nov 2017",
+      "security_type": "Fully paid ordinary shares identified; full class/action chronology unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20220826/pdf/45d9xm9c36bdph.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=39615173076",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Peoplein Limited; ABN 39 615 173 076",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=39615173076",
+        "title": "ABN Lookup — historical details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name From/To and ASIC registration",
+        "fact": "PEOPLEIN LIMITED from 11 Dec 2021; PEOPLE INFRASTRUCTURE LTD. 2 Nov 2017–11 Dec 2021; AWX HCO ONE PTY LTD 5 Oct 2016–2 Nov 2017",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20220826/pdf/45d9xm9c36bdph.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2022-08-26",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Peoplein Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "PARTIAL_CLASS_CONFIRMED; full classes/ISIN/action history unresolved",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "PWR",
+    "facts": {
+      "current_legal_issuer": "Peter Warren Automotive Holdings Limited",
+      "ACN": "615 674 185",
+      "ABN": "57 615 674 185",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "ABR legal-name dates (not ASX trading-effective dates): PETER WARREN AUTOMOTIVE HOLDINGS LIMITED from 27 Apr 2023; PWA HOLDINGS ONE PTY LTD 9 Nov 2017–27 Apr 2023",
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20240117/pdf/05zhp6x4jhmjct.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=57615674185",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Peter Warren Automotive Holdings Limited; ABN 57 615 674 185",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=57615674185",
+        "title": "ABN Lookup — historical details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name From/To and ASIC registration",
+        "fact": "PETER WARREN AUTOMOTIVE HOLDINGS LIMITED from 27 Apr 2023; PWA HOLDINGS ONE PTY LTD 9 Nov 2017–27 Apr 2023",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20240117/pdf/05zhp6x4jhmjct.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2024-01-17",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Peter Warren Automotive Holdings Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "UNRESOLVED",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement",
+      "ABR Australian Private Company and name-from27Apr2023 metadata differ from dated ASX listed-PWR issuer; obtain ASIC history to reconcile"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "PVT",
+    "facts": {
+      "current_legal_issuer": "Pivotal Metals Limited",
+      "ACN": "623 130 987",
+      "ABN": "49 623 130 987",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "ABR legal-name dates (not ASX trading-effective dates): PIVOTAL METALS LIMITED ABR from 28 Aug 2023; RAFAELLA RESOURCES LTD. 29 Nov 2017–28 Aug 2023; ASX name/code event 29 Nov 2022 requires date reconciliation",
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20221212/pdf/45jpxfv2hlh3qr.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=49623130987",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Pivotal Metals Limited; ABN 49 623 130 987",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=49623130987",
+        "title": "ABN Lookup — historical details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name From/To and ASIC registration",
+        "fact": "PIVOTAL METALS LIMITED ABR from 28 Aug 2023; RAFAELLA RESOURCES LTD. 29 Nov 2017–28 Aug 2023; ASX name/code event 29 Nov 2022 requires date reconciliation",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20221212/pdf/45jpxfv2hlh3qr.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2022-12-12",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Pivotal Metals Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "UNRESOLVED",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement",
+      "ABR name date28Aug2023 differs ASX RFR-to-PVT name/code event29Nov2022; distinguish registry versus market dates and obtain certificate"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "PLT",
+    "facts": {
+      "current_legal_issuer": "Plenti Group Limited",
+      "ACN": "643 435 492",
+      "ABN": "11 643 435 492",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "UNKNOWN",
+      "security_type": "Fully paid ordinary shares identified; full class/action chronology unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20241120/pdf/06blj4cxp6cpb5.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=11643435492",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Plenti Group Limited; ABN 11 643 435 492",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20241120/pdf/06blj4cxp6cpb5.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2024-11-20",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "ASX 20 Nov 2024 half-year Appendix 4 D identifies Plenti Group Limited ABN 11 643435492; Australia incorporation; ordinary shares",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://www.plenti.com.au/privacy",
+        "title": "Plenti Privacy and Credit Reporting Policy",
+        "date": "Live issuer site reviewed2026-10-13",
+        "page_section": "Opening entity definitions",
+        "fact": "Listed parent Plenti Group Limited ACN 643435492 is distinct from Plenti RE Limited ABN 57166646635",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "PARTIAL_CLASS_CONFIRMED; full classes/ISIN/action history unresolved",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement",
+      "Correct baseline ACN 166 646 635 subsidiary Plenti RE Limited to listed parent ACN 643 435 492 / ABN 11 643 435 492"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "PVE",
+    "facts": {
+      "current_legal_issuer": "Po Valley Energy Limited",
+      "ACN": "UNKNOWN",
+      "ABN": "33 087 741 571",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNKNOWN",
+      "previous_names_and_tickers": "UNKNOWN",
+      "security_type": "Fully paid ordinary shares identified; full class/action chronology unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20180319/pdf/43skjh0nx5hwc7.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20180319/pdf/43skjh0nx5hwc7.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2018-03-19",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Po Valley Energy Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "PARTIAL_CLASS_CONFIRMED; full classes/ISIN/action history unresolved",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "POL",
+    "facts": {
+      "current_legal_issuer": "Polymetals Resources Ltd",
+      "ACN": "644 736 247",
+      "ABN": "73 644 736 247",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "UNKNOWN",
+      "security_type": "Fully paid ordinary shares identified; full class/action chronology unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20250218/pdf/06fn24mb31rmdx.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=73644736247",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Polymetals Resources Ltd; ABN 73 644 736 247",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20250218/pdf/06fn24mb31rmdx.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2025-02-18",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Polymetals Resources Ltd issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "PARTIAL_CLASS_CONFIRMED; full classes/ISIN/action history unresolved",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "PNN",
+    "facts": {
+      "current_legal_issuer": "Power Minerals Limited",
+      "ACN": "101 714 989",
+      "ABN": "55 101 714 989",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "ABR legal-name dates (not ASX trading-effective dates): POWER MINERALS LIMITED from 11 Jun 2022; PEPINNINI MINERALS LIMITED 6 Jun 2004–11 Jun 2022; PEPINNINI MINERALS PTY LIMITED 8 Apr 2004–6 Jun 2004; Pepinnini Mining Company Pty Limited 15 Aug 2002–8 Apr 2004; note ABR table omits ASX-documented Lithium name",
+      "security_type": "Fully paid ordinary shares identified; full class/action chronology unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20251028/pdf/06r461vjs35z4s.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=55101714989",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Power Minerals Limited; ABN 55 101 714 989",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=55101714989",
+        "title": "ABN Lookup — historical details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name From/To and ASIC registration",
+        "fact": "POWER MINERALS LIMITED from 11 Jun 2022; PEPINNINI MINERALS LIMITED 6 Jun 2004–11 Jun 2022; PEPINNINI MINERALS PTY LIMITED 8 Apr 2004–6 Jun 2004; Pepinnini Mining Company Pty Limited 15 Aug 2002–8 Apr 2004; note ABR table omits ASX-documented Lithium name",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20251028/pdf/06r461vjs35z4s.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2025-10-28",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Power Minerals Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "PARTIAL_CLASS_CONFIRMED; full classes/ISIN/action history unresolved",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement",
+      "ABR omits intermediate PepinNini Lithium name recorded by ASX; ABR table alone cannot certify exhaustive history"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "PPS",
+    "facts": {
+      "current_legal_issuer": "Praemium Limited",
+      "ACN": "098 405 826",
+      "ABN": "74 098 405 826",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNKNOWN",
+      "previous_names_and_tickers": "ABR legal-name dates (not ASX trading-effective dates): PRAEMIUM LTD from 7 Mar 2006; PRAEMIUM PTY LTD 5 Nov 2001–7 Mar 2006",
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20241018/pdf/06992pfjbxxcn7.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=74098405826",
+        "title": "ABN Lookup — historical details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name From/To and ASIC registration",
+        "fact": "PRAEMIUM LTD from 7 Mar 2006; PRAEMIUM PTY LTD 5 Nov 2001–7 Mar 2006",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20241018/pdf/06992pfjbxxcn7.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2024-10-18",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Praemium Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "UNRESOLVED",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "PTX",
+    "facts": {
+      "current_legal_issuer": "Prescient Therapeutics Limited",
+      "ACN": "UNKNOWN",
+      "ABN": "56 006 569 106",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "ABR legal-name dates (not ASX trading-effective dates): PRESCIENT THERAPEUTICS LIMITED from 14 May 2015; VIRAX HOLDINGS LIMITED 9 Nov 1999–14 May 2015",
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20141202/pdf/42v6b52jytcrmn.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=56006569106",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Prescient Therapeutics Limited; ABN 56 006 569 106",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=56006569106",
+        "title": "ABN Lookup — historical details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name From/To and ASIC registration",
+        "fact": "PRESCIENT THERAPEUTICS LIMITED from 14 May 2015; VIRAX HOLDINGS LIMITED 9 Nov 1999–14 May 2015",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20141202/pdf/42v6b52jytcrmn.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2014-12-02",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Prescient Therapeutics Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "UNRESOLVED",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "PSC",
+    "facts": {
+      "current_legal_issuer": "Prospect Resources Limited",
+      "ACN": "124 354 329",
+      "ABN": "30 124 354 329",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "UNKNOWN",
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20220706/pdf/45bly8g1p5dxmn.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=30124354329",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Prospect Resources Limited; ABN 30 124 354 329",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20220706/pdf/45bly8g1p5dxmn.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2022-07-06",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Prospect Resources Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "UNRESOLVED",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "QML",
+    "facts": {
+      "current_legal_issuer": "QMines Limited",
+      "ACN": "643 212 104",
+      "ABN": "72 643 212 104",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "ABR legal-name dates (not ASX trading-effective dates): QMINES LIMITED from 22 Oct 2020; QMINES PTY LTD 10 Sep 2020–22 Oct 2020",
+      "security_type": "Fully paid ordinary shares identified; full class/action chronology unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20250416/pdf/06ht1sm3p85w8h.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=72643212104",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "QMines Limited; ABN 72 643 212 104",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=72643212104",
+        "title": "ABN Lookup — historical details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name From/To and ASIC registration",
+        "fact": "QMINES LIMITED from 22 Oct 2020; QMINES PTY LTD 10 Sep 2020–22 Oct 2020",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20250416/pdf/06ht1sm3p85w8h.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2025-04-16",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "QMines headerACN 643212104 and issuer-share definitions; footer includes 643312104 conflict",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "PARTIAL_CLASS_CONFIRMED; full classes/ISIN/action history unresolved",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement",
+      "16Apr2025 addendum headerACN643212104 versus footer643312104; ABR supports643212104"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "RAC",
+    "facts": {
+      "current_legal_issuer": "Racura Oncology Ltd",
+      "ACN": "UNKNOWN",
+      "ABN": "61 149 318 749",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "ABR legal-name dates (not ASX trading-effective dates): RACURA ONCOLOGY LTD from 6 Dec 2025; RACE ONCOLOGY LIMITED 4 Jul 2016–6 Dec 2025; Coronado Resources Ltd 15 Feb 2011–4 Jul 2016",
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=61149318749",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Racura Oncology Ltd; ABN 61 149 318 749",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=61149318749",
+        "title": "ABN Lookup — historical details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name From/To and ASIC registration",
+        "fact": "RACURA ONCOLOGY LTD from 6 Dec 2025; RACE ONCOLOGY LIMITED 4 Jul 2016–6 Dec 2025; Coronado Resources Ltd 15 Feb 2011–4 Jul 2016",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "UNRESOLVED",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "RZI",
+    "facts": {
+      "current_legal_issuer": "Raiz Invest Limited",
+      "ACN": "UNKNOWN",
+      "ABN": "74 615 510 177",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "ABR legal-name dates (not ASX trading-effective dates): RAIZ INVEST LIMITED from 21 Apr 2018; ACORNS INVESTMENT COMPANY LIMITED 24 Oct 2016–21 Apr 2018",
+      "security_type": "Fully paid ordinary shares identified; full class/action chronology unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20240826/pdf/067149dfw7rqcp.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=74615510177",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Raiz Invest Limited; ABN 74 615 510 177",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=74615510177",
+        "title": "ABN Lookup — historical details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name From/To and ASIC registration",
+        "fact": "RAIZ INVEST LIMITED from 21 Apr 2018; ACORNS INVESTMENT COMPANY LIMITED 24 Oct 2016–21 Apr 2018",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20240826/pdf/067149dfw7rqcp.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2024-08-26",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Raiz Invest Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "PARTIAL_CLASS_CONFIRMED; full classes/ISIN/action history unresolved",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "RDY",
+    "facts": {
+      "current_legal_issuer": "ReadyTech Holdings Limited",
+      "ACN": "632 137 216",
+      "ABN": "25 632 137 216",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "UNKNOWN",
+      "security_type": "Fully paid ordinary shares identified; full class/action chronology unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20250827/pdf/06ndc0x4ndx3zy.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=25632137216",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "ReadyTech Holdings Limited; ABN 25 632 137 216",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20250827/pdf/06ndc0x4ndx3zy.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2025-08-27",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "ReadyTech Holdings Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "PARTIAL_CLASS_CONFIRMED; full classes/ISIN/action history unresolved",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "REC",
+    "facts": {
+      "current_legal_issuer": "Recharge Metals Limited",
+      "ACN": "647 703 839",
+      "ABN": "13 647 703 839",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "ABR legal-name dates (not ASX trading-effective dates): RECHARGE METALS LIMITED from 8 Apr 2021; no earlier legal names in examined ABR table",
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "REC historically used by unrelated Recall Holdings; Recharge ACN647703839 is distinct",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20211007/pdf/451dryw3q8z239.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=13647703839",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Recharge Metals Limited; ABN 13 647 703 839",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=13647703839",
+        "title": "ABN Lookup — historical details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name From/To and ASIC registration",
+        "fact": "RECHARGE METALS LIMITED from 8 Apr 2021; no earlier legal names in examined ABR table",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20211007/pdf/451dryw3q8z239.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2021-10-07",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Recharge Metals Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20131024/pdf/42k8fc020bjrnb.pdf",
+        "title": "Brambles — Scheme Book for Demerger of Recall Holdings",
+        "date": "2013-10-24",
+        "page_section": "Scheme Book issuer and ASX listing sections",
+        "fact": "Recall Holdings describedasstandalonecompanyASXREC; unrelatedtoRechargeMetals 2021 legalentity. Proposed 2013 demergerdocument doesnot alone certifycompletion",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "UNRESOLVED",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement",
+      "HistoricalREC Recall Holdings price/financialseries mustremainsegregated; establish exactlisting/delisting andnew Rechargeadmissionboundaries; current13Oct2026 halt originalnotice required"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "RNU",
+    "facts": {
+      "current_legal_issuer": "Renascor Resources Limited",
+      "ACN": "135 531 341",
+      "ABN": "90 135 531 341",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "ABR legal-name dates (not ASX trading-effective dates): RENASCOR RESOURCES LIMITED from 2 Dec 2013; RENAISSANCE URANIUM LIMITED 5 Aug 2011–2 Dec 2013; Renaissance Uranium Pty Ltd 23 Feb 2009–5 Aug 2011",
+      "security_type": "Fully paid ordinary shares identified; full class/action chronology unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20251024/pdf/06qzzkhhkvf0kn.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=90135531341",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Renascor Resources Limited; ABN 90 135 531 341",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=90135531341",
+        "title": "ABN Lookup — historical details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name From/To and ASIC registration",
+        "fact": "RENASCOR RESOURCES LIMITED from 2 Dec 2013; RENAISSANCE URANIUM LIMITED 5 Aug 2011–2 Dec 2013; Renaissance Uranium Pty Ltd 23 Feb 2009–5 Aug 2011",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20251024/pdf/06qzzkhhkvf0kn.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2025-10-24",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Renascor Resources Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "PARTIAL_CLASS_CONFIRMED; full classes/ISIN/action history unresolved",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "RMC",
+    "facts": {
+      "current_legal_issuer": "Resimac Group Ltd",
+      "ACN": "095 034 003",
+      "ABN": "55 095 034 003",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "ABR legal-name dates (not ASX trading-effective dates): RESIMAC GROUP LTD from 5 Dec 2018; HOMELOANS LIMITED 19 Mar 2001–5 Dec 2018",
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20251017/pdf/06qnmhfscbmy5m.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=55095034003",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Resimac Group Ltd; ABN 55 095 034 003",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=55095034003",
+        "title": "ABN Lookup — historical details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name From/To and ASIC registration",
+        "fact": "RESIMAC GROUP LTD from 5 Dec 2018; HOMELOANS LIMITED 19 Mar 2001–5 Dec 2018",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20251017/pdf/06qnmhfscbmy5m.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2025-10-17",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "ASX 17 Oct 2025 AGM cover and notice identify listed Resimac Group Ltd ABN 55095034003 / ACN 095034003; ordinary-share definition",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "UNRESOLVED",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement",
+      "Baseline ABN67 002997935 is subsidiary Resimac Limited; listed parent Resimac Group Ltd uses ABN55 095034003 / ACN095034003"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "RML",
+    "facts": {
+      "current_legal_issuer": "Resolution Minerals Ltd",
+      "ACN": "617 789 732",
+      "ABN": "99 617 789 732",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "ABR legal-name dates (not ASX trading-effective dates): RESOLUTION MINERALS LTD from 27 Nov 2019; NORTHERN COBALT PTY LTD 6 Mar 2017–27 Nov 2019",
+      "security_type": "Fully paid ordinary shares identified; full class/action chronology unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20250808/pdf/06mnwg789g746b.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=99617789732",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Resolution Minerals Ltd; ABN 99 617 789 732",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=99617789732",
+        "title": "ABN Lookup — historical details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name From/To and ASIC registration",
+        "fact": "RESOLUTION MINERALS LTD from 27 Nov 2019; NORTHERN COBALT PTY LTD 6 Mar 2017–27 Nov 2019",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20250808/pdf/06mnwg789g746b.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2025-08-08",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Resolution Minerals Ltd issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "PARTIAL_CLASS_CONFIRMED; full classes/ISIN/action history unresolved",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "RMI",
+    "facts": {
+      "current_legal_issuer": "Resource Minerals International Ltd",
+      "ACN": "008 045 083",
+      "ABN": "97 008 045 083",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "ABR legal-name dates (not ASX trading-effective dates): RESOURCE MINERALS INTERNATIONAL LTD from 1 Aug 2025; RESOURCE MINING CORPORATION LIMITED 6 Dec 2003–1 Aug 2025; COBRA RESOURCES LIMITED 5 Oct 2000–6 Dec 2003; COBRA RESOURCES LTD 1 Aug 2000–5 Oct 2000; COBRA RESOURCES NL 24 Feb 2000–1 Aug 2000",
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20250807/pdf/06mmbfdspmpcwn.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=97008045083",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Resource Minerals International Ltd; ABN 97 008 045 083",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=97008045083",
+        "title": "ABN Lookup — historical details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name From/To and ASIC registration",
+        "fact": "RESOURCE MINERALS INTERNATIONAL LTD from 1 Aug 2025; RESOURCE MINING CORPORATION LIMITED 6 Dec 2003–1 Aug 2025; COBRA RESOURCES LIMITED 5 Oct 2000–6 Dec 2003; COBRA RESOURCES LTD 1 Aug 2000–5 Oct 2000; COBRA RESOURCES NL 24 Feb 2000–1 Aug 2000",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20250807/pdf/06mmbfdspmpcwn.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2025-08-07",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Resource Minerals International Ltd issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "UNRESOLVED",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "RFG",
+    "facts": {
+      "current_legal_issuer": "Retail Food Group Limited",
+      "ACN": "106 840 082",
+      "ABN": "31 106 840 082",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "ABR legal-name dates (not ASX trading-effective dates): RETAIL FOOD GROUP LIMITED from 17 May 2006; RFG Investments (VIC) Pty Ltd 7 Nov 2003–17 May 2006",
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20221223/pdf/45k4hcrhf3zzdd.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=31106840082",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Retail Food Group Limited; ABN 31 106 840 082",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=31106840082",
+        "title": "ABN Lookup — historical details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name From/To and ASIC registration",
+        "fact": "RETAIL FOOD GROUP LIMITED from 17 May 2006; RFG Investments (VIC) Pty Ltd 7 Nov 2003–17 May 2006",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20221223/pdf/45k4hcrhf3zzdd.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2022-12-23",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Retail Food Group Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "UNRESOLVED",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "RIV",
+    "facts": {
+      "current_legal_issuer": "Rivco Australia Ltd",
+      "ACN": "UNKNOWN",
+      "ABN": "53 611 976 517",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "ABR legal-name dates (not ASX trading-effective dates): RIVCO AUSTRALIA LTD from 4 Oct 2025; DUXTON WATER LTD 20 Apr 2016–4 Oct 2025",
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=53611976517",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Rivco Australia Ltd; ABN 53 611 976 517",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=53611976517",
+        "title": "ABN Lookup — historical details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name From/To and ASIC registration",
+        "fact": "RIVCO AUSTRALIA LTD from 4 Oct 2025; DUXTON WATER LTD 20 Apr 2016–4 Oct 2025",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "UNRESOLVED",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "RWL",
+    "facts": {
+      "current_legal_issuer": "Rubicon Water Limited",
+      "ACN": "651 852 470",
+      "ABN": "73 651 852 470",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "ABR legal-name dates (not ASX trading-effective dates): RUBICON WATER LIMITED from 5 Aug 2021; A.C.N. 651852470 LIMITED 9 Jul 2021–5 Aug 2021",
+      "security_type": "Fully paid ordinary shares identified; full class/action chronology unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20210831/pdf/4500b4dyyp39h8.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=73651852470",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Rubicon Water Limited; ABN 73 651 852 470",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=73651852470",
+        "title": "ABN Lookup — historical details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name From/To and ASIC registration",
+        "fact": "RUBICON WATER LIMITED from 5 Aug 2021; A.C.N. 651852470 LIMITED 9 Jul 2021–5 Aug 2021",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20210831/pdf/4500b4dyyp39h8.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2021-08-31",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Rubicon Water Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "PARTIAL_CLASS_CONFIRMED; full classes/ISIN/action history unresolved",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "RTR",
+    "facts": {
+      "current_legal_issuer": "Rumble Resources Limited",
+      "ACN": "148 214 260",
+      "ABN": "74 148 214 260",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "UNKNOWN",
+      "security_type": "Fully paid ordinary shares identified; full class/action chronology unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20221025/pdf/45gr7drw7b8gv4.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=74148214260",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Rumble Resources Limited; ABN 74 148 214 260",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20221025/pdf/45gr7drw7b8gv4.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2022-10-25",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Rumble Resources Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "PARTIAL_CLASS_CONFIRMED; full classes/ISIN/action history unresolved",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "SLD",
+    "facts": {
+      "current_legal_issuer": "Saluda Medical, Inc.",
+      "ACN": "NOT_APPLICABLE_FOREIGN_ISSUER",
+      "ABN": "UNKNOWN",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Delaware, United States",
+      "previous_names_and_tickers": "UNKNOWN",
+      "security_type": "10 CDIs = 1 fully paid underlying share",
+      "ISIN": "AU0000432114 (quoted SLD CDI); distinct from SLDZZ settlement ISIN AU0000432148",
+      "corporate_action_exceptions": "10:1 CDI ratio; quoted/settlement ISIN distinction; US person restriction; scheduled quotation conflict"
+    },
+    "evidence": [
+      {
+        "url": "https://asxonline.com/content/dam/asxonline/public/notices/2025/december/sld-mktann-3dec2025.pdf",
+        "title": "Saluda Medical, Inc. — Admission and Quotation",
+        "date": "2025-12-03",
+        "page_section": "PDF pp1–2",
+        "fact": "Admitted 3 Dec 2025; scheduled quotation 5 Dec 2025; 10 CDIs:1 fullypaidshare; SLD CDI ISINAU 0000432114; Delaware; unquotedoptions,RSUs,warrants counts separate from CDI equivalents",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://www.asxonline.com/content/asxonline/public/notices/2025/december/1591.25.12.html",
+        "title": "Saluda Medical Inc — FOR financial-product inclusion",
+        "date": "2025-12-04",
+        "page_section": "Product table/restrictions",
+        "fact": "10:1 CDIs; effective 5 Dec 2025; USpersons prohibitedexceptQIBs; noticesays trading scheduled 18 Dec 2025",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "PARTIAL_CLASS_CONFIRMED; full classes/ISIN/action history unresolved",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement",
+      "Admission notice schedules5Dec2025 quotation,FORnotice says18Dec2025; reconcileversion dates andactualcommencement rather than assuming either occurred"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "SFM",
+    "facts": {
+      "current_legal_issuer": "Santa Fe Minerals Ltd",
+      "ACN": "UNKNOWN",
+      "ABN": "59 151 155 734",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "UNKNOWN",
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20211119/pdf/4535s1ws5c4wjq.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=59151155734",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Santa Fe Minerals Ltd; ABN 59 151 155 734",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20211119/pdf/4535s1ws5c4wjq.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2021-11-19",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Santa Fe Minerals Ltd issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "UNRESOLVED",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement",
+      "1Oct2026 suspensiondiscovered; originalASX notice and any laterreinstatement mustbe read"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "SMI",
+    "facts": {
+      "current_legal_issuer": "Santana Minerals Limited",
+      "ACN": "UNKNOWN",
+      "ABN": "37 161 946 989",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "UNKNOWN",
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20260227/pdf/06wvyqhc726bdq.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=37161946989",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Santana Minerals Limited; ABN 37 161 946 989",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260227/pdf/06wvyqhc726bdq.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2026-02-27",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Santana Minerals Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "UNRESOLVED",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "STN",
+    "facts": {
+      "current_legal_issuer": "Saturn Metals Limited",
+      "ACN": "619 488 498",
+      "ABN": "43 619 488 498",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "UNKNOWN",
+      "security_type": "Fully paid ordinary shares identified; full class/action chronology unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20250911/pdf/06p39t05pxtt5y.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=43619488498",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Saturn Metals Limited; ABN 43 619 488 498",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20250911/pdf/06p39t05pxtt5y.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2025-09-11",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Saturn Metals Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "PARTIAL_CLASS_CONFIRMED; full classes/ISIN/action history unresolved",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "SCX",
+    "facts": {
+      "current_legal_issuer": "SCX.ai Holdings Limited",
+      "ACN": "688 872 095",
+      "ABN": "96 688 872 095",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "New South Wales, Australia",
+      "previous_names_and_tickers": "ABR legal-name dates (not ASX trading-effective dates): SCX.AI HOLDINGS LIMITED from 3 Jun 2026; SOUTHERNCROSSAI HOLDINGS LIMITED 9 Jul 2025–3 Jun 2026",
+      "security_type": "Fully paid ordinary shares",
+      "ISIN": "AU0000482465",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=96688872095",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "SCX.ai Holdings Limited; ABN 96 688 872 095",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=96688872095",
+        "title": "ABN Lookup — historical details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name From/To and ASIC registration",
+        "fact": "SCX.AI HOLDINGS LIMITED from 3 Jun 2026; SOUTHERNCROSSAI HOLDINGS LIMITED 9 Jul 2025–3 Jun 2026",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://asxonline.com/content/dam/asxonline/public/notices/2026/august/scx-market-announcement-admission-and-quotation-19aug2026.pdf",
+        "title": "SCX.ai Holdings Limited — Admission and Quotation",
+        "date": "2026-08-19",
+        "page_section": "PDF pp1–2",
+        "fact": "Admitted 19 Aug 2026; scheduledquotation 21 Aug 2026; ordinary fullypaidshares ISINAU 0000482465; NSW; restrictedshares/options plus unquotedoptions",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "PARTIAL_CLASS_CONFIRMED; full classes/ISIN/action history unresolved",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "SEA",
+    "facts": {
+      "current_legal_issuer": "Sea Forest Limited",
+      "ACN": "UNKNOWN",
+      "ABN": "46 631 662 283",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "ABR legal-name dates (not ASX trading-effective dates): SEA FOREST LIMITED from 19 Aug 2022; SEA FOREST LIMTED 1 Apr 2022–19 Aug 2022; SEA FOREST LIMITED 2 Mar 2022–1 Apr 2022; SEA FOREST PTY LIMITED 24 Jun 2019–2 Mar 2022",
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20260225/pdf/06wq39rz7cn8zs.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=46631662283",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Sea Forest Limited; ABN 46 631 662 283",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=46631662283",
+        "title": "ABN Lookup — historical details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name From/To and ASIC registration",
+        "fact": "SEA FOREST LIMITED from 19 Aug 2022; SEA FOREST LIMTED 1 Apr 2022–19 Aug 2022; SEA FOREST LIMITED 2 Mar 2022–1 Apr 2022; SEA FOREST PTY LIMITED 24 Jun 2019–2 Mar 2022",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260225/pdf/06wq39rz7cn8zs.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2026-02-25",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Sea Forest Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "UNRESOLVED",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "SNM",
+    "facts": {
+      "current_legal_issuer": "Sentinel Metals Limited",
+      "ACN": "UNKNOWN",
+      "ABN": "UNKNOWN",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia",
+      "previous_names_and_tickers": "UNKNOWN",
+      "security_type": "Fully paid ordinary shares",
+      "ISIN": "AU0000421307",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled"
+    },
+    "evidence": [
+      {
+        "url": "https://asxonline.com/content/dam/asxonline/public/notices/2025/october/snm-market-announcement-admission.pdf",
+        "title": "Sentinel Metals Limited — Admission and Quotation",
+        "date": "2025-10-28",
+        "page_section": "PDF pp1–2",
+        "fact": "Admitted 28 Oct 2025; scheduled quotation 30 Oct 2025; ordinary fullypaidshares ISINAU 0000421307; Australia; restricted/unquotedsecurities separately listed",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "PARTIAL_CLASS_CONFIRMED; full classes/ISIN/action history unresolved",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "SSG",
+    "facts": {
+      "current_legal_issuer": "Shaver Shop Group Limited",
+      "ACN": "150 747 649",
+      "ABN": "78 150 747 649",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "ABR legal-name dates (not ASX trading-effective dates): SHAVER SHOP GROUP LIMITED from 26 May 2016; Lavomer Riah Holdings Pty Ltd 5 May 2011–26 May 2016",
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20211110/pdf/452spxn0sw4hv6.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=78150747649",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Shaver Shop Group Limited; ABN 78 150 747 649",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=78150747649",
+        "title": "ABN Lookup — historical details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name From/To and ASIC registration",
+        "fact": "SHAVER SHOP GROUP LIMITED from 26 May 2016; Lavomer Riah Holdings Pty Ltd 5 May 2011–26 May 2016",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20211110/pdf/452spxn0sw4hv6.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2021-11-10",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Shaver Shop Group Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "UNRESOLVED",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "SNX",
+    "facts": {
+      "current_legal_issuer": "Sierra Nevada Gold Inc.",
+      "ACN": "NOT_APPLICABLE_FOREIGN_ISSUER",
+      "ABN": "UNKNOWN",
+      "ARBN": "653 575 618",
+      "incorporation_jurisdiction": "United States (2024 annual report)",
+      "previous_names_and_tickers": "UNKNOWN",
+      "security_type": "CDIs1:1 common shares",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20250328/pdf/06h3kz76j1xbjc.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20250328/pdf/06h3kz76j1xbjc.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2025-03-28",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Sierra Nevada Gold Inc. issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260428/pdf/06yy0pccc500yl.pdf",
+        "title": "Sierra Nevada Gold Inc — AGM notice",
+        "date": "2026-04-28",
+        "page_section": "PDF pp1–2,6–7",
+        "fact": "ASXSNX ARBN 653575618; eachCDI representsonefullypaidshare ofcommonstock; prospectiveperformance grants notcompleted",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "PARTIAL_CLASS_CONFIRMED; full classes/ISIN/action history unresolved",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  },
+  {
+    "ASX_Code": "SVL",
+    "facts": {
+      "current_legal_issuer": "Silver Mines Limited",
+      "ACN": "107 452 942",
+      "ABN": "45 107 452 942",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification; state not established)",
+      "previous_names_and_tickers": "UNKNOWN",
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full completed-action sequence not reconciled",
+      "issuer_document_read": "https://announcements.asx.com.au/asxpdf/20110906/pdf/420xbyhqdxlfbr.pdf"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=45107452942",
+        "title": "ABN Lookup — current issuer details",
+        "date": "Registry reviewed 2026-10-13",
+        "page_section": "Entity name, ABN, ASIC registration and entity type",
+        "fact": "Silver Mines Limited; ABN 45 107 452 942",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20110906/pdf/420xbyhqdxlfbr.pdf",
+        "title": "Issuer ASX filing — identity header/context inspected",
+        "date": "2011-09-06",
+        "page_section": "Identity header and security definitions; primary PDF read",
+        "fact": "Silver Mines Limited issuer identity/context examined; claimed fields constrained to actual original reads",
+        "verification_method": "Direct primary read in preceding active session; recovered from actual tool evidence; fresh re-fetch pending where indicated"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: ABR legal-name chain/selected ASX records where stated; full economic/statutory and price continuity NOT signed off",
+    "security_conclusion": "UNRESOLVED",
+    "trading_conclusion": "UNRESOLVED_AS_AT_2026_10_13",
+    "unresolved": [
+      "Full legal-entity/economic reporting continuity, reverse takeovers and delisting/relisting sequence not exhaustively reconciled",
+      "All quoted/unquoted classes, ISIN lineage, completed allotments and split/consolidation adjustments not exhaustively reconciled",
+      "13 October 2026 trading status requires dated ASX status sequence; expected halt expiry is not evidence of reinstatement"
+    ],
+    "investigated": true,
+    "investigation_scope": "Issuer-specific primary discovery and document/registry review; preliminary historical/status searches; not exhaustive final sign-off.",
+    "notes": "Population-level targeted primary review recovered from actual 13 October source reads. Full historical/security/current-status acceptance gates remain open."
+  }
+]

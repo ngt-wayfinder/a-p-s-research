@@ -1,0 +1,2672 @@
+[
+  {
+    "ASX_Code": "BLX",
+    "facts": {
+      "current_legal_issuer": "Beacon Lighting Group Limited",
+      "ACN": "164 122 785",
+      "ABN": "UNKNOWN",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia",
+      "previous_names_and_tickers": [],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20241022/pdf/069dvp58ngkf08.pdf",
+        "title": "AGM Results",
+        "date": "2024-10-22",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260827/pdf/073999ps74fyyj.pdf",
+        "title": "Annual Report to shareholders",
+        "date": "2026-08-27",
+        "page_section": "Corporate information / announcement",
+        "fact": "Current issuer primary document inspected; see specific factual conclusion; identifier corroboration: ACN 164 122 785 at PDF p2",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "BFG",
+    "facts": {
+      "current_legal_issuer": "Bell Financial Group Limited",
+      "ACN": "083 194 763",
+      "ABN": "59 083 194 763",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "BELL FINANCIAL GROUP LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260218/pdf/06wg0hnc7xdr7t.pdf",
+        "title": "Results for Announcement to the Market and 2025 Annual Report",
+        "date": "2026-02-18",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ABN 59 083 194 763 at PDF p2",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=59083194763",
+        "title": "ABR current details for 59 083 194 763",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name BELL FINANCIAL GROUP LIMITED, ABN 59 083 194 763, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved. Corrected ABN 59 083 194 763 must preserve; prior 27 152 260 814 was erroneous."
+  },
+  {
+    "ASX_Code": "BVR",
+    "facts": {
+      "current_legal_issuer": "Bellavista Resources Ltd",
+      "ACN": "655 732 246",
+      "ABN": "43 655 732 246",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "BELLAVISTA RESOURCES LTD",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260311/pdf/06x9pbkv07g3jc.pdf",
+        "title": "Half Year Report for the Half Year Ended 31 December 2025",
+        "date": "2026-03-11",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ACN 655 732 246 at PDF p2, ABN 43 655 732 246 at PDF p2",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=43655732246",
+        "title": "ABR current details for 43 655 732 246",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name BELLAVISTA RESOURCES LTD, ABN 43 655 732 246, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "BKY",
+    "facts": {
+      "current_legal_issuer": "Berkeley Energia Limited",
+      "ACN": "052 468 569",
+      "ABN": "40 052 468 569",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "BERKELEY ENERGIA LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20251128/pdf/06snwwzzfz20lf.pdf",
+        "title": "Results of Annual General Meeting",
+        "date": "2025-11-28",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ABN 40 052 468 569 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=40052468569",
+        "title": "ABR current details for 40 052 468 569",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name BERKELEY ENERGIA LIMITED, ABN 40 052 468 569, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: UNKNOWN; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "BET",
+    "facts": {
+      "current_legal_issuer": "BetMakers Technology Group Ltd",
+      "ACN": "164 521 395",
+      "ABN": "21 164 521 395",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [
+        {
+          "effective_date": "2019-06-26",
+          "old_code": "TBH",
+          "old_name": "The Betmakers Holdings Ltd",
+          "new_code": "BET",
+          "new_name": "Betmakers Technology Group Ltd"
+        }
+      ],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "BETMAKERS TECHNOLOGY GROUP LTD",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20250828/pdf/06ngsbhk486whn.pdf",
+        "title": "Appendix 4E Preliminary Final Report",
+        "date": "2025-08-28",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ACN 164 521 395 at PDF p1, ABN 21 164 521 395 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=21164521395",
+        "title": "ABR current details for 21 164 521 395",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name BETMAKERS TECHNOLOGY GROUP LTD, ABN 21 164 521 395, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "Effective dates in matched annual rows",
+        "page_section": "2018-2026 annual name/code-change tables",
+        "fact": "Matched history: [{\"effective_date\": \"2019-06-26\", \"old_code\": \"TBH\", \"old_name\": \"The Betmakers Holdings Ltd\", \"new_code\": \"BET\", \"new_name\": \"Betmakers Technology Group Ltd\"}]",
+        "verification_method": "Primary source downloaded and inspected in earlier execution of this same assignment; source URL and facts recovered from actual tool outputs after workspace reset"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: official 2018-2026 matched name/code events recorded; complete legal continuity, pre-2018 events and financial comparability not signed off",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "BWN",
+    "facts": {
+      "current_legal_issuer": "Bhagwan Marine Limited",
+      "ACN": "009 154 349",
+      "ABN": "81 009 154 349",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_type": "Australian Private Company",
+      "ABR_entity_name": "BHAGWAN MARINE LIMITED"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20250806/pdf/06mlfp5rgrn2sb.pdf",
+        "title": "Bhagwan Marine FY25 Results Presentation Details for Interactive Webcast on 29 August 2025",
+        "date": "2025-08-06",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ABN 81 009 154 349 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=81009154349",
+        "title": "ABR current details for 81 009 154 349",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name BHAGWAN MARINE LIMITED, ABN 81 009 154 349, type Australian Private Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: UNKNOWN; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off",
+      "Live ABR entity type Australian Private Company conflicts with listed-public issuer presentation; reconcile ASIC conversion"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "BIO",
+    "facts": {
+      "current_legal_issuer": "Biome Australia Limited",
+      "ACN": "627 364 014",
+      "ABN": "51 627 364 014",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "BIOME AUSTRALIA LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20250930/pdf/06pwb6r0n9brwx.pdf",
+        "title": "Appendix 4G Key to Disclosures",
+        "date": "2025-09-30",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ACN 627 364 014 at PDF p1, ABN 51 627 364 014 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=51627364014",
+        "title": "ABR current details for 51 627 364 014",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name BIOME AUSTRALIA LIMITED, ABN 51 627 364 014, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: UNKNOWN; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "BB1",
+    "facts": {
+      "current_legal_issuer": "BlinkLab Limited",
+      "ACN": "652 901 703",
+      "ABN": "53 652 901 703",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_type": "Australian Private Company",
+      "ABR_entity_name": "BLINKLAB LIMITED"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20250828/pdf/06njh9315bgy56.pdf",
+        "title": "ASX Appendix 4E Results for Announcement to the Market FY2025",
+        "date": "2025-08-28",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ACN 652 901 703 at PDF p1, ABN 53 652 901 703 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=53652901703",
+        "title": "ABR current details for 53 652 901 703",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name BLINKLAB LIMITED, ABN 53 652 901 703, type Australian Private Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20250828/pdf/06njh9315bgy56.pdf",
+        "title": "BlinkLab Appendix4E Annual Report",
+        "date": "2025-08-28",
+        "page_section": "Company history",
+        "fact": "Incorporated 17 August 2021; listed 2 April 2024; identifier corroboration: ACN 652 901 703 at PDF p1, ABN 53 652 901 703 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off",
+      "Live ABR entity type Australian Private Company conflicts with listed-public issuer presentation; reconcile ASIC conversion"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "BLG",
+    "facts": {
+      "current_legal_issuer": "BluGlass Limited",
+      "ACN": "116 825 793",
+      "ABN": "20 116 825 793",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "BLUGLASS LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20250616/pdf/06ksfxwdm91wk4.pdf",
+        "title": "Supplementary Prospectus",
+        "date": "2025-06-16",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ACN 116 825 793 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=20116825793",
+        "title": "ABR current details for 20 116 825 793",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name BLUGLASS LIMITED, ABN 20 116 825 793, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "BOA",
+    "facts": {
+      "current_legal_issuer": "BOA Resources Ltd",
+      "ACN": "149 582 687",
+      "ABN": "29 149 582 687",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "BOA RESOURCES LTD",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=29149582687",
+        "title": "BOA Resources Ltd primary issuer document / registry record",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name BOA RESOURCES LTD, ABN 29 149 582 687, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=29149582687",
+        "title": "ABR current details for 29 149 582 687",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name BOA RESOURCES LTD, ABN 29 149 582 687, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: UNKNOWN; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "BML",
+    "facts": {
+      "current_legal_issuer": "Boab Metals Limited",
+      "ACN": "107 159 713",
+      "ABN": "43 107 159 713",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [
+        {
+          "effective_date": "2021-01-12",
+          "old_code": "PMY",
+          "old_name": "Pacifico Minerals Limited",
+          "new_code": "BML",
+          "new_name": "Boab Metals Limited"
+        }
+      ],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "BOAB METALS LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20250922/pdf/06pj629zzw1q22.pdf",
+        "title": "Annual Report 2025",
+        "date": "2025-09-22",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=43107159713",
+        "title": "ABR current details for 43 107 159 713",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name BOAB METALS LIMITED, ABN 43 107 159 713, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "Effective dates in matched annual rows",
+        "page_section": "2018-2026 annual name/code-change tables",
+        "fact": "Matched history: [{\"effective_date\": \"2021-01-12\", \"old_code\": \"PMY\", \"old_name\": \"Pacifico Minerals Limited\", \"new_code\": \"BML\", \"new_name\": \"Boab Metals Limited\"}]",
+        "verification_method": "Primary source downloaded and inspected in earlier execution of this same assignment; source URL and facts recovered from actual tool outputs after workspace reset"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: official 2018-2026 matched name/code events recorded; complete legal continuity, pre-2018 events and financial comparability not signed off",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "BOT",
+    "facts": {
+      "current_legal_issuer": "Botanix Pharmaceuticals Ltd",
+      "ACN": "009 109 755",
+      "ABN": "70 009 109 755",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "BOTANIX PHARMACEUTICALS LTD",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20250415/pdf/06hrlqytkrgvwp.pdf",
+        "title": "Botanix secures commitments for $40 million to accelerate Sofdra rollout",
+        "date": "2025-04-15",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ACN 009 109 755 at PDF p8, ABN 70 009 109 755 at PDF p8",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=70009109755",
+        "title": "ABR current details for 70 009 109 755",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name BOTANIX PHARMACEUTICALS LTD, ABN 70 009 109 755, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "BPM",
+    "facts": {
+      "current_legal_issuer": "BPM Minerals Limited",
+      "ACN": "644 263 516",
+      "ABN": "60 644 263 516",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "BPM MINERALS LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20240313/pdf/061fhsqvqngxn9.pdf",
+        "title": "BPM Minerals Limited primary issuer document / registry record",
+        "date": "2024-03-13",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=60644263516",
+        "title": "ABR current details for 60 644 263 516",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name BPM MINERALS LIMITED, ABN 60 644 263 516, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260915/pdf/0743xfhdhtz7h1.pdf",
+        "title": "Annual Report to shareholders",
+        "date": "2026-09-15",
+        "page_section": "Corporate information / announcement",
+        "fact": "Current issuer primary document inspected; see specific factual conclusion; identifier corroboration: ACN 644 263 516 at PDF p1, ABN 60 644 263 516 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: UNKNOWN; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "BRN",
+    "facts": {
+      "current_legal_issuer": "BrainChip Holdings Ltd",
+      "ACN": "151 159 812",
+      "ABN": "64 151 159 812",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "BRAINCHIP HOLDINGS LTD",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20220420/pdf/4584cncqh6crjj.pdf",
+        "title": "Notice of Annual General Meeting",
+        "date": "2022-04-20",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ACN 151 159 812 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=64151159812",
+        "title": "ABR current details for 64 151 159 812",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name BRAINCHIP HOLDINGS LTD, ABN 64 151 159 812, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "BCM",
+    "facts": {
+      "current_legal_issuer": "Brazilian Critical Minerals Limited",
+      "ACN": "089 221 634",
+      "ABN": "82 089 221 634",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [
+        {
+          "effective_date": "2023-12-22",
+          "old_code": "BBX",
+          "old_name": "BBX Minerals Limited",
+          "new_code": "BCM",
+          "new_name": "Brazilian Critical Minerals Limited"
+        }
+      ],
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "BRAZILIAN CRITICAL MINERALS LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20250613/pdf/06kq1042d344cg.pdf",
+        "title": "Magnesium Sulphate Recorded in Multiple Holes in Multiple Field Trials",
+        "date": "2025-06-13",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ACN 089 221 634 at PDF p1, ABN 82 089 221 634 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=82089221634",
+        "title": "ABR current details for 82 089 221 634",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name BRAZILIAN CRITICAL MINERALS LIMITED, ABN 82 089 221 634, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "Effective dates in matched annual rows",
+        "page_section": "2018-2026 annual name/code-change tables",
+        "fact": "Matched history: [{\"effective_date\": \"2023-12-22\", \"old_code\": \"BBX\", \"old_name\": \"BBX Minerals Limited\", \"new_code\": \"BCM\", \"new_name\": \"Brazilian Critical Minerals Limited\"}]",
+        "verification_method": "Primary source downloaded and inspected in earlier execution of this same assignment; source URL and facts recovered from actual tool outputs after workspace reset"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: official 2018-2026 matched name/code events recorded; complete legal continuity, pre-2018 events and financial comparability not signed off",
+    "security_conclusion": "PARTIAL: UNKNOWN; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "BRK",
+    "facts": {
+      "current_legal_issuer": "Brookside Energy Limited",
+      "ACN": "108 787 720",
+      "ABN": "15 108 787 720",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "BROOKSIDE ENERGY LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20180418/pdf/43t90s5kjn5nh1.pdf",
+        "title": "Cleansing Notice, Appendix 3B and Information Required under ASX Listing Rules",
+        "date": "2018-04-18",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ABN 15 108 787 720 at PDF p3",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=15108787720",
+        "title": "ABR current details for 15 108 787 720",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name BROOKSIDE ENERGY LIMITED, ABN 15 108 787 720, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "BSA",
+    "facts": {
+      "current_legal_issuer": "BSA Limited",
+      "ACN": "088 412 748",
+      "ABN": "50 088 412 748",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "23 Nov 2022 notification proposes 8:1 share/BSAO consolidation effective 24 Nov 2022; capital counts estimated, completion confirmation still required.",
+      "ABR_entity_name": "BSA LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20221123/pdf/45hycggksk9g81.pdf",
+        "title": "Notification of Consolidation/Split",
+        "date": "2022-11-23",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ACN 088 412 748 at PDF p2",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=50088412748",
+        "title": "ABR current details for 50 088 412 748",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name BSA LIMITED, ABN 50 088 412 748, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20261001/pdf/074tfdctxrg7tq.pdf",
+        "title": "Reinstatement to Quotation",
+        "date": "2026-10-01",
+        "page_section": "Corporate information / announcement",
+        "fact": "Current issuer primary document inspected; see specific factual conclusion",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20261001/pdf/074tfdctxrg7tq.pdf",
+        "title": "BSA Reinstatement to Quotation",
+        "date": "2026-10-01",
+        "page_section": "Market Announcement p1",
+        "fact": "ASX suspension lifted immediately following release of material-acquisition announcement",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "ASX_REINSTATEMENT_NOTICE_CONFIRMED_2026_10_01; subsequent 2026 archive reviewed without later suspension; live intraday status not observed",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved. Full 2026 archive inspected through 13 Oct, no later halt/suspension notice found; live intraday tradeability not observed."
+  },
+  {
+    "ASX_Code": "BUB",
+    "facts": {
+      "current_legal_issuer": "Bubs Australia Limited",
+      "ACN": "060 094 742",
+      "ABN": "63 060 094 742",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "BUBS AUSTRALIA LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20190306/pdf/4437pc2bjkc0vs.pdf",
+        "title": "Bubs Australia to Partner with Beingmate",
+        "date": "2019-03-06",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ACN 060 094 742 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=63060094742",
+        "title": "ABR current details for 63 060 094 742",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name BUBS AUSTRALIA LIMITED, ABN 63 060 094 742, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: UNKNOWN; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "CRS",
+    "facts": {
+      "current_legal_issuer": "Caprice Resources Ltd",
+      "ACN": "624 970 725",
+      "ABN": "96 624 970 725",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "CAPRICE RESOURCES LTD",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20250930/pdf/06pxh87rxcq7f3.pdf",
+        "title": "Annual Financial Report for the Year Ended 30 June 2025",
+        "date": "2025-09-30",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ABN 96 624 970 725 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=96624970725",
+        "title": "ABR current details for 96 624 970 725",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name CAPRICE RESOURCES LTD, ABN 96 624 970 725, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "CVV",
+    "facts": {
+      "current_legal_issuer": "Caravel Minerals Limited",
+      "ACN": "120 069 089",
+      "ABN": "41 120 069 089",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "CARAVEL MINERALS LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20231030/pdf/05wq49gnqg51fh.pdf",
+        "title": "Annual Report 2023",
+        "date": "2023-10-30",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ABN 41 120 069 089 at PDF p2",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=41120069089",
+        "title": "ABR current details for 41 120 069 089",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name CARAVEL MINERALS LIMITED, ABN 41 120 069 089, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "CMA",
+    "facts": {
+      "current_legal_issuer": "Carma Limited",
+      "ACN": "648 091 418",
+      "ABN": "20 648 091 418",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [
+        {
+          "effective_date": "2020-02-10",
+          "old_code": "CMA",
+          "old_name": "Centuria Metropolitan REIT",
+          "new_code": "COF",
+          "new_name": "Centuria Office REIT"
+        }
+      ],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "CLICKCAR HOLDINGS PTY LTD",
+      "ABR_entity_type": "Australian Private Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260227/pdf/06wv236wx4z7xp.pdf",
+        "title": "Carma Limited primary issuer document / registry record",
+        "date": "2026-02-27",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ACN 648 091 418 at PDF p1, ABN 20 648 091 418 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=20648091418",
+        "title": "ABR current details for 20 648 091 418",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name CLICKCAR HOLDINGS PTY LTD, ABN 20 648 091 418, type Australian Private Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20261013/pdf/0757ksynp7psvg.pdf",
+        "title": "Annual Report",
+        "date": "2026-10-13",
+        "page_section": "Corporate information / announcement",
+        "fact": "Current issuer primary document inspected; see specific factual conclusion; identifier corroboration: ACN 648 091 418 at PDF p1, ABN 20 648 091 418 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "Effective dates in matched annual rows",
+        "page_section": "2018-2026 annual name/code-change tables",
+        "fact": "Matched history: [{\"effective_date\": \"2020-02-10\", \"old_code\": \"CMA\", \"old_name\": \"Centuria Metropolitan REIT\", \"new_code\": \"COF\", \"new_name\": \"Centuria Office REIT\"}]",
+        "verification_method": "Primary source downloaded and inspected in earlier execution of this same assignment; source URL and facts recovered from actual tool outputs after workspace reset"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20261013/pdf/0757ksynp7psvg.pdf",
+        "title": "Carma Annual Report",
+        "date": "2026-10-13",
+        "page_section": "Corporate information / operating review",
+        "fact": "Group changed name from ClickCar Holdings Pty Ltd to Carma Limited during FY2026; comparative information reflects same Group; ABN 20 648 091 418 unchanged; identifier corroboration: ACN 648 091 418 at PDF p1, ABN 20 648 091 418 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "TICKER_REUSE: Centuria Metropolitan REIT used CMA before CMA→COF on 10 February 2020; unrelated Carma Limited uses current CMA. FY2026 Carma annual report confirms ClickCar Holdings Pty Ltd→Carma Limited during year, same Group/ABN; no Centuria splice.",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off",
+      "Exact ClickCar→Carma conversion/name-change date and stale ABR name require ASIC/prospectus reconciliation"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved. Prior register mistakenly described COF as Carma; current candidate is CMA."
+  },
+  {
+    "ASX_Code": "CNB",
+    "facts": {
+      "current_legal_issuer": "Carnaby Resources Limited",
+      "ACN": "610 855 064",
+      "ABN": "62 610 855 064",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [
+        {
+          "effective_date": "2019-05-13",
+          "old_code": "BMT",
+          "old_name": "Berkut Minerals Limited",
+          "new_code": "CNB",
+          "new_name": "Carnaby Resources Limited"
+        }
+      ],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "CARNABY RESOURCES LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260305/pdf/06x3994n1s5xjp.pdf",
+        "title": "Carnaby Resources Limited primary issuer document / registry record",
+        "date": "2026-03-05",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ABN 62 610 855 064 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=62610855064",
+        "title": "ABR current details for 62 610 855 064",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name CARNABY RESOURCES LIMITED, ABN 62 610 855 064, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "Effective dates in matched annual rows",
+        "page_section": "2018-2026 annual name/code-change tables",
+        "fact": "Matched history: [{\"effective_date\": \"2019-05-13\", \"old_code\": \"BMT\", \"old_name\": \"Berkut Minerals Limited\", \"new_code\": \"CNB\", \"new_name\": \"Carnaby Resources Limited\"}]",
+        "verification_method": "Primary source downloaded and inspected in earlier execution of this same assignment; source URL and facts recovered from actual tool outputs after workspace reset"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: official 2018-2026 matched name/code events recorded; complete legal continuity, pre-2018 events and financial comparability not signed off",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "CVN",
+    "facts": {
+      "current_legal_issuer": "Carnarvon Energy Limited",
+      "ACN": "002 688 851",
+      "ABN": "UNKNOWN",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNKNOWN",
+      "previous_names_and_tickers": [
+        {
+          "effective_date": "2021-11-18",
+          "old_code": "CVN",
+          "old_name": "Carnarvon Petroleum Limited",
+          "new_code": "CVN",
+          "new_name": "Carnarvon Energy Limited"
+        }
+      ],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20240426/pdf/062w6v5q4f19mz.pdf",
+        "title": "Carnarvon Energy Limited primary issuer document / registry record",
+        "date": "2024-04-26",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260929/pdf/074myj4hk5rczz.pdf",
+        "title": "Annual Report to shareholders",
+        "date": "2026-09-29",
+        "page_section": "Corporate information / announcement",
+        "fact": "Current issuer primary document inspected; see specific factual conclusion",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "Effective dates in matched annual rows",
+        "page_section": "2018-2026 annual name/code-change tables",
+        "fact": "Matched history: [{\"effective_date\": \"2021-11-18\", \"old_code\": \"CVN\", \"old_name\": \"Carnarvon Petroleum Limited\", \"new_code\": \"CVN\", \"new_name\": \"Carnarvon Energy Limited\"}]",
+        "verification_method": "Primary source downloaded and inspected in earlier execution of this same assignment; source URL and facts recovered from actual tool outputs after workspace reset"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: official 2018-2026 matched name/code events recorded; complete legal continuity, pre-2018 events and financial comparability not signed off",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "CCV",
+    "facts": {
+      "current_legal_issuer": "Cash Converters International Limited",
+      "ACN": "069 141 546",
+      "ABN": "39 069 141 546",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "CASH CONVERTERS INTERNATIONAL LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20251103/pdf/06rfzhw1v0nm4n.pdf",
+        "title": "Cash Converters International Limited primary issuer document / registry record",
+        "date": "2025-11-03",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ABN 39 069 141 546 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=39069141546",
+        "title": "ABR current details for 39 069 141 546",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name CASH CONVERTERS INTERNATIONAL LIMITED, ABN 39 069 141 546, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "CPN",
+    "facts": {
+      "current_legal_issuer": "Caspin Resources Limited",
+      "ACN": "641 813 587",
+      "ABN": "33 641 813 587",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "CASPIN RESOURCES LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20250926/pdf/06prg4rl1mdz1x.pdf",
+        "title": "Caspin Resources Limited primary issuer document / registry record",
+        "date": "2025-09-26",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ACN 641 813 587 at PDF p1, ABN 33 641 813 587 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=33641813587",
+        "title": "ABR current details for 33 641 813 587",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name CASPIN RESOURCES LIMITED, ABN 33 641 813 587, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "CXU",
+    "facts": {
+      "current_legal_issuer": "Cauldron Energy Limited",
+      "ACN": "102 912 783",
+      "ABN": "22 102 912 783",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "CAULDRON ENERGY LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260227/pdf/06wwp76yclgsyv.pdf",
+        "title": "Cauldron Energy Limited primary issuer document / registry record",
+        "date": "2026-02-27",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ABN 22 102 912 783 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=22102912783",
+        "title": "ABR current details for 22 102 912 783",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name CAULDRON ENERGY LIMITED, ABN 22 102 912 783, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "CTM",
+    "facts": {
+      "current_legal_issuer": "Centaurus Metals Limited",
+      "ACN": "009 468 099",
+      "ABN": "40 009 468 099",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "CENTAURUS METALS LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260430/pdf/06z2z7w5lm44pk.pdf",
+        "title": "Centaurus Metals Limited primary issuer document / registry record",
+        "date": "2026-04-30",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ACN 009 468 099 at PDF p1, ABN 40 009 468 099 at PDF p24",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=40009468099",
+        "title": "ABR current details for 40 009 468 099",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name CENTAURUS METALS LIMITED, ABN 40 009 468 099, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "CAF",
+    "facts": {
+      "current_legal_issuer": "Centrepoint Alliance Limited",
+      "ACN": "052 507 507",
+      "ABN": "72 052 507 507",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "CENTREPOINT ALLIANCE LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260224/pdf/06wnhklqn4s4q3.pdf",
+        "title": "Centrepoint Alliance Limited primary issuer document / registry record",
+        "date": "2026-02-24",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ACN 052 507 507 at PDF p1, ABN 72 052 507 507 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=72052507507",
+        "title": "ABR current details for 72 052 507 507",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name CENTREPOINT ALLIANCE LIMITED, ABN 72 052 507 507, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: UNKNOWN; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "CTS",
+    "facts": {
+      "current_legal_issuer": "Ceretas Limited",
+      "ACN": "681 662 224",
+      "ABN": "15 681 662 224",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "AU0000475766",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "CERETAS PTY LTD",
+      "ABR_entity_type": "Australian Private Company"
+    },
+    "evidence": [
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=15681662224",
+        "title": "Ceretas Limited primary issuer document / registry record",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name CERETAS PTY LTD, ABN 15 681 662 224, type Australian Private Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=15681662224",
+        "title": "ABR current details for 15 681 662 224",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name CERETAS PTY LTD, ABN 15 681 662 224, type Australian Private Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260721/pdf/071xd6kpbvvqg2.pdf",
+        "title": "Admission and Quotation",
+        "date": "2026-07-21",
+        "page_section": "Corporate information / announcement",
+        "fact": "Current issuer primary document inspected; see specific factual conclusion",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260721/pdf/071xd6kpbvvqg2.pdf",
+        "title": "Ceretas Admission and Quotation",
+        "date": "2026-07-21",
+        "page_section": "pp1-2",
+        "fact": "Admitted 21 July 2026; quotation scheduled 23 July 2026; Australia incorporation; ISIN AU0000475766; ordinary shares and restricted escrow shares separately described",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off",
+      "ABR Ceretas Pty Ltd versus ASX Ceretas Limited requires ASIC conversion/date reconciliation"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "CTT",
+    "facts": {
+      "current_legal_issuer": "Cettire Limited",
+      "ACN": "645 474 166",
+      "ABN": "75 645 474 166",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "CETTIRE LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20240319/pdf/061n89rk7kwhkf.pdf",
+        "title": "Cettire Limited primary issuer document / registry record",
+        "date": "2024-03-19",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ACN 645 474 166 at PDF p2",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=75645474166",
+        "title": "ABR current details for 75 645 474 166",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name CETTIRE LIMITED, ABN 75 645 474 166, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: UNKNOWN; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "CHN",
+    "facts": {
+      "current_legal_issuer": "Chalice Mining Limited",
+      "ACN": "116 648 956",
+      "ABN": "47 116 648 956",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [
+        {
+          "effective_date": "2020-12-09",
+          "old_code": "CHN",
+          "old_name": "Chalice Gold Mines Limited",
+          "new_code": "CHN",
+          "new_name": "Chalice Mining Limited"
+        }
+      ],
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "CHALICE MINING LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20251120/pdf/06s96tq81xg84m.pdf",
+        "title": "Chalice Mining Limited primary issuer document / registry record",
+        "date": "2025-11-20",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ABN 47 116 648 956 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=47116648956",
+        "title": "ABR current details for 47 116 648 956",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name CHALICE MINING LIMITED, ABN 47 116 648 956, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "Effective dates in matched annual rows",
+        "page_section": "2018-2026 annual name/code-change tables",
+        "fact": "Matched history: [{\"effective_date\": \"2020-12-09\", \"old_code\": \"CHN\", \"old_name\": \"Chalice Gold Mines Limited\", \"new_code\": \"CHN\", \"new_name\": \"Chalice Mining Limited\"}]",
+        "verification_method": "Primary source downloaded and inspected in earlier execution of this same assignment; source URL and facts recovered from actual tool outputs after workspace reset"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: official 2018-2026 matched name/code events recorded; complete legal continuity, pre-2018 events and financial comparability not signed off",
+    "security_conclusion": "PARTIAL: UNKNOWN; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "CEL",
+    "facts": {
+      "current_legal_issuer": "Challenger Gold Limited",
+      "ACN": "123 591 382",
+      "ABN": "45 123 591 382",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [
+        {
+          "effective_date": "2023-06-08",
+          "old_code": "CEL",
+          "old_name": "Challenger Exploration Limited",
+          "new_code": "CEL",
+          "new_name": "Challenger Gold Limited"
+        },
+        {
+          "effective_date": "2019-05-13",
+          "old_code": "CEL",
+          "old_name": "Challenger Energy Limited",
+          "new_code": "CEL",
+          "new_name": "Challenger Exploration Limited"
+        }
+      ],
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "CHALLENGER GOLD LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20241205/pdf/06c93zyc9hr8j6.pdf",
+        "title": "Challenger Gold Limited primary issuer document / registry record",
+        "date": "2024-12-05",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ACN 123 591 382 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=45123591382",
+        "title": "ABR current details for 45 123 591 382",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name CHALLENGER GOLD LIMITED, ABN 45 123 591 382, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "Effective dates in matched annual rows",
+        "page_section": "2018-2026 annual name/code-change tables",
+        "fact": "Matched history: [{\"effective_date\": \"2023-06-08\", \"old_code\": \"CEL\", \"old_name\": \"Challenger Exploration Limited\", \"new_code\": \"CEL\", \"new_name\": \"Challenger Gold Limited\"}, {\"effective_date\": \"2019-05-13\", \"old_code\": \"CEL\", \"old_name\": \"Challenger Energy Limited\", \"new_code\": \"CEL\", \"new_name\": \"Challenger Exploration Limited\"}]",
+        "verification_method": "Primary source downloaded and inspected in earlier execution of this same assignment; source URL and facts recovered from actual tool outputs after workspace reset"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: official 2018-2026 matched name/code events recorded; complete legal continuity, pre-2018 events and financial comparability not signed off",
+    "security_conclusion": "PARTIAL: UNKNOWN; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "CLV",
+    "facts": {
+      "current_legal_issuer": "Clover Corporation Limited",
+      "ACN": "003 622 866",
+      "ABN": "85 003 622 866",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "CLOVER CORPORATION LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20241018/pdf/0698v73t0tfg46.pdf",
+        "title": "Clover Corporation Limited primary issuer document / registry record",
+        "date": "2024-10-18",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ACN 003 622 866 at PDF p1, ABN 85 003 622 866 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=85003622866",
+        "title": "ABR current details for 85 003 622 866",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name CLOVER CORPORATION LIMITED, ABN 85 003 622 866, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "CEH",
+    "facts": {
+      "current_legal_issuer": "Coast Entertainment Holdings Limited",
+      "ACN": "628 881 603",
+      "ABN": "51 628 881 603",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [
+        {
+          "effective_date": "2023-12-18",
+          "old_code": "ALG",
+          "old_name": "Ardent Leisure Group Limited",
+          "new_code": "CEH",
+          "new_name": "Coast Entertainment Holdings Limited"
+        }
+      ],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "COAST ENTERTAINMENT HOLDINGS LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260213/pdf/06w89fk6p6mbk5.pdf",
+        "title": "Interim Financial Report for the period 25 June 2025 to 30 December 2025",
+        "date": "2026-02-13",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ABN 51 628 881 603 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=51628881603",
+        "title": "ABR current details for 51 628 881 603",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name COAST ENTERTAINMENT HOLDINGS LIMITED, ABN 51 628 881 603, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260821/pdf/073104jpp07ypg.pdf",
+        "title": "Annual Report",
+        "date": "2026-08-21",
+        "page_section": "Corporate information / announcement",
+        "fact": "Current issuer primary document inspected; see specific factual conclusion; identifier corroboration: ACN 628 881 603 at PDF p1, ABN 51 628 881 603 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "Effective dates in matched annual rows",
+        "page_section": "2018-2026 annual name/code-change tables",
+        "fact": "Matched history: [{\"effective_date\": \"2023-12-18\", \"old_code\": \"ALG\", \"old_name\": \"Ardent Leisure Group Limited\", \"new_code\": \"CEH\", \"new_name\": \"Coast Entertainment Holdings Limited\"}]",
+        "verification_method": "Primary source downloaded and inspected in earlier execution of this same assignment; source URL and facts recovered from actual tool outputs after workspace reset"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: official 2018-2026 matched name/code events recorded; complete legal continuity, pre-2018 events and financial comparability not signed off",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "CBE",
+    "facts": {
+      "current_legal_issuer": "Cobre Limited",
+      "ACN": "626 241 067",
+      "ABN": "75 626 241 067",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "COBRE LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20210303/pdf/44t97ygcvfqk0r.pdf",
+        "title": "Notice of Extraordinary General Meeting and Explanatory Memorandum",
+        "date": "2021-03-03",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ACN 626 241 067 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=75626241067",
+        "title": "ABR current details for 75 626 241 067",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name COBRE LIMITED, ABN 75 626 241 067, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "COD",
+    "facts": {
+      "current_legal_issuer": "Coda Minerals Ltd",
+      "ACN": "625 763 957",
+      "ABN": "49 625 763 957",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "CODA MINERALS LTD",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20251006/pdf/06q58sg1010hnz.pdf",
+        "title": "Notice of Annual General Meeting, Explanatory Statement and Proxy Form",
+        "date": "2025-10-06",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ACN 625 763 957 at PDF p1, ABN 49 625 763 957 at PDF p45",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=49625763957",
+        "title": "ABR current details for 49 625 763 957",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name CODA MINERALS LTD, ABN 49 625 763 957, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "COG",
+    "facts": {
+      "current_legal_issuer": "COG Financial Services Limited",
+      "ACN": "100 854 788",
+      "ABN": "58 100 854 788",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [
+        {
+          "effective_date": "2020-11-18",
+          "old_code": "COG",
+          "old_name": "Consolidated Operations Group Limited",
+          "new_code": "COG",
+          "new_name": "COG Financial Services Limited"
+        }
+      ],
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "COG FINANCIAL SERVICES LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260226/pdf/06wsjnq68v8rbg.pdf",
+        "title": "31 December 2025 Results",
+        "date": "2026-02-26",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ACN 100 854 788 at PDF p1, ABN 58 100 854 788 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=58100854788",
+        "title": "ABR current details for 58 100 854 788",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name COG FINANCIAL SERVICES LIMITED, ABN 58 100 854 788, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "Effective dates in matched annual rows",
+        "page_section": "2018-2026 annual name/code-change tables",
+        "fact": "Matched history: [{\"effective_date\": \"2020-11-18\", \"old_code\": \"COG\", \"old_name\": \"Consolidated Operations Group Limited\", \"new_code\": \"COG\", \"new_name\": \"COG Financial Services Limited\"}]",
+        "verification_method": "Primary source downloaded and inspected in earlier execution of this same assignment; source URL and facts recovered from actual tool outputs after workspace reset"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: official 2018-2026 matched name/code events recorded; complete legal continuity, pre-2018 events and financial comparability not signed off",
+    "security_conclusion": "PARTIAL: UNKNOWN; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "COI",
+    "facts": {
+      "current_legal_issuer": "Comet Ridge Limited",
+      "ACN": "106 092 577",
+      "ABN": "47 106 092 577",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "COMET RIDGE LTD",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20250922/pdf/06phk6mktw0sxt.pdf",
+        "title": "Annual Report 2025",
+        "date": "2025-09-22",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ABN 47 106 092 577 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=47106092577",
+        "title": "ABR current details for 47 106 092 577",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name COMET RIDGE LTD, ABN 47 106 092 577, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20250922/pdf/06phk6mktw0sxt.pdf",
+        "title": "Comet Ridge Annual Report",
+        "date": "2025-09-22",
+        "page_section": "Directors report",
+        "fact": "Incorporated 23 August 2003; listed 19 April 2004; identifier corroboration: ACN 106 092 577 at PDF p1, ABN 47 106 092 577 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "CRN",
+    "facts": {
+      "current_legal_issuer": "Coronado Global Resources Inc.",
+      "ACN": "UNKNOWN",
+      "ABN": "UNKNOWN",
+      "ARBN": "628 199 468",
+      "incorporation_jurisdiction": "Delaware, United States",
+      "previous_names_and_tickers": [],
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20250528/pdf/06k5c5x5ml344h.pdf",
+        "title": "Substantial Securityholder Notice",
+        "date": "2025-05-28",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ARBN 628 199 468 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260423/pdf/06yrwjny0ffnbm.pdf",
+        "title": "2026 Annual Meeting and Annual Report",
+        "date": "2026-04-23",
+        "page_section": "Corporate information / announcement",
+        "fact": "Current issuer primary document inspected; see specific factual conclusion; identifier corroboration: ARBN 628 199 468 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: UNKNOWN; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "CUP",
+    "facts": {
+      "current_legal_issuer": "Count Limited",
+      "ACN": "126 990 832",
+      "ABN": "11 126 990 832",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [
+        {
+          "effective_date": "2023-05-09",
+          "old_code": "CUP",
+          "old_name": "Countplus Limited",
+          "new_code": "CUP",
+          "new_name": "Count Limited"
+        }
+      ],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "COUNT LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20250530/pdf/06k83q34zkqfnp.pdf",
+        "title": "Appendix 3Y Change of Director Interest Notice",
+        "date": "2025-05-30",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ACN 126 990 832 at PDF p1, ABN 11 126 990 832 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=11126990832",
+        "title": "ABR current details for 11 126 990 832",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name COUNT LIMITED, ABN 11 126 990 832, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "Effective dates in matched annual rows",
+        "page_section": "2018-2026 annual name/code-change tables",
+        "fact": "Matched history: [{\"effective_date\": \"2023-05-09\", \"old_code\": \"CUP\", \"old_name\": \"Countplus Limited\", \"new_code\": \"CUP\", \"new_name\": \"Count Limited\"}]",
+        "verification_method": "Primary source downloaded and inspected in earlier execution of this same assignment; source URL and facts recovered from actual tool outputs after workspace reset"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: official 2018-2026 matched name/code events recorded; complete legal continuity, pre-2018 events and financial comparability not signed off",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "CY5",
+    "facts": {
+      "current_legal_issuer": "Cygnus Metals Limited",
+      "ACN": "609 094 653",
+      "ABN": "80 609 094 653",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [
+        {
+          "effective_date": "2023-02-14",
+          "old_code": "CY5",
+          "old_name": "Cygnus Gold Limited",
+          "new_code": "CY5",
+          "new_name": "Cygnus Metals Limited"
+        }
+      ],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "CYGNUS METALS LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260401/pdf/06y27tmwfqpdby.pdf",
+        "title": "Notice of Annual General Meeting",
+        "date": "2026-04-01",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ACN 609 094 653 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=80609094653",
+        "title": "ABR current details for 80 609 094 653",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name CYGNUS METALS LIMITED, ABN 80 609 094 653, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "Effective dates in matched annual rows",
+        "page_section": "2018-2026 annual name/code-change tables",
+        "fact": "Matched history: [{\"effective_date\": \"2023-02-14\", \"old_code\": \"CY5\", \"old_name\": \"Cygnus Gold Limited\", \"new_code\": \"CY5\", \"new_name\": \"Cygnus Metals Limited\"}]",
+        "verification_method": "Primary source downloaded and inspected in earlier execution of this same assignment; source URL and facts recovered from actual tool outputs after workspace reset"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: official 2018-2026 matched name/code events recorded; complete legal continuity, pre-2018 events and financial comparability not signed off",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "CYM",
+    "facts": {
+      "current_legal_issuer": "Cyprium Metals Limited",
+      "ACN": "002 678 640",
+      "ABN": "48 002 678 640",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [
+        {
+          "effective_date": "2019-06-26",
+          "old_code": "ARX",
+          "old_name": "Arc Exploration Limited",
+          "new_code": "CYM",
+          "new_name": "Cyprium Metals Limited"
+        }
+      ],
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "CYPRIUM METALS LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06md6lcqj5rz53.pdf",
+        "title": "June 2025 Quarterly Activities Report",
+        "date": "2025-07-31",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ACN 002 678 640 at PDF p1, ABN 48 002 678 640 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=48002678640",
+        "title": "ABR current details for 48 002 678 640",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name CYPRIUM METALS LIMITED, ABN 48 002 678 640, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "Effective dates in matched annual rows",
+        "page_section": "2018-2026 annual name/code-change tables",
+        "fact": "Matched history: [{\"effective_date\": \"2019-06-26\", \"old_code\": \"ARX\", \"old_name\": \"Arc Exploration Limited\", \"new_code\": \"CYM\", \"new_name\": \"Cyprium Metals Limited\"}]",
+        "verification_method": "Primary source downloaded and inspected in earlier execution of this same assignment; source URL and facts recovered from actual tool outputs after workspace reset"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: official 2018-2026 matched name/code events recorded; complete legal continuity, pre-2018 events and financial comparability not signed off",
+    "security_conclusion": "PARTIAL: UNKNOWN; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "DAL",
+    "facts": {
+      "current_legal_issuer": "Dalaroo Metals Ltd",
+      "ACN": "648 476 699",
+      "ABN": "UNKNOWN",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "UNKNOWN",
+      "previous_names_and_tickers": [],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20241030/pdf/069sqy826rvhfm.pdf",
+        "title": "Notice of Annual General Meeting and Proxy Form",
+        "date": "2024-10-30",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ACN 648 476 699 at PDF p2",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "DTR",
+    "facts": {
+      "current_legal_issuer": "Dateline Resources Limited",
+      "ACN": "149 105 653",
+      "ABN": "63 149 105 653",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "DATELINE RESOURCES LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20150313/pdf/42x826bz0bkdz5.pdf",
+        "title": "Financial Report to Shareholders for the Half Year Ended 31 December 2014",
+        "date": "2015-03-13",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ACN 149 105 653 at PDF p1, ABN 63 149 105 653 at PDF p3",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=63149105653",
+        "title": "ABR current details for 63 149 105 653",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name DATELINE RESOURCES LIMITED, ABN 63 149 105 653, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "DLI",
+    "facts": {
+      "current_legal_issuer": "Delta Lithium Limited",
+      "ACN": "107 244 039",
+      "ABN": "67 107 244 039",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [
+        {
+          "effective_date": "2023-05-01",
+          "old_code": "RDT",
+          "old_name": "Red Dirt Metals Limited",
+          "new_code": "DLI",
+          "new_name": "Delta Lithium Limited"
+        }
+      ],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "DELTA LITHIUM LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20250530/pdf/06k93rkwgt3p5x.pdf",
+        "title": "Notice of General Meeting and Short-form Prospectus",
+        "date": "2025-05-30",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ABN 67 107 244 039 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=67107244039",
+        "title": "ABR current details for 67 107 244 039",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name DELTA LITHIUM LIMITED, ABN 67 107 244 039, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "Effective dates in matched annual rows",
+        "page_section": "2018-2026 annual name/code-change tables",
+        "fact": "Matched history: [{\"effective_date\": \"2023-05-01\", \"old_code\": \"RDT\", \"old_name\": \"Red Dirt Metals Limited\", \"new_code\": \"DLI\", \"new_name\": \"Delta Lithium Limited\"}]",
+        "verification_method": "Primary source downloaded and inspected in earlier execution of this same assignment; source URL and facts recovered from actual tool outputs after workspace reset"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: official 2018-2026 matched name/code events recorded; complete legal continuity, pre-2018 events and financial comparability not signed off",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "DEV",
+    "facts": {
+      "current_legal_issuer": "DevEx Resources Limited",
+      "ACN": "009 799 553",
+      "ABN": "74 009 799 553",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "DEVEX RESOURCES LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20171222/pdf/43qffxwhs3bzqq.pdf",
+        "title": "DevEx Resources Limited primary issuer document / registry record",
+        "date": "2017-12-22",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ABN 74 009 799 553 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=74009799553",
+        "title": "ABR current details for 74 009 799 553",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name DEVEX RESOURCES LIMITED, ABN 74 009 799 553, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "DCC",
+    "facts": {
+      "current_legal_issuer": "DigitalX Limited",
+      "ACN": "009 575 035",
+      "ABN": "59 009 575 035",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "DIGITALX LTD",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260227/pdf/06wwdqdl9dvs6m.pdf",
+        "title": "Appendix 4D Half-year Report",
+        "date": "2026-02-27",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ABN 59 009 575 035 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=59009575035",
+        "title": "ABR current details for 59 009 575 035",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name DIGITALX LTD, ABN 59 009 575 035, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: UNKNOWN; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "DXB",
+    "facts": {
+      "current_legal_issuer": "Dimerix Limited",
+      "ACN": "001 285 230",
+      "ABN": "18 001 285 230",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "DIMERIX LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20230504/pdf/05pc6ng1lzmykh.pdf",
+        "title": "Proposed issue of securities",
+        "date": "2023-05-04",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ABN 18 001 285 230 at PDF p2",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=18001285230",
+        "title": "ABR current details for 18 001 285 230",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name DIMERIX LIMITED, ABN 18 001 285 230, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "DUG",
+    "facts": {
+      "current_legal_issuer": "DUG Technology Ltd",
+      "ACN": "169 944 334",
+      "ABN": "99 169 944 334",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "DUG TECHNOLOGY LTD",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20210910/pdf/450clk5jv37s53.pdf",
+        "title": "Share Purchase Plan opens",
+        "date": "2021-09-10",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ACN 169 944 334 at PDF p6",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=99169944334",
+        "title": "ABR current details for 99 169 944 334",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name DUG TECHNOLOGY LTD, ABN 99 169 944 334, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "DXN",
+    "facts": {
+      "current_legal_issuer": "DXN Limited",
+      "ACN": "620 888 548",
+      "ABN": "46 620 888 548",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [
+        {
+          "effective_date": "2019-07-26",
+          "old_code": "DXN",
+          "old_name": "The Data Exchange Network Limited",
+          "new_code": "DXN",
+          "new_name": "DXN Limited"
+        }
+      ],
+      "security_type": "Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "DXN LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20191011/pdf/449dyrr147c1mq.pdf",
+        "title": "Entitlement Issue Prospectus",
+        "date": "2019-10-11",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ACN 620 888 548 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=46620888548",
+        "title": "ABR current details for 46 620 888 548",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name DXN LIMITED, ABN 46 620 888 548, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "Effective dates in matched annual rows",
+        "page_section": "2018-2026 annual name/code-change tables",
+        "fact": "Matched history: [{\"effective_date\": \"2019-07-26\", \"old_code\": \"DXN\", \"old_name\": \"The Data Exchange Network Limited\", \"new_code\": \"DXN\", \"new_name\": \"DXN Limited\"}]",
+        "verification_method": "Primary source downloaded and inspected in earlier execution of this same assignment; source URL and facts recovered from actual tool outputs after workspace reset"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: official 2018-2026 matched name/code events recorded; complete legal continuity, pre-2018 events and financial comparability not signed off",
+    "security_conclusion": "PARTIAL: Ordinary fully paid shares referenced in inspected primary document; full/current capital and other classes unresolved; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "EBR",
+    "facts": {
+      "current_legal_issuer": "EBR Systems Inc.",
+      "ACN": "UNKNOWN",
+      "ABN": "UNKNOWN",
+      "ARBN": "654 147 127",
+      "incorporation_jurisdiction": "Delaware, United States",
+      "previous_names_and_tickers": [],
+      "security_type": "ASX CDIs, 10 per underlying US common share",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "10 April 2026 completion announcement confirms underlying 1-for-10 reverse split; CDIs not consolidated; 1:1→10:1 ratio; rounding for CDI counts not divisible by 10; option/warrant exercise prices adjusted."
+    },
+    "evidence": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1347123/000121465926004488/ex99_1.htm",
+        "title": "EBR Reports Strong Q1 2026 Growth in Commercial Cases",
+        "date": "2026-04-09",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ARBN 654 147 127 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260331/pdf/06xzsykx2k97jf.pdf",
+        "title": "Correction of Annual Report",
+        "date": "2026-03-31",
+        "page_section": "Corporate information / announcement",
+        "fact": "Current issuer primary document inspected; see specific factual conclusion; identifier corroboration: ARBN 654 147 127 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260410/pdf/06ybs3tdxz1qtm.pdf",
+        "title": "Completion of Common Share Consolidation and Commencement of Normal Trading",
+        "date": "2026-04-10",
+        "page_section": "pp1-2",
+        "fact": "10 April 2026 completion announcement confirms underlying 1-for-10 reverse split; CDIs not consolidated; 1:1→10:1 ratio; rounding for CDI counts not divisible by 10; option/warrant exercise prices adjusted.; identifier corroboration: ARBN 654 147 127 at PDF p1",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: ASX CDIs, 10 per underlying US common share; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off",
+      "Reconcile 26 March indicative 27 March legal effective date with SEC 9 April description of effective 1 April Australian time; distinguish legal effective and CDI record dates"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved. Do not apply 10x adjustment to unchanged CDI price/units. Normalise underlying US-share counts/per-US-share metrics separately."
+  },
+  {
+    "ASX_Code": "EIQ",
+    "facts": {
+      "current_legal_issuer": "EchoIQ Limited",
+      "ACN": "142 901 353",
+      "ABN": "48 142 901 353",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [
+        {
+          "effective_date": "2021-12-08",
+          "old_code": "HWH",
+          "old_name": "Houston We Have Limited",
+          "new_code": "EIQ",
+          "new_name": "EchoIQ Limited"
+        }
+      ],
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "ECHOIQ LIMITED",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20241112/pdf/06b9j654bnxlvt.pdf",
+        "title": "Results of 2024 Annual General Meeting",
+        "date": "2024-11-12",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ACN 142 901 353 at PDF p2",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=48142901353",
+        "title": "ABR current details for 48 142 901 353",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name ECHOIQ LIMITED, ABN 48 142 901 353, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "Effective dates in matched annual rows",
+        "page_section": "2018-2026 annual name/code-change tables",
+        "fact": "Matched history: [{\"effective_date\": \"2021-12-08\", \"old_code\": \"HWH\", \"old_name\": \"Houston We Have Limited\", \"new_code\": \"EIQ\", \"new_name\": \"EchoIQ Limited\"}]",
+        "verification_method": "Primary source downloaded and inspected in earlier execution of this same assignment; source URL and facts recovered from actual tool outputs after workspace reset"
+      }
+    ],
+    "historical_conclusion": "PARTIAL: official 2018-2026 matched name/code events recorded; complete legal continuity, pre-2018 events and financial comparability not signed off",
+    "security_conclusion": "PARTIAL: UNKNOWN; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  },
+  {
+    "ASX_Code": "EDE",
+    "facts": {
+      "current_legal_issuer": "Eden Innovations Ltd",
+      "ACN": "109 200 900",
+      "ABN": "58 109 200 900",
+      "ARBN": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (Australian company type in ABR; incorporation state not established)",
+      "previous_names_and_tickers": [],
+      "security_type": "UNKNOWN",
+      "ISIN": "UNKNOWN",
+      "corporate_action_exceptions": "Full corporate-action reconciliation unresolved",
+      "ABR_entity_name": "EDEN INNOVATIONS LTD",
+      "ABR_entity_type": "Australian Public Company"
+    },
+    "evidence": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260227/pdf/06wx8t2wmfbf3r.pdf",
+        "title": "Appendix 4D Half Year Ended 31 December 2025",
+        "date": "2026-02-27",
+        "page_section": "Identity / corporate information",
+        "fact": "Issuer name and documented identifiers; full history and current tradeability not established by this document; identifier corroboration: ACN 109 200 900 at PDF p1, ABN 58 109 200 900 at PDF p3",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=58109200900",
+        "title": "ABR current details for 58 109 200 900",
+        "date": "Live registry record extracted 14 Oct 2026",
+        "page_section": "Identity / corporate information",
+        "fact": "ABR entity name EDEN INNOVATIONS LTD, ABN 58 109 200 900, type Australian Public Company; registry active status not ASX tradeability; registry extraction is after research cutoff and cannot independently establish 13 October trading status",
+        "verification_method": "Primary URL re-downloaded after workspace reset and full text inspected; source SHA256 available in work/reread2_manifest.json"
+      }
+    ],
+    "historical_conclusion": "Current identity only; full legal history remains unresolved",
+    "security_conclusion": "PARTIAL: UNKNOWN; exhaustive historical/security reconciliation not signed off",
+    "trading_conclusion": "UNRESOLVED_AS_OF_2026_10_13",
+    "unresolved": [
+      "Full legal lineage, mergers/RTOs and any delisting/relisting events not exhausted",
+      "ISIN and full security-class/corporate-action reconciliation not signed off",
+      "Current listing/trading status as of 13 October 2026 not fully signed off"
+    ],
+    "investigated": true,
+    "notes": "53-company primary-source investigation recovered from actual earlier tool output; valid baseline research must be preserved."
+  }
+]
