@@ -1,0 +1,35 @@
+# Step 1.3.2 — Corporate-action and security-form exception register
+
+Research cutoff: 13 October 2026. This register is an exception-control layer, **not** evidence that any ticker is currently tradeable. Source status distinguishes documented corporate actions from investigations. No candidate is excluded solely because of an exception.
+
+| Code | Exception | Event/effective date | Historical-data handling | Evidence status / next validation |
+|---|---|---|---|---|
+| EBR | US common-share reverse split, **1 for 10**; ASX CDIs unchanged; CDI/common-share ratio **1:1 → 10:1** | 1 Apr 2026 (Australia) | Keep ASX CDI units and prices on CDI basis; adjust underlying US common-share counts and per-US-share metrics by effective date | Issuer ASX notice: https://wcsecure.weblink.com.au/pdf/EBR/03072291.pdf ; confirm vendor adjustment conventions |
+| ECT | **1-for-15 consolidation** of ordinary shares and corresponding options | Completed 26 Aug 2025; normal T+2 trading 28 Aug | Reconcile pre/post share quantities, prices and option terms; check whether historical feed already split-adjusted to avoid double adjustment | Primary ASX completion: https://announcements.asx.com.au/asxpdf/20250826/pdf/06nc9sp162507s.pdf |
+| SXL | Acquisition of all SWM shares by scheme; **0.1552 SXL shares per SWM share**; SWM removed from ASX list | Implemented 7 Jan 2026; new SXL shares normal settlement 8 Jan | Preserve separate pre-merger SXL and SWM financial series; flag pro-forma merged numbers; prevent SWM historical prices from being treated as SXL | Primary issuer notice: https://sevenwestmedia.com.au/wp-content/uploads/2026/01/03044088.pdf ; half-year comparison: https://announcements.asx.com.au/asxpdf/20260224/pdf/06wn7mjm2p04dj.pdf |
+| WJL | Webjet Group demerged from Web Travel Group; distinct listed issuer | 2024 (exact entitlement and trading dates to validate) | Do not splice WEB historic prices/financials onto WJL without documented demerger treatment | Earlier issuer evidence in continuity queue; retrieve scheme booklet and implementation notice for exact terms |
+| CRN | Foreign-incorporated issuer; **10 CDIs represent 1 common share** | Ratio observed in ASX profile; historical effective period not fully checked | Track CDI and underlying US common-share quantities separately | https://www.asx.com.au/markets/company/CRN ; verify any ratio changes |
+| NYR | US-incorporated issuer; **1:1 CDIs** representing Class A common shares | Ratio in FY2026 annual report | Keep CDI versus common-share denomination explicit | https://www.nyrada.com/annualreport/2026/ |
+| SNX | US-incorporated issuer; **1:1 CDIs** representing common shares | Apr 2026 filing | Track CDIs and common shares separately | https://announcements.asx.com.au/asxpdf/20260428/pdf/06yy0pccc500yl.pdf |
+| TOK | PNG-incorporated issuer, ARBN 657 300 359 | 2026 evidence | Verify exact ASX quoted security form and ISIN before combining with ordinary-share universe | https://announcements.asx.com.au/asxpdf/20260331/pdf/06y0b7kswgq80l.pdf |
+| AIH | Proposed acquisition of Matrix Composites | Announced Apr 2026; **completion not established** | Do not restate historical parent/company or count acquisition as completed | https://announcements.asx.com.au/asxpdf/20260420/pdf/06yn2px0gr8x1h.pdf ; retrieve implementation announcement |
+| BGD | Placement / proposed new ordinary shares | Jun 2026 announcement; completion to verify | Adjust shares outstanding only after verified allotment/quotation | https://announcements.asx.com.au/asxpdf/20260601/pdf/07059kdk7gjn4z.pdf |
+| LDX | Share purchase plan with attaching options | May 2026 documentation | Separate ordinary shares from option securities; verify allotment dates | https://announcements.asx.com.au/asxpdf/20260501/pdf/06z44jt40njxq5.pdf |
+| MYR | Apparel business integration | FY2026 reporting | Identify acquired-business contribution when comparing pre/post financial performance; not evidence of new listed parent | https://announcements.asx.com.au/asxpdf/20260324/pdf/06xqwdmjdn32mg.pdf |
+| PWR | Wakeling automotive acquisition | Completion announced Oct 2026 in issuer archive | Flag business-combination discontinuity, but retain listed-parent identity absent contrary evidence | https://www.pwah.com.au/site/investor-centre/asx-announcements |
+| GWR | Capital return | Sep 2026 issuer archive | Verify amount, ex-date and historical price adjustment conventions | https://gwrgroup.com.au/investor-centre/asx-announcements/ |
+| VAL / AR1 / ALR / ASL / ARX / REC / MRD | Historic code reuse / issuer identity collisions | Various; see ticker change register | **Never join issuer histories solely on ticker**; use issuer ID, ACN/ARBN, ISIN and dated mappings | See STEP_1_3_2_TICKER_CHANGE_REGISTER.md and STEP_1_3_2_ISSUER_CONTINUITY_QUEUE.md |
+| TM1 | Documented predecessor ticker chain PNL → GCX → TM1; other historic GCX issuers | Dates in ticker register | Join only legally continuous issuer records, not all historic GCX records | See ticker change register; legal chain still requires exhaustive verification |
+
+## Controls before quantitative screening
+
+1. Resolve **issuer identity** by dated issuer/ACN/ARBN/ISIN mapping, not ticker alone.
+2. Record action type, announcement date, effective date, ratio, and affected security class separately.
+3. Label each vendor data series as raw or adjusted; never apply a second consolidation to already-adjusted prices.
+4. Distinguish CDI units from underlying common shares; reconcile denominator before per-share calculations.
+5. Keep statutory and pro-forma financial results separate across mergers, demergers and acquisitions.
+6. Maintain separate **Step 1.2 trading-status** checks for suspensions, halts and delistings.
+
+## Research status
+
+Priority 1: 13/13 initial issuer checks corroborated. Priority 2: 46/46 initially reviewed, not all exhaustive. Priority 3: 220 issuer checks pending. Operating candidate universe: 316, unchanged. This exception register is a starting control list; it is not an exhaustive corporate-action audit.
