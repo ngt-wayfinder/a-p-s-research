@@ -39,6 +39,6 @@ Action 2: investigate flagged pairs and any identity-related corporate actions, 
 ## Action 2 — Pair-by-pair verification
 
 - **AUQ / AS1 — VERIFIED DISTINCT (13 Oct 2026):** Different ABNs (27 122 892 719 vs 39 006 710 774) and different mining projects (Oman vs Guinea). Both retained. [Evidence record](identity_checks/AUQ_AS1_2026-10-13.md).
-- **AS1 / AAR — PENDING.**
+- **AS1 / AAR — VERIFIED DISTINCT (13 Oct 2026):** Different ABNs (39 006 710 774 vs 24 651 541 976), different ACNs and separate Guinea / WA gold projects. Both retained. [Evidence record](identity_checks/AS1_AAR_2026-10-13.md).
 - **SHN / STM — PENDING.**
 - **KGL / MGX — PENDING.**
