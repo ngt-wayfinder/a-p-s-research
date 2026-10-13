@@ -1,42 +1,130 @@
 # ASX Penny-Stock Research Roadmap
 
-**Goal:** Progress from 318 provisionally classified ASX operating-company candidates to 5–10 deeply researched opportunities over a 1–2-year investment horizon. Intended portfolio budget: under A$10,000. This is a research process, not a recommendation to buy.
+**Goal:** Progress from a provisional ASX operating-company universe to 5–10 deeply researched opportunities over a 1–2-year horizon. Intended portfolio budget: under A$10,000. Research plan only, not investment advice.
 
-## Ordered next steps
+**Last reviewed:** 13 October 2026
 
-**Status key:** COMPLETED = documented work finished; IN PROGRESS = partially verified; NOT STARTED = pending.
+## Status definitions
 
-1. **[IN PROGRESS] Validate the 318 operating companies.** Confirm active ASX listings, remove duplicates and misclassified investment vehicles, and flag suspended or delisted securities.
-2. **[NOT STARTED] Resolve missing market data.** Investigate 196 securities with missing price histories and remaining missing market capitalisations; add any eligible operating companies.
-3. **[NOT STARTED] Collect financial statements.** Retrieve annual, half-year and applicable quarterly cash-flow reports; record cash, revenue, operating cash flow, debt, shares outstanding, source dates and links.
-4. **[NOT STARTED] Calculate financial health.** Assess cash runway, revenue growth, profitability, debt and likely funding needs, using sector-specific measures for explorers, biotech and established businesses.
-5. **[NOT STARTED] Screen for financial resilience.** Narrow toward 100–150 candidates, with documented exceptions for early-stage companies with credible milestones.
-6. **[NOT STARTED] Assess dilution.** Review historical issuance, placements, convertibles, options and expected future capital raisings.
-7. **[NOT STARTED] Identify catalysts in the next 3–24 months.** Include exploration results, approvals, trials, contracts, production milestones and product launches; record uncertainty.
-8. **[NOT STARTED] Shortlist 30–50 companies.** Prioritise resilience, catalysts, execution, valuation, liquidity and dilution, not momentum alone.
-9. **[NOT STARTED] Deep-research 15–20.** Examine management, competition, project economics, shareholders, filings and execution history.
-10. **[NOT STARTED] Value 5–10 finalists.** Prepare bear/base/bull scenarios including financing and dilution assumptions.
-11. **[NOT STARTED] Propose portfolio construction.** Evaluate sizing, liquidity, diversification, thesis-invalidating events and exits within the under-A$10,000 budget.
-12. **[NOT STARTED] Implement monitoring.** Use GitHub Actions and persistent storage to refresh market data, track ASX announcements and capital raisings, and flag thesis changes.
+- **COMPLETED:** The specified deliverable has been produced and checked within its stated scope.
+- **IN PROGRESS:** Work has started, but acceptance criteria are not yet satisfied.
+- **NOT STARTED:** No completed deliverable is recorded.
+- **BLOCKED / NEEDS VERIFICATION:** A specific evidence gap prevents completion. An ASX announcement headline is not equivalent to reading the underlying PDF.
+- Statuses reflect the repository evidence and work performed to date, not a claim of live market status.
 
-## Current status (updated 13 October 2026)
+## Phase 0 — Initial universe and numerical screening [COMPLETED — historical baseline]
 
-- Initial ASX universe: 1,923 securities.
-- Numerical screening: 339 qualified.
-- Earlier provisional classification: 318 operating candidates, 20 investment vehicles excluded, 1 uncertain. **The subsequently uploaded verification CSV contains 316 candidates**; reconcile the two-company difference before closing Step 1.
-- **Step 1.1 — COMPLETED:** All 316 tickers and company names in `operating_candidates.csv` matched the uploaded official ASX company directory (`ASXListedCompanies.csv`). Directory presence alone does not establish tradeability.
-- **Step 1.2 — PRELIMINARY REVIEW COMPLETED; FINAL CONFIRMATION PENDING:** 316 Yahoo Finance tickers scanned (306 recent price data; 10 exceptions). All 10 exceptions reviewed against ASX announcement histories and documented in `research/trading_status/trading_status_verification_register_2026-10-13.csv`.
-  - Four trading halts identified: 3DA, MRD, REC, TM1. Official halt PDFs reviewed; actual resumption not confirmed.
-  - PAR: suspension and voluntary administration identified; exclude from currently tradeable shortlist pending evidence of reinstatement.
-  - BSA: reinstatement announced 1 October; current tradeability not independently confirmed.
-  - EWC, GWR, SFM, SGI: no current suspension identified in supplied announcement histories; live tradeability unconfirmed.
-- **Step 1 outstanding:** Reconcile 318 versus 316 candidates; check duplicates, delistings and operating-company classification; confirm actual resumption/live status where required. Do not mark all 316 as actively trading.
-- 196 missing-price records remain to be investigated.
-- **Immediate next action: Complete Step 1.3 — reconcile the 318-to-316 difference and verify business-model classification, duplicates and delistings for the 316-company candidate list.** Then close remaining trading-status exceptions. **Step 2** (missing market data) follows once Step 1 is signed off.
+- **0.1 [COMPLETED]** Assemble initial ASX directory universe: 1,923 securities (historical baseline).
+- **0.2 [COMPLETED]** Apply preliminary numerical price, market-cap and liquidity criteria: 339 qualified (historical baseline).
+- **0.3 [COMPLETED — PROVISIONAL]** Initial operating/investment-vehicle classification: 318 operating candidates, 20 excluded investment vehicles and 1 uncertain (historical classification, not independently validated).
+- **0.4 [COMPLETED]** Upload working `operating_candidates.csv` to GitHub. Subsequent verification used **316 rows**, not 318. The difference remains unexplained.
 
-## Quality controls
+## Step 1 — Validate the operating-company universe [IN PROGRESS]
 
-- Retain sources, observation dates and original datasets.
-- Treat missing values as unknown, not zero.
-- Verify corporate actions and shares on issue before valuation.
-- Review results at each stage before proceeding.
+**Purpose:** Reconcile the working candidate count, confirm directory identity, examine trading-status exceptions and validate the business model and listing status before establishing the final universe.
+
+1. **1.1 [COMPLETED] Directory identity check**
+   - **1.1.1 [COMPLETED]** Obtain and upload `ASXListedCompanies.csv` from the ASX directory.
+   - **1.1.2 [COMPLETED]** Compare the 316 working candidates with the uploaded directory: 316 ticker/name matches, zero missing tickers and zero name mismatches.
+   - **Limitation:** Directory membership does not confirm that shares are presently tradeable.
+
+2. **1.2 [IN PROGRESS] Trading-status verification**
+   - **1.2.1 [COMPLETED]** Test Yahoo Finance price-history retrieval on 10 candidates.
+   - **1.2.2 [COMPLETED]** Run preliminary scan of 316 candidates: 306 recent price dates and 10 requiring review; no missing/error results. Calendar-day thresholds are screening heuristics only.
+   - **1.2.3 [COMPLETED — HEADLINE REVIEW]** Review ASX announcement histories for all 10 exceptions: 3DA, BSA, EWC, GWR, MRD, PAR, REC, SFM, SGI and TM1.
+   - **1.2.4 [COMPLETED]** Read official trading-halt PDFs for 3DA, MRD, REC and TM1. Recorded reasons and scheduled halt end dates (14 October for TM1; 15 October for 3DA, MRD and REC). Scheduled end dates do **not** prove trading resumed.
+   - **1.2.5 [COMPLETED]** Save 10 individual GitHub review records and the consolidated CSV: [trading-status verification register](research/trading_status/trading_status_verification_register_2026-10-13.csv).
+   - **1.2.6 [BLOCKED / NEEDS VERIFICATION]** Confirm subsequent trading resumption for 3DA, MRD, REC and TM1; verify PAR's continuing suspension/administration from underlying notices and subsequent disclosures; verify live status of BSA, EWC, GWR, SFM and SGI. Do not classify the latter five as definitively actively trading on announcement-headline evidence alone.
+   - **Interim classification as of review:** four trading halts (3DA, MRD, REC, TM1); one suspended/in voluntary administration (PAR); one historical suspension followed by reinstatement (BSA); four with no current suspension found in supplied headlines (EWC, GWR, SFM, SGI). PAR is excluded from the **currently tradeable shortlist**, not automatically deleted from the historical research universe.
+
+3. **1.3 [NOT STARTED] Reconcile the universe and validate operating-company classification**
+   - **1.3.1 [NOT STARTED — NEXT ACTION]** Explain the difference between the historical **318** provisional operating candidates and the **316** records in `operating_candidates.csv`. Locate the original classification output or source and identify the two missing tickers; do not guess.
+   - **1.3.2 [NOT STARTED]** Check duplicates, ticker changes, delistings and corporate actions affecting identity.
+   - **1.3.3 [NOT STARTED]** Validate operating-business versus investment-vehicle classification using current company activities and official reports. Specifically review GWR's business model.
+   - **1.3.4 [NOT STARTED]** Produce an auditable final candidate register with inclusion/exclusion reasons and source dates.
+
+4. **1.4 [NOT STARTED] Step 1 sign-off**
+   - **1.4.1 [NOT STARTED]** Resolve or explicitly document outstanding 1.2 trading-status uncertainties and 1.3 classification/count exceptions.
+   - **1.4.2 [NOT STARTED]** Approve the final eligible operating-company universe for downstream screening.
+
+**Step 1 exit criterion:** Every included candidate has an auditable identity and business classification; halted/suspended status is distinguished from delisting; outstanding exceptions are explicitly flagged.
+
+## Step 2 — Resolve missing market data [NOT STARTED]
+
+- **2.1 [NOT STARTED]** Revisit the **196 historical missing-price records** and identify whether gaps reflect ticker formatting, corporate actions, delistings, suspensions or provider limitations.
+- **2.2 [NOT STARTED]** Investigate remaining missing market capitalisations; reconcile shares outstanding and corporate actions.
+- **2.3 [NOT STARTED]** Reapply the price, market-cap and liquidity screen with verified data; add eligible operating companies and record exclusions.
+- **2.4 [NOT STARTED]** Save a refreshed universe and data-quality log.
+
+## Step 3 — Collect financial statements [NOT STARTED]
+
+- **3.1 [NOT STARTED]** Collect annual, half-year and relevant quarterly cash-flow reports.
+- **3.2 [NOT STARTED]** Extract cash, revenue, operating cash flow, debt and shares outstanding with reporting dates.
+- **3.3 [NOT STARTED]** Preserve official source links and resolve extraction exceptions.
+
+## Step 4 — Calculate financial health [NOT STARTED]
+
+- **4.1 [NOT STARTED]** Calculate cash runway and funding needs.
+- **4.2 [NOT STARTED]** Assess revenue growth, profitability and debt where relevant.
+- **4.3 [NOT STARTED]** Apply sector-appropriate metrics for explorers, biotech and established businesses.
+
+## Step 5 — Screen for financial resilience [NOT STARTED]
+
+- **5.1 [NOT STARTED]** Set documented sector-specific screening thresholds.
+- **5.2 [NOT STARTED]** Narrow toward approximately 100–150 candidates, with justified exceptions.
+- **5.3 [NOT STARTED]** Save rankings and exclusion reasons.
+
+## Step 6 — Assess dilution [NOT STARTED]
+
+- **6.1 [NOT STARTED]** Review historical placements, share issues, options and convertibles.
+- **6.2 [NOT STARTED]** Estimate prospective financing requirements and dilution scenarios.
+- **6.3 [NOT STARTED]** Record dilution-risk flags with sources.
+
+## Step 7 — Identify 3–24-month catalysts [NOT STARTED]
+
+- **7.1 [NOT STARTED]** Identify exploration, regulatory, clinical, commercial and production milestones.
+- **7.2 [NOT STARTED]** Assess likely timing, dependencies and uncertainty.
+- **7.3 [NOT STARTED]** Create a sourced catalyst calendar.
+
+## Step 8 — Shortlist 30–50 companies [NOT STARTED]
+
+- **8.1 [NOT STARTED]** Score resilience, catalysts, execution, valuation, liquidity and dilution.
+- **8.2 [NOT STARTED]** Review sector concentration and remove weak candidates.
+- **8.3 [NOT STARTED]** Document a shortlist of approximately 30–50.
+
+## Step 9 — Deep-research 15–20 companies [NOT STARTED]
+
+- **9.1 [NOT STARTED]** Review management, governance, shareholders and disclosure quality.
+- **9.2 [NOT STARTED]** Evaluate competition, assets/project economics and execution history.
+- **9.3 [NOT STARTED]** Document evidence, risks and thesis invalidation conditions.
+
+## Step 10 — Value 5–10 finalists [NOT STARTED]
+
+- **10.1 [NOT STARTED]** Build appropriate valuation models and assumptions.
+- **10.2 [NOT STARTED]** Prepare bear/base/bull cases incorporating funding and dilution.
+- **10.3 [NOT STARTED]** Review sensitivities and rank 5–10 finalists.
+
+## Step 11 — Propose portfolio construction [NOT STARTED]
+
+- **11.1 [NOT STARTED]** Assess liquidity, sizing and diversification for a portfolio under A$10,000.
+- **11.2 [NOT STARTED]** Define entry criteria, thesis-invalidating events and exits.
+- **11.3 [NOT STARTED]** Document portfolio risks; do not assume high returns are likely.
+
+## Step 12 — Implement monitoring [NOT STARTED]
+
+- **12.1 [NOT STARTED]** Design GitHub Actions refreshes with persistent checkpoints.
+- **12.2 [NOT STARTED]** Monitor ASX announcements, capital raisings and trading-status changes.
+- **12.3 [NOT STARTED]** Track financial/catalyst updates and thesis changes.
+- **12.4 [NOT STARTED]** Test alerts and establish a review cadence.
+
+## Immediate next action
+
+**Step 1.3.1:** Locate the source for the historical 318-company provisional classification and compare its ticker list with the 316-row `operating_candidates.csv`. Identify the two-company difference and record the reason. Then proceed through 1.3.2–1.3.4. In parallel, keep the 1.2.6 trading-status follow-ups open until independently confirmed.
+
+## Research controls
+
+- Keep raw source files, evidence dates and original outputs.
+- Separate **verified facts**, **headline-only observations**, **provisional classifications** and **unresolved questions**.
+- Never equate missing data with zero or a stale price date with a trading suspension.
+- Reconcile corporate actions and shares on issue before valuation.
+- Update statuses only when supporting deliverables exist; review and sign off each stage before moving to the next.
