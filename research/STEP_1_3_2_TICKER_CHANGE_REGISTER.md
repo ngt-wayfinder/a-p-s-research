@@ -116,3 +116,47 @@ A reusable parser is now committed at [`scripts/crossmatch_asx_code_changes.py`]
 **Data handling:** Historical aliases BAT→WTM, GCX→TM1, CHK→ALR, AFW→FMR, MMC→ASL should inform historical price/announcement retrieval. Old-code collisions like VAL require issuer identity checks before linking time series.
 
 **Next:** Verify the VAL code-reuse issue and reconcile the 2023 annual register. Stage 2.2 remains in progress. No candidate removals.
+
+## 2023 register supplied by user — full 2023-section cross-match (13 October 2026)
+
+**Source:** User-transcribed ASX 2023 company name/code-change register. Matched **both** old and new codes against the actual 316-code `operating_candidates.csv` in GitHub. Transcription not independently authenticated against the ASX website.
+
+**Result: 19 matching entries — 11 code changes and 8 name-only changes.** No candidate exclusions.
+
+### Historical code changes (11)
+
+| Effective date | Old code | New candidate code | New company at change |
+|---|---|---|---|
+| 22 Dec 2023 | GMR | AS1 | Asara Resources Limited |
+| 22 Dec 2023 | BBX | BCM | Brazilian Critical Minerals Limited |
+| 18 Dec 2023 | ALG | CEH | Coast Entertainment Holdings Limited |
+| 1 Dec 2023 | JRL | JLL | Jindalee Lithium Limited |
+| 15 Nov 2023 | SAU | ION | Iondrive Limited |
+| 24 Oct 2023 | DC2 | AI1 | Adisyn Ltd |
+| 6 Jun 2023 | DEX | TNC | True North Copper Limited |
+| 22 May 2023 | HT1 | A1N | ARN Media Limited |
+| 1 May 2023 | RDT | DLI | Delta Lithium Limited |
+| 6 Mar 2023 | E2M | USL | Unico Silver Limited |
+| 25 Jan 2023 | TNG | TVN | Tivan Limited |
+
+### Name-only changes (8)
+
+| Effective date | Code unchanged | Old name | New name at change |
+|---|---|---|---|
+| 30 Nov 2023 | SGI | Stealth Global Holdings Ltd | Stealth Group Holdings Ltd |
+| 27 Nov 2023 | ACF | Acrow Formwork and Construction Services Limited | Acrow Limited |
+| 10 Jul 2023 | SHN | Sunshine Gold Limited | Sunshine Metals Limited |
+| 8 Jun 2023 | CEL | Challenger Exploration Limited | Challenger Gold Limited |
+| 9 May 2023 | CUP | Countplus Limited | Count Limited |
+| 1 May 2023 | MTM | Mt Monger Resources Limited | MTM Critical Metals Limited |
+| 21 Feb 2023 | EVO | Embark Education Limited | Embark Education Group Limited |
+| 14 Feb 2023 | CY5 | Cygnus Gold Limited | Cygnus Metals Limited |
+
+### Identity/history notes
+
+- **MTM**: a further name-only change in 2025 (MTM Critical Metals → Metallium); ticker unchanged.
+- **EVO**: the 2023 destination name 'Embark Education Group Limited' differs from the candidate CSV name 'Embark Early Education Limited'. Confirm any intervening name change.
+- Several 2023 events were already identified in the initial non-exhaustive register. Do not double-count these as independent events.
+- The 2023 register also contains historical codes used by later entities (for example, TRT → TX3 and ARO → ASE), but neither of those codes is in the **current** candidate set, so they are excluded from the 19 matched events.
+
+**Next:** Reconcile 2022. Stage 2.2 remains **IN PROGRESS**.
