@@ -93,3 +93,26 @@ A reusable parser is now committed at [`scripts/crossmatch_asx_code_changes.py`]
 **Notes:** MGX and RAC were already mentioned in the initial illustrative register and are not additional unique matches. RIV is the one candidate requiring a historical ticker alias. A company-name mismatch between 3DA's CSV name and the 2025 table is a review item, not evidence of a duplicate. This is a **2025-section comparison only**; earlier years remain outstanding.
 
 **Next:** Obtain and compare the 2024 ASX code/name-change register against the same 316 candidates.
+
+## 2024 register supplied by user — cross-match (13 October 2026)
+
+**Source:** User-transcribed 2024 ASX company name/code-change table. Cross-matched old and new ticker columns to the 316-candidate working universe. Not independently authenticated against the ASX site.
+
+**Eight matched change events:** five historical code changes **into** current candidate codes, two name-only changes, and one **old-code collision** that must not be mistaken for a current candidate's corporate history.
+
+| Effective date | Old code | Old name | New code | New name | Classification / action |
+|---|---|---|---|---|---|
+| 5 Jan 2024 | BAT | Battery Minerals Limited | WTM | Waratah Minerals Limited | Historical candidate ticker alias; retain WTM |
+| 19 Apr 2024 | GCX | GCX Metals Limited | TM1 | Terra Metals Limited | Historical candidate ticker alias; retain TM1 |
+| 17 May 2024 | CHK | Cohiba Minerals Limited | ALR | Altair Minerals Limited | Historical candidate ticker alias; retain ALR |
+| 26 Jun 2024 | AFW | Applyflow Limited | FMR | FMR Resources Limited | Historical candidate ticker alias; retain FMR |
+| 11 Jul 2024 | MMC | Mitre Mining Corporation Limited | ASL | Andean Silver Limited | Historical candidate ticker alias; retain ASL |
+| 9 May 2024 | G50 | Gold 50 Limited | G50 | G50 Corp Limited | Name-only change; retain G50 |
+| 4 Dec 2024 | MYE | Metarock Group Limited | MYE | Mastermyne Group Limited | Name-only change; retain MYE |
+| 9 Apr 2024 | VAL | Valor Resources Limited | THB | Thunderbird Resources Limited | **Old-code collision:** current candidate VAL = Valiant Gold Limited; DO NOT assign Valor Resources history to Valiant Gold. Investigate reuse and effective start date |
+
+**Important:** The 2024 table also includes code changes such as WEB → WEB (Webjet → Web Travel Group), but **WEB is not the candidate WJL** (Webjet Group Limited); do not match by company-name similarity alone. The supplied 2024 table includes two SGH entries for the same old code SVW on different dates; neither code is in our candidate universe.
+
+**Data handling:** Historical aliases BAT→WTM, GCX→TM1, CHK→ALR, AFW→FMR, MMC→ASL should inform historical price/announcement retrieval. Old-code collisions like VAL require issuer identity checks before linking time series.
+
+**Next:** Verify the VAL code-reuse issue and reconcile the 2023 annual register. Stage 2.2 remains in progress. No candidate removals.
