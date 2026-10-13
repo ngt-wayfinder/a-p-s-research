@@ -12,6 +12,26 @@
 - **BLOCKED / NEEDS VERIFICATION:** A specific evidence gap prevents completion. An ASX announcement headline is not equivalent to reading the underlying PDF.
 - Statuses reflect the repository evidence and work performed to date, not a claim of live market status.
 
+## Entire sequence — authoritative stage titles
+
+The titles below are identical to the detailed headings and must remain synchronised if a stage is renamed.
+
+| Stage | Title | Status |
+|---|---|---|
+| Phase 0 | Initial universe and numerical screening | COMPLETED — historical baseline |
+| Step 1 | Validate the operating-company universe | IN PROGRESS |
+| Step 2 | Resolve missing market data | NOT STARTED |
+| Step 3 | Collect financial statements | NOT STARTED |
+| Step 4 | Calculate financial health | NOT STARTED |
+| Step 5 | Screen for financial resilience | NOT STARTED |
+| Step 6 | Assess dilution | NOT STARTED |
+| Step 7 | Identify 3–24-month catalysts | NOT STARTED |
+| Step 8 | Shortlist 30–50 companies | NOT STARTED |
+| Step 9 | Deep-research 15–20 companies | NOT STARTED |
+| Step 10 | Value 5–10 finalists | NOT STARTED |
+| Step 11 | Propose portfolio construction | NOT STARTED |
+| Step 12 | Implement monitoring | NOT STARTED |
+
 ## Phase 0 — Initial universe and numerical screening [COMPLETED — historical baseline]
 
 - **0.1 [COMPLETED]** Assemble initial ASX directory universe: 1,923 securities (historical baseline).
@@ -23,12 +43,12 @@
 
 **Purpose:** Reconcile the working candidate count, confirm directory identity, examine trading-status exceptions and validate the business model and listing status before establishing the final universe.
 
-1. **1.1 [COMPLETED] Directory identity check**
+- **1.1 [COMPLETED] Directory identity check**
    - **1.1.1 [COMPLETED]** Obtain and upload `ASXListedCompanies.csv` from the ASX directory.
    - **1.1.2 [COMPLETED]** Compare the 316 working candidates with the uploaded directory: 316 ticker/name matches, zero missing tickers and zero name mismatches.
    - **Limitation:** Directory membership does not confirm that shares are presently tradeable.
 
-2. **1.2 [IN PROGRESS] Trading-status verification**
+- **1.2 [IN PROGRESS] Trading-status verification**
    - **1.2.1 [COMPLETED]** Test Yahoo Finance price-history retrieval on 10 candidates.
    - **1.2.2 [COMPLETED]** Run preliminary scan of 316 candidates: 306 recent price dates and 10 requiring review; no missing/error results. Calendar-day thresholds are screening heuristics only.
    - **1.2.3 [COMPLETED — HEADLINE REVIEW]** Review ASX announcement histories for all 10 exceptions: 3DA, BSA, EWC, GWR, MRD, PAR, REC, SFM, SGI and TM1.
@@ -37,22 +57,22 @@
    - **1.2.6 [BLOCKED / NEEDS VERIFICATION]** Confirm subsequent trading resumption for 3DA, MRD, REC and TM1; verify PAR's continuing suspension/administration from underlying notices and subsequent disclosures; verify live status of BSA, EWC, GWR, SFM and SGI. Do not classify the latter five as definitively actively trading on announcement-headline evidence alone.
    - **Interim classification as of review:** four trading halts (3DA, MRD, REC, TM1); one suspended/in voluntary administration (PAR); one historical suspension followed by reinstatement (BSA); four with no current suspension found in supplied headlines (EWC, GWR, SFM, SGI). PAR is excluded from the **currently tradeable shortlist**, not automatically deleted from the historical research universe.
 
-3. **1.3 [IN PROGRESS] Reconcile the universe and validate operating-company classification**
+- **1.3 [IN PROGRESS] Reconcile the universe and validate operating-company classification**
    - **1.3.1 [COMPLETED]** Reconciled the historical **318** provisional operating candidates with **316** working candidates using uploaded `ASX_Operating_Company_Classification.xlsx`: **GDF (Garda Property Group)** and **GDI (GDI Property Group)** were excluded because both are classified as Equity Real Estate Investment Trusts (REITs) in the source workbook. **318 − 2 = 316**. This explains the count difference; broader business-model review remains outstanding.
    - **1.3.2 [IN PROGRESS]** Check duplicates, ticker changes, delistings and corporate actions affecting identity.
-     - **Action 1 [COMPLETED]:** 316 records, 316 unique tickers; no exact/normalised duplicate names; four fuzzy-name pairs identified. [Duplicate audit](research/STEP_1_3_2_DUPLICATE_AUDIT.md).
-     - **Action 2.1 [COMPLETED]:** Four fuzzy-name pairs independently established as distinct legal entities and retained.
-     - **Action 2.2 [COMPLETED — DEFINED SCOPE]:** 2018–13 October 2026 ticker/name-change register: 111 matched historical events (64 ticker changes, 41 name-only, six historic code collisions). [Ticker-change register](research/STEP_1_3_2_TICKER_CHANGE_REGISTER.md). This does not certify every issuer's full legal lineage.
-     - **Action 2.3 [IN PROGRESS — EVIDENCE CLOSURE]:** All **279** remaining issuer records have been triaged: **13 P1, 46 P2 and 220 P3**; the other **37** are covered by the separate name-continuity review. All **220/220 P3** have initial triage, but initial triage **does not** constitute independent primary-source verification. A [316-company evidence matrix](research/STEP_1_3_2_EVIDENCE_MATRIX.csv) and [methodology](research/STEP_1_3_2_EVIDENCE_MATRIX_README.md) now track evidence and gaps. Many records still require issuer-specific primary filings, ACN/ARBN and security-class checks, and historical continuity review. [Issuer continuity queue](research/STEP_1_3_2_ISSUER_CONTINUITY_QUEUE.md).
-     - **Action 2.4 [IN PROGRESS — EXCEPTIONS DOCUMENTED]:** [Corporate-action exception register](research/STEP_1_3_2_CORPORATE_ACTION_EXCEPTIONS.md) records material mergers, demergers, ticker reuse, consolidations, CDIs and acquisition events. AIH's Matrix acquisition is documented as completed in July 2026; IXR, ALU, ECT, SXL, WJL, SLD and other exceptions have specific treatment flags. Comprehensive 316-issuer action reconciliation and completion/implementation evidence remain outstanding.
-     - **Action 2.5 [IN PROGRESS — SELECTED CASES ONLY]:** Selected ASX notices reviewed, including TNC's former Duke Exploration identity, October 2024 administration/suspension and January 2026 placement settlement activity. This is **not** an exhaustive delisting/relisting audit; dates of reinstatement and present trading status remain subject to separate Step 1.2 evidence.
-     - **All-remaining gap audit [COMPLETED — INVENTORY ONLY, 13 Oct 2026]:** Reconciled all 316 matrix records: **37** have primary identity evidence recorded; **279** still require primary identity closure (**173 primary source pending, 69 evidence recorded/review required, 37 separate name-history reviews**). Each outstanding row has a documented next evidence gate in the [279-company gap audit](research/STEP_1_3_2_ALL_REMAINING_GAP_AUDIT_2026_10_13.md). This is a full outstanding-work inventory, **not** 279 completed primary-source verifications or 2.4–2.5 sign-off.
-     - **Exit criteria [NOT MET]:** Per-company auditable issuer identity, historical continuity and security form; reconciled material corporate actions and delisting history; unresolved exceptions explicitly documented or quarantined. The **316 candidates remain provisional**, not fully verified.
+     - **1.3.2.1 [COMPLETED] Duplicate audit:** 316 records, 316 unique tickers; no exact/normalised duplicate names; four fuzzy-name pairs identified. [Duplicate audit](research/STEP_1_3_2_DUPLICATE_AUDIT.md).
+     - **1.3.2.2 [COMPLETED] Fuzzy-name resolution:** Four fuzzy-name pairs independently established as distinct legal entities and retained.
+     - **1.3.2.3 [COMPLETED — DEFINED SCOPE] Ticker/name-change register:** 2018–13 October 2026 ticker/name-change register: 111 matched historical events (64 ticker changes, 41 name-only, six historic code collisions). [Ticker-change register](research/STEP_1_3_2_TICKER_CHANGE_REGISTER.md). This does not certify every issuer's full legal lineage.
+     - **1.3.2.4 [IN PROGRESS — EVIDENCE CLOSURE] Issuer identity and historical continuity:** All **279** remaining issuer records have been triaged: **13 P1, 46 P2 and 220 P3**; the other **37** are covered by the separate name-continuity review. All **220/220 P3** have initial triage, but initial triage **does not** constitute independent primary-source verification. A [316-company evidence matrix](research/STEP_1_3_2_EVIDENCE_MATRIX.csv) and [methodology](research/STEP_1_3_2_EVIDENCE_MATRIX_README.md) now track evidence and gaps. Many records still require issuer-specific primary filings, ACN/ARBN and security-class checks, and historical continuity review. [Issuer continuity queue](research/STEP_1_3_2_ISSUER_CONTINUITY_QUEUE.md).
+     - **1.3.2.5 [IN PROGRESS — EXCEPTIONS DOCUMENTED] Corporate actions:** [Corporate-action exception register](research/STEP_1_3_2_CORPORATE_ACTION_EXCEPTIONS.md) records material mergers, demergers, ticker reuse, consolidations, CDIs and acquisition events. AIH's Matrix acquisition is documented as completed in July 2026; IXR, ALU, ECT, SXL, WJL, SLD and other exceptions have specific treatment flags. Comprehensive 316-issuer action reconciliation and completion/implementation evidence remain outstanding.
+     - **1.3.2.6 [IN PROGRESS — SELECTED CASES ONLY] Delisting/relisting review:** Selected ASX notices reviewed, including TNC's former Duke Exploration identity, October 2024 administration/suspension and January 2026 placement settlement activity. This is **not** an exhaustive delisting/relisting audit; dates of reinstatement and present trading status remain subject to separate Step 1.2 evidence.
+     - **1.3.2.7 [COMPLETED — INVENTORY ONLY, 13 Oct 2026] Outstanding-evidence gap audit:** Reconciled all 316 matrix records: **37** have primary identity evidence recorded; **279** still require primary identity closure (**173 primary source pending, 69 evidence recorded/review required, 37 separate name-history reviews**). Each outstanding row has a documented next evidence gate in the [279-company gap audit](research/STEP_1_3_2_ALL_REMAINING_GAP_AUDIT_2026_10_13.md). This is a full outstanding-work inventory, **not** 279 completed primary-source verifications or 2.4–2.5 sign-off.
+     - **1.3.2 exit criteria [NOT MET]:** Per-company auditable issuer identity, historical continuity and security form; reconciled material corporate actions and delisting history; unresolved exceptions explicitly documented or quarantined. The **316 candidates remain provisional**, not fully verified.
 
    - **1.3.3 [NOT STARTED]** Validate operating-business versus investment-vehicle classification using current company activities and official reports. Specifically review GWR's business model.
    - **1.3.4 [NOT STARTED]** Produce an auditable final candidate register with inclusion/exclusion reasons and source dates.
 
-4. **1.4 [NOT STARTED] Step 1 sign-off**
+- **1.4 [NOT STARTED] Step 1 sign-off**
    - **1.4.1 [NOT STARTED]** Resolve or explicitly document outstanding 1.2 trading-status uncertainties and 1.3 classification/count exceptions.
    - **1.4.2 [NOT STARTED]** Approve the final eligible operating-company universe for downstream screening.
 
@@ -128,7 +148,7 @@
 
 ## Immediate next action
 
-**Step 1.3.2 Actions 2.3–2.5:** Work through the [316-company evidence matrix](research/STEP_1_3_2_EVIDENCE_MATRIX.csv), obtaining dated primary ASX/issuer evidence for outstanding identity and security-form checks; reconcile implemented corporate actions and historical delisting/relisting events; document any unresolved cases. Update the matrix only when the supporting evidence is inspected. Then undertake **1.3.3** operating-business classification and **1.3.4** final auditable candidate register. Keep **1.2.6** trading-status verification open separately until resumption and suspension statuses are confirmed.
+**Step 1.3.2.4–1.3.2.6:** Work through the [316-company evidence matrix](research/STEP_1_3_2_EVIDENCE_MATRIX.csv), obtaining dated primary ASX/issuer evidence for outstanding identity and security-form checks; reconcile implemented corporate actions and historical delisting/relisting events; document any unresolved cases. Update the matrix only when the supporting evidence is inspected. Then undertake **1.3.3** operating-business classification and **1.3.4** final auditable candidate register. Keep **1.2.6** trading-status verification open separately until resumption and suspension statuses are confirmed.
 
 ## Research controls
 
