@@ -1,6 +1,6 @@
 # Step 1.3.2 — Action 2.3: Remaining issuer-continuity queue
 
-**Research date:** 13 October 2026. **Status:** triage prepared; 13 P1 issuer identity checks corroborated by independent ASX/issuer evidence; 210 P3 issuer checks not independently checked. These checks do not confirm current trading status or full ACN/ISIN history.
+**Research date:** 13 October 2026. **Status:** triage prepared; 13 P1 issuer identity checks corroborated by independent ASX/issuer evidence; 180 P3 issuer checks not independently checked. These checks do not confirm current trading status or full ACN/ISIN history.
 
 This queue is the set difference of all **316** codes in `operating_candidates.csv` and the **37** already documented in `STEP_1_3_2_NAME_CONTINUITY_REVIEW.md`. Exactly **279** candidates remain. Rows explicitly marked *Not independently checked* have no independent issuer evidence yet; all 13 annotated P1 rows have limited independent corroboration; none of these findings independently clears current tradeability. Priority is a **workflow heuristic, not an issuer-risk finding**. P1 = previously flagged ticker-reuse or trading-status exceptions; P2 = issuer name contains a parent/security-form term; P3 = remaining codes. The P2/P3 labels are not evidence of any corporate action.
 
@@ -27,46 +27,46 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | AQZ | ALLIANCE AVIATION SERVICES LIMITED | P3 — routine issuer confirmation | 2025 issuer corroborated: Alliance Aviation Services Limited ACN 153 361 525 ASX AQZ; 2026 confirmation pending. https://announcements.asx.com.au/asxpdf/20250821/pdf/06n4tp9r3gbxw5.pdf |
 | AGE | ALLIGATOR ENERGY LIMITED | P3 — routine issuer confirmation | 2026 annual report listing corroborates Alligator Energy ASX AGE; detailed report/security verification pending. https://www.marketindex.com.au/asx/age/announcements/annual-report-2026-2A1700738 |
 | ALR | ALTAIR MINERALS LIMITED | P1 — issuer reuse/status exception | Primary issuer evidence found: 27 Apr 2026 Altair Minerals ASX announcement (https://announcements.asx.com.au/asxpdf/20260427/pdf/06ywhv0xtg23bp.pdf); CHK→ALR 17 May 2024 ASX code-change register; unrelated Aberdeen Leaders ALR→CLF 2018. Current issuer name corroborated; ACN/ISIN not yet checked. |
-| ATH | ALTERITY THERAPEUTICS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| ALU | ALURION RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| ALV | ALVO MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| ATH | ALTERITY THERAPEUTICS LIMITED | P3 — routine issuer confirmation | INITIAL TRIAGE ONLY — issuer identity, security form and 2026 primary-source continuity not independently verified in this batch; primary filing required. |
+| ALU | ALURION RESOURCES LIMITED | P3 — routine issuer confirmation | 2026 demerger/IPO evidence: Alurion Resources was distributed by BRE and commenced ASX trading 31 Jul 2026. DO NOT splice earlier ALU ticker history (Altium, delisted 2024) into this issuer. Primary demerger disclosure https://data-api.marketindex.com.au/api/v1/announcements/XASX%3ABRE%3A6A1328543/pdf/inline/bre-issue-demerger-documents-and-alu-lodges-prospectus ; listing archive https://www.intelligentinvestor.com.au/shares/asx-alu/alurion-resources-limited/announcements . Full ACN/ISIN pending. |
+| ALV | ALVO MINERALS LIMITED | P3 — routine issuer confirmation | 2026 issuer website confirms Alvo Minerals Limited ASX ALV, including Oct 2026 placement and prior securities quotations; potential dilution requires allotment checks. https://alvo.com.au/investors-centre/asx-announcements/ . Full ACN/ISIN pending. |
 | AMA | AMA GROUP LIMITED | P2 — parent/security-form check | ISSUER CORROBORATED — 1 Oct 2025 ASX-filed AGM notice defines AMA Group Limited ACN 113 883 560 and fully paid ordinary shares; further historical continuity checks outstanding. Source: https://announcements.asx.com.au/asxpdf/20251001/pdf/06pyj02jc7bbv0.pdf |
-| ARR | AMERICAN RARE EARTHS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| AL3 | AML3D LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| ANX | ANAX METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| ARR | AMERICAN RARE EARTHS LIMITED | P3 — routine issuer confirmation | INITIAL TRIAGE ONLY — issuer identity, security form and 2026 primary-source continuity not independently verified in this batch; primary filing required. |
+| AL3 | AML3D LIMITED | P3 — routine issuer confirmation | INITIAL TRIAGE ONLY — issuer identity, security form and 2026 primary-source continuity not independently verified in this batch; primary filing required. |
+| ANX | ANAX METALS LIMITED | P3 — routine issuer confirmation | INITIAL TRIAGE ONLY — issuer identity, security form and 2026 primary-source continuity not independently verified in this batch; primary filing required. |
 | ASL | ANDEAN SILVER LIMITED | P1 — issuer reuse/status exception | Primary issuer evidence found: 27 Sep 2024 Andean Silver annual report (https://announcements.asx.com.au/asxpdf/20240927/pdf/068cvyvhrhl8ms.pdf) explicitly confirms Mitre Mining→Andean Silver, ASL trading from 11 Jul 2024; unrelated Ausdrill ASL→PRN 2019. Current issuer succession corroborated; ACN/ISIN not yet checked. |
-| AZY | ANTIPA MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| AON | APOLLO MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| APX | APPEN LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| AR9 | ARCHTIS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| ARD | ARGENT MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| A1N | ARN MEDIA LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| AZY | ANTIPA MINERALS LIMITED | P3 — routine issuer confirmation | INITIAL TRIAGE ONLY — issuer identity, security form and 2026 primary-source continuity not independently verified in this batch; primary filing required. |
+| AON | APOLLO MINERALS LIMITED | P3 — routine issuer confirmation | INITIAL TRIAGE ONLY — issuer identity, security form and 2026 primary-source continuity not independently verified in this batch; primary filing required. |
+| APX | APPEN LIMITED | P3 — routine issuer confirmation | INITIAL TRIAGE ONLY — issuer identity, security form and 2026 primary-source continuity not independently verified in this batch; primary filing required. |
+| AR9 | ARCHTIS LIMITED | P3 — routine issuer confirmation | INITIAL TRIAGE ONLY — issuer identity, security form and 2026 primary-source continuity not independently verified in this batch; primary filing required. |
+| ARD | ARGENT MINERALS LIMITED | P3 — routine issuer confirmation | INITIAL TRIAGE ONLY — issuer identity, security form and 2026 primary-source continuity not independently verified in this batch; primary filing required. |
+| A1N | ARN MEDIA LIMITED | P3 — routine issuer confirmation | INITIAL TRIAGE ONLY — issuer identity, security form and 2026 primary-source continuity not independently verified in this batch; primary filing required. |
 | ARX | AROA BIOSURGERY LIMITED | P1 — issuer reuse/status exception | ASX primary issuer profile (https://www.asx.com.au/blog/listed-at-asx/new-zealands-aroa-biosurgery-takes-wound-technology-to-the-world) confirms Aroa Biosurgery IPO under ARX in July 2020; ASX historic announcement archive (https://www.asx.com.au/asx/v2/statistics/announcements.do?by=issuerId&issuerId=2046&timeframe=Y&year=2022) explicitly lists other ARX users. Current issuer separate from Arc Exploration; ACN/ISIN not yet checked. |
-| ALA | AROVELLA THERAPEUTICS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| AMD | ARROW MINERALS LTD | P3 — routine issuer confirmation | Not independently checked |
-| AS1 | ASARA RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| A11 | ATLANTIC LITHIUM LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| AKN | AUKING MINING LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| AEE | AURA ENERGY LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| AWJ | AURIC MINING LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| AUE | AURUM RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| AHC | AUSTCO HEALTHCARE LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| ALA | AROVELLA THERAPEUTICS LIMITED | P3 — routine issuer confirmation | INITIAL TRIAGE ONLY — issuer identity, security form and 2026 primary-source continuity not independently verified in this batch; primary filing required. |
+| AMD | ARROW MINERALS LTD | P3 — routine issuer confirmation | INITIAL TRIAGE ONLY — issuer identity, security form and 2026 primary-source continuity not independently verified in this batch; primary filing required. |
+| AS1 | ASARA RESOURCES LIMITED | P3 — routine issuer confirmation | INITIAL TRIAGE ONLY — issuer identity, security form and 2026 primary-source continuity not independently verified in this batch; primary filing required. |
+| A11 | ATLANTIC LITHIUM LIMITED | P3 — routine issuer confirmation | INITIAL TRIAGE ONLY — issuer identity, security form and 2026 primary-source continuity not independently verified in this batch; primary filing required. |
+| AKN | AUKING MINING LIMITED | P3 — routine issuer confirmation | INITIAL TRIAGE ONLY — issuer identity, security form and 2026 primary-source continuity not independently verified in this batch; primary filing required. |
+| AEE | AURA ENERGY LIMITED | P3 — routine issuer confirmation | INITIAL TRIAGE ONLY — issuer identity, security form and 2026 primary-source continuity not independently verified in this batch; primary filing required. |
+| AWJ | AURIC MINING LIMITED | P3 — routine issuer confirmation | INITIAL TRIAGE ONLY — issuer identity, security form and 2026 primary-source continuity not independently verified in this batch; primary filing required. |
+| AUE | AURUM RESOURCES LIMITED | P3 — routine issuer confirmation | INITIAL TRIAGE ONLY — issuer identity, security form and 2026 primary-source continuity not independently verified in this batch; primary filing required. |
+| AHC | AUSTCO HEALTHCARE LIMITED | P3 — routine issuer confirmation | INITIAL TRIAGE ONLY — issuer identity, security form and 2026 primary-source continuity not independently verified in this batch; primary filing required. |
 | AR1 | AUSTRAL RESOURCES AUSTRALIA LTD | P1 — issuer reuse/status exception | Independent issuer identity corroborated: ASX FY27 broker-report list names AR1 as Austral Resources Australia Ltd (https://www.asx.com.au/investors/investment-tools-and-resources/broker-reports.html); issuer's 2 Apr 2026 Appendix 2A names AUSTRAL RESOURCES AUSTRALIA LTD, AR1 ordinary shares (https://www.marketindex.com.au/asx/ar1/announcements/application-for-quotation-of-securities-ar1-2A1664103). Separate from Arrowhead Resources (historic AR1→EM1 in 2018). ACN/ISIN not yet verified; no current trading-status conclusion. |
-| AUZ | AUSTRALIAN MINES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| AVL | AUSTRALIAN VANADIUM LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| AUZ | AUSTRALIAN MINES LIMITED | P3 — routine issuer confirmation | INITIAL TRIAGE ONLY — issuer identity, security form and 2026 primary-source continuity not independently verified in this batch; primary filing required. |
+| AVL | AUSTRALIAN VANADIUM LIMITED | P3 — routine issuer confirmation | INITIAL TRIAGE ONLY — issuer identity, security form and 2026 primary-source continuity not independently verified in this batch; primary filing required. |
 | ASG | AUTOSPORTS GROUP LIMITED. | P2 — parent/security-form check | ISSUER CORROBORATED — 26 Feb 2026 issuer announcement identifies Autosports Group Limited (ASX:ASG); ACN/ISIN and full corporate lineage not established. Source: https://announcements.asx.com.au/asxpdf/20260226/pdf/06ws4wn5nfx4pr.pdf |
 | BBN | BABY BUNTING GROUP LIMITED | P2 — parent/security-form check | ISSUER CORROBORATED — 24 Jun 2026 issuer trading update identifies Baby Bunting Group Limited; no evidence of parent substitution from this filing; ACN/ISIN not yet checked. Source: https://announcements.asx.com.au/asxpdf/20260624/pdf/070yd7m1qkrhyk.pdf |
-| BM1 | BALLARD MINING LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| BM1 | BALLARD MINING LIMITED | P3 — routine issuer confirmation | INITIAL TRIAGE ONLY — issuer identity, security form and 2026 primary-source continuity not independently verified in this batch; primary filing required. |
 | BGD | BARTON GOLD HOLDINGS LIMITED | P2 — parent/security-form check | ISSUER CORROBORATED — 1 Jun 2026 issuer placement notice identifies Barton Gold Holdings Limited and ordinary shares, 239,698,877 pre-placement and 30m proposed new ordinary shares; check completion in separate capital-action work. Source: https://announcements.asx.com.au/asxpdf/20260601/pdf/07059kdk7gjn4z.pdf |
-| BAS | BASS OIL LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| BAS | BASS OIL LIMITED | P3 — routine issuer confirmation | INITIAL TRIAGE ONLY — issuer identity, security form and 2026 primary-source continuity not independently verified in this batch; primary filing required. |
 | BLX | BEACON LIGHTING GROUP LIMITED | P2 — parent/security-form check | ISSUER CORROBORATED — 4 May 2026 issuer Appendix 3Y names Beacon Lighting Group Limited, ABN 90 164 122 785; full parent succession and ISIN not yet checked. Source: https://www.marketindex.com.au/asx/blx/announcements/blx-appendix-3y-3A692629 |
 | BFG | BELL FINANCIAL GROUP LIMITED | P2 — parent/security-form check | ISSUER CORROBORATED — 7 May 2026 issuer AGM announcement names Bell Financial Group Limited, ABN 27 152 260 814; issuer investor site provides Aug 2026 reports. Historical legal-entity continuity not exhaustively verified. Source: https://www.marketindex.com.au/asx/bfg/announcements/2026-agm-results-3A692893 |
-| BVR | BELLAVISTA RESOURCES LTD | P3 — routine issuer confirmation | Not independently checked |
-| BKY | BERKELEY ENERGIA LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| BVR | BELLAVISTA RESOURCES LTD | P3 — routine issuer confirmation | INITIAL TRIAGE ONLY — issuer identity, security form and 2026 primary-source continuity not independently verified in this batch; primary filing required. |
+| BKY | BERKELEY ENERGIA LIMITED | P3 — routine issuer confirmation | INITIAL TRIAGE ONLY — issuer identity, security form and 2026 primary-source continuity not independently verified in this batch; primary filing required. |
 | BET | BETMAKERS TECHNOLOGY GROUP LTD | P2 — parent/security-form check | ISSUER CORROBORATED — 29 Apr 2026 issuer Q3 update names BetMakers Technology Group Ltd, ABN 21 164 521 395; legal-parent history and ISIN not yet checked. Source: https://announcements.asx.com.au/asxpdf/20260429/pdf/06yzpzr04q7xff.pdf |
-| BWN | BHAGWAN MARINE LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| BIO | BIOME AUSTRALIA LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| BB1 | BLINKLAB LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| BWN | BHAGWAN MARINE LIMITED | P3 — routine issuer confirmation | INITIAL TRIAGE ONLY — issuer identity, security form and 2026 primary-source continuity not independently verified in this batch; primary filing required. |
+| BIO | BIOME AUSTRALIA LIMITED | P3 — routine issuer confirmation | INITIAL TRIAGE ONLY — issuer identity, security form and 2026 primary-source continuity not independently verified in this batch; primary filing required. |
+| BB1 | BLINKLAB LIMITED | P3 — routine issuer confirmation | INITIAL TRIAGE ONLY — issuer identity, security form and 2026 primary-source continuity not independently verified in this batch; primary filing required. |
 | BLG | BLUGLASS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | BOA | BOA RESOURCES LTD | P3 — routine issuer confirmation | Not independently checked |
 | BML | BOAB METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
@@ -346,3 +346,8 @@ Issuer-source identity corroboration added for ACE, AIH, ECT, EGH, IFN, SNX, SXL
 ### Priority 3 batch 1 (13 October 2026)
 
 Initial review of 14D, ACW, ADH, AI1, AVM, AGR, AUQ, ARN, AQZ, AGE. Issuer-primary 2026 evidence for 14D, ACW, ADH, AVM and AGR; ARN/AGE have 2026 announcement-listing evidence, AQZ issuer-primary 2025 evidence, and AI1/AUQ lack adequate primary evidence in this pass. Corporate action flags: 14D Aurora project ownership; AGR proposed ordinary share issue (not proven completed). 10/220 P3 initially reviewed; 210 P3 remain. No trading-status or full issuer-lineage clearance and no change to 316 candidates.
+
+
+### P3 batch 2 — 30-row initial triage (13 October 2026)
+
+Codes: ATH, ALU, ALV, ARR, AL3, ANX, AZY, AON, APX, AR9, ARD, A1N, ALA, AMD, AS1, A11, AKN, AEE, AWJ, AUE, AHC, AUZ, AVL, BM1, BAS, BVR, BKY, BWN, BIO, BB1. **2/30** have new issuer-specific evidence (ALU, ALV); **28/30** are queued for issuer-source confirmation, NOT marked verified. ALU is a material historical ticker reuse / new issuer: 2026 Alurion IPO/demerger from BRE versus former Altium (ALU) delisted 2024. ALV placement/quotation history needs share-capital checks. This was a 30-row triage, not 30 completed issuer confirmations. 40/220 P3 initially reviewed/triaged, 180 untouched. No candidate exclusions or tradeability conclusions.
