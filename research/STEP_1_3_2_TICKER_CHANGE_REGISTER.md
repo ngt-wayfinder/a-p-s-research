@@ -160,3 +160,40 @@ A reusable parser is now committed at [`scripts/crossmatch_asx_code_changes.py`]
 - The 2023 register also contains historical codes used by later entities (for example, TRT → TX3 and ARO → ASE), but neither of those codes is in the **current** candidate set, so they are excluded from the 19 matched events.
 
 **Next:** Reconcile 2022. Stage 2.2 remains **IN PROGRESS**.
+
+## 2022 register supplied by user — full 2022-section cross-match (13 October 2026)
+
+**Source:** User-transcribed ASX 2022 company name/code-change register. Matched both old and new ticker columns to actual `operating_candidates.csv`. Transcription not independently authenticated against the ASX website.
+
+**Result:** 12 matching entries: **6 historical code changes into candidate tickers** and **6 name-only changes**.
+
+### Historical code changes (6)
+
+| Effective date | Old code | New candidate code | New company at change |
+|---|---|---|---|
+| 12 Dec 2022 | MNY | SVR | Solvar Limited |
+| 29 Nov 2022 | RFR | PVT | Pivotal Metals Limited |
+| 24 Nov 2022 | 1VG | VTM | Victory Metals Limited |
+| 10 Nov 2022 | GGG | ETM | Energy Transition Minerals Ltd |
+| 15 Jun 2022 | PAK | AVM | Advance Metals Limited |
+| 9 Feb 2022 | SUP | FHE | Frontier Energy Limited |
+
+### Name-only changes (6)
+
+| Effective date | Code | Old name | New name at change |
+|---|---|---|---|
+| 20 Oct 2022 | EVO | Evolve Education Group Limited | Embark Education Limited |
+| 20 Jul 2022 | MEK | Meeka Gold Limited | Meeka Metals Limited |
+| 17 Jun 2022 | PNN | Pepinnini Minerals Limited | Power Minerals Limited |
+| 2 May 2022 | TSO | Tesoro Resources Limited | Tesoro Gold Ltd |
+| 2 May 2022 | AAR | Anglo Australian Resources NL | Astral Resources NL |
+| 18 Mar 2022 | KMD | Kathmandu Holdings Limited | KMD Brands Limited |
+
+### Multi-year identity chains / further checks
+
+- **EVO**: Evolve Education Group → Embark Education (2022) → Embark Education Group (2023); candidate CSV lists Embark Early Education. Verify later name history.
+- **TM1**: The 2022 register contains PNL (Paringa Resources) → GCX (GCX Metals), and the 2024 register contains GCX → TM1 (Terra Metals). The 2022 event is **not** one of the 12 direct matches because neither PNL nor GCX is a current candidate ticker; nevertheless, preserve the historical chain `PNL → GCX → TM1`.
+- **AAR**: 2022 name change is consistent with separate-entity identity verification against AS1.
+- **No candidate exclusions** or changes to `operating_candidates.csv`.
+
+**Next:** Reconcile the 2021 ASX change register. Stage 2.2 remains **IN PROGRESS**.
