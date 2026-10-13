@@ -17,7 +17,7 @@
 - **0.1 [COMPLETED]** Assemble initial ASX directory universe: 1,923 securities (historical baseline).
 - **0.2 [COMPLETED]** Apply preliminary numerical price, market-cap and liquidity criteria: 339 qualified (historical baseline).
 - **0.3 [COMPLETED — PROVISIONAL]** Initial operating/investment-vehicle classification: 318 operating candidates, 20 excluded investment vehicles and 1 uncertain (historical classification, not independently validated).
-- **0.4 [COMPLETED]** Upload working `operating_candidates.csv` to GitHub. Subsequent verification used **316 rows**, not 318. The difference remains unexplained.
+- **0.4 [COMPLETED]** Upload working `operating_candidates.csv` to GitHub. Subsequent verification used **316 rows**, not 318. The difference is explained: GDF (Garda Property Group) and GDI (GDI Property Group) were removed as REIT/property investment vehicles; original workbook GICS labels both as Equity Real Estate Investment Trusts (REITs).
 
 ## Step 1 — Validate the operating-company universe [IN PROGRESS]
 
@@ -37,8 +37,8 @@
    - **1.2.6 [BLOCKED / NEEDS VERIFICATION]** Confirm subsequent trading resumption for 3DA, MRD, REC and TM1; verify PAR's continuing suspension/administration from underlying notices and subsequent disclosures; verify live status of BSA, EWC, GWR, SFM and SGI. Do not classify the latter five as definitively actively trading on announcement-headline evidence alone.
    - **Interim classification as of review:** four trading halts (3DA, MRD, REC, TM1); one suspended/in voluntary administration (PAR); one historical suspension followed by reinstatement (BSA); four with no current suspension found in supplied headlines (EWC, GWR, SFM, SGI). PAR is excluded from the **currently tradeable shortlist**, not automatically deleted from the historical research universe.
 
-3. **1.3 [NOT STARTED] Reconcile the universe and validate operating-company classification**
-   - **1.3.1 [NOT STARTED — NEXT ACTION]** Explain the difference between the historical **318** provisional operating candidates and the **316** records in `operating_candidates.csv`. Locate the original classification output or source and identify the two missing tickers; do not guess.
+3. **1.3 [IN PROGRESS] Reconcile the universe and validate operating-company classification**
+   - **1.3.1 [COMPLETED]** Reconciled the historical **318** provisional operating candidates with **316** working candidates using uploaded `ASX_Operating_Company_Classification.xlsx`: **GDF (Garda Property Group)** and **GDI (GDI Property Group)** were excluded because both are classified as Equity Real Estate Investment Trusts (REITs) in the source workbook. **318 − 2 = 316**. This explains the count difference; broader business-model review remains outstanding.
    - **1.3.2 [NOT STARTED]** Check duplicates, ticker changes, delistings and corporate actions affecting identity.
    - **1.3.3 [NOT STARTED]** Validate operating-business versus investment-vehicle classification using current company activities and official reports. Specifically review GWR's business model.
    - **1.3.4 [NOT STARTED]** Produce an auditable final candidate register with inclusion/exclusion reasons and source dates.
@@ -119,7 +119,7 @@
 
 ## Immediate next action
 
-**Step 1.3.1:** Locate the source for the historical 318-company provisional classification and compare its ticker list with the 316-row `operating_candidates.csv`. Identify the two-company difference and record the reason. Then proceed through 1.3.2–1.3.4. In parallel, keep the 1.2.6 trading-status follow-ups open until independently confirmed.
+**Step 1.3.2:** Check the 316-company candidate list for duplicate tickers, ticker changes, delistings and relevant corporate actions. Then complete 1.3.3–1.3.4. In parallel, keep the 1.2.6 trading-status follow-ups open until independently confirmed.
 
 ## Research controls
 
