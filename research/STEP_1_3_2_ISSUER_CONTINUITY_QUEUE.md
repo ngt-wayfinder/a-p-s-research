@@ -1,8 +1,8 @@
 # Step 1.3.2 — Action 2.3: Remaining issuer-continuity queue
 
-**Research date:** 13 October 2026. **Status:** triage prepared; independent issuer checks pending.
+**Research date:** 13 October 2026. **Status:** triage prepared; 3 P1 issuer identity checks corroborated by independent ASX evidence (ALR, ASL, ARX); remaining 276 not independently checked. These checks do not confirm current trading status or full ACN/ISIN history.
 
-This queue is the set difference of all **316** codes in `operating_candidates.csv` and the **37** already documented in `STEP_1_3_2_NAME_CONTINUITY_REVIEW.md`. Exactly **279** candidates remain. Each row is *not independently checked*. Priority is a **workflow heuristic, not an issuer-risk finding**. P1 = previously flagged ticker-reuse or trading-status exceptions; P2 = issuer name contains a parent/security-form term; P3 = remaining codes. The P2/P3 labels are not evidence of any corporate action.
+This queue is the set difference of all **316** codes in `operating_candidates.csv` and the **37** already documented in `STEP_1_3_2_NAME_CONTINUITY_REVIEW.md`. Exactly **279** candidates remain. Rows explicitly marked *Not independently checked* have no independent issuer evidence yet; the three annotated P1 rows have limited independent corroboration. Priority is a **workflow heuristic, not an issuer-risk finding**. P1 = previously flagged ticker-reuse or trading-status exceptions; P2 = issuer name contains a parent/security-form term; P3 = remaining codes. The P2/P3 labels are not evidence of any corporate action.
 
 **Priority counts:** P1 13; P2 46; P3 220; total 279.
 
@@ -26,7 +26,7 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | ARN | ALDORO RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | AQZ | ALLIANCE AVIATION SERVICES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | AGE | ALLIGATOR ENERGY LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| ALR | ALTAIR MINERALS LIMITED | P1 — issuer reuse/status exception | Not independently checked |
+| ALR | ALTAIR MINERALS LIMITED | P1 — issuer reuse/status exception | Primary issuer evidence found: 27 Apr 2026 Altair Minerals ASX announcement (https://announcements.asx.com.au/asxpdf/20260427/pdf/06ywhv0xtg23bp.pdf); CHK→ALR 17 May 2024 ASX code-change register; unrelated Aberdeen Leaders ALR→CLF 2018. Current issuer name corroborated; ACN/ISIN not yet checked. |
 | ATH | ALTERITY THERAPEUTICS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | ALU | ALURION RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | ALV | ALVO MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
@@ -34,14 +34,14 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | ARR | AMERICAN RARE EARTHS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | AL3 | AML3D LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | ANX | ANAX METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| ASL | ANDEAN SILVER LIMITED | P1 — issuer reuse/status exception | Not independently checked |
+| ASL | ANDEAN SILVER LIMITED | P1 — issuer reuse/status exception | Primary issuer evidence found: 27 Sep 2024 Andean Silver annual report (https://announcements.asx.com.au/asxpdf/20240927/pdf/068cvyvhrhl8ms.pdf) explicitly confirms Mitre Mining→Andean Silver, ASL trading from 11 Jul 2024; unrelated Ausdrill ASL→PRN 2019. Current issuer succession corroborated; ACN/ISIN not yet checked. |
 | AZY | ANTIPA MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | AON | APOLLO MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | APX | APPEN LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | AR9 | ARCHTIS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | ARD | ARGENT MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | A1N | ARN MEDIA LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| ARX | AROA BIOSURGERY LIMITED | P1 — issuer reuse/status exception | Not independently checked |
+| ARX | AROA BIOSURGERY LIMITED | P1 — issuer reuse/status exception | ASX primary issuer profile (https://www.asx.com.au/blog/listed-at-asx/new-zealands-aroa-biosurgery-takes-wound-technology-to-the-world) confirms Aroa Biosurgery IPO under ARX in July 2020; ASX historic announcement archive (https://www.asx.com.au/asx/v2/statistics/announcements.do?by=issuerId&issuerId=2046&timeframe=Y&year=2022) explicitly lists other ARX users. Current issuer separate from Arc Exploration; ACN/ISIN not yet checked. |
 | ALA | AROVELLA THERAPEUTICS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | AMD | ARROW MINERALS LTD | P3 — routine issuer confirmation | Not independently checked |
 | AS1 | ASARA RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
