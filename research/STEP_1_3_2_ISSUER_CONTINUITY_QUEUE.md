@@ -67,40 +67,40 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | BWN | BHAGWAN MARINE LIMITED | P3 — routine issuer confirmation | INITIAL TRIAGE ONLY — issuer identity, security form and 2026 primary-source continuity not independently verified in this batch; primary filing required. |
 | BIO | BIOME AUSTRALIA LIMITED | P3 — routine issuer confirmation | INITIAL TRIAGE ONLY — issuer identity, security form and 2026 primary-source continuity not independently verified in this batch; primary filing required. |
 | BB1 | BLINKLAB LIMITED | P3 — routine issuer confirmation | INITIAL TRIAGE ONLY — issuer identity, security form and 2026 primary-source continuity not independently verified in this batch; primary filing required. |
-| BLG | BLUGLASS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| BOA | BOA RESOURCES LTD | P3 — routine issuer confirmation | Not independently checked |
-| BML | BOAB METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| BOT | BOTANIX PHARMACEUTICALS LTD | P3 — routine issuer confirmation | Not independently checked |
-| BPM | BPM MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| BLG | BLUGLASS LIMITED | P3 — routine issuer confirmation | Issuer 2026 annual report and AGM listed: https://bluglass.com/news/ ; capital issuance review pending. |
+| BOA | BOA RESOURCES LTD | P3 — routine issuer confirmation | Issuer website identifies BOA Resources ASX BOA, ACN 149 582 687: https://boaresources.com/investor-centre/announcements/ |
+| BML | BOAB METALS LIMITED | P3 — routine issuer confirmation | Issuer July 2026 quarterly confirms Boab Metals ASX BML: https://investors.boabmetals.com/announcements/7657869 |
+| BOT | BOTANIX PHARMACEUTICALS LTD | P3 — routine issuer confirmation | Issuer 2026 annual report confirms BOT; securities issue review pending: https://botanixpharma.com/invest |
+| BPM | BPM MINERALS LIMITED | P3 — routine issuer confirmation | Initial triage only; primary 2026 issuer evidence and security class pending. |
 | BRN | BRAINCHIP HOLDINGS LTD | P2 — parent/security-form check | 2026 issuer AGM filing corroborated; legal succession pending |
-| BCM | BRAZILIAN CRITICAL MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| BRK | BROOKSIDE ENERGY LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| BCM | BRAZILIAN CRITICAL MINERALS LIMITED | P3 — routine issuer confirmation | Third-party 2026 filing index located; primary issuer document not checked: https://boldinvestors.com.au/asx/bcm/announcements |
+| BRK | BROOKSIDE ENERGY LIMITED | P3 — routine issuer confirmation | Initial triage only; primary 2026 issuer evidence and security class pending. |
 | BSA | BSA LIMITED | P1 — issuer reuse/status exception | P1 ISSUER CORROBORATED — ASX-filed 2026 half-year report identifies BSA Limited as an Australian-incorporated ASX-listed company (https://announcements.asx.com.au/asxpdf/20260220/pdf/06wjrz3p9rnvwm.pdf). ASX Appendix 3G dated 1 May 2026 identifies BSA Limited, ACN 088 412 748, ASX code BSA (https://www.marketindex.com.au/asx/bsa/announcements/notification-regarding-unquoted-securities-bsa-2A1669611). FY2026 annual report (20 Aug 2026) identifies BSA as listed ultimate parent (https://financialfilings.com/filings/bsa-limited/annual-report/2026/57006560/). September 2026 suspension notices exist; tradeability is NOT established by these identity filings. Historic parent continuity before 2026 not exhaustively checked. |
-| BUB | BUBS AUSTRALIA LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| CRS | CAPRICE RESOURCES LTD | P3 — routine issuer confirmation | Not independently checked |
-| CVV | CARAVEL MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| CMA | CARMA LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| CNB | CARNABY RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| CCV | CASH CONVERTERS INTERNATIONAL | P3 — routine issuer confirmation | Not independently checked |
-| CPN | CASPIN RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| CXU | CAULDRON ENERGY LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| CTM | CENTAURUS METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| CAF | CENTREPOINT ALLIANCE LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| CTS | CERETAS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| CTT | CETTIRE LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| CLV | CLOVER CORPORATION LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| BUB | BUBS AUSTRALIA LIMITED | P3 — routine issuer confirmation | Issuer FY26 reports confirm Bubs Australia; historical trading halt requires separate Step 1.2 check: https://investor.bubsaustralia.com/news/ |
+| CRS | CAPRICE RESOURCES LTD | P3 — routine issuer confirmation | Initial triage only; primary 2026 issuer evidence and security class pending. |
+| CVV | CARAVEL MINERALS LIMITED | P3 — routine issuer confirmation | Initial triage only; primary 2026 issuer evidence and security class pending. |
+| CMA | CARMA LIMITED | P3 — routine issuer confirmation | Initial triage only; primary 2026 issuer evidence and security class pending. |
+| CNB | CARNABY RESOURCES LIMITED | P3 — routine issuer confirmation | Initial triage only; primary 2026 issuer evidence and security class pending. |
+| CCV | CASH CONVERTERS INTERNATIONAL | P3 — routine issuer confirmation | Initial triage only; primary 2026 issuer evidence and security class pending. |
+| CPN | CASPIN RESOURCES LIMITED | P3 — routine issuer confirmation | Initial triage only; primary 2026 issuer evidence and security class pending. |
+| CXU | CAULDRON ENERGY LIMITED | P3 — routine issuer confirmation | Initial triage only; primary 2026 issuer evidence and security class pending. |
+| CTM | CENTAURUS METALS LIMITED | P3 — routine issuer confirmation | Initial triage only; primary 2026 issuer evidence and security class pending. |
+| CAF | CENTREPOINT ALLIANCE LIMITED | P3 — routine issuer confirmation | Initial triage only; primary 2026 issuer evidence and security class pending. |
+| CTS | CERETAS LIMITED | P3 — routine issuer confirmation | Initial triage only; primary 2026 issuer evidence and security class pending. |
+| CTT | CETTIRE LIMITED | P3 — routine issuer confirmation | Initial triage only; primary 2026 issuer evidence and security class pending. |
+| CLV | CLOVER CORPORATION LIMITED | P3 — routine issuer confirmation | Initial triage only; primary 2026 issuer evidence and security class pending. |
 | CEH | COAST ENTERTAINMENT HOLDINGS LIMITED | P2 — parent/security-form check | 2026 ASX Appendix 4D confirms CEH and ABN 51 628 881 603: https://announcements.asx.com.au/asxpdf/20260213/pdf/06w898v7bb90hw.pdf ; historical succession not yet checked |
-| CBE | COBRE LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| COD | CODA MINERALS LTD | P3 — routine issuer confirmation | Not independently checked |
-| COI | COMET RIDGE LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| CBE | COBRE LIMITED | P3 — routine issuer confirmation | Initial triage only; primary 2026 issuer evidence and security class pending. |
+| COD | CODA MINERALS LTD | P3 — routine issuer confirmation | Initial triage only; primary 2026 issuer evidence and security class pending. |
+| COI | COMET RIDGE LIMITED | P3 — routine issuer confirmation | Initial triage only; primary 2026 issuer evidence and security class pending. |
 | CRN | CORONADO GLOBAL RESOURCES INC. | P2 — parent/security-form check | P2 VERIFIED — ASX issuer profile confirms CORONADO GLOBAL RESOURCES INC., CRN, ISIN AU0000026122, security **CHESS Depositary Interests 10:1**, ASX listed 23 Oct 2018 (https://www.asx.com.au/markets/company/CRN). Foreign issuer; treat 10 CDIs = 1 underlying share, do not treat ASX CDI count as US common-share count. Parent legal incorporation/ARBN to verify separately. |
-| CYM | CYPRIUM METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| DAL | DALAROO METALS LTD | P3 — routine issuer confirmation | Not independently checked |
-| DTR | DATELINE RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| DLI | DELTA LITHIUM LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| DEV | DEVEX RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| DCC | DIGITALX LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| DXB | DIMERIX LIMITED | P3 — routine issuer confirmation | Not independently checked |
+| CYM | CYPRIUM METALS LIMITED | P3 — routine issuer confirmation | Initial triage only; primary 2026 issuer evidence and security class pending. |
+| DAL | DALAROO METALS LTD | P3 — routine issuer confirmation | Initial triage only; primary 2026 issuer evidence and security class pending. |
+| DTR | DATELINE RESOURCES LIMITED | P3 — routine issuer confirmation | Issuer 2026 announcements confirm Dateline Resources; securities issuance and suspension/reinstatement history to check: https://www.datelineresources.com.au/investors/asx-announcements/ |
+| DLI | DELTA LITHIUM LIMITED | P3 — routine issuer confirmation | Initial triage only; primary 2026 issuer evidence and security class pending. |
+| DEV | DEVEX RESOURCES LIMITED | P3 — routine issuer confirmation | Issuer 2026 reports confirm DevEx Resources; multiple equity classes require mapping: https://www.devexresources.com.au/investors/ |
+| DCC | DIGITALX LIMITED | P3 — routine issuer confirmation | Issuer 2026 announcement archive located; specific filing and identity not checked: https://www.digitalx.com/asx-announcements-presentations-and-reports/ |
+| DXB | DIMERIX LIMITED | P3 — routine issuer confirmation | Initial triage only; primary 2026 issuer evidence and security class pending. |
 | DUG | DUG TECHNOLOGY LTD | P3 — routine issuer confirmation | Not independently checked |
 | EBR | EBR SYSTEMS INC. | P2 — parent/security-form check | P2 VERIFIED — **RESOLVED 1 Apr 2026 (Australian time):** issuer ASX announcement 26 Mar 2026 confirms 1-for-10 reverse split of underlying US common shares, while ASX CDIs are **not consolidated**; CDI-to-common-share ratio changes from 1:1 to 10:1. Primary issuer filing: https://wcsecure.weblink.com.au/pdf/EBR/03072291.pdf . SEC-hosted 2025 annual report explicitly says historic figures were not adjusted for the proposed split: https://www.sec.gov/Archives/edgar/data/1347123/000121465926003810/j325265ars.pdf . June 2026 issuer capital raising confirms 10 CDIs = 1 US share: https://www.sec.gov/Archives/edgar/data/1347123/000121465926007314/z692638k.htm . **Handling:** preserve CDI historical prices/units; normalise US share counts and per-US-share financial metrics for pre/post split; no 10x adjustment to unchanged CDI units solely for this event. |
 | EIQ | ECHOIQ LIMITED | P3 — routine issuer confirmation | Not independently checked |
@@ -356,3 +356,8 @@ Codes: ATH, ALU, ALV, ARR, AL3, ANX, AZY, AON, APX, AR9, ARD, A1N, ALA, AMD, AS1
 ### P3 batch 2 primary-evidence follow-up (13 October 2026)
 
 Upgraded AZY (2025 primary issuer and option expiry), AR9 (2025 primary issuer plus proposed Spirion acquisition), and APX (2026 primary issuer AGM). This is issuer corroboration only; AR9 acquisition completion remains unverified. From 30 batch-2 rows: ALU, ALV, ATH, AZY, AR9, APX have issuer-specific evidence; 24 remain triage-only. No tradeability clearance or universe changes.
+
+
+### P3 batch 3 (13 October 2026)
+
+30 initial triages: BLG, BOA, BML, BOT, BPM, BCM, BRK, BUB, CRS, CVV, CMA, CNB, CCV, CPN, CXU, CTM, CAF, CTS, CTT, CLV, CBE, COD, COI, CYM, DAL, DTR, DLI, DEV, DCC, DXB. Seven have issuer evidence (BLG, BOA, BML, BOT, BUB, DTR, DEV); DCC has issuer archive only, BCM secondary index only, and 21 await primary corroboration. 70/220 P3 processed, 150 untouched. No exclusions or trading status conclusions.
