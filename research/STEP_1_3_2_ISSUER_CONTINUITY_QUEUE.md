@@ -1,6 +1,6 @@
 # Step 1.3.2 — Action 2.3: Remaining issuer-continuity queue
 
-**Research date:** 13 October 2026. **Status:** triage prepared; 13 P1 issuer identity checks corroborated by independent ASX/issuer evidence; 243 P2/P3 issuer checks not independently checked. These checks do not confirm current trading status or full ACN/ISIN history.
+**Research date:** 13 October 2026. **Status:** triage prepared; 13 P1 issuer identity checks corroborated by independent ASX/issuer evidence; 233 P2/P3 issuer checks not independently checked. These checks do not confirm current trading status or full ACN/ISIN history.
 
 This queue is the set difference of all **316** codes in `operating_candidates.csv` and the **37** already documented in `STEP_1_3_2_NAME_CONTINUITY_REVIEW.md`. Exactly **279** candidates remain. Rows explicitly marked *Not independently checked* have no independent issuer evidence yet; all 13 annotated P1 rows have limited independent corroboration; none of these findings independently clears current tradeability. Priority is a **workflow heuristic, not an issuer-risk finding**. P1 = previously flagged ticker-reuse or trading-status exceptions; P2 = issuer name contains a parent/security-form term; P3 = remaining codes. The P2/P3 labels are not evidence of any corporate action.
 
@@ -156,7 +156,7 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | INR | IONEER LTD | P3 — routine issuer confirmation | Not independently checked |
 | IXR | IONIC RARE EARTHS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | ILA | ISLAND PHARMACEUTICALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| JGH | JADE GAS HOLDINGS LIMITED | P2 — parent/security-form check | Not independently checked |
+| JGH | JADE GAS HOLDINGS LIMITED | P2 — parent/security-form check | 2026 issuer annual report confirms Australian parent and JGH ASX code: https://announcements.asx.com.au/asxpdf/20260330/pdf/06xz4q9ck03gjv.pdf |
 | JAV | JAVELIN MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | JLL | JINDALEE LITHIUM LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | KAU | KAISER REEF LIMITED | P3 — routine issuer confirmation | Not independently checked |
@@ -178,36 +178,36 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | LKY | LOCKSLEY RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | LOT | LOTUS RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | LTP | LTR PHARMA LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| LDX | LUMOS DIAGNOSTICS HOLDINGS LIMITED | P2 — parent/security-form check | Not independently checked |
+| LDX | LUMOS DIAGNOSTICS HOLDINGS LIMITED | P2 — parent/security-form check | 2026 issuer SPP announcement confirms LDX, fully paid ordinary shares and attaching options: https://announcements.asx.com.au/asxpdf/20260501/pdf/06z44jt40njxq5.pdf |
 | LM8 | LUNNON METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| LUX | LUX COPPER CORP. LTD | P2 — parent/security-form check | Not independently checked |
+| LUX | LUX COPPER CORP. LTD | P2 — parent/security-form check | July 2026 registry distribution schedule corroborates LUX ordinary shares and escrowed classes; corporate issuer identity requires primary prospectus check: https://www.marketindex.com.au/asx/lux/announcements/distribution-schedule-6A1333970 |
 | M24 | MAMBA EXPLORATION LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | MKR | MANUKA RESOURCES LTD. | P3 — routine issuer confirmation | Not independently checked |
 | MPK | MANY PEAKS MINERALS LTD | P3 — routine issuer confirmation | Not independently checked |
 | MEU | MARMOTA LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | MMA | MARONAN METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| MM8 | MEDALLION METALS LIMITED. | P2 — parent/security-form check | Not independently checked |
+| MM8 | MEDALLION METALS LIMITED. | P2 — parent/security-form check | 2026 issuer SPP announcement confirms Medallion Metals and ABN 89 609 225 023: https://announcements.asx.com.au/asxpdf/20260114/pdf/06v7rvqnccjmlc.pdf |
 | MMI | METRO MINING LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | MX1 | MICRO-X LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | MM1 | MIDAS MINERALS LTD | P3 — routine issuer confirmation | Not independently checked |
 | MNB | MINBOS RESOURCES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | MSV | MITCHELL SERVICES LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | MLG | MLG OZ LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| MVF | MONASH IVF GROUP LIMITED | P2 — parent/security-form check | Not independently checked |
+| MVF | MONASH IVF GROUP LIMITED | P2 — parent/security-form check | 2026 issuer trading update confirms Monash IVF Group and MVF: https://announcements.asx.com.au/asxpdf/20260612/pdf/070kb7gmrhsyp8.pdf |
 | MXO | MOTIO LTD | P3 — routine issuer confirmation | Not independently checked |
 | MRD | MOUNT RIDLEY MINES LIMITED | P1 — issuer reuse/status exception | P1 ISSUER CORROBORATED — issuer announcement dated 4 Sep 2026 identifies Mount Ridley Mines Limited, ABN 93 092 304 964: https://www.marketindex.com.au/asx/mrd/announcements/-2-million-placement-to-advance-selectro-and-grass-patch-6A1342191 . ASX archive flags *other historical MRD users* (https://www.asx.com.au/asx/v2/statistics/announcements.do?by=issuerId&issuerId=1787&timeframe=Y&year=2000); issuer-aware historical joins required. Trading halt outcome unresolved. |
-| MYR | MYER HOLDINGS LIMITED | P2 — parent/security-form check | Not independently checked |
+| MYR | MYER HOLDINGS LIMITED | P2 — parent/security-form check | 2026 issuer 1H26 results confirm Myer Holdings and ABN 14 119 085 602; apparel integration noted: https://announcements.asx.com.au/asxpdf/20260324/pdf/06xqwdmjdn32mg.pdf |
 | NYM | NARRYER METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| NMR | NATIVE MINERAL RESOURCES HOLDINGS LIMITED | P2 — parent/security-form check | Not independently checked |
+| NMR | NATIVE MINERAL RESOURCES HOLDINGS LIMITED | P2 — parent/security-form check | 2026 FY26 issuer financial report listed by ASX announcement distributor; detailed issuer document still to inspect: https://www.marketindex.com.au/asx/nmr/announcements/fy26-financial-report-2A1700800 |
 | NTI | NEUROTECH INTERNATIONAL LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | NOL | NOBLEOAK LIFE LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | NMD | NORMANDY MINERALS LTD | P3 — routine issuer confirmation | Not independently checked |
 | NTU | NORTHERN MINERALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | NOU | NOUMI LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | NVX | NOVONIX LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| NYR | NYRADA INC. | P2 — parent/security-form check | Not independently checked |
+| NYR | NYRADA INC. | P2 — parent/security-form check | 2026 issuer annual report confirms Delaware parent, ARBN 625 401 818 and NYR 1:1 CDIs representing Class A common shares: https://www.nyrada.com/annualreport/2026/ |
 | OD6 | OD6 METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| OFX | OFX GROUP LIMITED | P2 — parent/security-form check | Not independently checked |
+| OFX | OFX GROUP LIMITED | P2 — parent/security-form check | 2025 issuer quarterly release confirms OFX Group, ASX OFX, ABN 12 165 602 273; 2026 primary check pending: https://announcements.asx.com.au/asxpdf/20251027/pdf/06r1wrpm6bw5dt.pdf |
 | OMA | OMEGA OIL & GAS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | OBL | OMNI BRIDGEWAY LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | OCC | ORTHOCELL LIMITED | P3 — routine issuer confirmation | Not independently checked |
@@ -215,7 +215,7 @@ This queue is the set difference of all **316** codes in `operating_candidates.c
 | PGC | PARAGON CARE LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | PC2 | PC GOLD LTD | P3 — routine issuer confirmation | Not independently checked |
 | PEN | PENINSULA ENERGY LIMITED | P3 — routine issuer confirmation | Not independently checked |
-| PWR | PETER WARREN AUTOMOTIVE HOLDINGS LIMITED | P2 — parent/security-form check | Not independently checked |
+| PWR | PETER WARREN AUTOMOTIVE HOLDINGS LIMITED | P2 — parent/security-form check | 2026 issuer investor archive confirms FY26 results and 2 Oct 2026 Wakeling acquisition completion; corporate acquisition not assumed parent change: https://www.pwah.com.au/site/investor-centre/asx-announcements |
 | PVT | PIVOTAL METALS LIMITED | P3 — routine issuer confirmation | Not independently checked |
 | PLT | PLENTI GROUP LIMITED | P2 — parent/security-form check | Not independently checked |
 | PVE | PO VALLEY ENERGY LIMITED | P3 — routine issuer confirmation | Not independently checked |
@@ -316,3 +316,8 @@ The 26 March 2026 **issuer ASX announcement** confirms the reverse split of EBR'
 ### Priority 2 batch 2 — 13 October 2026 (10 tickers)
 
 Reviewed **ACE, AIH, ALC, AMA, ASG, BBN, BGD, BLX, BFG, BET** against dated public evidence; individual row notes link the supporting document. **Eight** have issuer-authored disclosure corroborating the CSV identity (ALC, AMA, ASG, BBN, BGD, BLX, BFG, BET). **Two** (ACE, AIH) have S&P/ASX index-list evidence only and **must not be treated as independently issuer-verified** until primary company filings are examined. This batch is an initial *name/issuer identity check*, not exhaustive historical parent-entity or ISIN verification. No evidence in the reviewed documents requires a candidate exclusion or CSV rename. **P2 progress: 13/46 reviewed, 33 not yet reviewed; of the 13, two remain issuer-evidence provisional.** Total P2/P3 unreviewed: 253.
+
+
+### P2 batch 4 (13 October 2026)
+
+Ten reviewed: JGH, LDX, LUX, MM8, MVF, MYR, NMR, NYR, OFX, PWR. Most issuer identities corroborated; LUX relies on registry disclosure and NMR on announcement listing, so full issuer-document checks remain. NYR is a US-incorporated issuer whose ASX security is a 1:1 CDI, not ordinary Australian stock. LDX placement/SPP attaching options and MYR apparel integration are corporate-action flags. PWR acquisition concerns an operating subsidiary/business, not demonstrated change of listed parent. 33/46 P2 reviewed, 13 unreviewed. No CSV exclusions. This is not a trading-status verification.
