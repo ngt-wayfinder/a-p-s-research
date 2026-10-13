@@ -283,3 +283,42 @@ A reusable parser is now committed at [`scripts/crossmatch_asx_code_changes.py`]
 **Multi-year notes:** PEL → SHN (2020) followed by Sunshine Gold → Sunshine Metals name change (2023); PKA → TSO (2020) followed by Tesoro Resources → Tesoro Gold (2022); PNN name changes in 2020 and 2022. A separate 2024 code collision was recorded for VAL.
 
 **Next:** Reconcile the 2019 ASX change register. Stage 2.2 remains **IN PROGRESS**.
+
+## 2019 register supplied by user — full 2019-section cross-match (13 October 2026)
+
+**Source:** User-transcribed 2019 ASX company name/code-change register. Matched both old and new code columns to the actual 316-code `operating_candidates.csv` in GitHub. Transcription not independently authenticated against ASX.
+
+**Result: 14 matching events — 7 ticker changes into candidate codes, 5 name-only changes, and 2 historical ticker collisions.** No candidate exclusions.
+
+### Historical code changes into candidate tickers (7)
+
+| Effective date | Old code | Candidate code | New name at change |
+|---|---|---|---|
+| 29 Nov 2019 | N27 | RML | Resolution Minerals Ltd |
+| 27 Sep 2019 | HCO | LOT | Lotus Resources Limited |
+| 30 Jul 2019 | TNO | VR8 | Vanadium Resources Limited |
+| 26 Jun 2019 | TBH | BET | Betmakers Technology Group Ltd |
+| 20 Jun 2019 | PGS | SKY | Sky Metals Limited |
+| 13 May 2019 | BMT | CNB | Carnaby Resources Limited |
+| 12 Apr 2019 | PBT | ATH | Alterity Therapeutics Limited |
+
+### Name-only changes (5)
+
+| Effective date | Code | Old name | New name |
+|---|---|---|---|
+| 15 Nov 2019 | ADO | Anteo Diagnostics Limited | AnteoTech Ltd |
+| 5 Nov 2019 | AXE | Archer Exploration Limited | Archer Materials Limited |
+| 26 Jul 2019 | DXN | The Data Exchange Network Limited | DXN Limited |
+| 4 Jun 2019 | EXR | Elixir Petroleum Limited | Elixir Energy Limited |
+| 13 May 2019 | CEL | Challenger Energy Limited | Challenger Exploration Limited |
+
+### Historical ticker collisions (2)
+
+| Effective date | Historical code change | Current candidate code/name | Decision |
+|---|---|---|---|
+| 25 Oct 2019 | ASL (Ausdrill Limited) → PRN (Perenti Global Limited) | ASL = Andean Silver Limited | Do **not** join Ausdrill history to current ASL; the current issuer's MMC→ASL event occurred in 2024 |
+| 26 Jun 2019 | ARX (Arc Exploration Limited) → CYM (Cyprium Metals Limited) | ARX = Aroa Biosurgery Limited | Do **not** join Arc Exploration history to current ARX |
+
+**Additional notes:** CEL name changes again to Challenger Gold in 2023. 2019 old codes ASL and ARX are historical ticker collisions, not valid predecessors of the present candidate issuers. Earlier collisions recorded: VAL (2024), COF (2020).
+
+**Next:** Reconcile the 2018 ASX change register. Stage 2.2 remains **IN PROGRESS**.
