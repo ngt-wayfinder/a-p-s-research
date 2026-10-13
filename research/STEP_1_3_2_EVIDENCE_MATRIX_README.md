@@ -15,3 +15,10 @@ The Existing_Research_Note field preserves the queue's wording and source links.
 5. Mark each verification dimension complete only with an auditable source and reviewer note.
 
 This is a tracking baseline, not completion of Step 1.3.2. No investment ranking or buy recommendation is implied.
+
+
+## Additive population review — 14 October 2026
+
+The eight existing columns are unchanged. Original notes remain verbatim before the appended review note. PRIMARY_EVIDENCE_PARTIAL_REVIEW, PRIMARY_REVIEW_PARTIAL_GAPS_OPEN, DATED_PRIMARY_SECURITY_EVIDENCE_GAPS_OPEN and DATED_PRIMARY_REVIEW_STATUS_GAPS_OPEN mean limited primary evidence with open acceptance gates. Existing primary identity statuses are preserved but do not imply complete history.
+
+The additive complete register stores detailed source/date-scoped facts and gaps; Evidence_IDs reference the primary ledger. Outcomes are mutually exclusive; every row still has unresolved issues. Review/recovery date 14 October differs from the research cutoff of 13 October. Unsubstantiated fields stay explicitly unknown.

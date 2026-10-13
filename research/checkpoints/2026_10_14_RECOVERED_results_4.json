@@ -27,6 +27,14 @@
           "from_date": "07 Jul 2011",
           "to_date": "02 Aug 2016",
           "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "effective_date": "2018-06-21",
+          "old_code": "IHS",
+          "old_name": "Interpose Holdings Limited",
+          "new_code": "IVZ",
+          "new_name": "Invictus Energy Ltd",
+          "date_scope": "ASX effective name/code date"
         }
       ],
       "corporate_action_exceptions": [],
@@ -36,7 +44,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20231031/pdf/05wtgm1mgf5pmr.pdf",
-        "title": "Issuer announcement / meeting notice — INVICTUS ENERGY LTD",
+        "title": "Invictus Energy Limited 2023 Annual Report",
         "date": "2023-10-31",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN21 150 956 773.",
@@ -44,20 +52,28 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=21150956773",
-        "title": "ABN Lookup — historical details for ABN21 150 956 773",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN21 150 956 773",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: INVICTUS ENERGY LTD from 18 Jun 2018; INTERPOSE HOLDINGS LIMITED from 02 Aug 2016; SUNBIRD ENERGY LTD. from 07 Jul 2011; ASIC registration150 956 773.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "UNKNOWN",
+        "page_section": "2018\u201313 October2026 dated tables matched IVZ",
+        "fact": "IHS Interpose Holdings Limited \u2192 IVZ Invictus Energy Ltd 2018-06-21",
+        "verification_method": "Fresh official ASX HTML retrieved and date/name/code rows inspected; future-dated events excluded"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -89,6 +105,14 @@
           "from_date": "02 Jan 2004",
           "to_date": "11 Nov 2023",
           "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "effective_date": "2023-11-15",
+          "old_code": "SAU",
+          "old_name": "Southern Gold Limited",
+          "new_code": "ION",
+          "new_name": "Iondrive Limited",
+          "date_scope": "ASX effective name/code date"
         }
       ],
       "corporate_action_exceptions": [],
@@ -98,7 +122,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260224/pdf/06wn8l4dhn0p2n.pdf",
-        "title": "Interim financial report — IONDRIVE LIMITED",
+        "title": "Iondrive Limited Consolidated Financial Report \u2014 Half Year Ended 31 December 2025",
         "date": "2026-02-24",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN30 107 424 519.",
@@ -106,7 +130,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260224/pdf/06wn8l4dhn0p2n.pdf",
-        "title": "Interim financial report — IONDRIVE LIMITED",
+        "title": "Iondrive Limited Consolidated Financial Report \u2014 Half Year Ended 31 December 2025",
         "date": "2026-02-24",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -114,20 +138,28 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=30107424519",
-        "title": "ABN Lookup — historical details for ABN30 107 424 519",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN30 107 424 519",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: IONDRIVE LIMITED from 11 Nov 2023; SOUTHERN GOLD LIMITED from 02 Jan 2004; ASIC registration107 424 519.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "UNKNOWN",
+        "page_section": "2018\u201313 October2026 dated tables matched ION",
+        "fact": "SAU Southern Gold Limited \u2192 ION Iondrive Limited 2023-11-15",
+        "verification_method": "Fresh official ASX HTML retrieved and date/name/code rows inspected; future-dated events excluded"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -165,6 +197,14 @@
           "from_date": "13 Dec 2001",
           "to_date": "05 Dec 2007",
           "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "effective_date": "2018-11-06",
+          "old_code": "GSC",
+          "old_name": "Global Geoscience Limited",
+          "new_code": "INR",
+          "new_name": "Ioneer Ltd",
+          "date_scope": "ASX effective name/code date"
         }
       ],
       "corporate_action_exceptions": [],
@@ -174,7 +214,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260318/pdf/06xkpryx3wszh9.pdf",
-        "title": "Annual financial report — IONEER LTD",
+        "title": "Ioneer Limited Annual Report \u2014 Six Months Ended 31 December 2025",
         "date": "2026-03-18",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN76 098 564 606.",
@@ -182,7 +222,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260318/pdf/06xkpryx3wszh9.pdf",
-        "title": "Annual financial report — IONEER LTD",
+        "title": "Ioneer Limited Annual Report \u2014 Six Months Ended 31 December 2025",
         "date": "2026-03-18",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -190,24 +230,33 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=76098564606",
-        "title": "ABN Lookup — historical details for ABN76 098 564 606",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN76 098 564 606",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: IONEER LTD from 03 Dec 2018; GLOBAL GEOSCIENCE LIMITED from 05 Dec 2007; PARADIGM GEOSCIENCE PTY LTD from 13 Dec 2001; ASIC registration098 564 606.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "UNKNOWN",
+        "page_section": "2018\u201313 October2026 dated tables matched INR",
+        "fact": "GSC Global Geoscience Limited \u2192 INR Ioneer Ltd 2018-11-06",
+        "verification_method": "Fresh official ASX HTML retrieved and date/name/code rows inspected; future-dated events excluded"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
-      "All achievements are partial verification. No exhaustive issuer history or current tradeability inferred from one annual report; unknown fields and gaps retained."
+      "All achievements are partial verification. No exhaustive issuer history or current tradeability inferred from one annual report; unknown fields and gaps retained.",
+      "Six-month transition financial year ended31December2025 differs from preceding12-monthFY ended30June2025; normalise reporting periods before comparing financial results. Nasdaq ADR ratio and underlying security mapping remain unresolved."
     ],
     "verification_outcome": "PARTIALLY_VERIFIED",
     "review_date": "2026-10-14",
@@ -241,6 +290,14 @@
           "from_date": "06 Apr 2000",
           "to_date": "29 Nov 2011",
           "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "effective_date": "2020-03-24",
+          "old_code": "OVL",
+          "old_name": "Oro Verde Limited",
+          "new_code": "IXR",
+          "new_name": "Ionic Rare Earths Limited",
+          "date_scope": "ASX effective name/code date"
         }
       ],
       "corporate_action_exceptions": [
@@ -252,7 +309,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20241025/pdf/069ld25tb5z6n2.pdf",
-        "title": "Annual financial report — IONIC RARE EARTHS LIMITED",
+        "title": "Ionic Rare Earths Limited Notice of Annual General Meeting and Explanatory Memorandum 2024",
         "date": "2024-10-25",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN84 083 646 477.",
@@ -260,7 +317,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20241025/pdf/069ld25tb5z6n2.pdf",
-        "title": "Annual financial report — IONIC RARE EARTHS LIMITED",
+        "title": "Ionic Rare Earths Limited Notice of Annual General Meeting and Explanatory Memorandum 2024",
         "date": "2024-10-25",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -268,8 +325,8 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=84083646477",
-        "title": "ABN Lookup — historical details for ABN84 083 646 477",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN84 083 646 477",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: IONIC RARE EARTHS LIMITED from 20 Mar 2020; ORO VERDE LIMITED from 29 Nov 2011; EZENET LIMITED from 06 Apr 2000; ASIC registration083 646 477.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
@@ -281,15 +338,23 @@
         "page_section": "page 1 capital structure table",
         "fact": "Completed 1-for-30 capital consolidation 5 December 2025; IXR ordinary fully paid 6,749,094,070 to 224,974,672; quoted IXRO options 1,021,366,450 to 34,046,220. Other options and performance rights consolidated; convertible notes count remains 18. Exercise/conversion prices displayed after consolidation. Normal post-consolidation trading scheduled 12 December, not proof of current tradeability.",
         "verification_method": "Freshly re-fetched primary source; substantive assertion originally inspected in prior live tool result, retained with retrieval confirmation"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "UNKNOWN",
+        "page_section": "2018\u201313 October2026 dated tables matched IXR",
+        "fact": "OVL Oro Verde Limited \u2192 IXR Ionic Rare Earths Limited 2020-03-24",
+        "verification_method": "Fresh official ASX HTML retrieved and date/name/code rows inspected; future-dated events excluded"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
     "security_conclusion": "December 2025 completed consolidation and distinct ordinary/option/rights/note classes confirmed; current ISIN and all later capital changes unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -303,19 +368,34 @@
     "ASX_Code": "ILA",
     "facts": {
       "current_legal_name": "ISLAND PHARMACEUTICALS LIMITED",
-      "ABN": "UNKNOWN",
+      "ABN": "48 641 183 842",
       "ACN": "641 183 842",
       "ARBN": "UNKNOWN",
-      "incorporation_jurisdiction": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification)",
       "security_type": "Fully paid ordinary shares referenced at dated primary document; complete class ledger unresolved",
       "ISIN": "UNKNOWN",
-      "previous_names_and_tickers": [],
-      "corporate_action_exceptions": []
+      "previous_names_and_tickers": [
+        {
+          "name": "ISLAND PHARMACEUTICALS LIMITED",
+          "from_date": "25 Mar 2021",
+          "to_date": "(current)",
+          "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "name": "ISLAND PHARMACEUTICALS PTY LTD",
+          "from_date": "25 May 2020",
+          "to_date": "25 Mar 2021",
+          "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        }
+      ],
+      "corporate_action_exceptions": [],
+      "ABR_current_name": "ISLAND PHARMACEUTICALS LIMITED",
+      "ABR_entity_type": "Australian Public Company"
     },
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20231013/pdf/05w16vssvbm5z5.pdf",
-        "title": "Annual financial report — ISLAND PHARMACEUTICALS LIMITED",
+        "title": "Island Pharmaceuticals Limited FY23 Annual Report",
         "date": "2023-10-13",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. ACN641 183 842.",
@@ -323,20 +403,28 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20231013/pdf/05w16vssvbm5z5.pdf",
-        "title": "Annual financial report — ISLAND PHARMACEUTICALS LIMITED",
+        "title": "Island Pharmaceuticals Limited FY23 Annual Report",
         "date": "2023-10-13",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
         "verification_method": "Primary source fetched live and inspected; issuer PDF extracted with pdftotext"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=641183842",
+        "title": "ABN Lookup \u2014 historical details for ABN 48 641 183 842",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
+        "page_section": "Entity name / type / ASIC registration tables",
+        "fact": "Registered ABN 48 641 183 842; same-identifier names: ISLAND PHARMACEUTICALS LIMITED from 25 Mar 2021; ISLAND PHARMACEUTICALS PTY LTD from 25 May 2020",
+        "verification_method": "Fresh regulator HTML fetched and name/identifier tables parsed and inspected"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -350,19 +438,60 @@
     "ASX_Code": "JGH",
     "facts": {
       "current_legal_name": "JADE GAS HOLDINGS LIMITED",
-      "ABN": "UNKNOWN",
+      "ABN": "55 062 879 583",
       "ACN": "062 879 583",
       "ARBN": "UNKNOWN",
-      "incorporation_jurisdiction": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification)",
       "security_type": "Fully paid ordinary shares referenced at dated primary document; complete class ledger unresolved",
       "ISIN": "UNKNOWN",
-      "previous_names_and_tickers": [],
-      "corporate_action_exceptions": []
+      "previous_names_and_tickers": [
+        {
+          "name": "JADE GAS HOLDINGS LIMITED",
+          "from_date": "26 Sep 2021",
+          "to_date": "(current)",
+          "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "name": "HIGH GRADE METALS LIMITED",
+          "from_date": "25 May 2018",
+          "to_date": "26 Sep 2021",
+          "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "name": "QUEST MINERALS LIMITED",
+          "from_date": "27 Nov 2008",
+          "to_date": "25 May 2018",
+          "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "name": "IC2 GLOBAL LIMITED",
+          "from_date": "13 Jul 2004",
+          "to_date": "27 Nov 2008",
+          "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "name": "WESTEL GROUP LIMITED",
+          "from_date": "01 Nov 1999",
+          "to_date": "13 Jul 2004",
+          "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "effective_date": "2021-09-30",
+          "old_code": "HGM",
+          "old_name": "High Grade Metals Limited",
+          "new_code": "JGH",
+          "new_name": "Jade Gas Holdings Limited",
+          "date_scope": "ASX effective name/code date"
+        }
+      ],
+      "corporate_action_exceptions": [],
+      "ABR_current_name": "JADE GAS HOLDINGS LIMITED",
+      "ABR_entity_type": "Australian Public Company"
     },
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260330/pdf/06xz4q9ck03gjv.pdf",
-        "title": "Annual financial report — JADE GAS HOLDINGS LIMITED",
+        "title": "Jade Gas Holdings Limited Annual Report \u201431 December 2025",
         "date": "2026-03-30",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. ACN062 879 583.",
@@ -370,20 +499,36 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260330/pdf/06xz4q9ck03gjv.pdf",
-        "title": "Annual financial report — JADE GAS HOLDINGS LIMITED",
+        "title": "Jade Gas Holdings Limited Annual Report \u201431 December 2025",
         "date": "2026-03-30",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
         "verification_method": "Primary source fetched live and inspected; issuer PDF extracted with pdftotext"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=062879583",
+        "title": "ABN Lookup \u2014 historical details for ABN 55 062 879 583",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
+        "page_section": "Entity name / type / ASIC registration tables",
+        "fact": "Registered ABN 55 062 879 583; same-identifier names: JADE GAS HOLDINGS LIMITED from 26 Sep 2021; HIGH GRADE METALS LIMITED from 25 May 2018; QUEST MINERALS LIMITED from 27 Nov 2008; IC2 GLOBAL LIMITED from 13 Jul 2004; WESTEL GROUP LIMITED from 01 Nov 1999",
+        "verification_method": "Fresh regulator HTML fetched and name/identifier tables parsed and inspected"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "UNKNOWN",
+        "page_section": "2018\u201313 October2026 dated tables matched JGH",
+        "fact": "HGM High Grade Metals Limited \u2192 JGH Jade Gas Holdings Limited 2021-09-30",
+        "verification_method": "Fresh official ASX HTML retrieved and date/name/code rows inspected; future-dated events excluded"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -421,6 +566,14 @@
           "from_date": "10 Oct 2011",
           "to_date": "08 Dec 2011",
           "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "effective_date": "2021-12-06",
+          "old_code": "VIC",
+          "old_name": "Victory Mines Limited",
+          "new_code": "JAV",
+          "new_name": "Javelin Minerals Limited",
+          "date_scope": "ASX effective name/code date"
         }
       ],
       "corporate_action_exceptions": [],
@@ -430,7 +583,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20240924/pdf/0687ys85n1s3sr.pdf",
-        "title": "Annual financial report — JAVELIN MINERALS LIMITED",
+        "title": "Javelin Minerals Limited Annual Report \u2014 Year Ended 30 June 2024",
         "date": "2024-09-24",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN39 151 900 855.",
@@ -438,7 +591,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20240924/pdf/0687ys85n1s3sr.pdf",
-        "title": "Annual financial report — JAVELIN MINERALS LIMITED",
+        "title": "Javelin Minerals Limited Annual Report \u2014 Year Ended 30 June 2024",
         "date": "2024-09-24",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -446,20 +599,28 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=39151900855",
-        "title": "ABN Lookup — historical details for ABN39 151 900 855",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN39 151 900 855",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: JAVELIN MINERALS LIMITED from 02 Dec 2021; VICTORY MINES LIMITED from 08 Dec 2011; Victory Mines Pty Ltd from 10 Oct 2011; ASIC registration151 900 855.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "UNKNOWN",
+        "page_section": "2018\u201313 October2026 dated tables matched JAV",
+        "fact": "VIC Victory Mines Limited \u2192 JAV Javelin Minerals Limited 2021-12-06",
+        "verification_method": "Fresh official ASX HTML retrieved and date/name/code rows inspected; future-dated events excluded"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -503,6 +664,14 @@
           "from_date": "22 May 2000",
           "to_date": "12 Aug 2000",
           "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "effective_date": "2023-12-01",
+          "old_code": "JRL",
+          "old_name": "Jindalee Resources Limited",
+          "new_code": "JLL",
+          "new_name": "Jindalee Lithium Limited",
+          "date_scope": "ASX effective name/code date"
         }
       ],
       "corporate_action_exceptions": [],
@@ -512,7 +681,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20251002/pdf/06q1fzls4xq0l4.pdf",
-        "title": "Annual financial report — JINDALEE LITHIUM LIMITED",
+        "title": "Jindalee Lithium Limited Annual General Meeting Details",
         "date": "2025-10-02",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN52 064 121 133.",
@@ -520,20 +689,28 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=52064121133",
-        "title": "ABN Lookup — historical details for ABN52 064 121 133",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN52 064 121 133",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: JINDALEE LITHIUM LIMITED from 28 Nov 2023; JINDALEE RESOURCES LIMITED from 14 Jun 2001; MALEX MINING PTY LTD from 12 Aug 2000; NOVA EXPLORATION PTY LTD from 22 May 2000; ASIC registration064 121 133.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "UNKNOWN",
+        "page_section": "2018\u201313 October2026 dated tables matched JLL",
+        "fact": "JRL Jindalee Resources Limited \u2192 JLL Jindalee Lithium Limited 2023-12-01",
+        "verification_method": "Fresh official ASX HTML retrieved and date/name/code rows inspected; future-dated events excluded"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -568,7 +745,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20240925/pdf/06896y1tqsnfp8.pdf",
-        "title": "Annual financial report — KAISER REEF LIMITED",
+        "title": "Kaiser Reef Limited Annual Report \u2014 Year Ended 30 June 2024",
         "date": "2024-09-25",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN38 635 910 271.",
@@ -576,7 +753,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20240925/pdf/06896y1tqsnfp8.pdf",
-        "title": "Annual financial report — KAISER REEF LIMITED",
+        "title": "Kaiser Reef Limited Annual Report \u2014 Year Ended 30 June 2024",
         "date": "2024-09-25",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -584,20 +761,20 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=38635910271",
-        "title": "ABN Lookup — historical details for ABN38 635 910 271",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN38 635 910 271",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: KAISER REEF LIMITED from 02 Sep 2019; ASIC registration635 910 271.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -638,7 +815,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250929/pdf/06ptqkdtdx19xb.pdf",
-        "title": "Annual financial report — KALAMAZOO RESOURCES LIMITED",
+        "title": "Kalamazoo Resources Limited Annual Report \u2014 Year Ended 30 June 2025",
         "date": "2025-09-29",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN33 150 026 850.",
@@ -646,7 +823,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250929/pdf/06ptqkdtdx19xb.pdf",
-        "title": "Annual financial report — KALAMAZOO RESOURCES LIMITED",
+        "title": "Kalamazoo Resources Limited Annual Report \u2014 Year Ended 30 June 2025",
         "date": "2025-09-29",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -654,20 +831,20 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=33150026850",
-        "title": "ABN Lookup — historical details for ABN33 150 026 850",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN33 150 026 850",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: KALAMAZOO RESOURCES LIMITED from 23 Sep 2016; Kalamazoo Resources Pty Ltd from 23 Mar 2011; ASIC registration150 026 850.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -702,17 +879,17 @@
     "evidence": [
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=56688022139",
-        "title": "ABN Lookup — historical details for ABN56 688 022 139",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN56 688 022 139",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: KAOKO METALS PTY LTD from 01 Jul 2025; ASIC registration688 022 139.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
       },
       {
         "url": "https://asxonline.com/content/dam/asxonline/public/notices/2026/may/kao-market-announcement-admission-4may26(11080117.2).pdf",
-        "title": "Kaoko Metals Limited — Admission and Quotation",
+        "title": "Kaoko Metals Limited \u2014 Admission and Quotation",
         "date": "2026-05-05",
-        "page_section": "pages 1–2",
+        "page_section": "pages 1\u20132",
         "fact": "Kaoko Metals Limited admitted 5 May 2026; quotation scheduled 7 May. Australia; fully paid ordinary shares, ISIN AU0000459398. Escrowed ordinary shares, options and performance rights separately identified.",
         "verification_method": "Freshly re-fetched primary source; substantive assertion originally inspected in prior live tool result, retained with retrieval confirmation"
       },
@@ -726,14 +903,14 @@
       }
     ],
     "historical_conclusion": "2026 admission entity established. Preadmission legal lineage and complete postadmission action ledger unresolved.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation.",
-      "ABRcurrentnameKAOKO METALS PTY LTDconflictswithASXissuerpublicLimitednameunderthe sameACN; ASICextractrequired.",
-      "ABRentitytypePrivateCompanydespiteASXlistedissuerpublicLimiteddisclosure; registryclassificationreconciliationrequired."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation.",
+      "ABR current name KAOKO METALS PTY LTD conflicts with ASX public Limited issuer name under the same ACN;  ASIC extract required.",
+      "ABR entity type Private Company despite ASX listed issuer public Limited disclosure;  registry classification reconciliation required."
     ],
     "investigated": true,
     "notes": [
@@ -781,7 +958,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250926/pdf/06prfjz5q5j9sb.pdf",
-        "title": "Annual financial report — KGL RESOURCES LIMITED",
+        "title": "KGL Resources Limited Annual Report 30 June 2025",
         "date": "2025-09-26",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN52 082 658 080.",
@@ -789,7 +966,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250926/pdf/06prfjz5q5j9sb.pdf",
-        "title": "Annual financial report — KGL RESOURCES LIMITED",
+        "title": "KGL Resources Limited Annual Report 30 June 2025",
         "date": "2025-09-26",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -797,20 +974,20 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=52082658080",
-        "title": "ABN Lookup — historical details for ABN52 082 658 080",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN52 082 658 080",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: KGL RESOURCES LIMITED from 09 Aug 2013; KENTOR GOLD LTD from 08 Jul 2005; Kentor Gold NL from 01 Nov 1999; ASIC registration082 658 080.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -845,7 +1022,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250926/pdf/06pr9qrrclzf65.pdf",
-        "title": "Annual financial report — KILLI RESOURCES LIMITED",
+        "title": "Killi Resources Limited Annual Report 2025",
         "date": "2025-09-26",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN35 647 322 790.",
@@ -853,7 +1030,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250926/pdf/06pr9qrrclzf65.pdf",
-        "title": "Annual financial report — KILLI RESOURCES LIMITED",
+        "title": "Killi Resources Limited Annual Report 2025",
         "date": "2025-09-26",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -861,8 +1038,8 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=35647322790",
-        "title": "ABN Lookup — historical details for ABN35 647 322 790",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN35 647 322 790",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: KILLI RESOURCES LIMITED from 01 Jul 2021; ASIC registration647 322 790.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
@@ -877,13 +1054,13 @@
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation.",
-      "Printed Appendix5B ABN 74 647 332 790 conflicts with annual report/live ABR 35 647 322 790; registered ABN corroborated, documentary error requires issuer confirmation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation.",
+      "Printed Appendix 5B ABN 74 647 332 790 conflicts with annual report/live ABR 35 647 322 790; registered ABN corroborated, documentary error requires issuer confirmation."
     ],
     "investigated": true,
     "notes": [
@@ -909,7 +1086,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20220426/pdf/4589tlp4xq2xht.pdf",
-        "title": "Annual financial report — KINA SECURITIES LIMITED",
+        "title": "Kina Securities Limited Annual Report 2021",
         "date": "2022-04-26",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. ARBN606 168 594.",
@@ -917,7 +1094,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20220426/pdf/4589tlp4xq2xht.pdf",
-        "title": "Annual financial report — KINA SECURITIES LIMITED",
+        "title": "Kina Securities Limited Annual Report 2021",
         "date": "2022-04-26",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -933,12 +1110,12 @@
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -952,19 +1129,66 @@
     "ASX_Code": "KRR",
     "facts": {
       "current_legal_name": "KING RIVER RESOURCES LIMITED",
-      "ABN": "UNKNOWN",
+      "ABN": "67 100 714 181",
       "ACN": "100 714 181",
       "ARBN": "UNKNOWN",
-      "incorporation_jurisdiction": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification)",
       "security_type": "Fully paid ordinary shares referenced at dated primary document; complete class ledger unresolved",
       "ISIN": "UNKNOWN",
-      "previous_names_and_tickers": [],
-      "corporate_action_exceptions": []
+      "previous_names_and_tickers": [
+        {
+          "name": "KING RIVER RESOURCES LIMITED",
+          "from_date": "30 Nov 2018",
+          "to_date": "(current)",
+          "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "name": "KING RIVER COPPER LIMITED",
+          "from_date": "30 Apr 2013",
+          "to_date": "30 Nov 2018",
+          "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "name": "SPEEWAH METALS LTD",
+          "from_date": "15 Nov 2010",
+          "to_date": "30 Apr 2013",
+          "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "name": "NIPLATS AUSTRALIA LIMITED",
+          "from_date": "04 May 2007",
+          "to_date": "15 Nov 2010",
+          "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "name": "COLONIAL MINING PTY LTD",
+          "from_date": "24 Dec 2004",
+          "to_date": "04 May 2007",
+          "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "name": "COLONIAL MINING LIMITED",
+          "from_date": "28 May 2002",
+          "to_date": "24 Dec 2004",
+          "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "effective_date": "2018-12-04",
+          "old_code": "KRC",
+          "old_name": "King River Copper Limited",
+          "new_code": "KRR",
+          "new_name": "King River Resources Limited",
+          "date_scope": "ASX effective name/code date"
+        }
+      ],
+      "corporate_action_exceptions": [],
+      "ABR_current_name": "KING RIVER RESOURCES LIMITED",
+      "ABR_entity_type": "Australian Public Company"
     },
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250822/pdf/06n703tc12jvk1.pdf",
-        "title": "Annual financial report — KING RIVER RESOURCES LIMITED",
+        "title": "King River Resources Limited Annual Report \u2014 Year Ended 30 June 2025",
         "date": "2025-08-22",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. ACN100 714 181.",
@@ -972,20 +1196,36 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250822/pdf/06n703tc12jvk1.pdf",
-        "title": "Annual financial report — KING RIVER RESOURCES LIMITED",
+        "title": "King River Resources Limited Annual Report \u2014 Year Ended 30 June 2025",
         "date": "2025-08-22",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
         "verification_method": "Primary source fetched live and inspected; issuer PDF extracted with pdftotext"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=100714181",
+        "title": "ABN Lookup \u2014 historical details for ABN 67 100 714 181",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
+        "page_section": "Entity name / type / ASIC registration tables",
+        "fact": "Registered ABN 67 100 714 181; same-identifier names: KING RIVER RESOURCES LIMITED from 30 Nov 2018; KING RIVER COPPER LIMITED from 30 Apr 2013; SPEEWAH METALS LTD from 15 Nov 2010; NIPLATS AUSTRALIA LIMITED from 04 May 2007; COLONIAL MINING PTY LTD from 24 Dec 2004; COLONIAL MINING LIMITED from 28 May 2002",
+        "verification_method": "Fresh regulator HTML fetched and name/identifier tables parsed and inspected"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "UNKNOWN",
+        "page_section": "2018\u201313 October2026 dated tables matched KRR",
+        "fact": "KRC King River Copper Limited \u2192 KRR King River Resources Limited 2018-12-04",
+        "verification_method": "Fresh official ASX HTML retrieved and date/name/code rows inspected; future-dated events excluded"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -1032,7 +1272,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250826/pdf/06nblrz40w27s0.pdf",
-        "title": "Issuer announcement / meeting notice — KIP MCGRATH EDUCATION CENTRES LIMITED",
+        "title": "Kip McGrath Education Centres Limited Annual Report \u201430 June 2025",
         "date": "2025-08-26",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN73 003 415 889.",
@@ -1040,7 +1280,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250826/pdf/06nblrz40w27s0.pdf",
-        "title": "Issuer announcement / meeting notice — KIP MCGRATH EDUCATION CENTRES LIMITED",
+        "title": "Kip McGrath Education Centres Limited Annual Report \u201430 June 2025",
         "date": "2025-08-26",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -1048,20 +1288,20 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=73003415889",
-        "title": "ABN Lookup — historical details for ABN73 003 415 889",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN73 003 415 889",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: KIP MCGRATH EDUCATION CENTRES LIMITED from 06 Feb 2001; KIP MCGRATH EDUCATION CENTRES PTY. LIMITED from 01 Jun 2000; KIP MCGRATH EDUCATION CENTRES P/L from 21 Apr 2000; ASIC registration003 415 889.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -1081,7 +1321,16 @@
       "incorporation_jurisdiction": "New Zealand",
       "security_type": "Ordinary fully paid foreign exempt NZX shares; separate performance rights",
       "ISIN": "NZKMDE0007S0 (new NZX; ASX alignment was anticipated, not independently confirmed)",
-      "previous_names_and_tickers": [],
+      "previous_names_and_tickers": [
+        {
+          "effective_date": "2022-03-18",
+          "old_code": "KMD",
+          "old_name": "Kathmandu Holdings Limited",
+          "new_code": "KMD",
+          "new_name": "KMD Brands Limited",
+          "date_scope": "ASX effective name/code date"
+        }
+      ],
       "corporate_action_exceptions": [
         "Completed 1-for-25 ordinary-share consolidation 2 July 2026; temporary ASX KMDDA / NZX KMDZ; 71,976,827 post-consolidation issued shares."
       ]
@@ -1089,7 +1338,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260331/pdf/06xzpcyzrhrdh6.pdf",
-        "title": "Interim financial report — KMD BRANDS LIMITED",
+        "title": "KMD Brands Limited Interim Report 2026",
         "date": "2026-03-31",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history.",
@@ -1097,7 +1346,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260331/pdf/06xzpcyzrhrdh6.pdf",
-        "title": "Interim financial report — KMD BRANDS LIMITED",
+        "title": "KMD Brands Limited Interim Report 2026",
         "date": "2026-03-31",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -1105,9 +1354,9 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20230110/pdf/45kj7mx8ls8clj.pdf",
-        "title": "Notification of cessation of securities — KMD",
+        "title": "Notification of cessation of securities \u2014 KMD",
         "date": "2023-01-10",
-        "page_section": "pages 2–4",
+        "page_section": "pages 2\u20134",
         "fact": "KMD Brands Limited ARBN 139 836 918. KMD ordinary fully paid foreign exempt NZX and separate unquoted performance rights. Historical classes/counts not assumed current.",
         "verification_method": "Freshly re-fetched primary source; substantive assertion originally inspected in prior live tool result, retained with retrieval confirmation"
       },
@@ -1121,20 +1370,28 @@
       },
       {
         "url": "https://www.nzx.com/announcements/474986",
-        "title": "KMD Brands Limited — Share Consolidation (NZX Product Operations)",
+        "title": "KMD Brands Limited \u2014 Share Consolidation (NZX Product Operations)",
         "date": "2026-06-24",
         "page_section": "memorandum body",
-        "fact": "NZX temporary KMDZ 30 June–1 July uses new ISIN NZKMDE0007S0; original KMD resumes 2 July NZX. ASX/NZX identifiers differ during transition; anticipated alignment week 13 July is not actual confirmation.",
+        "fact": "NZX temporary KMDZ 30 June\u20131 July uses new ISIN NZKMDE0007S0; original KMD resumes 2 July NZX. ASX/NZX identifiers differ during transition; anticipated alignment week 13 July is not actual confirmation.",
         "verification_method": "Freshly re-fetched primary source; substantive assertion originally inspected in prior live tool result, retained with retrieval confirmation"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "UNKNOWN",
+        "page_section": "2018\u201313 October2026 dated tables matched KMD",
+        "fact": "KMD Kathmandu Holdings Limited \u2192 KMD KMD Brands Limited 2022-03-18",
+        "verification_method": "Fresh official ASX HTML retrieved and date/name/code rows inspected; future-dated events excluded"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation.",
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation.",
       "Confirm actual ASX current ISIN and return from deferred KMDDA; announced timetable/anticipated identifier alignment alone insufficient."
     ],
     "investigated": true,
@@ -1149,32 +1406,42 @@
     "ASX_Code": "KTK",
     "facts": {
       "current_legal_name": "KTEK AEROSYSTEMS LTD",
-      "ABN": "UNKNOWN",
-      "ACN": "UNKNOWN",
+      "ABN": "59 696 412 138",
+      "ACN": "696 412 138",
       "ARBN": "UNKNOWN",
       "incorporation_jurisdiction": "Western Australia, Australia",
       "security_type": "Fully paid ordinary shares",
       "ISIN": "AU0000465338",
       "previous_names_and_tickers": [],
-      "corporate_action_exceptions": []
+      "corporate_action_exceptions": [],
+      "ABR_current_name": "KTEK AEROSYSTEMS LTD",
+      "ABR_entity_type": "Australian Public Company"
     },
     "evidence": [
       {
         "url": "https://asxonline.com/content/dam/asxonline/public/notices/2026/may/ktk-admission-market-announcement-14may2026.pdf",
-        "title": "KTEK Aerosystems Ltd — Admission and Quotation",
+        "title": "KTEK Aerosystems Ltd \u2014 Admission and Quotation",
         "date": "2026-05-14",
-        "page_section": "pages 1–3",
+        "page_section": "pages 1\u20133",
         "fact": "KTEK Aerosystems Ltd admitted 14 May 2026; quotation scheduled 18 May. Western Australia; fully paid ordinary shares, ISIN AU0000465338. Restricted ordinary shares and options separately identified.",
         "verification_method": "Freshly re-fetched primary source; substantive assertion originally inspected in prior live tool result, retained with retrieval confirmation"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=59696412138",
+        "title": "ABN Lookup \u2014 current details for ABN 59 696 412 138",
+        "date": "30 August2026 (record-extracted date displayed)",
+        "page_section": "Entity name, entity type, ASIC registration fields",
+        "fact": "Entity KTEK AEROSYSTEMS LTD; ABN 59 696 412 138; ASIC registration number 696 412 138; entity type Australian Public Company.",
+        "verification_method": "Fresh web-tool open inspected regulator fields; displayed record-extracted date preserved rather than assumed fresh registry snapshot"
       }
     ],
     "historical_conclusion": "2026 admission entity established. Preadmission legal lineage and complete postadmission action ledger unresolved.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -1215,7 +1482,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250926/pdf/06pr55r6nl1tkn.pdf",
-        "title": "Annual financial report — LAKE RESOURCES N.L.",
+        "title": "Lake Resources Annual Report 2025",
         "date": "2025-09-26",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history.",
@@ -1223,7 +1490,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250926/pdf/06pr55r6nl1tkn.pdf",
-        "title": "Annual financial report — LAKE RESOURCES N.L.",
+        "title": "Lake Resources Annual Report 2025",
         "date": "2025-09-26",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -1231,8 +1498,8 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=49079471980",
-        "title": "ABN Lookup — historical details for ABN49 079 471 980",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN49 079 471 980",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: LAKE RESOURCES N.L. from 04 Aug 2000; LAKE RESOURCES N L from 28 Jun 2000; ASIC registration079 471 980.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
@@ -1247,12 +1514,12 @@
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -1287,7 +1554,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20230503/pdf/05pbr8yxt0541k.pdf",
-        "title": "Annual financial report — LARVOTTO RESOURCES LIMITED",
+        "title": "Larvotto Resources Limited Notice of Annual General Meeting 2023",
         "date": "2023-05-03",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN16 645 596 238.",
@@ -1295,7 +1562,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20230503/pdf/05pbr8yxt0541k.pdf",
-        "title": "Annual financial report — LARVOTTO RESOURCES LIMITED",
+        "title": "Larvotto Resources Limited Notice of Annual General Meeting 2023",
         "date": "2023-05-03",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -1303,20 +1570,20 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=16645596238",
-        "title": "ABN Lookup — historical details for ABN16 645 596 238",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN16 645 596 238",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: LARVOTTO RESOURCES LIMITED from 30 Oct 2020; ASIC registration645 596 238.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -1381,7 +1648,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250314/pdf/06gms7mhlcf72f.pdf",
-        "title": "Interim financial report — LATROBE MAGNESIUM LIMITED",
+        "title": "Latrobe Magnesium Limited Half Year Financial Report \u201431 December 2024",
         "date": "2025-03-14",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN52 009 173 611.",
@@ -1389,7 +1656,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250314/pdf/06gms7mhlcf72f.pdf",
-        "title": "Interim financial report — LATROBE MAGNESIUM LIMITED",
+        "title": "Latrobe Magnesium Limited Half Year Financial Report \u201431 December 2024",
         "date": "2025-03-14",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -1397,20 +1664,20 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=52009173611",
-        "title": "ABN Lookup — historical details for ABN52 009 173 611",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN52 009 173 611",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: LATROBE MAGNESIUM LIMITED from 12 Oct 2002; RAMBORA TECHNOLOGIES LIMITED from 17 Oct 2001; RAMBORA TECHNOLOGIES LTD from 23 Jul 2001; RAMBORA TECHNOLOGIES LIMITED from 10 Nov 2000; MONEY MINING N.L. from 04 Aug 2000; MONEY MINING N L from 07 Jun 2000; ASIC registration009 173 611.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -1424,7 +1691,7 @@
     "ASX_Code": "LFT",
     "facts": {
       "current_legal_name": "Li-FT Power Ltd.",
-      "ABN": "UNKNOWN",
+      "ABN": "57 696 815 595",
       "ACN": "UNKNOWN",
       "ARBN": "UNKNOWN",
       "incorporation_jurisdiction": "British Columbia, Canada",
@@ -1433,14 +1700,17 @@
       "previous_names_and_tickers": [],
       "corporate_action_exceptions": [
         "Winsome acquisition completed 21 May 2026; 0.107 LIFT common share/CDI per WR1 share; distinct Canadian parent, not simple WR1 ticker rename."
-      ]
+      ],
+      "ABR_current_name": "LI-FT POWER LTD.",
+      "ABR_entity_type": "Other Incorporated Entity",
+      "Australian_registration_number": "696 815 595"
     },
     "evidence": [
       {
         "url": "https://asxonline.com/content/dam/asxonline/public/notices/2026/may/lft-mktann-22may2026.pdf",
-        "title": "Li-FT Power Ltd. — Admission and Quotation",
+        "title": "Li-FT Power Ltd. \u2014 Admission and Quotation",
         "date": "2026-05-22",
-        "page_section": "pages 1–2",
+        "page_section": "pages 1\u20132",
         "fact": "Li-FT Power Ltd. admitted 22 May 2026; quotation scheduled 26 May. Incorporated British Columbia, Canada; ASX 1:1 CDIs over fully paid common shares, CDI ISIN AU0000467110. Unquoted underlying common shares and various share units/options separately identified.",
         "verification_method": "Freshly re-fetched primary source; substantive assertion originally inspected in prior live tool result, retained with retrieval confirmation"
       },
@@ -1450,17 +1720,25 @@
         "date": "2026-05-21",
         "page_section": "issuer transaction release",
         "fact": "Winsome Resources acquisition completed 21 May 2026 after 5 May holder and 11 May court approvals. Eligible WR1 holders receive 0.107 new LIFT common share/CDI per WR1 share; Winsome options cancelled for consideration. Distinct Canadian parent: WR1/LFT statutory financial histories not interchangeable.",
-        "verification_method": "Recovered from prior successful live primary source inspection in this task; re-fetch failed"
+        "verification_method": "Fresh web-tool open and issuer release body inspected 14 October2026 after direct HTTP403; publication21May2026 beforecutoff."
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=57696815595",
+        "title": "ABN Lookup \u2014 current details for ABN 57 696 815 595",
+        "date": "26 May2026 (record-extracted date displayed)",
+        "page_section": "Entity name, entity type, ASIC registration fields",
+        "fact": "Entity LI-FT POWER LTD.; ABN 57 696 815 595; ASIC registration number 696 815 595; entity type Other Incorporated Entity.",
+        "verification_method": "Fresh web-tool open inspected regulator fields; displayed record-extracted date preserved rather than assumed fresh registry snapshot"
       }
     ],
     "historical_conclusion": "Completed Winsome acquisition and new Canadian parent ASX CDI listing. Historical WR1 and LFT statutory results are different legal-entity histories; scheme consideration and price basis must be explicitly mapped.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation.",
-      "Canadian registration number / Australian ARBN and TSXV underlying ISIN unsubstantiated; complete cross-market and prelisting action history unresolved."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation.",
+      "Canadian registration number and underlying Canadian ISIN unsubstantiated. ABR supports Australian registration696815595; exact foreign-registration classification needs issuer/ASIC extract. Full prelisting corporate-action ledger remains open."
     ],
     "investigated": true,
     "notes": [
@@ -1532,7 +1810,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20231030/pdf/05wpvscsbbfh1c.pdf",
-        "title": "Annual financial report — LINCOLN MINERALS LIMITED",
+        "title": "Lincoln Minerals Limited Annual Report 2023",
         "date": "2023-10-30",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN50 050 117 023.",
@@ -1540,7 +1818,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20231030/pdf/05wpvscsbbfh1c.pdf",
-        "title": "Annual financial report — LINCOLN MINERALS LIMITED",
+        "title": "Lincoln Minerals Limited Annual Report 2023",
         "date": "2023-10-30",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -1548,20 +1826,20 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=50050117023",
-        "title": "ABN Lookup — historical details for ABN50 050 117 023",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN50 050 117 023",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: LINCOLN MINERALS LIMITED from 12 Sep 2006; CENTREX EXPLORATION LIMITED from 23 Feb 2005; CENTREX ENERGY LIMITED from 02 Aug 2002; CENTREX ENERGY LTD from 24 Apr 2002; ANABAN PTY. LTD. from 05 Oct 2000; ANABAN PTY LTD from 09 Feb 2000; ANABAN P/L from 01 Nov 1999; ASIC registration050 117 023.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -1608,7 +1886,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250221/pdf/06fs4p31sg3cgb.pdf",
-        "title": "Interim financial report — LINDSAY AUSTRALIA LIMITED",
+        "title": "Lindsay Australia Limited Half-Yearly Report \u201431 December 2024",
         "date": "2025-02-21",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN81 061 642 733.",
@@ -1616,7 +1894,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250221/pdf/06fs4p31sg3cgb.pdf",
-        "title": "Interim financial report — LINDSAY AUSTRALIA LIMITED",
+        "title": "Lindsay Australia Limited Half-Yearly Report \u201431 December 2024",
         "date": "2025-02-21",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -1624,20 +1902,20 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=81061642733",
-        "title": "ABN Lookup — historical details for ABN81 061 642 733",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN81 061 642 733",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: LINDSAY AUSTRALIA LIMITED from 24 Mar 2003; P & H RURAL LIMITED from 25 Nov 1999; BONEL MANUFACTURING LTD from 01 Nov 1999; ASIC registration061 642 733.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -1678,7 +1956,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260227/pdf/06ww6pq5hn1g2g.pdf",
-        "title": "Annual financial report — LINQ MINERALS LIMITED",
+        "title": "LinQ Minerals Limited Notice of Annual General Meeting 2026",
         "date": "2026-02-27",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN94 665 642 820.",
@@ -1686,7 +1964,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260227/pdf/06ww6pq5hn1g2g.pdf",
-        "title": "Annual financial report — LINQ MINERALS LIMITED",
+        "title": "LinQ Minerals Limited Notice of Annual General Meeting 2026",
         "date": "2026-02-27",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -1694,21 +1972,21 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=94665642820",
-        "title": "ABN Lookup — historical details for ABN94 665 642 820",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN94 665 642 820",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: LINQ MINERALS LIMITED from 10 Apr 2025; XAVIERLINQ PTY LTD from 09 Feb 2023; ASIC registration665 642 820.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation.",
-      "ABRentitytypePrivateCompanydespiteASXlistedissuerpublicLimiteddisclosure; registryclassificationreconciliationrequired."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation.",
+      "ABR entity type Private Company despite ASX listed issuer public Limited disclosure;  registry classification reconciliation required."
     ],
     "investigated": true,
     "notes": [
@@ -1722,19 +2000,28 @@
     "ASX_Code": "LKY",
     "facts": {
       "current_legal_name": "LOCKSLEY RESOURCES LIMITED",
-      "ABN": "UNKNOWN",
+      "ABN": "48 629 672 144",
       "ACN": "629 672 144",
       "ARBN": "UNKNOWN",
-      "incorporation_jurisdiction": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification)",
       "security_type": "Fully paid ordinary shares referenced at dated primary document; complete class ledger unresolved",
       "ISIN": "UNKNOWN",
-      "previous_names_and_tickers": [],
-      "corporate_action_exceptions": []
+      "previous_names_and_tickers": [
+        {
+          "name": "LOCKSLEY RESOURCES LIMITED",
+          "from_date": "29 Oct 2018",
+          "to_date": "(current)",
+          "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        }
+      ],
+      "corporate_action_exceptions": [],
+      "ABR_current_name": "LOCKSLEY RESOURCES LIMITED",
+      "ABR_entity_type": "Australian Public Company"
     },
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20230926/pdf/05v9fknq58c234.pdf",
-        "title": "Annual financial report — LOCKSLEY RESOURCES LIMITED",
+        "title": "Locksley Resources Limited Annual Report \u2014Year Ended 30 June 2023",
         "date": "2023-09-26",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. ACN629 672 144.",
@@ -1742,20 +2029,28 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20230926/pdf/05v9fknq58c234.pdf",
-        "title": "Annual financial report — LOCKSLEY RESOURCES LIMITED",
+        "title": "Locksley Resources Limited Annual Report \u2014Year Ended 30 June 2023",
         "date": "2023-09-26",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
         "verification_method": "Primary source fetched live and inspected; issuer PDF extracted with pdftotext"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=629672144",
+        "title": "ABN Lookup \u2014 historical details for ABN 48 629 672 144",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
+        "page_section": "Entity name / type / ASIC registration tables",
+        "fact": "Registered ABN 48 629 672 144; same-identifier names: LOCKSLEY RESOURCES LIMITED from 29 Oct 2018",
+        "verification_method": "Fresh regulator HTML fetched and name/identifier tables parsed and inspected"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -1799,6 +2094,14 @@
           "from_date": "01 Jul 2006",
           "to_date": "10 Dec 2016",
           "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "effective_date": "2019-09-27",
+          "old_code": "HCO",
+          "old_name": "Hylea Metals Limited",
+          "new_code": "LOT",
+          "new_name": "Lotus Resources Limited",
+          "date_scope": "ASX effective name/code date"
         }
       ],
       "corporate_action_exceptions": [],
@@ -1808,7 +2111,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20251017/pdf/06qpt8ql0frvr9.pdf",
-        "title": "Annual financial report — LOTUS RESOURCES LIMITED",
+        "title": "Lotus Resources Limited Notice of Annual General Meeting 2025",
         "date": "2025-10-17",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN38 119 992 175.",
@@ -1816,7 +2119,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20251017/pdf/06qpt8ql0frvr9.pdf",
-        "title": "Annual financial report — LOTUS RESOURCES LIMITED",
+        "title": "Lotus Resources Limited Notice of Annual General Meeting 2025",
         "date": "2025-10-17",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -1824,20 +2127,28 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=38119992175",
-        "title": "ABN Lookup — historical details for ABN38 119 992 175",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN38 119 992 175",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: LOTUS RESOURCES LIMITED from 30 Aug 2019; HYLEA METALS LIMITED from 21 Mar 2018; RIVA RESOURCES LIMITED from 10 Dec 2016; DRAGON ENERGY LTD from 01 Jul 2006; ASIC registration119 992 175.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "UNKNOWN",
+        "page_section": "2018\u201313 October2026 dated tables matched LOT",
+        "fact": "HCO Hylea Metals Limited \u2192 LOT Lotus Resources Limited 2019-09-27",
+        "verification_method": "Fresh official ASX HTML retrieved and date/name/code rows inspected; future-dated events excluded"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -1878,7 +2189,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250829/pdf/06nk7ww17ywlpc.pdf",
-        "title": "Annual financial report — LTR PHARMA LIMITED",
+        "title": "LTR Pharma Limited Annual Report 2025",
         "date": "2025-08-29",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN64 644 924 569.",
@@ -1886,7 +2197,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250829/pdf/06nk7ww17ywlpc.pdf",
-        "title": "Annual financial report — LTR PHARMA LIMITED",
+        "title": "LTR Pharma Limited Annual Report 2025",
         "date": "2025-08-29",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -1894,21 +2205,21 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=64644924569",
-        "title": "ABN Lookup — historical details for ABN64 644 924 569",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN64 644 924 569",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: LTR PHARMA LTD from 24 Mar 2022; LTR PHARMA PTY LTD from 07 Oct 2020; ASIC registration644 924 569.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation.",
-      "ABRentitytypePrivateCompanydespiteASXlistedissuerpublicLimiteddisclosure; registryclassificationreconciliationrequired."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation.",
+      "ABR entity type Private Company despite ASX listed issuer public Limited disclosure;  registry classification reconciliation required."
     ],
     "investigated": true,
     "notes": [
@@ -1943,7 +2254,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250828/pdf/06ngs21qvhlk33.pdf",
-        "title": "Annual financial report — LUMOS DIAGNOSTICS HOLDINGS LIMITED",
+        "title": "Lumos Diagnostics Holdings Limited Annual Report 2025",
         "date": "2025-08-28",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN66 630 476 970.",
@@ -1951,7 +2262,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250828/pdf/06ngs21qvhlk33.pdf",
-        "title": "Annual financial report — LUMOS DIAGNOSTICS HOLDINGS LIMITED",
+        "title": "Lumos Diagnostics Holdings Limited Annual Report 2025",
         "date": "2025-08-28",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -1959,22 +2270,22 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=66630476970",
-        "title": "ABN Lookup — historical details for ABN66 630 476 970",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN66 630 476 970",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: LUMOS DIAGNOSTICS HOLDINGS PTY LTD from 07 Dec 2018; ASIC registration630 476 970.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation.",
-      "ABRcurrentnameLUMOS DIAGNOSTICS HOLDINGS PTY LTDconflictswithASXissuerpublicLimitednameunderthe sameACN; ASICextractrequired.",
-      "ABRentitytypePrivateCompanydespiteASXlistedissuerpublicLimiteddisclosure; registryclassificationreconciliationrequired."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation.",
+      "ABR current name LUMOS DIAGNOSTICS HOLDINGS PTY LTD conflicts with ASX public Limited issuer name under the same ACN;  ASIC extract required.",
+      "ABR entity type Private Company despite ASX listed issuer public Limited disclosure;  registry classification reconciliation required."
     ],
     "investigated": true,
     "notes": [
@@ -2015,7 +2326,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250922/pdf/06phxd6lhs6710.pdf",
-        "title": "Annual financial report — LUNNON METALS LIMITED",
+        "title": "Lunnon Metals Limited Annual Report 2025",
         "date": "2025-09-22",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN82 600 008 848.",
@@ -2023,7 +2334,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250922/pdf/06phxd6lhs6710.pdf",
-        "title": "Annual financial report — LUNNON METALS LIMITED",
+        "title": "Lunnon Metals Limited Annual Report 2025",
         "date": "2025-09-22",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -2031,20 +2342,20 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=82600008848",
-        "title": "ABN Lookup — historical details for ABN82 600 008 848",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN82 600 008 848",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: LUNNON METALS LIMITED from 02 Mar 2021; ACH NICKEL PTY LTD from 09 Jun 2014; ASIC registration600 008 848.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -2058,32 +2369,43 @@
     "ASX_Code": "LUX",
     "facts": {
       "current_legal_name": "LUX COPPER CORP. LTD",
-      "ABN": "UNKNOWN",
-      "ACN": "UNKNOWN",
+      "ABN": "52 682 515 304",
+      "ACN": "682 515 304",
       "ARBN": "UNKNOWN",
       "incorporation_jurisdiction": "Western Australia, Australia",
       "security_type": "Fully paid ordinary shares",
       "ISIN": "AU0000474009",
       "previous_names_and_tickers": [],
-      "corporate_action_exceptions": []
+      "corporate_action_exceptions": [],
+      "ABR_current_name": "LUX COPPER CORP. PTY LTD",
+      "ABR_entity_type": "Australian Private Company"
     },
     "evidence": [
       {
         "url": "https://asxonline.com/content/dam/asxonline/public/notices/2026/july/lux-market-announcement-admission-15-jul-2026.pdf",
-        "title": "Lux Copper Corp. Ltd — Admission and Quotation",
+        "title": "Lux Copper Corp. Ltd \u2014 Admission and Quotation",
         "date": "2026-07-15",
-        "page_section": "pages 1–2",
+        "page_section": "pages 1\u20132",
         "fact": "Lux Copper Corp. Ltd admitted 15 July 2026; quotation scheduled 17 July. Western Australia; fully paid ordinary shares, ISIN AU0000474009. Restricted ordinary shares, options and performance rights separately identified.",
         "verification_method": "Freshly re-fetched primary source; substantive assertion originally inspected in prior live tool result, retained with retrieval confirmation"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=52682515304",
+        "title": "ABN Lookup \u2014 current details for ABN 52 682 515 304",
+        "date": "14 October2026 (record-extracted date displayed)",
+        "page_section": "Entity name, entity type, ASIC registration fields",
+        "fact": "Entity LUX COPPER CORP. PTY LTD; ABN 52 682 515 304; ASIC registration number 682 515 304; entity type Australian Private Company.",
+        "verification_method": "Fresh web-tool open inspected regulator fields; displayed record-extracted date preserved rather than assumed fresh registry snapshot"
       }
     ],
     "historical_conclusion": "2026 admission entity established. Preadmission legal lineage and complete postadmission action ledger unresolved.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation.",
+      "ABR current label Lux Copper Corp. Pty Ltd / Private Company differs from ASX admission Lux Copper Corp. Ltd; same ACN682515304. Obtain ASIC extract to reconcile public conversion/name."
     ],
     "investigated": true,
     "notes": [
@@ -2118,7 +2440,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20230929/pdf/05vhbg2qb665h9.pdf",
-        "title": "Annual financial report — MAMBA EXPLORATION LIMITED",
+        "title": "Mamba Exploration Limited Consolidated Annual Report \u2014Year Ended 30 June 2023",
         "date": "2023-09-29",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN75 644 571 826.",
@@ -2126,7 +2448,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20230929/pdf/05vhbg2qb665h9.pdf",
-        "title": "Annual financial report — MAMBA EXPLORATION LIMITED",
+        "title": "Mamba Exploration Limited Consolidated Annual Report \u2014Year Ended 30 June 2023",
         "date": "2023-09-29",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -2134,20 +2456,20 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=75644571826",
-        "title": "ABN Lookup — historical details for ABN75 644 571 826",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN75 644 571 826",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: MAMBA EXPLORATION LIMITED from 23 Sep 2020; ASIC registration644 571 826.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -2191,6 +2513,14 @@
           "from_date": "06 Mar 2007",
           "to_date": "16 Aug 2007",
           "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "effective_date": "2026-01-16",
+          "old_code": "MHC",
+          "old_name": "Manhattan Corporation Limited",
+          "new_code": "MHC",
+          "new_name": "Manhattan Gold Corporation Limited",
+          "date_scope": "ASX effective name/code date"
         }
       ],
       "corporate_action_exceptions": [],
@@ -2200,7 +2530,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260316/pdf/06xhfsdbr5pxwf.pdf",
-        "title": "Interim financial report — MANHATTAN GOLD CORPORATION LIMITED",
+        "title": "Manhattan Gold Corporation Limited Interim Financial Report \u2014Half Year Ended 31 December 2025",
         "date": "2026-03-16",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN61 123 156 089.",
@@ -2208,7 +2538,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260316/pdf/06xhfsdbr5pxwf.pdf",
-        "title": "Interim financial report — MANHATTAN GOLD CORPORATION LIMITED",
+        "title": "Manhattan Gold Corporation Limited Interim Financial Report \u2014Half Year Ended 31 December 2025",
         "date": "2026-03-16",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -2216,8 +2546,8 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=61123156089",
-        "title": "ABN Lookup — historical details for ABN61 123 156 089",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN61 123 156 089",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: MANHATTAN GOLD CORPORATION LIMITED from 29 Nov 2025; MANHATTAN CORPORATION LIMITED from 21 Jul 2009; URANIO LIMITED from 16 Aug 2007; Blackgrange Limited from 06 Mar 2007; ASIC registration123 156 089.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
@@ -2229,15 +2559,23 @@
         "page_section": "remuneration holdings note",
         "fact": "Annual report records capital consolidation completed 12 December 2024; specific ratio/class coverage still requires completion notice reconciliation.",
         "verification_method": "Freshly re-fetched primary source; substantive assertion originally inspected in prior live tool result, retained with retrieval confirmation"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "UNKNOWN",
+        "page_section": "2018\u201313 October2026 dated tables matched MHC",
+        "fact": "MHC Manhattan Corporation Limited \u2192 MHC Manhattan Gold Corporation Limited 2026-01-16",
+        "verification_method": "Fresh official ASX HTML retrieved and date/name/code rows inspected; future-dated events excluded"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation.",
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation.",
       "Name-date discrepancy: ABR recorded name-from 29 November 2025; issuer interim report effective 5 January 2026; ASX register 16 January. Distinct date scopes need ASIC/source reconciliation.",
       "2024 consolidation completed 12 December per 2025 annual report; ratio/class coverage and adjusted-price treatment need dedicated completion notice."
     ],
@@ -2274,7 +2612,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250930/pdf/06pxbcfh1xv68k.pdf",
-        "title": "Annual financial report — MANUKA RESOURCES LTD.",
+        "title": "Manuka Resources Ltd Annual Report \u2014Year Ended 30 June 2025",
         "date": "2025-09-30",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN80 611 963 225.",
@@ -2282,7 +2620,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250930/pdf/06pxbcfh1xv68k.pdf",
-        "title": "Annual financial report — MANUKA RESOURCES LTD.",
+        "title": "Manuka Resources Ltd Annual Report \u2014Year Ended 30 June 2025",
         "date": "2025-09-30",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -2290,20 +2628,20 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=80611963225",
-        "title": "ABN Lookup — historical details for ABN80 611 963 225",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN80 611 963 225",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: MANUKA RESOURCES LTD from 30 May 2016; ASIC registration611 963 225.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -2350,7 +2688,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250314/pdf/06gmg9klt6b3cq.pdf",
-        "title": "Interim financial report — MANY PEAKS MINERALS LTD",
+        "title": "Many Peaks Minerals Limited Interim Financial Report \u201431 December 2024",
         "date": "2025-03-14",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN13 642 404 797.",
@@ -2358,7 +2696,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250314/pdf/06gmg9klt6b3cq.pdf",
-        "title": "Interim financial report — MANY PEAKS MINERALS LTD",
+        "title": "Many Peaks Minerals Limited Interim Financial Report \u201431 December 2024",
         "date": "2025-03-14",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -2366,21 +2704,21 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=13642404797",
-        "title": "ABN Lookup — historical details for ABN13 642 404 797",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN13 642 404 797",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: MANY PEAKS MINERALS LTD from 23 Nov 2023; MANY PEAKS GOLD LIMITED from 31 Aug 2023; MANY PEAKS GOLD PTY LTD from 01 Oct 2020; ASIC registration642 404 797.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation.",
-      "ABRentitytypePrivateCompanydespiteASXlistedissuerpublicLimiteddisclosure; registryclassificationreconciliationrequired."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation.",
+      "ABR entity type Private Company despite ASX listed issuer public Limited disclosure;  registry classification reconciliation required."
     ],
     "investigated": true,
     "notes": [
@@ -2421,7 +2759,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260311/pdf/06x8tqbtr5rrwl.pdf",
-        "title": "Interim financial report — MARMOTA LIMITED",
+        "title": "Marmota Limited Consolidated Half-Year Financial Report \u201431 December 2025",
         "date": "2026-03-11",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN38 119 270 816.",
@@ -2429,7 +2767,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260311/pdf/06x8tqbtr5rrwl.pdf",
-        "title": "Interim financial report — MARMOTA LIMITED",
+        "title": "Marmota Limited Consolidated Half-Year Financial Report \u201431 December 2025",
         "date": "2026-03-11",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -2437,20 +2775,20 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=38119270816",
-        "title": "ABN Lookup — historical details for ABN38 119 270 816",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN38 119 270 816",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: MARMOTA LIMITED from 10 Nov 2016; Marmota Energy Limited from 28 Apr 2006; ASIC registration119 270 816.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -2464,19 +2802,46 @@
     "ASX_Code": "MMA",
     "facts": {
       "current_legal_name": "MARONAN METALS LIMITED",
-      "ABN": "UNKNOWN",
+      "ABN": "17 156 269 993",
       "ACN": "156 269 993",
       "ARBN": "UNKNOWN",
-      "incorporation_jurisdiction": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification)",
       "security_type": "Fully paid ordinary shares referenced at dated primary document; complete class ledger unresolved",
       "ISIN": "UNKNOWN",
-      "previous_names_and_tickers": [],
-      "corporate_action_exceptions": []
+      "previous_names_and_tickers": [
+        {
+          "name": "MARONAN METALS LIMITED",
+          "from_date": "13 Apr 2022",
+          "to_date": "(current)",
+          "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "name": "MARONAN METALS LTD",
+          "from_date": "12 Apr 2022",
+          "to_date": "13 Apr 2022",
+          "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "name": "MARONAN METALS PTY LTD",
+          "from_date": "09 Apr 2019",
+          "to_date": "12 Apr 2022",
+          "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "name": "MEGATRON RARE EARTHS PTY LIMITED",
+          "from_date": "13 Apr 2018",
+          "to_date": "09 Apr 2019",
+          "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        }
+      ],
+      "corporate_action_exceptions": [],
+      "ABR_current_name": "MARONAN METALS LIMITED",
+      "ABR_entity_type": "Australian Public Company"
     },
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250224/pdf/06fty7pphky078.pdf",
-        "title": "Interim financial report — MARONAN METALS LIMITED",
+        "title": "Maronan Metals Limited Interim Report \u2014Half Year Ended 31 December 2024",
         "date": "2025-02-24",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. ACN156 269 993.",
@@ -2484,20 +2849,28 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250224/pdf/06fty7pphky078.pdf",
-        "title": "Interim financial report — MARONAN METALS LIMITED",
+        "title": "Maronan Metals Limited Interim Report \u2014Half Year Ended 31 December 2024",
         "date": "2025-02-24",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
         "verification_method": "Primary source fetched live and inspected; issuer PDF extracted with pdftotext"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=156269993",
+        "title": "ABN Lookup \u2014 historical details for ABN 17 156 269 993",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
+        "page_section": "Entity name / type / ASIC registration tables",
+        "fact": "Registered ABN 17 156 269 993; same-identifier names: MARONAN METALS LIMITED from 13 Apr 2022; MARONAN METALS LTD from 12 Apr 2022; MARONAN METALS PTY LTD from 09 Apr 2019; MEGATRON RARE EARTHS PTY LIMITED from 13 Apr 2018",
+        "verification_method": "Fresh regulator HTML fetched and name/identifier tables parsed and inspected"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -2535,6 +2908,22 @@
           "from_date": "10 Mar 2010",
           "to_date": "10 Nov 2021",
           "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "effective_date": "2024-12-04",
+          "old_code": "MYE",
+          "old_name": "Metarock Group Limited",
+          "new_code": "MYE",
+          "new_name": "Mastermyne Group Limited",
+          "date_scope": "ASX effective name/code date"
+        },
+        {
+          "effective_date": "2021-11-17",
+          "old_code": "MYE",
+          "old_name": "Mastermyne Group Limited",
+          "new_code": "MYE",
+          "new_name": "Metarock Group Limited",
+          "date_scope": "ASX effective name/code date"
         }
       ],
       "corporate_action_exceptions": [],
@@ -2544,7 +2933,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250827/pdf/06nd9970shwhxb.pdf",
-        "title": "Annual financial report — MASTERMYNE GROUP LIMITED",
+        "title": "Mastermyne Group Limited (formerly Metarock Group Limited) Annual Report 2025",
         "date": "2025-08-27",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN96 142 490 579.",
@@ -2552,7 +2941,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250827/pdf/06nd9970shwhxb.pdf",
-        "title": "Annual financial report — MASTERMYNE GROUP LIMITED",
+        "title": "Mastermyne Group Limited (formerly Metarock Group Limited) Annual Report 2025",
         "date": "2025-08-27",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -2560,20 +2949,28 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=96142490579",
-        "title": "ABN Lookup — historical details for ABN96 142 490 579",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN96 142 490 579",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: MASTERMYNE GROUP LIMITED from 29 Nov 2024; METAROCK GROUP LIMITED from 10 Nov 2021; Mastermyne Group Limited from 10 Mar 2010; ASIC registration142 490 579.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "UNKNOWN",
+        "page_section": "2018\u201313 October2026 dated tables matched MYE",
+        "fact": "MYE Metarock Group Limited \u2192 MYE Mastermyne Group Limited 2024-12-04; MYE Mastermyne Group Limited \u2192 MYE Metarock Group Limited 2021-11-17",
+        "verification_method": "Fresh official ASX HTML retrieved and date/name/code rows inspected; future-dated events excluded"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -2587,19 +2984,42 @@
     "ASX_Code": "MXI",
     "facts": {
       "current_legal_name": "MAXIPARTS LIMITED",
-      "ABN": "UNKNOWN",
+      "ABN": "58 006 797 173",
       "ACN": "006 797 173",
       "ARBN": "UNKNOWN",
-      "incorporation_jurisdiction": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification)",
       "security_type": "Fully paid ordinary shares referenced at dated primary document; complete class ledger unresolved",
       "ISIN": "UNKNOWN",
-      "previous_names_and_tickers": [],
-      "corporate_action_exceptions": []
+      "previous_names_and_tickers": [
+        {
+          "name": "MAXIPARTS LIMITED",
+          "from_date": "15 Sep 2021",
+          "to_date": "(current)",
+          "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "name": "MAXITRANS INDUSTRIES LIMITED",
+          "from_date": "01 Apr 2000",
+          "to_date": "15 Sep 2021",
+          "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "effective_date": "2021-09-17",
+          "old_code": "MXI",
+          "old_name": "MaxiTRANS Industries Limited",
+          "new_code": "MXI",
+          "new_name": "MaxiPARTS Limited",
+          "date_scope": "ASX effective name/code date"
+        }
+      ],
+      "corporate_action_exceptions": [],
+      "ABR_current_name": "MAXIPARTS LIMITED",
+      "ABR_entity_type": "Australian Public Company"
     },
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20220916/pdf/45f4ztt07162hc.pdf",
-        "title": "Annual financial report — MAXIPARTS LIMITED",
+        "title": "MaxiPARTS Limited Annual Report 2022",
         "date": "2022-09-16",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. ACN006 797 173.",
@@ -2607,20 +3027,36 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20220916/pdf/45f4ztt07162hc.pdf",
-        "title": "Annual financial report — MAXIPARTS LIMITED",
+        "title": "MaxiPARTS Limited Annual Report 2022",
         "date": "2022-09-16",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
         "verification_method": "Primary source fetched live and inspected; issuer PDF extracted with pdftotext"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=006797173",
+        "title": "ABN Lookup \u2014 historical details for ABN 58 006 797 173",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
+        "page_section": "Entity name / type / ASIC registration tables",
+        "fact": "Registered ABN 58 006 797 173; same-identifier names: MAXIPARTS LIMITED from 15 Sep 2021; MAXITRANS INDUSTRIES LIMITED from 01 Apr 2000",
+        "verification_method": "Fresh regulator HTML fetched and name/identifier tables parsed and inspected"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "UNKNOWN",
+        "page_section": "2018\u201313 October2026 dated tables matched MXI",
+        "fact": "MXI MaxiTRANS Industries Limited \u2192 MXI MaxiPARTS Limited 2021-09-17",
+        "verification_method": "Fresh official ASX HTML retrieved and date/name/code rows inspected; future-dated events excluded"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -2661,7 +3097,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20240927/pdf/068f6lwykqy15c.pdf",
-        "title": "Annual financial report — MEDALLION METALS LIMITED.",
+        "title": "Medallion Metals Annual Report 2024",
         "date": "2024-09-27",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN89 609 225 023.",
@@ -2669,7 +3105,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20240927/pdf/068f6lwykqy15c.pdf",
-        "title": "Annual financial report — MEDALLION METALS LIMITED.",
+        "title": "Medallion Metals Annual Report 2024",
         "date": "2024-09-27",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -2677,21 +3113,21 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=89609225023",
-        "title": "ABN Lookup — historical details for ABN89 609 225 023",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN89 609 225 023",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: MEDALLION METALS LIMITED from 11 Sep 2020; ACH MINERALS PTY LTD from 10 Nov 2015; ASIC registration609 225 023.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation.",
-      "ABRentitytypePrivateCompanydespiteASXlistedissuerpublicLimiteddisclosure; registryclassificationreconciliationrequired."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation.",
+      "ABR entity type Private Company despite ASX listed issuer public Limited disclosure;  registry classification reconciliation required."
     ],
     "investigated": true,
     "notes": [
@@ -2753,6 +3189,22 @@
           "from_date": "30 Mar 2000",
           "to_date": "24 Aug 2001",
           "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "effective_date": "2022-07-20",
+          "old_code": "MEK",
+          "old_name": "Meeka Gold Limited",
+          "new_code": "MEK",
+          "new_name": "Meeka Metals Limited",
+          "date_scope": "ASX effective name/code date"
+        },
+        {
+          "effective_date": "2021-12-01",
+          "old_code": "LCD",
+          "old_name": "Latitude Consolidated Limited",
+          "new_code": "MEK",
+          "new_name": "Meeka Gold Limited",
+          "date_scope": "ASX effective name/code date"
         }
       ],
       "corporate_action_exceptions": [],
@@ -2762,7 +3214,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250930/pdf/06pvkpppbc7tj9.pdf",
-        "title": "Annual financial report — MEEKA METALS LIMITED",
+        "title": "Meeka Metals Annual Report 2025",
         "date": "2025-09-30",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN23 080 939 135.",
@@ -2770,7 +3222,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250930/pdf/06pvkpppbc7tj9.pdf",
-        "title": "Annual financial report — MEEKA METALS LIMITED",
+        "title": "Meeka Metals Annual Report 2025",
         "date": "2025-09-30",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -2778,20 +3230,28 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=23080939135",
-        "title": "ABN Lookup — historical details for ABN23 080 939 135",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN23 080 939 135",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: MEEKA METALS LIMITED from 12 Jul 2022; MEEKA GOLD LIMITED from 25 Nov 2021; LATITUDE CONSOLIDATED LIMITED from 28 Nov 2014; INTEGRATED RESOURCES GROUP LIMITED from 26 Nov 2008; INTEGRATED INVESTMENT GROUP LIMITED from 05 Dec 2003; CAPTECH GROUP LIMITED from 24 Aug 2001; TECHNOLOGY LICENCING LIMITED from 30 Mar 2000; ASIC registration080 939 135.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "UNKNOWN",
+        "page_section": "2018\u201313 October2026 dated tables matched MEK",
+        "fact": "MEK Meeka Gold Limited \u2192 MEK Meeka Metals Limited 2022-07-20; LCD Latitude Consolidated Limited \u2192 MEK Meeka Gold Limited 2021-12-01",
+        "verification_method": "Fresh official ASX HTML retrieved and date/name/code rows inspected; future-dated events excluded"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -2829,6 +3289,22 @@
           "from_date": "17 Nov 2020",
           "to_date": "22 Apr 2023",
           "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "effective_date": "2025-07-22",
+          "old_code": "MTM",
+          "old_name": "MTM Critical Metals Limited",
+          "new_code": "MTM",
+          "new_name": "Metallium Limited",
+          "date_scope": "ASX effective name/code date"
+        },
+        {
+          "effective_date": "2023-05-01",
+          "old_code": "MTM",
+          "old_name": "Mt Monger Resources Limited",
+          "new_code": "MTM",
+          "new_name": "MTM Critical Metals Limited",
+          "date_scope": "ASX effective name/code date"
         }
       ],
       "corporate_action_exceptions": [],
@@ -2838,7 +3314,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20251001/pdf/06pyhd7d8g85fg.pdf",
-        "title": "Annual financial report — METALLIUM LIMITED",
+        "title": "Metallium Ltd Annual Report 2025",
         "date": "2025-10-01",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history.",
@@ -2846,7 +3322,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20251001/pdf/06pyhd7d8g85fg.pdf",
-        "title": "Annual financial report — METALLIUM LIMITED",
+        "title": "Metallium Ltd Annual Report 2025",
         "date": "2025-10-01",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -2854,8 +3330,8 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=27645885463",
-        "title": "ABN Lookup — historical details for ABN27 645 885 463",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN27 645 885 463",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: METALLIUM LIMITED from 09 Jul 2025; MTM CRITICAL METALS LIMITED from 22 Apr 2023; MT MONGER RESOURCES LIMITED from 17 Nov 2020; ASIC registration645 885 463.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
@@ -2864,18 +3340,26 @@
         "url": "https://announcements.asx.com.au/asxpdf/20250718/pdf/06lxdxdt0tn6jl.pdf",
         "title": "Change of Company Name to METALLIUM LIMITED",
         "date": "2025-07-18",
-        "page_section": "pages 1–2",
+        "page_section": "pages 1\u20132",
         "fact": "Metallium Limited ACN 645 885 463 / ABN 27 645 885 463; formerly MTM Critical Metals. ASX name effective 22 July 2025 with unchanged MTM ticker. Correct baseline 28 July effective date; ABR recorded name-from 9 July differs in scope.",
         "verification_method": "Freshly re-fetched primary source; substantive assertion originally inspected in prior live tool result, retained with retrieval confirmation"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "UNKNOWN",
+        "page_section": "2018\u201313 October2026 dated tables matched MTM",
+        "fact": "MTM MTM Critical Metals Limited \u2192 MTM Metallium Limited 2025-07-22; MTM Mt Monger Resources Limited \u2192 MTM MTM Critical Metals Limited 2023-05-01",
+        "verification_method": "Fresh official ASX HTML retrieved and date/name/code rows inspected; future-dated events excluded"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -2917,7 +3401,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20230228/pdf/45m5wl2s0jqfv1.pdf",
-        "title": "Issuer announcement / meeting notice — METRO MINING LIMITED",
+        "title": "Metro Mining Limited and Controlled Entities Appendix4E Results \u201431 December 2022",
         "date": "2023-02-28",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN45 117 763 443.",
@@ -2925,20 +3409,20 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=45117763443",
-        "title": "ABN Lookup — historical details for ABN45 117 763 443",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN45 117 763 443",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: METRO MINING LIMITED from 26 Nov 2014; Metrocoal limited from 06 Jan 2006; ASIC registration117 763 443.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -2982,6 +3466,14 @@
           "from_date": "22 Jun 2000",
           "to_date": "09 Aug 2000",
           "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "effective_date": "2025-12-04",
+          "old_code": "MGX",
+          "old_name": "Mount Gibson Iron Limited",
+          "new_code": "MGX",
+          "new_name": "MGX Resources Limited",
+          "date_scope": "ASX effective name/code date"
         }
       ],
       "corporate_action_exceptions": [],
@@ -2991,7 +3483,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20251010/pdf/06qd79csw1snd5.pdf",
-        "title": "Annual financial report — MGX RESOURCES LIMITED",
+        "title": "Mount Gibson Iron Limited Annual Report 2025",
         "date": "2025-10-10",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history.",
@@ -2999,8 +3491,8 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=87008670817",
-        "title": "ABN Lookup — historical details for ABN87 008 670 817",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN87 008 670 817",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: MGX RESOURCES LIMITED from 26 Nov 2025; MOUNT GIBSON IRON LIMITED from 22 Apr 2002; WHITTAKERS LIMITED from 09 Aug 2000; WHITTAKERS LIMITED (RECEIVERS & MANAGERS APPOINTED) (DEED ADMINISTRATOR APPOINTED) from 22 Jun 2000; ASIC registration008 670 817.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
@@ -3012,15 +3504,23 @@
         "page_section": "page 1",
         "fact": "Mount Gibson Iron Limited renamed MGX Resources Limited; ASIC registration completed, ASX name effective 4 December 2025, MGX ticker unchanged. ABN 87 008 670 817. Same-entity rename, not evidence of fully unchanged economic comparability.",
         "verification_method": "Freshly re-fetched primary source; substantive assertion originally inspected in prior live tool result, retained with retrieval confirmation"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "UNKNOWN",
+        "page_section": "2018\u201313 October2026 dated tables matched MGX",
+        "fact": "MGX Mount Gibson Iron Limited \u2192 MGX MGX Resources Limited 2025-12-04",
+        "verification_method": "Fresh official ASX HTML retrieved and date/name/code rows inspected; future-dated events excluded"
       }
     ],
     "historical_conclusion": "Same-ABN Whittakers / Mount Gibson / MGX name chain recorded. 2025 rename preserves MGX ticker; KGL is a separate legal entity. Full earlier succession and economic comparability not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -3061,7 +3561,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20220902/pdf/45dpqqyhp28140.pdf",
-        "title": "Annual financial report — MICRO-X LIMITED",
+        "title": "Micro-X Limited 2022 Annual Report with amended auditors report",
         "date": "2022-09-02",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN21 153 273 735.",
@@ -3069,7 +3569,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20220902/pdf/45dpqqyhp28140.pdf",
-        "title": "Annual financial report — MICRO-X LIMITED",
+        "title": "Micro-X Limited 2022 Annual Report with amended auditors report",
         "date": "2022-09-02",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -3077,20 +3577,20 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=21153273735",
-        "title": "ABN Lookup — historical details for ABN21 153 273 735",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN21 153 273 735",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: MICRO-X LIMITED from 15 Oct 2015; Micro-X Pty Ltd from 12 Dec 2011; ASIC registration153 273 735.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -3104,19 +3604,34 @@
     "ASX_Code": "MM1",
     "facts": {
       "current_legal_name": "MIDAS MINERALS LTD",
-      "ABN": "UNKNOWN",
+      "ABN": "33 625 128 770",
       "ACN": "625 128 770",
       "ARBN": "UNKNOWN",
-      "incorporation_jurisdiction": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification)",
       "security_type": "Fully paid ordinary shares referenced at dated primary document; complete class ledger unresolved",
       "ISIN": "UNKNOWN",
-      "previous_names_and_tickers": [],
-      "corporate_action_exceptions": []
+      "previous_names_and_tickers": [
+        {
+          "name": "MIDAS MINERALS LTD",
+          "from_date": "16 Mar 2021",
+          "to_date": "(current)",
+          "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "name": "COWAN LITHIUM LIMITED",
+          "from_date": "01 Jul 2018",
+          "to_date": "16 Mar 2021",
+          "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        }
+      ],
+      "corporate_action_exceptions": [],
+      "ABR_current_name": "MIDAS MINERALS LTD",
+      "ABR_entity_type": "Australian Public Company"
     },
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260327/pdf/06xx0lwx4dzfqq.pdf",
-        "title": "Annual financial report — MIDAS MINERALS LTD",
+        "title": "Midas Minerals Annual Report \u2014Year Ended 31 December 2025",
         "date": "2026-03-27",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. ACN625 128 770.",
@@ -3124,7 +3639,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260327/pdf/06xx0lwx4dzfqq.pdf",
-        "title": "Annual financial report — MIDAS MINERALS LTD",
+        "title": "Midas Minerals Annual Report \u2014Year Ended 31 December 2025",
         "date": "2026-03-27",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -3137,15 +3652,23 @@
         "page_section": "PDF page 21 Schedule 1; page 19",
         "fact": "Midas Minerals Limited ACN 625 128 770. Page 19 expressly says placement shares not yet issued; proposed transaction not treated completed.",
         "verification_method": "Freshly re-fetched primary source; substantive assertion originally inspected in prior live tool result, retained with retrieval confirmation"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=625128770",
+        "title": "ABN Lookup \u2014 historical details for ABN 33 625 128 770",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
+        "page_section": "Entity name / type / ASIC registration tables",
+        "fact": "Registered ABN 33 625 128 770; same-identifier names: MIDAS MINERALS LTD from 16 Mar 2021; COWAN LITHIUM LIMITED from 01 Jul 2018",
+        "verification_method": "Fresh regulator HTML fetched and name/identifier tables parsed and inspected"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -3180,7 +3703,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250331/pdf/06h6h1xbt431j2.pdf",
-        "title": "Issuer announcement / meeting notice — MINBOS RESOURCES LIMITED",
+        "title": "Minbos Resources Limited Financial Report \u2014Year Ended 31 December 2024",
         "date": "2025-03-31",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN93 141 175 493.",
@@ -3188,7 +3711,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250331/pdf/06h6h1xbt431j2.pdf",
-        "title": "Issuer announcement / meeting notice — MINBOS RESOURCES LIMITED",
+        "title": "Minbos Resources Limited Financial Report \u2014Year Ended 31 December 2024",
         "date": "2025-03-31",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -3196,20 +3719,20 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=93141175493",
-        "title": "ABN Lookup — historical details for ABN93 141 175 493",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN93 141 175 493",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: Minbos Resources Limited from 17 Dec 2009; ASIC registration141 175 493.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -3250,7 +3773,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20230824/pdf/05szhj29bmxw2l.pdf",
-        "title": "Annual financial report — MITCHELL SERVICES LIMITED",
+        "title": "Mitchell Services Limited Annual Report 2023",
         "date": "2023-08-24",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN31 149 206 333.",
@@ -3258,7 +3781,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20230824/pdf/05szhj29bmxw2l.pdf",
-        "title": "Annual financial report — MITCHELL SERVICES LIMITED",
+        "title": "Mitchell Services Limited Annual Report 2023",
         "date": "2023-08-24",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -3266,20 +3789,20 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=31149206333",
-        "title": "ABN Lookup — historical details for ABN31 149 206 333",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN31 149 206 333",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: MITCHELL SERVICES LIMITED from 16 Dec 2013; DRILL TORQUE LIMITED from 01 Mar 2011; ASIC registration149 206 333.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -3293,19 +3816,40 @@
     "ASX_Code": "MLG",
     "facts": {
       "current_legal_name": "MLG OZ LIMITED",
-      "ABN": "UNKNOWN",
+      "ABN": "53 102 642 366",
       "ACN": "102 642 366",
       "ARBN": "UNKNOWN",
-      "incorporation_jurisdiction": "UNKNOWN",
+      "incorporation_jurisdiction": "Australia (ABR Australian company classification)",
       "security_type": "Fully paid ordinary shares referenced at dated primary document; complete class ledger unresolved",
       "ISIN": "UNKNOWN",
-      "previous_names_and_tickers": [],
-      "corporate_action_exceptions": []
+      "previous_names_and_tickers": [
+        {
+          "name": "MLG OZ LIMITED",
+          "from_date": "15 Nov 2019",
+          "to_date": "(current)",
+          "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "name": "MLG OZ PTY LTD",
+          "from_date": "03 May 2010",
+          "to_date": "15 Nov 2019",
+          "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "name": "LEAHY HAULAGE PTY LTD",
+          "from_date": "01 Nov 2002",
+          "to_date": "03 May 2010",
+          "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        }
+      ],
+      "corporate_action_exceptions": [],
+      "ABR_current_name": "MLG OZ LIMITED",
+      "ABR_entity_type": "Australian Public Company"
     },
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20220825/pdf/45d7tzh5pkgs70.pdf",
-        "title": "Annual financial report — MLG OZ LIMITED",
+        "title": "MLG Oz Limited Annual Financial Report \u2014Year Ended 30 June 2022",
         "date": "2022-08-25",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. ACN102 642 366.",
@@ -3313,20 +3857,28 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20220825/pdf/45d7tzh5pkgs70.pdf",
-        "title": "Annual financial report — MLG OZ LIMITED",
+        "title": "MLG Oz Limited Annual Financial Report \u2014Year Ended 30 June 2022",
         "date": "2022-08-25",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
         "verification_method": "Primary source fetched live and inspected; issuer PDF extracted with pdftotext"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=102642366",
+        "title": "ABN Lookup \u2014 historical details for ABN 53 102 642 366",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
+        "page_section": "Entity name / type / ASIC registration tables",
+        "fact": "Registered ABN 53 102 642 366; same-identifier names: MLG OZ LIMITED from 15 Nov 2019; MLG OZ PTY LTD from 03 May 2010; LEAHY HAULAGE PTY LTD from 01 Nov 2002",
+        "verification_method": "Fresh regulator HTML fetched and name/identifier tables parsed and inspected"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -3361,7 +3913,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20240822/pdf/066x6kbn5sc41d.pdf",
-        "title": "Issuer announcement / meeting notice — MONASH IVF GROUP LIMITED",
+        "title": "Monash IVF Group Limited Appendix4E and Annual Report \u201430 June 2024",
         "date": "2024-08-22",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN90 169 302 309.",
@@ -3369,7 +3921,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20240822/pdf/066x6kbn5sc41d.pdf",
-        "title": "Issuer announcement / meeting notice — MONASH IVF GROUP LIMITED",
+        "title": "Monash IVF Group Limited Appendix4E and Annual Report \u201430 June 2024",
         "date": "2024-08-22",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -3377,20 +3929,20 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=90169302309",
-        "title": "ABN Lookup — historical details for ABN90 169 302 309",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN90 169 302 309",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: MONASH IVF GROUP LIMITED from 30 Apr 2014; ASIC registration169 302 309.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -3434,6 +3986,14 @@
           "from_date": "25 Jan 2011",
           "to_date": "03 Dec 2012",
           "date_scope": "ABR recorded date; not assumed ASIC/ASX effective date"
+        },
+        {
+          "effective_date": "2020-11-12",
+          "old_code": "XTD",
+          "old_name": "XTD Ltd",
+          "new_code": "MXO",
+          "new_name": "Motio Ltd",
+          "date_scope": "ASX effective name/code date"
         }
       ],
       "corporate_action_exceptions": [],
@@ -3443,7 +4003,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250829/pdf/06nl0g6tqr6d93.pdf",
-        "title": "Annual financial report — MOTIO LTD",
+        "title": "Motio Limited Annual Financial Report FY25",
         "date": "2025-08-29",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN43 147 799 951.",
@@ -3451,7 +4011,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250829/pdf/06nl0g6tqr6d93.pdf",
-        "title": "Annual financial report — MOTIO LTD",
+        "title": "Motio Limited Annual Financial Report FY25",
         "date": "2025-08-29",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -3459,20 +4019,28 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=43147799951",
-        "title": "ABN Lookup — historical details for ABN43 147 799 951",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN43 147 799 951",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: MOTIO LTD from 10 Nov 2020; XTD LTD from 04 Nov 2014; WHITE EAGLE RESOURCES LTD from 03 Dec 2012; RED OCTOBER RESOURCES LTD from 25 Jan 2011; ASIC registration147 799 951.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
+      },
+      {
+        "url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes.html",
+        "title": "ASX company name and code changes",
+        "date": "UNKNOWN",
+        "page_section": "2018\u201313 October2026 dated tables matched MXO",
+        "fact": "XTD XTD Ltd \u2192 MXO Motio Ltd 2020-11-12",
+        "verification_method": "Fresh official ASX HTML retrieved and date/name/code rows inspected; future-dated events excluded"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [
@@ -3519,7 +4087,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20240920/pdf/068421026p0kt4.pdf",
-        "title": "Issuer announcement / meeting notice — MOUNT RIDLEY MINES LIMITED",
+        "title": "Mount Ridley Mines Limited Annual Report \u2014Year Ended 30 June 2024",
         "date": "2024-09-20",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN93 092 304 964.",
@@ -3527,7 +4095,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20240920/pdf/068421026p0kt4.pdf",
-        "title": "Issuer announcement / meeting notice — MOUNT RIDLEY MINES LIMITED",
+        "title": "Mount Ridley Mines Limited Annual Report \u2014Year Ended 30 June 2024",
         "date": "2024-09-20",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -3535,20 +4103,20 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=93092304964",
-        "title": "ABN Lookup — historical details for ABN93 092 304 964",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN93 092 304 964",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: MOUNT RIDLEY MINES LIMITED from 01 Dec 2014; AXG MINING LIMITED from 09 May 2002; WRF LAND CO LIMITED from 01 May 2000; ASIC registration092 304 964.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
       }
     ],
     "historical_conclusion": "Same-ACN 092304964 ABR chain WRF Land Co / AXG Mining / Mount Ridley recorded. Existing historical MRD reuse exception retained; unrelated issuer-ID1787 archive must not be joined by ticker alone.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation.",
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation.",
       "MRD historical ticker collision: unrelated issuer archive1787; dated exclusions and current halt outcome need direct ASX reconciliation."
     ],
     "investigated": true,
@@ -3590,7 +4158,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20251110/pdf/06rqdv5px285yg.pdf",
-        "title": "Annual financial report — MYER HOLDINGS LIMITED",
+        "title": "Myer Holdings Limited Annual Report 2025",
         "date": "2025-11-10",
         "page_section": "Cover / corporate directory / financial notes",
         "fact": "Dated issuer legal-name / corporate-directory evidence, not full current status or history. Issuer ABN14 119 085 602.",
@@ -3598,7 +4166,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20251110/pdf/06rqdv5px285yg.pdf",
-        "title": "Annual financial report — MYER HOLDINGS LIMITED",
+        "title": "Myer Holdings Limited Annual Report 2025",
         "date": "2025-11-10",
         "page_section": "Issued capital / shareholder or ordinary-share disclosures",
         "fact": "Fully paid ordinary shares referenced; later classes/actions and current quotation not inferred.",
@@ -3606,20 +4174,20 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=14119085602",
-        "title": "ABN Lookup — historical details for ABN14 119 085 602",
-        "date": "2026-10-14",
+        "title": "ABN Lookup \u2014 historical details for ABN14 119 085 602",
+        "date": "UNKNOWN (freshly retrieved 14 October 2026)",
         "page_section": "Entity name / type / ASIC registration tables",
         "fact": "Same-ABN name history: MYER HOLDINGS LIMITED from 02 Mar 2010; NB Flinders Pty Ltd from 03 Apr 2006; ASIC registration119 085 602.",
         "verification_method": "Fresh regulator HTML retrieved and table parsed; reported dates retain ABR scope"
       }
     ],
     "historical_conclusion": "Historical legal continuity, all predecessor codes and financial/price joins not signed off.",
-    "security_conclusion": "Full security-class and corporate-action ledger through13October2026 unresolved.",
-    "trading_conclusion": "As-of13October2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
+    "security_conclusion": "Full security-class and corporate-action ledger through 13 October 2026 unresolved.",
+    "trading_conclusion": "As of 13 October 2026 trading status unresolved; financial report or admission timetable does not prove current tradeability.",
     "unresolved": [
       "Complete legal succession and historical ticker-reuse review remains open.",
       "Full historical security-class/ISIN and corporate-action ledger remains open.",
-      "Current halt/suspension/reinstatement/delisting status requires datedASXreconciliation."
+      "Current halt/suspension/reinstatement/delisting status requires dated ASX reconciliation."
     ],
     "investigated": true,
     "notes": [

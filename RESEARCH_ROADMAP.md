@@ -171,3 +171,16 @@ The titles below are identical to the detailed headings and must remain synchron
 - Never equate missing data with zero or a stale price date with a trading suspension.
 - Reconcile corporate actions and shares on issue before valuation.
 - Update statuses only when supporting deliverables exist; review and sign off each stage before moving to the next.
+
+
+## Step 1.3.2.4 — Population primary review, 14 October 2026
+
+**STILL IN PROGRESS.** Research cutoff: 13 October 2026. All 316 candidates retained. Fully verified: 0; partially verified: 316; unresolved legal-name outcome: 0; records with open issues: 316; manual-review flags: 46. Population coverage is not full historical/security/trading sign-off. The earlier 75 identity-evidence count is a baseline, not a fully verified count.
+
+- [Complete population register](research/STEP_1_3_2_4_COMPLETE_VERIFICATION_REGISTER.csv)
+- [Comprehensive report and acceptance limitations](research/STEP_1_3_2_4_COMPREHENSIVE_VERIFICATION_REPORT.md)
+- [Precise remaining queue](research/STEP_1_3_2_4_UNRESOLVED_EXCEPTIONS.csv)
+- [Primary assertion ledger](research/STEP_1_3_2_4_PRIMARY_EVIDENCE_LEDGER.csv)
+- [Identifier arithmetic QA](research/STEP_1_3_2_4_IDENTIFIER_QA.csv)
+
+Valid prior research preserved. The interrupted run hit a usage limit; recovered work is now checkpointed and consolidated. Remaining historical archives, security/capital-action reconciliation and latest trading-status evidence are unfinished research, not automatically accepted irreducible exceptions.

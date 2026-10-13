@@ -1,0 +1,58 @@
+{
+  "stats": {
+    "total": 316,
+    "fully_verified": 0,
+    "partially_verified": 316,
+    "unresolved": 0,
+    "open_exception_rows": 316,
+    "manual_review": 46,
+    "primary_assertions": 800,
+    "checksum_failures": 0
+  },
+  "checks": {
+    "candidate_counts_and_unique_keys": "PASS",
+    "candidate_population_preserved": "PASS",
+    "original_eight_columns_preserved": "PASS",
+    "original_notes_preserved_as_prefix": "PASS",
+    "original_names_and_priorities_preserved": "PASS",
+    "csv_structural_validation": "PASS",
+    "evidence_id_references": "PASS",
+    "all_open_issues_visible": "PASS",
+    "full_signoff_claimed": false,
+    "source_validation_scope": "Analyst source inspections documented per assertion; recovery/retrieval limitations explicit. This QA does not certify every required gate."
+  },
+  "file_hashes_before_commit": {
+    "RESEARCH_ROADMAP.md": {
+      "bytes": 20425,
+      "sha256": "54d76ba22c2278d4b01b6e9d8a77f3cbadf907fb78ab0e0ce37298fddf60d3ab"
+    },
+    "research/STEP_1_3_2_EVIDENCE_MATRIX_README.md": {
+      "bytes": 2449,
+      "sha256": "f96c4bb04ef90bd1b395fbd576b28111afe21d21b98ebcc3d66743b4ebc5fc55"
+    },
+    "research/STEP_1_3_2_4_UNRESOLVED_EXCEPTIONS.csv": {
+      "bytes": 386169,
+      "sha256": "ce3d5ded7bed8160c7d7824342d5ad34cb5a934f91dd583ff04c484e195b0f13"
+    },
+    "research/STEP_1_3_2_4_COMPREHENSIVE_VERIFICATION_REPORT.md": {
+      "bytes": 28314,
+      "sha256": "91f1ebb3b20ef628721d1a316ed2b8f8d3aee4f23ba7ede551ecec3aded189a7"
+    },
+    "research/STEP_1_3_2_4_COMPLETE_VERIFICATION_REGISTER.csv": {
+      "bytes": 824261,
+      "sha256": "d47fe5d50ce1c9f767933880ca8c9fda503e1e9a92bcbad5b099a447fdb17d81"
+    },
+    "research/STEP_1_3_2_EVIDENCE_MATRIX.csv": {
+      "bytes": 251454,
+      "sha256": "ec5c7be5eb98f95b18fac135eb241238cc79c696ba6fbb01646c4f46cb7c5bdd"
+    },
+    "research/STEP_1_3_2_4_IDENTIFIER_QA.csv": {
+      "bytes": 54546,
+      "sha256": "155daae076097b192f6065efa6912d7e6ae4955e92cf13970153c7bcedab1933"
+    },
+    "research/STEP_1_3_2_4_PRIMARY_EVIDENCE_LEDGER.csv": {
+      "bytes": 416353,
+      "sha256": "e2161bfa1e72dbafc18b517bcc2eeda06ffff2d4491d34c8cc1e5e491475c26b"
+    }
+  }
+}

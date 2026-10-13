@@ -16,7 +16,7 @@
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=57138803620",
-        "title": "ABN Lookup current details — 1414 DEGREES LIMITED",
+        "title": "ABN Lookup current details \u2014 1414 DEGREES LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity 1414 DEGREES LIMITED; ABN 57 138 803 620; ASIC registration field 138 803 620; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -25,7 +25,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=57138803620",
-        "title": "ABN Lookup historical details — 1414 DEGREES LIMITED",
+        "title": "ABN Lookup historical details \u2014 1414 DEGREES LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "1414 DEGREES LIMITED 04 Jan 2017 (current) LATENT HEAT STORAGE PTY LTD 02 Jun 2014 04 Jan 2017 Gnomon Technologies Pty Ltd 01 Sep 2009 02 Jun 2014",
@@ -34,7 +34,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20261006/pdf/074zm4sv128l3x.pdf",
-        "title": "Application for quotation of securities — 14D",
+        "title": "Application for quotation of securities \u2014 14D",
         "date": "2026-10-06",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names 1414 DEGREES LIMITED and ties issuer to 14D. Reported security-class/allotment table: 14D                  ORDINARY FULLY PAID                                                  8,689,655   05/10/2026; 14D : ORDINARY FULLY PAID. Form does not independently establish current tradeability or final complete capital structure.",
@@ -64,12 +64,13 @@
       "previous_names_and_registry_dates": "ACCENT GROUP LIMITED 27 Nov 2017 (current) RCG CORPORATION LIMITED 22 Dec 2006 27 Nov 2017 Retail Cube Limited 01 Apr 2004 22 Dec 2006",
       "previous_tickers": "UNRESOLVED",
       "security_type": "UNRESOLVED",
-      "ISIN": "UNRESOLVED"
+      "ISIN": "UNRESOLVED",
+      "primary_ASX_legal_issuer": "ACCENT GROUP LIMITED"
     },
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=85108096251",
-        "title": "ABN Lookup current details — ACCENT GROUP LIMITED",
+        "title": "ABN Lookup current details \u2014 ACCENT GROUP LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity ACCENT GROUP LIMITED; ABN 85 108 096 251; ASIC registration field 108 096 251; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -78,11 +79,29 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=85108096251",
-        "title": "ABN Lookup historical details — ACCENT GROUP LIMITED",
+        "title": "ABN Lookup historical details \u2014 ACCENT GROUP LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "ACCENT GROUP LIMITED 27 Nov 2017 (current) RCG CORPORATION LIMITED 22 Dec 2006 27 Nov 2017 Retail Cube Limited 01 Apr 2004 22 Dec 2006",
         "verification_method": "Fresh primary registry history downloaded and name timeline extracted",
+        "primary": true
+      },
+      {
+        "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?by=asxCode&asxCode=AX1&timeframe=Y&year=2026",
+        "title": "ASX official 2026 announcement archive \u2014 AX1",
+        "date": "2026-10-13 (review; entries filtered to cutoff)",
+        "page_section": "Company announcements issuer heading and linked dated issuer report",
+        "fact": "Official archive identifies ACCENT GROUP LIMITED (AX1) and links the dated primary report FY26 Half Year Results Investor Presentation 19 pages 3.4MB. Archive presence is not proof of current trading.",
+        "verification_method": "Official ASX archive downloaded and current issuer heading/dated links inspected",
+        "primary": true
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260225/pdf/06wq878mjkk929.pdf",
+        "title": "FY26 Half Year Results Investor Presentation 19 pages 3.4MB",
+        "date": "2026-02-25",
+        "page_section": "Issuer details and issued-capital/security notes where stated",
+        "fact": "ASX AX1 archive identifies ACCENT GROUP LIMITED and links this issuer report. Actual report text independently read; full quoted security-class reconciliation remains unresolved.",
+        "verification_method": "Live official ASX archive resolved to primary issuer PDF; freshly downloaded and extracted identity/security text independently reviewed",
         "primary": true
       }
     ],
@@ -115,7 +134,7 @@
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=36124893465",
-        "title": "ABN Lookup current details — ACROW LIMITED",
+        "title": "ABN Lookup current details \u2014 ACROW LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity ACROW LIMITED; ABN 36 124 893 465; ASIC registration field 124 893 465; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -124,7 +143,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=36124893465",
-        "title": "ABN Lookup historical details — ACROW LIMITED",
+        "title": "ABN Lookup historical details \u2014 ACROW LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "ACROW LIMITED 22 Nov 2023 (current) ACROW FORMWORK AND CONSTRUCTION SERVICES LIMITED 24 Mar 2018 22 Nov 2023 NMG CORPORATION LIMITED 23 Nov 2016 24 Mar 2018 NOBLE MINERAL RESOURCES LTD 07 Jun 2013 23 Nov 2016 Noble Mineral Resources Pty Ltd 01 Jul 2007 07 Jun 2013",
@@ -133,7 +152,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260903/pdf/073p08gf8dhty5.pdf",
-        "title": "Application for quotation of securities — ACF",
+        "title": "Application for quotation of securities \u2014 ACF",
         "date": "2026-09-03",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names ACROW LIMITED and ties issuer to ACF. Reported security-class/allotment table: ACF                  ORDINARY FULLY PAID                                                  7,878,394   02/09/2026; ACF : ORDINARY FULLY PAID. Form does not independently establish current tradeability or final complete capital structure.",
@@ -170,7 +189,7 @@
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=086778476",
-        "title": "ABN Lookup current details — ACTINOGEN MEDICAL LIMITED",
+        "title": "ABN Lookup current details \u2014 ACTINOGEN MEDICAL LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity ACTINOGEN MEDICAL LIMITED; ABN 14 086 778 476; ASIC registration field 086 778 476; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -179,7 +198,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=086778476",
-        "title": "ABN Lookup historical details — ACTINOGEN MEDICAL LIMITED",
+        "title": "ABN Lookup historical details \u2014 ACTINOGEN MEDICAL LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "ACTINOGEN MEDICAL LIMITED 15 Nov 2015 (current) ACTINOGEN LIMITED 07 Aug 2007 15 Nov 2015 AUSTRALIAN BIOGEN LIMITED 08 Apr 2004 07 Aug 2007 AUSTRALIAN BIOGEN PTY LTD 01 Sep 2003 08 Apr 2004",
@@ -188,7 +207,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260930/pdf/074qp6ln6gqw94.pdf",
-        "title": "Application for quotation of securities — ACW",
+        "title": "Application for quotation of securities \u2014 ACW",
         "date": "2026-09-30",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names ACTINOGEN MEDICAL LIMITED and ties issuer to ACW. Reported security-class/allotment table: ACW                   ORDINARY FULLY PAID                                                          4,934   30/09/2026; ACW : ORDINARY FULLY PAID. Form does not independently establish current tradeability or final complete capital structure.",
@@ -225,7 +244,7 @@
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=625231941",
-        "title": "ABN Lookup current details — ACUSENSUS LIMITED",
+        "title": "ABN Lookup current details \u2014 ACUSENSUS LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity ACUSENSUS LIMITED; ABN 17 625 231 941; ASIC registration field 625 231 941; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -234,7 +253,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=625231941",
-        "title": "ABN Lookup historical details — ACUSENSUS LIMITED",
+        "title": "ABN Lookup historical details \u2014 ACUSENSUS LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "ACUSENSUS LIMITED 23 Apr 2024 (current) ACUSENSUS PTY LTD 26 Mar 2018 23 Apr 2024",
@@ -243,7 +262,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260903/pdf/073nyvpd42bxf5.pdf",
-        "title": "Application for quotation of securities — ACE",
+        "title": "Application for quotation of securities \u2014 ACE",
         "date": "2026-09-03",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names ACUSENSUS LIMITED. and ties issuer to ACE. Reported security-class/allotment table: ACE : ORDINARY FULLY PAID; ACE : ORDINARY FULLY PAID. Form does not independently establish current tradeability or final complete capital structure.",
@@ -279,7 +298,7 @@
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=50147375451",
-        "title": "ABN Lookup current details — ADAIRS LIMITED",
+        "title": "ABN Lookup current details \u2014 ADAIRS LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity ADAIRS LIMITED; ABN 50 147 375 451; ASIC registration field 147 375 451; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -288,7 +307,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=50147375451",
-        "title": "ABN Lookup historical details — ADAIRS LIMITED",
+        "title": "ABN Lookup historical details \u2014 ADAIRS LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "ADAIRS LIMITED 29 May 2015 (current) Home & Decor Holdings Pty Limited 06 Dec 2010 29 May 2015",
@@ -297,7 +316,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20261002/pdf/074vlmw1jxrfpx.pdf",
-        "title": "Application for quotation of securities — ADH",
+        "title": "Application for quotation of securities \u2014 ADH",
         "date": "2026-10-02",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names ADAIRS LIMITED and ties issuer to ADH. Reported security-class/allotment table: ADH                  ORDINARY FULLY PAID                                 1,670,332    01/10/2026; ADH : ORDINARY FULLY PAID. Form does not independently establish current tradeability or final complete capital structure.",
@@ -334,7 +353,7 @@
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=30155473304",
-        "title": "ABN Lookup current details — ADISYN LTD",
+        "title": "ABN Lookup current details \u2014 ADISYN LTD",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity ADISYN LTD; ABN 30 155 473 304; ASIC registration field 155 473 304; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -343,7 +362,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=30155473304",
-        "title": "ABN Lookup historical details — ADISYN LTD",
+        "title": "ABN Lookup historical details \u2014 ADISYN LTD",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "ADISYN LTD 26 Oct 2023 (current) DC TWO LIMITED 25 Sep 2020 26 Oct 2023 DC Two Pty Ltd 02 Feb 2012 25 Sep 2020",
@@ -352,7 +371,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20261007/pdf/0751hszp0wblkg.pdf",
-        "title": "Application for quotation of securities — AI1",
+        "title": "Application for quotation of securities \u2014 AI1",
         "date": "2026-10-07",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names ADISYN LTD and ties issuer to AI1. Reported security-class/allotment table: AI1                   ORDINARY FULLY PAID                                                        20,000    07/10/2026; AI1 : ORDINARY FULLY PAID. Form does not independently establish current tradeability or final complete capital structure.",
@@ -361,7 +380,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260227/pdf/06ww8bhp0hxgdf.pdf",
-        "title": "Interim report — AI1",
+        "title": "Interim report \u2014 AI1",
         "date": "2026-02-27",
         "page_section": "Reportingentitynote andissuedcapital",
         "fact": "Adisyn Ltd is an Australian incorporated/domiciled public company. Reports 108,500,000 fully paid ordinary shares issued 8 January 2026 on Class A performance-right conversion. This is reported completed issuance, not a proposed issue.",
@@ -398,7 +417,7 @@
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=83127131604",
-        "title": "ABN Lookup current details — ADVANCE METALS LIMITED",
+        "title": "ABN Lookup current details \u2014 ADVANCE METALS LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity ADVANCE METALS LIMITED; ABN 83 127 131 604; ASIC registration field 127 131 604; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -407,7 +426,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=83127131604",
-        "title": "ABN Lookup historical details — ADVANCE METALS LIMITED",
+        "title": "ABN Lookup historical details \u2014 ADVANCE METALS LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "ADVANCE METALS LIMITED 16 Nov 2022 (current) PACIFIC AMERICAN HOLDINGS LIMITED 10 Sep 2019 16 Nov 2022 PACIFIC AMERICAN COAL LIMITED 19 Dec 2014 10 Sep 2019 METALS FINANCE LIMITED 17 Jun 2009 19 Dec 2014 METALS FINANCE CORP. 29 Oct 2007 17 Jun 2009",
@@ -416,7 +435,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260929/pdf/074p21ff6bvvbm.pdf",
-        "title": "Application for quotation of securities — AVM",
+        "title": "Application for quotation of securities \u2014 AVM",
         "date": "2026-09-29",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names ADVANCE METALS LIMITED and ties issuer to AVM. Reported security-class/allotment table: AVM                  ORDINARY FULLY PAID                                                10,053,362    28/09/2026; AVM : ORDINARY FULLY PAID. Form does not independently establish current tradeability or final complete capital structure.",
@@ -441,17 +460,20 @@
       "current_legal_issuer": "ADVANCED INNERGY HOLDINGS LIMITED",
       "ABN": "66 687 262 479",
       "ACN_or_ARBN": "687 262 479",
-      "incorporation_jurisdiction": "Australia (Australian entity classification)",
+      "incorporation_jurisdiction": "Victoria, Australia (half-year report)",
       "registry_entity_type": "Australian Public Company",
       "previous_names_and_registry_dates": "ADVANCED INNERGY HOLDINGS LIMITED 18 Jun 2025 (current)",
       "previous_tickers": "UNRESOLVED",
       "security_type": "UNRESOLVED",
-      "ISIN": "UNRESOLVED"
+      "ISIN": "UNRESOLVED",
+      "primary_ASX_legal_issuer": "ADVANCED INNERGY HOLDINGS LIMITED",
+      "historical_financial_basis": "Common-control predecessor method; published comparatives reflect predecessor UK group as if current structure always existed",
+      "corporate_action_exceptions": "Australian new parent acquired UK parent by share-for-share exchange for IPO; common-control predecessor accounting outside AASB 3"
     },
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=687262479",
-        "title": "ABN Lookup current details — ADVANCED INNERGY HOLDINGS LIMITED",
+        "title": "ABN Lookup current details \u2014 ADVANCED INNERGY HOLDINGS LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity ADVANCED INNERGY HOLDINGS LIMITED; ABN 66 687 262 479; ASIC registration field 687 262 479; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -460,22 +482,49 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=687262479",
-        "title": "ABN Lookup historical details — ADVANCED INNERGY HOLDINGS LIMITED",
+        "title": "ABN Lookup historical details \u2014 ADVANCED INNERGY HOLDINGS LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "ADVANCED INNERGY HOLDINGS LIMITED 18 Jun 2025 (current)",
         "verification_method": "Fresh primary registry history downloaded and name timeline extracted",
         "primary": true
+      },
+      {
+        "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?by=asxCode&asxCode=AIH&timeframe=Y&year=2026",
+        "title": "ASX official 2026 announcement archive \u2014 AIH",
+        "date": "2026-10-13 (review; entries filtered to cutoff)",
+        "page_section": "Company announcements issuer heading and linked dated issuer report",
+        "fact": "Official archive identifies ADVANCED INNERGY HOLDINGS LIMITED (AIH) and links the dated primary report Half Yearly Report and Accounts 41 pages 535.4KB. Archive presence is not proof of current trading.",
+        "verification_method": "Official ASX archive downloaded and current issuer heading/dated links inspected",
+        "primary": true
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260528/pdf/0701dm2lx7lwyb.pdf",
+        "title": "Half Yearly Report and Accounts 41 pages 535.4KB",
+        "date": "2026-05-28",
+        "page_section": "Issuer details and issued-capital/security notes where stated",
+        "fact": "ASX AIH archive identifies ADVANCED INNERGY HOLDINGS LIMITED and links this issuer report. Actual report text independently read; full quoted security-class reconciliation remains unresolved.",
+        "verification_method": "Live official ASX archive resolved to primary issuer PDF; freshly downloaded and extracted identity/security text independently reviewed",
+        "primary": true
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260528/pdf/0701dm2lx7lwyb.pdf",
+        "title": "Advanced Innergy Holdings half-year report",
+        "date": "2026-05-28",
+        "page_section": "Appendix 4D section 4 Control gained; Directors report Significant changes",
+        "fact": "Australian Advanced Innergy Holdings Limited, incorporated in Victoria, acquired UK Advanced Innergy Holdings Ltd via share-for-share exchange for IPO. Existing shareholders retained at least 60% voting rights; report treats transaction as common-control combination outside AASB 3 using predecessor method. Comparatives reflect UK group as if current structure always existed. April 2026 Matrix scheme conditional at this report date.",
+        "verification_method": "Fresh primary report text read at named substantive sections",
+        "primary": true
       }
     ],
-    "historical_conclusion": "PARTIAL: ABR legal-name chain evidenced. ABR name-change dates are registry dates and are not assumed ASX effective dates. Full legal/ticker succession and financial comparability remain open.",
+    "historical_conclusion": "PARTIAL: current Australian parent legally distinct from UK predecessor. May 2026 report confirms group restructure/common-control predecessor method and basis of comparative financials. UK predecessor economic history may be linked only with that explicit basis; full legal/ticker and subsequent acquisition history remain open.",
     "security_conclusion": "UNRESOLVED: complete quoted/unquoted security inventory, ISIN bridge and corporate-action history require reconciliation.",
     "trading_conclusion": "UNRESOLVED as at 2026-10-13: complete latest ASX status sequence not established.",
     "unresolved": [
       "Full historical identity/ticker succession and economic comparability",
       "Complete security inventory and ISIN/corporate-action reconciliation",
       "Dated listing/trading status as at cutoff",
-      "Australian registered entity 687 262 479 must be distinguished from UK Advanced Innergy Holdings Ltd 08848899; holding structure and Matrix acquisition financial bridge require primary review."
+      "Full acquisition event chronology including later Matrix scheme implementation and historical security/financial bridges still requires reconciliation."
     ],
     "investigated": true,
     "notes": "Recovered through fresh primary downloads. Scope: legal identity/name-history and cited security events; full ticker/reverse-takeover/corporate-action/trading signoff remains open. ASIC registration kind is unspecified by generic ABR label unless another source identifies it."
@@ -497,7 +546,7 @@
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=94128256888",
-        "title": "ABN Lookup current details — AGUIA RESOURCES LIMITED",
+        "title": "ABN Lookup current details \u2014 AGUIA RESOURCES LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity AGUIA RESOURCES LIMITED; ABN 94 128 256 888; ASIC registration field 128 256 888; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -506,7 +555,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=94128256888",
-        "title": "ABN Lookup historical details — AGUIA RESOURCES LIMITED",
+        "title": "ABN Lookup historical details \u2014 AGUIA RESOURCES LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "AGUIA RESOURCES LIMITED 06 Oct 2010 (current) Newport Mining Limited 31 Oct 2007 06 Oct 2010",
@@ -515,7 +564,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260817/pdf/072v196f7tdmsr.pdf",
-        "title": "Application for quotation of securities — AGR",
+        "title": "Application for quotation of securities \u2014 AGR",
         "date": "2026-08-17",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names AGUIA RESOURCES LIMITED and ties issuer to AGR. Reported security-class/allotment table: AGR : ORDINARY FULLY PAID; AGR : ORDINARY FULLY PAID                                                                                      2,400,020,748. Form does not independently establish current tradeability or final complete capital structure.",
@@ -552,7 +601,7 @@
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=12122058708",
-        "title": "ABN Lookup current details — AI-MEDIA TECHNOLOGIES LIMITED",
+        "title": "ABN Lookup current details \u2014 AI-MEDIA TECHNOLOGIES LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity AI-MEDIA TECHNOLOGIES LIMITED; ABN 12 122 058 708; ASIC registration field 122 058 708; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -561,7 +610,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=12122058708",
-        "title": "ABN Lookup historical details — AI-MEDIA TECHNOLOGIES LIMITED",
+        "title": "ABN Lookup historical details \u2014 AI-MEDIA TECHNOLOGIES LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "AI-MEDIA TECHNOLOGIES LIMITED 02 Jul 2021 (current) ACCESS INNOVATION HOLDINGS LIMITED 12 Mar 2019 02 Jul 2021 ACCESS INNOVATION HOLDINGS PTY LIMITED 05 Oct 2006 12 Mar 2019",
@@ -570,7 +619,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260713/pdf/071mt5nvj5sjww.pdf",
-        "title": "Application for quotation of securities — AIM",
+        "title": "Application for quotation of securities \u2014 AIM",
         "date": "2026-07-13",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names AI-MEDIA TECHNOLOGIES LIMITED and ties issuer to AIM. Reported security-class/allotment table: AIM                  ORDINARY FULLY PAID                                                      678,790    06/07/2026; AIM : ORDINARY FULLY PAID. Form does not independently establish current tradeability or final complete capital structure.",
@@ -607,7 +656,7 @@
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=27122892719",
-        "title": "ABN Lookup current details — ALARA RESOURCES LIMITED",
+        "title": "ABN Lookup current details \u2014 ALARA RESOURCES LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity ALARA RESOURCES LIMITED; ABN 27 122 892 719; ASIC registration field 122 892 719; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -616,7 +665,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=27122892719",
-        "title": "ABN Lookup historical details — ALARA RESOURCES LIMITED",
+        "title": "ABN Lookup historical details \u2014 ALARA RESOURCES LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "ALARA RESOURCES LIMITED 23 Sep 2008 (current) ALARA URANIUM LIMITED 01 Jan 2007 23 Sep 2008",
@@ -625,7 +674,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260828/pdf/073fdh7gztzd0s.pdf",
-        "title": "Application for quotation of securities — AUQ",
+        "title": "Application for quotation of securities \u2014 AUQ",
         "date": "2026-08-28",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names ALARA RESOURCES LIMITED and ties issuer to AUQ. Reported security-class/allotment table: AUQ                  ORDINARY FULLY PAID                                                 16,916,597   28/08/2026; AUQ : ORDINARY FULLY PAID. Form does not independently establish current tradeability or final complete capital structure.",
@@ -662,7 +711,7 @@
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=77143142410",
-        "title": "ABN Lookup current details — ALCIDION GROUP LIMITED",
+        "title": "ABN Lookup current details \u2014 ALCIDION GROUP LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity ALCIDION GROUP LIMITED; ABN 77 143 142 410; ASIC registration field 143 142 410; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -671,7 +720,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=77143142410",
-        "title": "ABN Lookup historical details — ALCIDION GROUP LIMITED",
+        "title": "ABN Lookup historical details \u2014 ALCIDION GROUP LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "ALCIDION GROUP LIMITED 23 Dec 2015 (current) NARACOOTA RESOURCES PTY LTD 01 Jul 2010 23 Dec 2015",
@@ -680,7 +729,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260904/pdf/073q534smkx189.pdf",
-        "title": "Application for quotation of securities — ALC",
+        "title": "Application for quotation of securities \u2014 ALC",
         "date": "2026-09-04",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names ALCIDION GROUP LIMITED and ties issuer to ALC. Reported security-class/allotment table: ALC                   ORDINARY FULLY PAID                                                     6,246,397    04/09/2026; ALC : ORDINARY FULLY PAID. Form does not independently establish current tradeability or final complete capital structure.",
@@ -716,7 +765,7 @@
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=31622990809",
-        "title": "ABN Lookup current details — ALDORO RESOURCES LIMITED",
+        "title": "ABN Lookup current details \u2014 ALDORO RESOURCES LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity ALDORO RESOURCES LIMITED; ABN 31 622 990 809; ASIC registration field 622 990 809; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -725,7 +774,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=31622990809",
-        "title": "ABN Lookup historical details — ALDORO RESOURCES LIMITED",
+        "title": "ABN Lookup historical details \u2014 ALDORO RESOURCES LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "ALDORO RESOURCES LIMITED 01 Jun 2018 (current)",
@@ -734,7 +783,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260909/pdf/073xhxd2vrhsq5.pdf",
-        "title": "Application for quotation of securities — ARN",
+        "title": "Application for quotation of securities \u2014 ARN",
         "date": "2026-09-09",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names ALDORO RESOURCES LIMITED and ties issuer to ARN. Reported security-class/allotment table: ARN                   ORDINARY FULLY PAID                                                       835,520    09/09/2026; ARN : ORDINARY FULLY PAID. Form does not independently establish current tradeability or final complete capital structure.",
@@ -770,7 +819,7 @@
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=96153361525",
-        "title": "ABN Lookup current details — Alliance Aviation Services Limited",
+        "title": "ABN Lookup current details \u2014 Alliance Aviation Services Limited",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity Alliance Aviation Services Limited; ABN 96 153 361 525; ASIC registration field 153 361 525; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -779,7 +828,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=96153361525",
-        "title": "ABN Lookup historical details — Alliance Aviation Services Limited",
+        "title": "ABN Lookup historical details \u2014 Alliance Aviation Services Limited",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "Alliance Aviation Services Limited 26 Oct 2011 (current)",
@@ -788,7 +837,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260918/pdf/07472nnhg74sgb.pdf",
-        "title": "Application for quotation of securities — AQZ",
+        "title": "Application for quotation of securities \u2014 AQZ",
         "date": "2026-09-18",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names ALLIANCE AVIATION SERVICES LIMITED and ties issuer to AQZ. Reported security-class/allotment table: AQZ                  ORDINARY FULLY PAID                                                 12,236,462   18/09/2026; AQZ : ORDINARY FULLY PAID. Form does not independently establish current tradeability or final complete capital structure.",
@@ -825,7 +874,7 @@
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=79140575604",
-        "title": "ABN Lookup current details — ALLIGATOR ENERGY LTD",
+        "title": "ABN Lookup current details \u2014 ALLIGATOR ENERGY LTD",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity ALLIGATOR ENERGY LTD; ABN 79 140 575 604; ASIC registration field 140 575 604; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -834,7 +883,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=79140575604",
-        "title": "ABN Lookup historical details — ALLIGATOR ENERGY LTD",
+        "title": "ABN Lookup historical details \u2014 ALLIGATOR ENERGY LTD",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "ALLIGATOR ENERGY LTD 22 Nov 2010 (current) Titus Resources Limited 20 Nov 2009 22 Nov 2010",
@@ -843,7 +892,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260910/pdf/073ydb16t56s1p.pdf",
-        "title": "Application for quotation of securities — AGE",
+        "title": "Application for quotation of securities \u2014 AGE",
         "date": "2026-09-10",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names ALLIGATOR ENERGY LIMITED and ties issuer to AGE. Reported security-class/allotment table: AGE                  ORDINARY FULLY PAID                                                 47,133,479   10/09/2026; AGE : ORDINARY FULLY PAID. Form does not independently establish current tradeability or final complete capital structure.",
@@ -875,12 +924,13 @@
       "security_type": "ORDINARY FULLY PAID (ALR); cited Appendix2A 2026-06-22; complete current class inventory/ISIN unresolved",
       "ISIN": "UNRESOLVED",
       "primary_ASX_legal_issuer": "ALTAIR MINERALS LIMITED",
-      "ACN": "149026308"
+      "ACN": "149026308",
+      "corporate_action_exceptions": "398,000,000 tranche-one shares reported issued 1 May 2026; subsequent tranches require separate evidence"
     },
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=72149026308",
-        "title": "ABN Lookup current details — ALTAIR MINERALS LIMITED",
+        "title": "ABN Lookup current details \u2014 ALTAIR MINERALS LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity ALTAIR MINERALS LIMITED; ABN 72 149 026 308; ASIC registration field 149 026 308; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -889,7 +939,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=72149026308",
-        "title": "ABN Lookup historical details — ALTAIR MINERALS LIMITED",
+        "title": "ABN Lookup historical details \u2014 ALTAIR MINERALS LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "ALTAIR MINERALS LIMITED 15 May 2024 (current) COHIBA MINERALS LIMITED 28 Jan 2011 15 May 2024",
@@ -898,11 +948,20 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260622/pdf/070wlhxgd49rr0.pdf",
-        "title": "Application for quotation of securities — ALR",
+        "title": "Application for quotation of securities \u2014 ALR",
         "date": "2026-06-22",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names ALTAIR MINERALS LIMITED and ties issuer to ALR. Reported security-class/allotment table: ALR                  ORDINARY FULLY PAID                                               258,264,364    22/06/2026; ALR : ORDINARY FULLY PAID. Form does not independently establish current tradeability or final complete capital structure.",
         "verification_method": "Fresh ASX PDF downloaded and exact entity/class text reviewed",
+        "primary": true
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260521/pdf/06ztvxm7lyfh00.pdf",
+        "title": "Issuer meeting notice",
+        "date": "2026-05-21",
+        "page_section": "April placement ratification explanatory notes",
+        "fact": "Meeting notice reports tranche-one 398,000,000 shares issued 1 May 2026. Later tranche proposals are not completed allotments unless separately confirmed.",
+        "verification_method": "Fresh primary PDF downloaded and targeted substantive text inspected",
         "primary": true
       }
     ],
@@ -929,12 +988,13 @@
       "previous_tickers": "UNRESOLVED",
       "security_type": "ORDINARY FULLY PAID (ATH); cited Appendix2A 2026-09-16; complete current class inventory/ISIN unresolved",
       "ISIN": "UNRESOLVED",
-      "primary_ASX_legal_issuer": "ALTERITY THERAPEUTICS LIMITED"
+      "primary_ASX_legal_issuer": "ALTERITY THERAPEUTICS LIMITED",
+      "corporate_action_exceptions": "Proposed consolidation 50 old shares/options into one; completed implementation unverified"
     },
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=080699065",
-        "title": "ABN Lookup current details — ALTERITY THERAPEUTICS LIMITED",
+        "title": "ABN Lookup current details \u2014 ALTERITY THERAPEUTICS LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity ALTERITY THERAPEUTICS LIMITED; ABN 37 080 699 065; ASIC registration field 080 699 065; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -943,7 +1003,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=080699065",
-        "title": "ABN Lookup historical details — ALTERITY THERAPEUTICS LIMITED",
+        "title": "ABN Lookup historical details \u2014 ALTERITY THERAPEUTICS LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "ALTERITY THERAPEUTICS LIMITED 09 Apr 2019 (current) PRANA BIOTECHNOLOGY LTD 10 May 2000 09 Apr 2019 PRANA CORPORATION PTY LTD 10 Mar 2000 10 May 2000",
@@ -952,11 +1012,20 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260916/pdf/0744yl45cq43p6.pdf",
-        "title": "Application for quotation of securities — ATH",
+        "title": "Application for quotation of securities \u2014 ATH",
         "date": "2026-09-16",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names ALTERITY THERAPEUTICS LIMITED and ties issuer to ATH. Reported security-class/allotment table: ATH                   ORDINARY FULLY PAID                                                        50,000    16/09/2026; ATH : ORDINARY FULLY PAID. Form does not independently establish current tradeability or final complete capital structure.",
         "verification_method": "Fresh ASX PDF downloaded and exact entity/class text reviewed",
+        "primary": true
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260429/pdf/06yzydghc8l2vq.pdf",
+        "title": "Issuer meeting notice",
+        "date": "2026-04-29",
+        "page_section": "Consolidation resolution",
+        "fact": "General meeting notice proposes consolidation of 50 old shares/options into one. Proposal alone does not establish implementation or effective date.",
+        "verification_method": "Fresh primary PDF downloaded and targeted substantive text inspected",
         "primary": true
       }
     ],
@@ -966,7 +1035,8 @@
     "unresolved": [
       "Full historical identity/ticker succession and economic comparability",
       "Complete security inventory and ISIN/corporate-action reconciliation",
-      "Dated listing/trading status as at cutoff"
+      "Dated listing/trading status as at cutoff",
+      "Verify completed implementation and effective date of proposed consolidation 50 old shares/options into one before adjusting historical prices/share counts."
     ],
     "investigated": true,
     "notes": "Recovered through fresh primary downloads. Scope: legal identity/name-history and cited security events; full ticker/reverse-takeover/corporate-action/trading signoff remains open. ASIC registration kind is unspecified by generic ABR label unless another source identifies it."
@@ -989,7 +1059,7 @@
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=31691236549",
-        "title": "ABN Lookup current details — ALURION RESOURCES LIMITED",
+        "title": "ABN Lookup current details \u2014 ALURION RESOURCES LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity ALURION RESOURCES LIMITED; ABN 31 691 236 549; ASIC registration field 691 236 549; entity type Australian Private Company. Active ABN does not prove ASX trading status.",
@@ -998,7 +1068,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=31691236549",
-        "title": "ABN Lookup historical details — ALURION RESOURCES LIMITED",
+        "title": "ABN Lookup historical details \u2014 ALURION RESOURCES LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "ALURION RESOURCES LIMITED 23 Apr 2026 (current)",
@@ -1007,9 +1077,9 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260729/pdf/0725tn6mtdfm08.pdf",
-        "title": "Admission — ALU",
+        "title": "Admission \u2014 ALU",
         "date": "2026-07-29",
-        "page_section": "PDF pages1–2",
+        "page_section": "PDF pages1\u20132",
         "fact": "ASX notice dated 29 July 2026 confirms Alurion Resources Limited admitted that day. Ordinary ALU ISIN AU0000473878; 204,701,236 quoted shares; incorporation Australia. Quotation on 31 July is scheduled, not confirmation of actual commencement. Admission also identifies 39,025,413 restricted shares and restricted/unquoted options.",
         "verification_method": "Fresh primary PDF downloaded after recovery; extracted substantive text independently reviewed",
         "primary": true
@@ -1047,7 +1117,7 @@
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=37637802496",
-        "title": "ABN Lookup current details — ALVO MINERALS LIMITED",
+        "title": "ABN Lookup current details \u2014 ALVO MINERALS LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity ALVO MINERALS LIMITED; ABN 37 637 802 496; ASIC registration field 637 802 496; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -1056,7 +1126,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=37637802496",
-        "title": "ABN Lookup historical details — ALVO MINERALS LIMITED",
+        "title": "ABN Lookup historical details \u2014 ALVO MINERALS LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "ALVO MINERALS LIMITED 26 Aug 2021 (current) ALVO MINERALS PTY LTD 02 Dec 2019 26 Aug 2021",
@@ -1065,7 +1135,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260626/pdf/0711htn0frtl77.pdf",
-        "title": "Application for quotation of securities — ALV",
+        "title": "Application for quotation of securities \u2014 ALV",
         "date": "2026-06-26",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names ALVO MINERALS LIMITED and ties issuer to ALV. Reported security-class/allotment table: ALV                  ORDINARY FULLY PAID                                                  1,224,492   26/06/2026; ALV : ORDINARY FULLY PAID. Form does not independently establish current tradeability or final complete capital structure.",
@@ -1097,12 +1167,13 @@
       "security_type": "ORDINARY FULLY PAID (AMA); cited Appendix2A 2026-09-03; complete current class inventory/ISIN unresolved",
       "ISIN": "UNRESOLVED",
       "primary_ASX_legal_issuer": "AMA GROUP LIMITED",
-      "ACN": "113883560"
+      "ACN": "113883560",
+      "corporate_action_exceptions": "Proposed consolidation 10 old shares/performance rights into one; completed implementation unverified"
     },
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=113883560",
-        "title": "ABN Lookup current details — AMA GROUP LIMITED",
+        "title": "ABN Lookup current details \u2014 AMA GROUP LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity AMA GROUP LIMITED; ABN 50 113 883 560; ASIC registration field 113 883 560; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -1111,7 +1182,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=113883560",
-        "title": "ABN Lookup historical details — AMA GROUP LIMITED",
+        "title": "ABN Lookup historical details \u2014 AMA GROUP LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "AMA GROUP LIMITED 06 Jul 2010 (current) ALLOMAK LIMITED 18 Jul 2006 06 Jul 2010 ALTOMAK LIMITED 29 May 2006 18 Jul 2006 AUTOMAK LIMITED 07 Oct 2005 29 May 2006 AUSTRALIAN MANUFACTURE AND FABRICATION LTD 08 Sep 2005 07 Oct 2005 Australian Manufacture and Fabrication Limited 19 Apr 2005 08 Sep 2005",
@@ -1120,11 +1191,20 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260903/pdf/073p3f28gswhj4.pdf",
-        "title": "Application for quotation of securities — AMA",
+        "title": "Application for quotation of securities \u2014 AMA",
         "date": "2026-09-03",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names AMA GROUP LIMITED and ties issuer to AMA. Reported security-class/allotment table: AMA                   ORDINARY FULLY PAID                                                       757,685    01/09/2026; AMA : ORDINARY FULLY PAID. Form does not independently establish current tradeability or final complete capital structure.",
         "verification_method": "Fresh ASX PDF downloaded and exact entity/class text reviewed",
+        "primary": true
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20251001/pdf/06pyj02jc7bbv0.pdf",
+        "title": "Issuer meeting notice",
+        "date": "2025-10-01",
+        "page_section": "Consolidation resolution",
+        "fact": "General meeting notice proposes consolidation of 10 old shares/performance rights into one. Proposal alone does not establish implementation or effective date.",
+        "verification_method": "Fresh primary PDF downloaded and targeted substantive text inspected",
         "primary": true
       }
     ],
@@ -1134,7 +1214,8 @@
     "unresolved": [
       "Full historical identity/ticker succession and economic comparability",
       "Complete security inventory and ISIN/corporate-action reconciliation",
-      "Dated listing/trading status as at cutoff"
+      "Dated listing/trading status as at cutoff",
+      "Verify completed implementation and effective date of proposed consolidation 10 old shares/performance rights into one before adjusting historical prices/share counts."
     ],
     "investigated": true,
     "notes": "Recovered through fresh primary downloads. Scope: legal identity/name-history and cited security events; full ticker/reverse-takeover/corporate-action/trading signoff remains open. ASIC registration kind is unspecified by generic ABR label unless another source identifies it."
@@ -1158,7 +1239,7 @@
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260622/pdf/070w4q7b1v9nb1.pdf",
-        "title": "Scheme implementation — 3DA",
+        "title": "Scheme implementation \u2014 3DA",
         "date": "2026-06-22",
         "page_section": "PDF page 1",
         "fact": "Issuer confirms schemes implemented on 22 June 2026: Amaero Inc became sole shareholder of Amaero Ltd ACN 633 541 634 and ultimate group parent. CDIs issued and predecessor options cancelled/replaced. Trading on 23 June is expected in this notice; actual start not established by its timetable.",
@@ -1167,25 +1248,25 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260611/pdf/070jv1mqkyy2sm.pdf",
-        "title": "Admission — 3DA",
+        "title": "Admission \u2014 3DA",
         "date": "2026-06-11",
-        "page_section": "PDF pages1–2 Quotation information",
+        "page_section": "PDF pages1\u20132 Quotation information",
         "fact": "ASX admission 11 June 2026 identifies new Delaware parent Amaero Inc, CDI ratio 40:1, normal 3DA ISIN AU0000064578 and temporary 3DADA ISIN AU0000469587. Admission inventory: 953,327,200 CDIs equivalent to 23,833,180 ordinary common shares, plus 110,970,672 unquoted options. Indicative quotation timetable is not proof of observed commencement.",
         "verification_method": "Fresh primary PDF downloaded after recovery; extracted substantive text independently reviewed",
         "primary": true
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260612/pdf/070kdq38t42nh7.pdf",
-        "title": "Information memorandum — 3DA",
+        "title": "Information memorandum \u2014 3DA",
         "date": "2026-06-12",
-        "page_section": "PDF pages1–3 sections1,5,6",
-        "fact": "Amaero Inc Delaware file number 10505946. Sections 5–6 specify one CDI for each old Amaero Ltd share, 40:1 CDI/common-stock conversion and one replacement option exercisable for one CDI. New US legal issuer must be separated from Australian predecessor.",
+        "page_section": "PDF pages1\u20133 sections1,5,6",
+        "fact": "Amaero Inc Delaware file number 10505946. Sections 5\u20136 specify one CDI for each old Amaero Ltd share, 40:1 CDI/common-stock conversion and one replacement option exercisable for one CDI. New US legal issuer must be separated from Australian predecessor.",
         "verification_method": "Fresh primary PDF downloaded after recovery; extracted substantive text independently reviewed",
         "primary": true
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260324/pdf/06xqxpxmpm3f6q.pdf",
-        "title": "Amended scheme terms — 3DA",
+        "title": "Amended scheme terms \u2014 3DA",
         "date": "2026-03-24",
         "page_section": "PDF page 1",
         "fact": "23 March 2026 amendment corrects replacement option entitlement to one CDI representing 1/40th common share, rather than one common share. Proposed timetable does not prove implementation.",
@@ -1194,16 +1275,16 @@
       },
       {
         "url": "https://www.legislation.gov.au/F2026N00615/asmade/2026-08-26/text/original/pdf",
-        "title": "ATO ruling notice — 3DA",
+        "title": "ATO ruling notice \u2014 3DA",
         "date": "2026-08-26",
-        "page_section": "PDF page1 CR2026/62–63",
+        "page_section": "PDF page1 CR2026/62\u201363",
         "fact": "Published ATO notice CR 2026/62 and CR 2026/63 independently records share and option exchange/cancellation on 22 June 2026 implementation.",
         "verification_method": "Fresh primary PDF downloaded after recovery; extracted substantive text independently reviewed",
         "primary": true
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20261013/pdf/07580qltr49tf5.pdf",
-        "title": "Trading halt — 3DA",
+        "title": "Trading halt \u2014 3DA",
         "date": "2026-10-13",
         "page_section": "PDF page 1",
         "fact": "ASX Supervision orders trading halt in Amaero Inc 3DA on 13 October 2026 pending announcement. Conditional scheduled ending on 15 October does not establish resumed trading.",
@@ -1228,7 +1309,7 @@
       "current_legal_issuer": "AMERICAN RARE EARTHS LIMITED",
       "ABN": "83 003 453 503",
       "ACN_or_ARBN": "003 453 503",
-      "incorporation_jurisdiction": "UNRESOLVED",
+      "incorporation_jurisdiction": "Australia (2023 issuer annual report; later re-domiciliation not exhaustively excluded)",
       "registry_entity_type": "Other Incorporated Entity",
       "previous_names_and_registry_dates": "AMERICAN RARE EARTHS LIMITED 24 Jun 2020 (current) Broken Hill Prospecting Limited 01 Jul 2010 24 Jun 2020",
       "previous_tickers": "UNRESOLVED",
@@ -1239,7 +1320,7 @@
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=83003453503",
-        "title": "ABN Lookup current details — AMERICAN RARE EARTHS LIMITED",
+        "title": "ABN Lookup current details \u2014 AMERICAN RARE EARTHS LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity AMERICAN RARE EARTHS LIMITED; ABN 83 003 453 503; ASIC registration field 003 453 503; entity type Other Incorporated Entity. Active ABN does not prove ASX trading status.",
@@ -1248,7 +1329,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=83003453503",
-        "title": "ABN Lookup historical details — AMERICAN RARE EARTHS LIMITED",
+        "title": "ABN Lookup historical details \u2014 AMERICAN RARE EARTHS LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "AMERICAN RARE EARTHS LIMITED 24 Jun 2020 (current) Broken Hill Prospecting Limited 01 Jul 2010 24 Jun 2020",
@@ -1257,11 +1338,20 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260804/pdf/072dw0sx037x60.pdf",
-        "title": "Application for quotation of securities — ARR",
+        "title": "Application for quotation of securities \u2014 ARR",
         "date": "2026-08-04",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names AMERICAN RARE EARTHS LIMITED and ties issuer to ARR. Reported security-class/allotment table: ARR                   ORDINARY FULLY PAID                                                     1,500,000    04/08/2026; ARR : ORDINARY FULLY PAID. Form does not independently establish current tradeability or final complete capital structure.",
         "verification_method": "Fresh ASX PDF downloaded and exact entity/class text reviewed",
+        "primary": true
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20230927/pdf/05vcb08vzfyr3t.pdf",
+        "title": "American Rare Earths 2023 annual report",
+        "date": "2023-09-27",
+        "page_section": "Reporting-entity note",
+        "fact": "Annual report describes American Rare Earths Limited as profit-oriented company incorporated in Australia. Resolves incorporation jurisdiction at report date; ABR Other Incorporated Entity label still requires legal-form reconciliation.",
+        "verification_method": "Fresh primary PDF downloaded and targeted substantive text inspected",
         "primary": true
       }
     ],
@@ -1296,7 +1386,7 @@
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=55602857983",
-        "title": "ABN Lookup current details — AML3D LIMITED",
+        "title": "ABN Lookup current details \u2014 AML3D LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity AML3D LIMITED; ABN 55 602 857 983; ASIC registration field 602 857 983; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -1305,7 +1395,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=55602857983",
-        "title": "ABN Lookup historical details — AML3D LIMITED",
+        "title": "ABN Lookup historical details \u2014 AML3D LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "AML3D LIMITED 08 Jul 2020 (current) AML3D PTY LTD 31 Jul 2019 08 Jul 2020 AML TECHNOLOGIES (AMLT) PTY LTD 05 Apr 2016 31 Jul 2019 GLOBAL ARC ENERGY PTY LTD 03 Dec 2015 05 Apr 2016",
@@ -1314,7 +1404,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260630/pdf/0715tj7qgp4l09.pdf",
-        "title": "Application for quotation of securities — AL3",
+        "title": "Application for quotation of securities \u2014 AL3",
         "date": "2026-06-30",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names AML3D LIMITED and ties issuer to AL3. Reported security-class/allotment table: AL3                   ORDINARY FULLY PAID                                                    10,917,206    30/06/2026; AL3 : ORDINARY FULLY PAID. Form does not independently establish current tradeability or final complete capital structure.",
@@ -1351,7 +1441,7 @@
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=46106304787",
-        "title": "ABN Lookup current details — ANAX METALS LIMITED",
+        "title": "ABN Lookup current details \u2014 ANAX METALS LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity ANAX METALS LIMITED; ABN 46 106 304 787; ASIC registration field 106 304 787; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -1360,7 +1450,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=46106304787",
-        "title": "ABN Lookup historical details — ANAX METALS LIMITED",
+        "title": "ABN Lookup historical details \u2014 ANAX METALS LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "ANAX METALS LIMITED 03 Oct 2020 (current) AURORA MINERALS LIMITED 01 Oct 2003 03 Oct 2020",
@@ -1369,7 +1459,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260710/pdf/071llvkbrmt1v0.pdf",
-        "title": "Application for quotation of securities — ANX",
+        "title": "Application for quotation of securities \u2014 ANX",
         "date": "2026-07-10",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names ANAX METALS LIMITED and ties issuer to ANX. Reported security-class/allotment table: ANX                   ORDINARY FULLY PAID                                              1,746,491    10/07/2026; ANX : ORDINARY FULLY PAID. Form does not independently establish current tradeability or final complete capital structure.",
@@ -1406,7 +1496,7 @@
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=645578454",
-        "title": "ABN Lookup current details — ANDEAN SILVER LIMITED",
+        "title": "ABN Lookup current details \u2014 ANDEAN SILVER LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity ANDEAN SILVER LIMITED; ABN 24 645 578 454; ASIC registration field 645 578 454; entity type Australian Private Company. Active ABN does not prove ASX trading status.",
@@ -1415,7 +1505,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=645578454",
-        "title": "ABN Lookup historical details — ANDEAN SILVER LIMITED",
+        "title": "ABN Lookup historical details \u2014 ANDEAN SILVER LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "ANDEAN SILVER LIMITED 11 Mar 2026 (current) MITRE MINING CORPORATION PTY LTD 02 Nov 2020 11 Mar 2026",
@@ -1424,7 +1514,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260917/pdf/0746m2f7qsqxqw.pdf",
-        "title": "Application for quotation of securities — ASL",
+        "title": "Application for quotation of securities \u2014 ASL",
         "date": "2026-09-17",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names ANDEAN SILVER LIMITED and ties issuer to ASL. Reported security-class/allotment table: ASL                   ORDINARY FULLY PAID                                                       165,000    17/09/2026; ASL : ORDINARY FULLY PAID. Form does not independently establish current tradeability or final complete capital structure.",
@@ -1464,7 +1554,7 @@
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=75070028625",
-        "title": "ABN Lookup current details — ANTEOTECH LTD",
+        "title": "ABN Lookup current details \u2014 ANTEOTECH LTD",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity ANTEOTECH LTD; ABN 75 070 028 625; ASIC registration field 070 028 625; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -1473,7 +1563,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=75070028625",
-        "title": "ABN Lookup historical details — ANTEOTECH LTD",
+        "title": "ABN Lookup historical details \u2014 ANTEOTECH LTD",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "ANTEOTECH LTD 20 Nov 2019 (current) ANTEO DIAGNOSTICS LIMITED 02 Oct 2009 20 Nov 2019 BIOLAYER CORPORATION LIMITED 23 Mar 2006 02 Oct 2009 S.S.H. MEDICAL LIMITED 04 Sep 2000 23 Mar 2006 SSH MEDICAL LIMITED 06 May 2000 04 Sep 2000",
@@ -1482,7 +1572,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260916/pdf/0744kxbhdwb2t4.pdf",
-        "title": "Application for quotation of securities — ADO",
+        "title": "Application for quotation of securities \u2014 ADO",
         "date": "2026-09-16",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names ANTEOTECH LTD and ties issuer to ADO. Reported security-class/allotment table: ADO                  ORDINARY FULLY PAID                                                  5,386,569   15/09/2026; ADO : ORDINARY FULLY PAID. Form does not independently establish current tradeability or final complete capital structure.",
@@ -1518,7 +1608,7 @@
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=79147133364",
-        "title": "ABN Lookup current details — ANTIPA MINERALS LTD.",
+        "title": "ABN Lookup current details \u2014 ANTIPA MINERALS LTD.",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity ANTIPA MINERALS LTD.; ABN 79 147 133 364; ASIC registration field 147 133 364; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -1527,7 +1617,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=79147133364",
-        "title": "ABN Lookup historical details — ANTIPA MINERALS LTD.",
+        "title": "ABN Lookup historical details \u2014 ANTIPA MINERALS LTD.",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "ANTIPA MINERALS LTD. 01 Nov 2010 (current)",
@@ -1536,7 +1626,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260817/pdf/072v26gspfbjdk.pdf",
-        "title": "Application for quotation of securities — AZY",
+        "title": "Application for quotation of securities \u2014 AZY",
         "date": "2026-08-17",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names ANTIPA MINERALS LIMITED and ties issuer to AZY. Reported security-class/allotment table: AZY                   ORDINARY FULLY PAID                                                     1,440,000    17/08/2026; AZY : ORDINARY FULLY PAID. Form does not independently establish current tradeability or final complete capital structure.",
@@ -1572,7 +1662,7 @@
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=96125222924",
-        "title": "ABN Lookup current details — APOLLO MINERALS LIMITED",
+        "title": "ABN Lookup current details \u2014 APOLLO MINERALS LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity APOLLO MINERALS LIMITED; ABN 96 125 222 924; ASIC registration field 125 222 924; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -1581,7 +1671,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=96125222924",
-        "title": "ABN Lookup historical details — APOLLO MINERALS LIMITED",
+        "title": "ABN Lookup historical details \u2014 APOLLO MINERALS LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "APOLLO MINERALS LIMITED 07 Aug 2021 (current) Apollo Minerals Limited 03 May 2007 07 Aug 2021",
@@ -1590,7 +1680,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260703/pdf/071c0v161l9tbr.pdf",
-        "title": "Application for quotation of securities — AON",
+        "title": "Application for quotation of securities \u2014 AON",
         "date": "2026-07-03",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names APOLLO MINERALS LIMITED and ties issuer to AON. Reported security-class/allotment table: AON                    ORDINARY FULLY PAID                                                    5,720,001    30/06/2026; AON : ORDINARY FULLY PAID. Form does not independently establish current tradeability or final complete capital structure.",
@@ -1626,7 +1716,7 @@
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=60138878298",
-        "title": "ABN Lookup current details — APPEN LIMITED",
+        "title": "ABN Lookup current details \u2014 APPEN LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity APPEN LIMITED; ABN 60 138 878 298; ASIC registration field 138 878 298; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -1635,7 +1725,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=60138878298",
-        "title": "ABN Lookup historical details — APPEN LIMITED",
+        "title": "ABN Lookup historical details \u2014 APPEN LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "APPEN LIMITED 18 Nov 2014 (current) Appen Holdings Pty Limited 01 Sep 2009 18 Nov 2014",
@@ -1644,7 +1734,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260605/pdf/070cc4g22hybxc.pdf",
-        "title": "Application for quotation of securities — APX",
+        "title": "Application for quotation of securities \u2014 APX",
         "date": "2026-06-05",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names APPEN LIMITED and ties issuer to APX. Reported security-class/allotment table: APX                  ORDINARY FULLY PAID                                                223,777    05/06/2026; APX : ORDINARY FULLY PAID. Form does not independently establish current tradeability or final complete capital structure.",
@@ -1681,7 +1771,7 @@
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=64123993233",
-        "title": "ABN Lookup current details — ARCHER MATERIALS LIMITED",
+        "title": "ABN Lookup current details \u2014 ARCHER MATERIALS LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity ARCHER MATERIALS LIMITED; ABN 64 123 993 233; ASIC registration field 123 993 233; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -1690,7 +1780,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=64123993233",
-        "title": "ABN Lookup historical details — ARCHER MATERIALS LIMITED",
+        "title": "ABN Lookup historical details \u2014 ARCHER MATERIALS LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "ARCHER MATERIALS LIMITED 31 Oct 2019 (current) Archer Exploration Limited 25 Feb 2007 31 Oct 2019",
@@ -1699,7 +1789,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260904/pdf/073qjk8b4xfk8m.pdf",
-        "title": "Application for quotation of securities — AXE",
+        "title": "Application for quotation of securities \u2014 AXE",
         "date": "2026-09-04",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names ARCHER MATERIALS LIMITED and ties issuer to AXE. Reported security-class/allotment table: AXE                  ORDINARY FULLY PAID                                                    518,521   04/09/2026; AXE : ORDINARY FULLY PAID. Form does not independently establish current tradeability or final complete capital structure.",
@@ -1736,7 +1826,7 @@
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=123098671",
-        "title": "ABN Lookup current details — ARCHTIS LIMITED",
+        "title": "ABN Lookup current details \u2014 ARCHTIS LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity ARCHTIS LIMITED; ABN 79 123 098 671; ASIC registration field 123 098 671; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -1745,7 +1835,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=123098671",
-        "title": "ABN Lookup historical details — ARCHTIS LIMITED",
+        "title": "ABN Lookup historical details \u2014 ARCHTIS LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "ARCHTIS LIMITED 25 May 2018 (current) BSTTECH Consulting Pty Ltd 12 Dec 2006 25 May 2018",
@@ -1754,7 +1844,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260710/pdf/071lshr4mrzr8z.pdf",
-        "title": "Application for quotation of securities — AR9",
+        "title": "Application for quotation of securities \u2014 AR9",
         "date": "2026-07-10",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names ARCHTIS LIMITED and ties issuer to AR9. Reported security-class/allotment table: AR9                    ORDINARY FULLY PAID                                                      837,437    06/07/2026; AR9 : ORDINARY FULLY PAID. Form does not independently establish current tradeability or final complete capital structure.",
@@ -1790,7 +1880,7 @@
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=89124780276",
-        "title": "ABN Lookup current details — ARGENT MINERALS LIMITED",
+        "title": "ABN Lookup current details \u2014 ARGENT MINERALS LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity ARGENT MINERALS LIMITED; ABN 89 124 780 276; ASIC registration field 124 780 276; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -1799,7 +1889,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=89124780276",
-        "title": "ABN Lookup historical details — ARGENT MINERALS LIMITED",
+        "title": "ABN Lookup historical details \u2014 ARGENT MINERALS LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "ARGENT MINERALS LIMITED 19 Nov 2007 (current) KEMPFIELD SILVER PTY LTD 04 Apr 2007 19 Nov 2007",
@@ -1808,7 +1898,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260724/pdf/07207f4klyql1w.pdf",
-        "title": "Application for quotation of securities — ARD",
+        "title": "Application for quotation of securities \u2014 ARD",
         "date": "2026-07-24",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names ARGENT MINERALS LIMITED and ties issuer to ARD. Reported security-class/allotment table: ARD                  ORDINARY FULLY PAID                                             1,071,428   23/07/2026; ARD : ORDINARY FULLY PAID. Form does not independently establish current tradeability or final complete capital structure.",
@@ -1838,12 +1928,13 @@
       "previous_names_and_registry_dates": "ARN MEDIA LIMITED 18 May 2023 (current) HT&E LIMITED 05 May 2017 18 May 2023 APN NEWS & MEDIA LIMITED 04 Aug 2000 05 May 2017 APN NEWS & MEDIA LTD 22 Apr 2000 04 Aug 2000",
       "previous_tickers": "UNRESOLVED",
       "security_type": "UNRESOLVED",
-      "ISIN": "UNRESOLVED"
+      "ISIN": "UNRESOLVED",
+      "primary_ASX_legal_issuer": "ARN MEDIA LIMITED"
     },
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=95008637643",
-        "title": "ABN Lookup current details — ARN MEDIA LIMITED",
+        "title": "ABN Lookup current details \u2014 ARN MEDIA LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity ARN MEDIA LIMITED; ABN 95 008 637 643; ASIC registration field 008 637 643; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -1852,11 +1943,29 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=95008637643",
-        "title": "ABN Lookup historical details — ARN MEDIA LIMITED",
+        "title": "ABN Lookup historical details \u2014 ARN MEDIA LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "ARN MEDIA LIMITED 18 May 2023 (current) HT&E LIMITED 05 May 2017 18 May 2023 APN NEWS & MEDIA LIMITED 04 Aug 2000 05 May 2017 APN NEWS & MEDIA LTD 22 Apr 2000 04 Aug 2000",
         "verification_method": "Fresh primary registry history downloaded and name timeline extracted",
+        "primary": true
+      },
+      {
+        "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?by=asxCode&asxCode=A1N&timeframe=Y&year=2026",
+        "title": "ASX official 2026 announcement archive \u2014 A1N",
+        "date": "2026-10-13 (review; entries filtered to cutoff)",
+        "page_section": "Company announcements issuer heading and linked dated issuer report",
+        "fact": "Official archive identifies ARN MEDIA LIMITED (A1N) and links the dated primary report Presentation - 2026 Half Year Results 39 pages 3.1MB. Archive presence is not proof of current trading.",
+        "verification_method": "Official ASX archive downloaded and current issuer heading/dated links inspected",
+        "primary": true
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260821/pdf/0730y75wp54d79.pdf",
+        "title": "Presentation - 2026 Half Year Results 39 pages 3.1MB",
+        "date": "2026-08-21",
+        "page_section": "Issuer details and issued-capital/security notes where stated",
+        "fact": "ASX A1N archive identifies ARN MEDIA LIMITED and links this issuer report. Actual report text independently read; full quoted security-class reconciliation remains unresolved.",
+        "verification_method": "Live official ASX archive resolved to primary issuer PDF; freshly downloaded and extracted identity/security text independently reviewed",
         "primary": true
       }
     ],
@@ -1881,12 +1990,12 @@
       "ACN_or_ARBN": "ARBN 638 867 473",
       "foreign_registration": "New Zealand company number 1980577",
       "incorporation_jurisdiction": "New Zealand",
-      "ABN": "UNKNOWN — ABR returned no record for ARBN lookup"
+      "ABN": "UNKNOWN \u2014 ABR returned no record for ARBN lookup"
     },
     "evidence": [
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260410/pdf/06ycbhpw7jjby0.pdf",
-        "title": "Application for quotation of securities — ARX",
+        "title": "Application for quotation of securities \u2014 ARX",
         "date": "2026-04-10",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names AROA BIOSURGERY LIMITED and ties issuer to ARX. Reported security-class/allotment table: ARX                     ORDINARY FULLY PAID                                                     426,457    09/04/2026; ARX : ORDINARY FULLY PAID. Form does not independently establish current tradeability or final complete capital structure.",
@@ -1895,7 +2004,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260410/pdf/06ycbhpw7jjby0.pdf",
-        "title": "Application for quotation of securities — ARX",
+        "title": "Application for quotation of securities \u2014 ARX",
         "date": "2026-04-10",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names AROA BIOSURGERY LIMITED and ties issuer to ARX. Reported security-class/allotment table: ARX                     ORDINARY FULLY PAID                                                     426,457    09/04/2026; ARX : ORDINARY FULLY PAID. Form does not independently establish current tradeability or final complete capital structure.",
@@ -1904,7 +2013,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l5pczttbjt80.pdf",
-        "title": "Annual report — ARX",
+        "title": "Annual report \u2014 ARX",
         "date": "2025-06-27",
         "page_section": "Corporateinformation and reportingentity note",
         "fact": "Aroa Biosurgery Limited parent incorporated and domiciled in New Zealand; NZCN 1980577 and ARBN 638 867 473. ARBN must not be called ACN; US subsidiary is a separate legal entity.",
@@ -1942,7 +2051,7 @@
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=35090987250",
-        "title": "ABN Lookup current details — AROVELLA THERAPEUTICS LIMITED",
+        "title": "ABN Lookup current details \u2014 AROVELLA THERAPEUTICS LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity AROVELLA THERAPEUTICS LIMITED; ABN 35 090 987 250; ASIC registration field 090 987 250; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -1951,7 +2060,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=35090987250",
-        "title": "ABN Lookup historical details — AROVELLA THERAPEUTICS LIMITED",
+        "title": "ABN Lookup historical details \u2014 AROVELLA THERAPEUTICS LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "AROVELLA THERAPEUTICS LIMITED 19 Oct 2021 (current) SUDA PHARMACEUTICALS LTD 29 Nov 2017 19 Oct 2021 SUDA LTD 04 Dec 2012 29 Nov 2017 EASTLAND MEDICAL SYSTEMS LTD 13 Sep 2006 04 Dec 2012 BOYES CONSULTING 02 Sep 2006 13 Sep 2006 EASTLAND MEDICAL SYSTEMS LTD 15 Jun 2000 02 Sep 2006",
@@ -1960,7 +2069,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260630/pdf/07152fspkn25d3.pdf",
-        "title": "Application for quotation of securities — ALA",
+        "title": "Application for quotation of securities \u2014 ALA",
         "date": "2026-06-30",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names AROVELLA THERAPEUTICS LIMITED and ties issuer to ALA. Reported security-class/allotment table: ALA                   ORDINARY FULLY PAID                                                        68,181    30/06/2026; ALA : ORDINARY FULLY PAID. Form does not independently establish current tradeability or final complete capital structure.",
@@ -1997,7 +2106,7 @@
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=49112609846",
-        "title": "ABN Lookup current details — ARROW MINERALS LTD",
+        "title": "ABN Lookup current details \u2014 ARROW MINERALS LTD",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity ARROW MINERALS LTD; ABN 49 112 609 846; ASIC registration field 112 609 846; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -2006,7 +2115,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=49112609846",
-        "title": "ABN Lookup historical details — ARROW MINERALS LTD",
+        "title": "ABN Lookup historical details \u2014 ARROW MINERALS LTD",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "ARROW MINERALS LTD 02 Dec 2017 (current) SEGUE RESOURCES LIMITED 12 Jun 2005 02 Dec 2017",
@@ -2015,7 +2124,7 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20260902/pdf/073mp9mcjr9ynl.pdf",
-        "title": "Application for quotation of securities — AMD",
+        "title": "Application for quotation of securities \u2014 AMD",
         "date": "2026-09-02",
         "page_section": "Cover; Part1 entity details; Part2 class/allotment table",
         "fact": "Primary ASX Appendix2A names ARROW MINERALS LTD and ties issuer to AMD. Reported security-class/allotment table: AMD                  ORDINARY FULLY PAID                                                 16,891,892   02/09/2026; AMD : ORDINARY FULLY PAID. Form does not independently establish current tradeability or final complete capital structure.",
@@ -2044,13 +2153,15 @@
       "registry_entity_type": "Australian Public Company",
       "previous_names_and_registry_dates": "ASARA RESOURCES LIMITED 14 Dec 2023 (current) GOLDEN RIM RESOURCES LTD 28 Sep 2007 14 Dec 2023 ALCASTON MINING N.L. 05 Oct 2000 28 Sep 2007 ALCASTON MINING N L 01 Nov 1999 05 Oct 2000",
       "previous_tickers": "UNRESOLVED",
-      "security_type": "UNRESOLVED",
-      "ISIN": "UNRESOLVED"
+      "security_type": "ORDINARY FULLY PAID (AS1); Appendix 2A 2026-09-15; complete class inventory/ISIN unresolved",
+      "ISIN": "UNRESOLVED",
+      "primary_ASX_legal_issuer": "ASARA RESOURCES LIMITED",
+      "ACN": "006710774"
     },
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=39006710774",
-        "title": "ABN Lookup current details — ASARA RESOURCES LIMITED",
+        "title": "ABN Lookup current details \u2014 ASARA RESOURCES LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity ASARA RESOURCES LIMITED; ABN 39 006 710 774; ASIC registration field 006 710 774; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -2059,16 +2170,25 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=39006710774",
-        "title": "ABN Lookup historical details — ASARA RESOURCES LIMITED",
+        "title": "ABN Lookup historical details \u2014 ASARA RESOURCES LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "ASARA RESOURCES LIMITED 14 Dec 2023 (current) GOLDEN RIM RESOURCES LTD 28 Sep 2007 14 Dec 2023 ALCASTON MINING N.L. 05 Oct 2000 28 Sep 2007 ALCASTON MINING N L 01 Nov 1999 05 Oct 2000",
         "verification_method": "Fresh primary registry history downloaded and name timeline extracted",
         "primary": true
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260915/pdf/0743xq4jqm73b2.pdf",
+        "title": "Application for quotation of securities - AS1 6 pages 14.5KB",
+        "date": "2026-09-15",
+        "page_section": "Cover, Part 1 entity details and Part 2 class/allotment table",
+        "fact": "ASX Appendix 2A identifies ASARA RESOURCES LIMITED and AS1 ordinary fully paid securities. Reported table: AS1                  ORDINARY FULLY PAID                                                  5,000,000   14/09/2026; AS1 : ORDINARY FULLY PAID. Does not establish current tradeability or complete later cap table.",
+        "verification_method": "Official ASX 2026 archive read, notice URL resolved, fresh primary PDF downloaded and text reviewed",
+        "primary": true
       }
     ],
     "historical_conclusion": "PARTIAL: ABR legal-name chain evidenced. ABR name-change dates are registry dates and are not assumed ASX effective dates. Full legal/ticker succession and financial comparability remain open.",
-    "security_conclusion": "UNRESOLVED: complete quoted/unquoted security inventory, ISIN bridge and corporate-action history require reconciliation.",
+    "security_conclusion": "PARTIAL: issuer/ticker and ordinary fully paid share class established by dated Appendix 2A; remaining quoted/unquoted classes, ISIN and corporate actions require reconciliation.",
     "trading_conclusion": "UNRESOLVED as at 2026-10-13: complete latest ASX status sequence not established.",
     "unresolved": [
       "Full historical identity/ticker succession and economic comparability",
@@ -2088,13 +2208,14 @@
       "registry_entity_type": "Australian Public Company",
       "previous_names_and_registry_dates": "ASTRAL RESOURCES NL 09 Apr 2022 (current) ANGLO AUSTRALIAN RESOURCES N.L. 13 Feb 2014 09 Apr 2022 ANGLO AUSTRALIAN RESOURCES NL 01 Nov 1999 13 Feb 2014",
       "previous_tickers": "UNRESOLVED",
-      "security_type": "UNRESOLVED",
-      "ISIN": "UNRESOLVED"
+      "security_type": "ORDINARY FULLY PAID (AAR); Appendix 2A 2026-09-01; complete class inventory/ISIN unresolved",
+      "ISIN": "UNRESOLVED",
+      "primary_ASX_legal_issuer": "ASTRAL RESOURCES NL"
     },
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=009159077",
-        "title": "ABN Lookup current details — ASTRAL RESOURCES NL",
+        "title": "ABN Lookup current details \u2014 ASTRAL RESOURCES NL",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity ASTRAL RESOURCES NL; ABN 24 651 541 976; ASIC registration field 009 159 077; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -2103,16 +2224,25 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=009159077",
-        "title": "ABN Lookup historical details — ASTRAL RESOURCES NL",
+        "title": "ABN Lookup historical details \u2014 ASTRAL RESOURCES NL",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "ASTRAL RESOURCES NL 09 Apr 2022 (current) ANGLO AUSTRALIAN RESOURCES N.L. 13 Feb 2014 09 Apr 2022 ANGLO AUSTRALIAN RESOURCES NL 01 Nov 1999 13 Feb 2014",
         "verification_method": "Fresh primary registry history downloaded and name timeline extracted",
         "primary": true
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260901/pdf/073l0gz04m68ws.pdf",
+        "title": "Application for quotation of securities - AAR 6 pages 18.2KB",
+        "date": "2026-09-01",
+        "page_section": "Cover, Part 1 entity details and Part 2 class/allotment table",
+        "fact": "ASX Appendix 2A identifies ASTRAL RESOURCES NL and AAR ordinary fully paid securities. Reported table: AAR                   ORDINARY FULLY PAID                                                     3,000,000    01/09/2026; AAR : ORDINARY FULLY PAID. Does not establish current tradeability or complete later cap table.",
+        "verification_method": "Official ASX 2026 archive read, notice URL resolved, fresh primary PDF downloaded and text reviewed",
+        "primary": true
       }
     ],
     "historical_conclusion": "PARTIAL: ABR legal-name chain evidenced. ABR name-change dates are registry dates and are not assumed ASX effective dates. Full legal/ticker succession and financial comparability remain open.",
-    "security_conclusion": "UNRESOLVED: complete quoted/unquoted security inventory, ISIN bridge and corporate-action history require reconciliation.",
+    "security_conclusion": "PARTIAL: issuer/ticker and ordinary fully paid share class established by dated Appendix 2A; remaining quoted/unquoted classes, ISIN and corporate actions require reconciliation.",
     "trading_conclusion": "UNRESOLVED as at 2026-10-13: complete latest ASX status sequence not established.",
     "unresolved": [
       "Full historical identity/ticker succession and economic comparability",
@@ -2133,13 +2263,15 @@
       "registry_entity_type": "Australian Public Company",
       "previous_names_and_registry_dates": "ATLANTIC LITHIUM LIMITED 19 Nov 2021 (current) IRONRIDGE RESOURCES LIMITED 03 Sep 2014 19 Nov 2021 Ridge Exploration Pty Ltd 24 Aug 2007 03 Sep 2014",
       "previous_tickers": "UNRESOLVED",
-      "security_type": "UNRESOLVED",
-      "ISIN": "UNRESOLVED"
+      "security_type": "ORDINARY FULLY PAID (A11); Appendix 2A 2026-04-01; complete class inventory/ISIN unresolved",
+      "ISIN": "UNRESOLVED",
+      "primary_ASX_legal_issuer": "ATLANTIC LITHIUM LIMITED",
+      "ACN": "127215132"
     },
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=17127215132",
-        "title": "ABN Lookup current details — ATLANTIC LITHIUM LIMITED",
+        "title": "ABN Lookup current details \u2014 ATLANTIC LITHIUM LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity ATLANTIC LITHIUM LIMITED; ABN 17 127 215 132; ASIC registration field 127 215 132; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -2148,16 +2280,25 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=17127215132",
-        "title": "ABN Lookup historical details — ATLANTIC LITHIUM LIMITED",
+        "title": "ABN Lookup historical details \u2014 ATLANTIC LITHIUM LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "ATLANTIC LITHIUM LIMITED 19 Nov 2021 (current) IRONRIDGE RESOURCES LIMITED 03 Sep 2014 19 Nov 2021 Ridge Exploration Pty Ltd 24 Aug 2007 03 Sep 2014",
         "verification_method": "Fresh primary registry history downloaded and name timeline extracted",
         "primary": true
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260401/pdf/06y23t0qdp39sg.pdf",
+        "title": "Application for quotation of securities - A11 6 pages 18.3KB",
+        "date": "2026-04-01",
+        "page_section": "Cover, Part 1 entity details and Part 2 class/allotment table",
+        "fact": "ASX Appendix 2A identifies ATLANTIC LITHIUM LIMITED and A11 ordinary fully paid securities. Reported table: A11                  ORDINARY FULLY PAID                                                 25,380,709   01/04/2026; A11 : ORDINARY FULLY PAID. Does not establish current tradeability or complete later cap table.",
+        "verification_method": "Official ASX 2026 archive read, notice URL resolved, fresh primary PDF downloaded and text reviewed",
+        "primary": true
       }
     ],
     "historical_conclusion": "PARTIAL: ABR legal-name chain evidenced. ABR name-change dates are registry dates and are not assumed ASX effective dates. Full legal/ticker succession and financial comparability remain open.",
-    "security_conclusion": "UNRESOLVED: complete quoted/unquoted security inventory, ISIN bridge and corporate-action history require reconciliation.",
+    "security_conclusion": "PARTIAL: issuer/ticker and ordinary fully paid share class established by dated Appendix 2A; remaining quoted/unquoted classes, ISIN and corporate actions require reconciliation.",
     "trading_conclusion": "UNRESOLVED as at 2026-10-13: complete latest ASX status sequence not established.",
     "unresolved": [
       "Full historical identity/ticker succession and economic comparability",
@@ -2177,13 +2318,14 @@
       "registry_entity_type": "Australian Public Company",
       "previous_names_and_registry_dates": "AUKING MINING LIMITED 25 May 2017 (current) CHINALCO YUNNAN COPPER RESOURCES LTD 13 May 2011 25 May 2017 CHINA YUNNAN COPPER AUSTRALIA LIMITED 30 Jul 2007 13 May 2011 GCU RESOURCES LIMITED 06 Jul 2007 30 Jul 2007 MT STEWART GOLD LTD 24 Dec 2004 06 Jul 2007 MT STEWART GOLD PTY. LTD. 30 May 2000 24 Dec 2004 MT STEWART GOLD PTY LTD 24 Mar 2000 30 May 2000",
       "previous_tickers": "UNRESOLVED",
-      "security_type": "UNRESOLVED",
-      "ISIN": "UNRESOLVED"
+      "security_type": "ORDINARY FULLY PAID (AKN); Appendix 2A 2026-10-13; complete class inventory/ISIN unresolved",
+      "ISIN": "UNRESOLVED",
+      "primary_ASX_legal_issuer": "AUKING MINING LIMITED"
     },
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=29070859522",
-        "title": "ABN Lookup current details — AUKING MINING LIMITED",
+        "title": "ABN Lookup current details \u2014 AUKING MINING LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity AUKING MINING LIMITED; ABN 29 070 859 522; ASIC registration field 070 859 522; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -2192,16 +2334,25 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=29070859522",
-        "title": "ABN Lookup historical details — AUKING MINING LIMITED",
+        "title": "ABN Lookup historical details \u2014 AUKING MINING LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "AUKING MINING LIMITED 25 May 2017 (current) CHINALCO YUNNAN COPPER RESOURCES LTD 13 May 2011 25 May 2017 CHINA YUNNAN COPPER AUSTRALIA LIMITED 30 Jul 2007 13 May 2011 GCU RESOURCES LIMITED 06 Jul 2007 30 Jul 2007 MT STEWART GOLD LTD 24 Dec 2004 06 Jul 2007 MT STEWART GOLD PTY. LTD. 30 May 2000 24 Dec 2004 MT STEWART GOLD PTY LTD 24 Mar 2000 30 May 2000",
         "verification_method": "Fresh primary registry history downloaded and name timeline extracted",
         "primary": true
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20261013/pdf/0758d7m2cgyylm.pdf",
+        "title": "Application for quotation of securities - AKN 6 pages 14.3KB",
+        "date": "2026-10-13",
+        "page_section": "Cover, Part 1 entity details and Part 2 class/allotment table",
+        "fact": "ASX Appendix 2A identifies AUKING MINING LIMITED and AKN ordinary fully paid securities. Reported table: AKN                   ORDINARY FULLY PAID                                                     5,191,584    13/10/2026; AKN : ORDINARY FULLY PAID. Does not establish current tradeability or complete later cap table.",
+        "verification_method": "Official ASX 2026 archive read, notice URL resolved, fresh primary PDF downloaded and text reviewed",
+        "primary": true
       }
     ],
     "historical_conclusion": "PARTIAL: ABR legal-name chain evidenced. ABR name-change dates are registry dates and are not assumed ASX effective dates. Full legal/ticker succession and financial comparability remain open.",
-    "security_conclusion": "UNRESOLVED: complete quoted/unquoted security inventory, ISIN bridge and corporate-action history require reconciliation.",
+    "security_conclusion": "PARTIAL: issuer/ticker and ordinary fully paid share class established by dated Appendix 2A; remaining quoted/unquoted classes, ISIN and corporate actions require reconciliation.",
     "trading_conclusion": "UNRESOLVED as at 2026-10-13: complete latest ASX status sequence not established.",
     "unresolved": [
       "Full historical identity/ticker succession and economic comparability",
@@ -2221,13 +2372,14 @@
       "registry_entity_type": "Australian Public Company",
       "previous_names_and_registry_dates": "AURA ENERGY LIMITED 19 May 2006 (current) Cai Resources Limited 26 Mar 2006 19 May 2006",
       "previous_tickers": "UNRESOLVED",
-      "security_type": "UNRESOLVED",
-      "ISIN": "UNRESOLVED"
+      "security_type": "ORDINARY FULLY PAID (AEE); Appendix 2A 2026-06-05; complete class inventory/ISIN unresolved",
+      "ISIN": "UNRESOLVED",
+      "primary_ASX_legal_issuer": "AURA ENERGY LIMITED"
     },
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=62115927681",
-        "title": "ABN Lookup current details — AURA ENERGY LIMITED",
+        "title": "ABN Lookup current details \u2014 AURA ENERGY LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity AURA ENERGY LIMITED; ABN 62 115 927 681; ASIC registration field 115 927 681; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -2236,16 +2388,25 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=62115927681",
-        "title": "ABN Lookup historical details — AURA ENERGY LIMITED",
+        "title": "ABN Lookup historical details \u2014 AURA ENERGY LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "AURA ENERGY LIMITED 19 May 2006 (current) Cai Resources Limited 26 Mar 2006 19 May 2006",
         "verification_method": "Fresh primary registry history downloaded and name timeline extracted",
         "primary": true
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260605/pdf/070cb7z3qyjnbl.pdf",
+        "title": "Application for quotation of securities - AEE 6 pages 18.4KB",
+        "date": "2026-06-05",
+        "page_section": "Cover, Part 1 entity details and Part 2 class/allotment table",
+        "fact": "ASX Appendix 2A identifies AURA ENERGY LIMITED and AEE ordinary fully paid securities. Reported table: AEE                   ORDINARY FULLY PAID                                                          1,197   05/06/2026; AEE : ORDINARY FULLY PAID. Does not establish current tradeability or complete later cap table.",
+        "verification_method": "Official ASX 2026 archive read, notice URL resolved, fresh primary PDF downloaded and text reviewed",
+        "primary": true
       }
     ],
     "historical_conclusion": "PARTIAL: ABR legal-name chain evidenced. ABR name-change dates are registry dates and are not assumed ASX effective dates. Full legal/ticker succession and financial comparability remain open.",
-    "security_conclusion": "UNRESOLVED: complete quoted/unquoted security inventory, ISIN bridge and corporate-action history require reconciliation.",
+    "security_conclusion": "PARTIAL: issuer/ticker and ordinary fully paid share class established by dated Appendix 2A; remaining quoted/unquoted classes, ISIN and corporate actions require reconciliation.",
     "trading_conclusion": "UNRESOLVED as at 2026-10-13: complete latest ASX status sequence not established.",
     "unresolved": [
       "Full historical identity/ticker succession and economic comparability",
@@ -2265,13 +2426,15 @@
       "registry_entity_type": "Australian Public Company",
       "previous_names_and_registry_dates": "AURIC MINING LIMITED 28 May 2020 (current) AURIC MINING PTY LTD 12 Aug 2019 28 May 2020",
       "previous_tickers": "UNRESOLVED",
-      "security_type": "UNRESOLVED",
-      "ISIN": "UNRESOLVED"
+      "security_type": "ORDINARY FULLY PAID (AWJ); Appendix 2A 2026-09-16; complete class inventory/ISIN unresolved",
+      "ISIN": "UNRESOLVED",
+      "primary_ASX_legal_issuer": "AURIC MINING LIMITED",
+      "ACN": "635470843"
     },
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=29635470843",
-        "title": "ABN Lookup current details — AURIC MINING LIMITED",
+        "title": "ABN Lookup current details \u2014 AURIC MINING LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity AURIC MINING LIMITED; ABN 29 635 470 843; ASIC registration field 635 470 843; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -2280,16 +2443,25 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=29635470843",
-        "title": "ABN Lookup historical details — AURIC MINING LIMITED",
+        "title": "ABN Lookup historical details \u2014 AURIC MINING LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "AURIC MINING LIMITED 28 May 2020 (current) AURIC MINING PTY LTD 12 Aug 2019 28 May 2020",
         "verification_method": "Fresh primary registry history downloaded and name timeline extracted",
         "primary": true
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260916/pdf/0745ftq1ncpcpp.pdf",
+        "title": "Application for quotation of securities - AWJ 6 pages 14.4KB",
+        "date": "2026-09-16",
+        "page_section": "Cover, Part 1 entity details and Part 2 class/allotment table",
+        "fact": "ASX Appendix 2A identifies AURIC MINING LIMITED and AWJ ordinary fully paid securities. Reported table: AWJ                   ORDINARY FULLY PAID                                                       500,000    15/09/2026; AWJ : ORDINARY FULLY PAID. Does not establish current tradeability or complete later cap table.",
+        "verification_method": "Official ASX 2026 archive read, notice URL resolved, fresh primary PDF downloaded and text reviewed",
+        "primary": true
       }
     ],
     "historical_conclusion": "PARTIAL: ABR legal-name chain evidenced. ABR name-change dates are registry dates and are not assumed ASX effective dates. Full legal/ticker succession and financial comparability remain open.",
-    "security_conclusion": "UNRESOLVED: complete quoted/unquoted security inventory, ISIN bridge and corporate-action history require reconciliation.",
+    "security_conclusion": "PARTIAL: issuer/ticker and ordinary fully paid share class established by dated Appendix 2A; remaining quoted/unquoted classes, ISIN and corporate actions require reconciliation.",
     "trading_conclusion": "UNRESOLVED as at 2026-10-13: complete latest ASX status sequence not established.",
     "unresolved": [
       "Full historical identity/ticker succession and economic comparability",
@@ -2309,13 +2481,15 @@
       "registry_entity_type": "Australian Public Company",
       "previous_names_and_registry_dates": "AURUM RESOURCES LIMITED 25 May 2021 (current)",
       "previous_tickers": "UNRESOLVED",
-      "security_type": "UNRESOLVED",
-      "ISIN": "UNRESOLVED"
+      "security_type": "ORDINARY FULLY PAID (AUE); Appendix 2A 2026-10-09; complete class inventory/ISIN unresolved",
+      "ISIN": "UNRESOLVED",
+      "primary_ASX_legal_issuer": "AURUM RESOURCES LIMITED",
+      "ACN": "650477286"
     },
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=17650477286",
-        "title": "ABN Lookup current details — AURUM RESOURCES LIMITED",
+        "title": "ABN Lookup current details \u2014 AURUM RESOURCES LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity AURUM RESOURCES LIMITED; ABN 17 650 477 286; ASIC registration field 650 477 286; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -2324,16 +2498,25 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=17650477286",
-        "title": "ABN Lookup historical details — AURUM RESOURCES LIMITED",
+        "title": "ABN Lookup historical details \u2014 AURUM RESOURCES LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "AURUM RESOURCES LIMITED 25 May 2021 (current)",
         "verification_method": "Fresh primary registry history downloaded and name timeline extracted",
         "primary": true
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20261009/pdf/0754rpqswthqxk.pdf",
+        "title": "Application for quotation of securities - AUE 7 pages 17.3KB",
+        "date": "2026-10-09",
+        "page_section": "Cover, Part 1 entity details and Part 2 class/allotment table",
+        "fact": "ASX Appendix 2A identifies AURUM RESOURCES LIMITED and AUE ordinary fully paid securities. Reported table: AUE                   ORDINARY FULLY PAID                                                       862,351    08/10/2026; AUE : ORDINARY FULLY PAID. Does not establish current tradeability or complete later cap table.",
+        "verification_method": "Official ASX 2026 archive read, notice URL resolved, fresh primary PDF downloaded and text reviewed",
+        "primary": true
       }
     ],
     "historical_conclusion": "PARTIAL: ABR legal-name chain evidenced. ABR name-change dates are registry dates and are not assumed ASX effective dates. Full legal/ticker succession and financial comparability remain open.",
-    "security_conclusion": "UNRESOLVED: complete quoted/unquoted security inventory, ISIN bridge and corporate-action history require reconciliation.",
+    "security_conclusion": "PARTIAL: issuer/ticker and ordinary fully paid share class established by dated Appendix 2A; remaining quoted/unquoted classes, ISIN and corporate actions require reconciliation.",
     "trading_conclusion": "UNRESOLVED as at 2026-10-13: complete latest ASX status sequence not established.",
     "unresolved": [
       "Full historical identity/ticker succession and economic comparability",
@@ -2353,13 +2536,14 @@
       "registry_entity_type": "Australian Public Company",
       "previous_names_and_registry_dates": "AUSTCO HEALTHCARE LIMITED 25 Nov 2020 (current) AZURE HEALTHCARE LIMITED 06 Jan 2012 25 Nov 2020 TSV Holdings Limited 02 Mar 2004 06 Jan 2012",
       "previous_tickers": "UNRESOLVED",
-      "security_type": "UNRESOLVED",
-      "ISIN": "UNRESOLVED"
+      "security_type": "Ordinary fully paid shares referenced in cited primary report 2026-09-17; complete current class inventory and ISIN unresolved",
+      "ISIN": "UNRESOLVED",
+      "primary_ASX_legal_issuer": "AUSTCO HEALTHCARE LIMITED"
     },
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=67108208760",
-        "title": "ABN Lookup current details — AUSTCO HEALTHCARE LIMITED",
+        "title": "ABN Lookup current details \u2014 AUSTCO HEALTHCARE LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity AUSTCO HEALTHCARE LIMITED; ABN 67 108 208 760; ASIC registration field 108 208 760; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -2368,16 +2552,34 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=67108208760",
-        "title": "ABN Lookup historical details — AUSTCO HEALTHCARE LIMITED",
+        "title": "ABN Lookup historical details \u2014 AUSTCO HEALTHCARE LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "AUSTCO HEALTHCARE LIMITED 25 Nov 2020 (current) AZURE HEALTHCARE LIMITED 06 Jan 2012 25 Nov 2020 TSV Holdings Limited 02 Mar 2004 06 Jan 2012",
         "verification_method": "Fresh primary registry history downloaded and name timeline extracted",
         "primary": true
+      },
+      {
+        "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?by=asxCode&asxCode=AHC&timeframe=Y&year=2026",
+        "title": "ASX official 2026 announcement archive \u2014 AHC",
+        "date": "2026-10-13 (review; entries filtered to cutoff)",
+        "page_section": "Company announcements issuer heading and linked dated issuer report",
+        "fact": "Official archive identifies AUSTCO HEALTHCARE LIMITED (AHC) and links the dated primary report Annual Report to shareholders 74 pages 2.9MB. Archive presence is not proof of current trading.",
+        "verification_method": "Official ASX archive downloaded and current issuer heading/dated links inspected",
+        "primary": true
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260917/pdf/0746kycvmb4sqq.pdf",
+        "title": "Annual Report to shareholders 74 pages 2.9MB",
+        "date": "2026-09-17",
+        "page_section": "Issuer details and issued-capital/security notes where stated",
+        "fact": "ASX AHC archive identifies AUSTCO HEALTHCARE LIMITED and links this issuer report. Actual report text independently read; fully paid ordinary shares referenced, with remaining current inventory unresolved.",
+        "verification_method": "Live official ASX archive resolved to primary issuer PDF; freshly downloaded and extracted identity/security text independently reviewed",
+        "primary": true
       }
     ],
     "historical_conclusion": "PARTIAL: ABR legal-name chain evidenced. ABR name-change dates are registry dates and are not assumed ASX effective dates. Full legal/ticker succession and financial comparability remain open.",
-    "security_conclusion": "UNRESOLVED: complete quoted/unquoted security inventory, ISIN bridge and corporate-action history require reconciliation.",
+    "security_conclusion": "PARTIAL: ordinary fully paid shares evidenced at cited document date. Current complete quoted/unquoted classes, ISIN and historical actions remain open.",
     "trading_conclusion": "UNRESOLVED as at 2026-10-13: complete latest ASX status sequence not established.",
     "unresolved": [
       "Full historical identity/ticker succession and economic comparability",
@@ -2397,13 +2599,14 @@
       "registry_entity_type": "Australian Private Company",
       "previous_names_and_registry_dates": "AUSTRAL RESOURCES AUSTRALIA PTY LTD 16 Apr 2020 (current) CST Minerals Australia Pty Ltd 09 Mar 2010 16 Apr 2020",
       "previous_tickers": "UNRESOLVED",
-      "security_type": "UNRESOLVED",
-      "ISIN": "UNRESOLVED"
+      "security_type": "ORDINARY FULLY PAID (AR1); Appendix 2A 2026-07-30; complete class inventory/ISIN unresolved",
+      "ISIN": "UNRESOLVED",
+      "primary_ASX_legal_issuer": "AUSTRAL RESOURCES AUSTRALIA LTD"
     },
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=50142485470",
-        "title": "ABN Lookup current details — AUSTRAL RESOURCES AUSTRALIA PTY LTD",
+        "title": "ABN Lookup current details \u2014 AUSTRAL RESOURCES AUSTRALIA PTY LTD",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity AUSTRAL RESOURCES AUSTRALIA PTY LTD; ABN 50 142 485 470; ASIC registration field 142 485 470; entity type Australian Private Company. Active ABN does not prove ASX trading status.",
@@ -2412,16 +2615,25 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=50142485470",
-        "title": "ABN Lookup historical details — AUSTRAL RESOURCES AUSTRALIA PTY LTD",
+        "title": "ABN Lookup historical details \u2014 AUSTRAL RESOURCES AUSTRALIA PTY LTD",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "AUSTRAL RESOURCES AUSTRALIA PTY LTD 16 Apr 2020 (current) CST Minerals Australia Pty Ltd 09 Mar 2010 16 Apr 2020",
         "verification_method": "Fresh primary registry history downloaded and name timeline extracted",
         "primary": true
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260730/pdf/0727fyj3mpvbqy.pdf",
+        "title": "Application for quotation of securities - AR1 6 pages 18.3KB",
+        "date": "2026-07-30",
+        "page_section": "Cover, Part 1 entity details and Part 2 class/allotment table",
+        "fact": "ASX Appendix 2A identifies AUSTRAL RESOURCES AUSTRALIA LTD and AR1 ordinary fully paid securities. Reported table: AR1                  ORDINARY FULLY PAID                                               159,830,504    30/07/2026; AR1 : ORDINARY FULLY PAID. Does not establish current tradeability or complete later cap table.",
+        "verification_method": "Official ASX 2026 archive read, notice URL resolved, fresh primary PDF downloaded and text reviewed",
+        "primary": true
       }
     ],
     "historical_conclusion": "PARTIAL: ABR legal-name chain evidenced. ABR name-change dates are registry dates and are not assumed ASX effective dates. Full legal/ticker succession and financial comparability remain open.",
-    "security_conclusion": "UNRESOLVED: complete quoted/unquoted security inventory, ISIN bridge and corporate-action history require reconciliation.",
+    "security_conclusion": "PARTIAL: issuer/ticker and ordinary fully paid share class established by dated Appendix 2A; remaining quoted/unquoted classes, ISIN and corporate actions require reconciliation.",
     "trading_conclusion": "UNRESOLVED as at 2026-10-13: complete latest ASX status sequence not established.",
     "unresolved": [
       "Full historical identity/ticker succession and economic comparability",
@@ -2444,13 +2656,15 @@
       "registry_entity_type": "Australian Public Company",
       "previous_names_and_registry_dates": "AUSTRALIAN MINES LIMITED 23 Feb 2004 (current) WEST MUSGRAVE MINING LIMITED 05 Jun 2001 23 Feb 2004 FIRST MINERAL RESOURCES PTY LTD 15 Aug 2000 05 Jun 2001",
       "previous_tickers": "UNRESOLVED",
-      "security_type": "UNRESOLVED",
-      "ISIN": "UNRESOLVED"
+      "security_type": "Ordinary fully paid shares referenced in cited primary report 2026-09-17; complete current class inventory and ISIN unresolved",
+      "ISIN": "UNRESOLVED",
+      "primary_ASX_legal_issuer": "AUSTRALIAN MINES LIMITED",
+      "ACN": "073914191"
     },
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=68073914191",
-        "title": "ABN Lookup current details — AUSTRALIAN MINES LIMITED",
+        "title": "ABN Lookup current details \u2014 AUSTRALIAN MINES LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity AUSTRALIAN MINES LIMITED; ABN 68 073 914 191; ASIC registration field 073 914 191; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -2459,16 +2673,25 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=68073914191",
-        "title": "ABN Lookup historical details — AUSTRALIAN MINES LIMITED",
+        "title": "ABN Lookup historical details \u2014 AUSTRALIAN MINES LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "AUSTRALIAN MINES LIMITED 23 Feb 2004 (current) WEST MUSGRAVE MINING LIMITED 05 Jun 2001 23 Feb 2004 FIRST MINERAL RESOURCES PTY LTD 15 Aug 2000 05 Jun 2001",
         "verification_method": "Fresh primary registry history downloaded and name timeline extracted",
         "primary": true
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260917/pdf/0746rf3g60fmx2.pdf",
+        "title": "Application for quotation of securities - AUZ 6 pages 14.2KB",
+        "date": "2026-09-17",
+        "page_section": "Issuer details and issued-capital/security notes where stated",
+        "fact": "ASX Appendix 2A identifies AUSTRALIAN MINES LIMITED and security AUZ. Reported table: AUZ                   ORDINARY FULLY PAID                                                    12,360,000    11/09/2026; AUZ : ORDINARY FULLY PAID. Full later security inventory and tradeability not established.",
+        "verification_method": "Live official ASX archive resolved to primary issuer PDF; freshly downloaded and extracted identity/security text independently reviewed",
+        "primary": true
       }
     ],
     "historical_conclusion": "PARTIAL: ABR legal-name chain evidenced. ABR name-change dates are registry dates and are not assumed ASX effective dates. Full legal/ticker succession and financial comparability remain open.",
-    "security_conclusion": "UNRESOLVED: complete quoted/unquoted security inventory, ISIN bridge and corporate-action history require reconciliation.",
+    "security_conclusion": "PARTIAL: ordinary fully paid shares evidenced at cited document date. Current complete quoted/unquoted classes, ISIN and historical actions remain open.",
     "trading_conclusion": "UNRESOLVED as at 2026-10-13: complete latest ASX status sequence not established.",
     "unresolved": [
       "Full historical identity/ticker succession and economic comparability",
@@ -2488,13 +2711,14 @@
       "registry_entity_type": "Australian Public Company",
       "previous_names_and_registry_dates": "AUSTRALIAN VANADIUM LIMITED 25 Nov 2015 (current) Yellow Rock Resources Ltd 19 May 2006 25 Nov 2015",
       "previous_tickers": "UNRESOLVED",
-      "security_type": "UNRESOLVED",
-      "ISIN": "UNRESOLVED"
+      "security_type": "Ordinary fully paid shares referenced in cited primary report 2026-09-25; complete current class inventory and ISIN unresolved",
+      "ISIN": "UNRESOLVED",
+      "primary_ASX_legal_issuer": "AUSTRALIAN VANADIUM LIMITED"
     },
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=90116221740",
-        "title": "ABN Lookup current details — AUSTRALIAN VANADIUM LIMITED",
+        "title": "ABN Lookup current details \u2014 AUSTRALIAN VANADIUM LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity AUSTRALIAN VANADIUM LIMITED; ABN 90 116 221 740; ASIC registration field 116 221 740; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -2503,16 +2727,34 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=90116221740",
-        "title": "ABN Lookup historical details — AUSTRALIAN VANADIUM LIMITED",
+        "title": "ABN Lookup historical details \u2014 AUSTRALIAN VANADIUM LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "AUSTRALIAN VANADIUM LIMITED 25 Nov 2015 (current) Yellow Rock Resources Ltd 19 May 2006 25 Nov 2015",
         "verification_method": "Fresh primary registry history downloaded and name timeline extracted",
         "primary": true
+      },
+      {
+        "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?by=asxCode&asxCode=AVL&timeframe=Y&year=2026",
+        "title": "ASX official 2026 announcement archive \u2014 AVL",
+        "date": "2026-10-13 (review; entries filtered to cutoff)",
+        "page_section": "Company announcements issuer heading and linked dated issuer report",
+        "fact": "Official archive identifies AUSTRALIAN VANADIUM LIMITED (AVL) and links the dated primary report Annual Report to shareholders 114 pages 22.1MB. Archive presence is not proof of current trading.",
+        "verification_method": "Official ASX archive downloaded and current issuer heading/dated links inspected",
+        "primary": true
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260925/pdf/074k5q4dhf7kv5.pdf",
+        "title": "Annual Report to shareholders 114 pages 22.1MB",
+        "date": "2026-09-25",
+        "page_section": "Issuer details and issued-capital/security notes where stated",
+        "fact": "ASX AVL archive identifies AUSTRALIAN VANADIUM LIMITED and links this issuer report. Actual report text independently read; fully paid ordinary shares referenced, with remaining current inventory unresolved.",
+        "verification_method": "Live official ASX archive resolved to primary issuer PDF; freshly downloaded and extracted identity/security text independently reviewed",
+        "primary": true
       }
     ],
     "historical_conclusion": "PARTIAL: ABR legal-name chain evidenced. ABR name-change dates are registry dates and are not assumed ASX effective dates. Full legal/ticker succession and financial comparability remain open.",
-    "security_conclusion": "UNRESOLVED: complete quoted/unquoted security inventory, ISIN bridge and corporate-action history require reconciliation.",
+    "security_conclusion": "PARTIAL: ordinary fully paid shares evidenced at cited document date. Current complete quoted/unquoted classes, ISIN and historical actions remain open.",
     "trading_conclusion": "UNRESOLVED as at 2026-10-13: complete latest ASX status sequence not established.",
     "unresolved": [
       "Full historical identity/ticker succession and economic comparability",
@@ -2532,13 +2774,14 @@
       "registry_entity_type": "Australian Public Company",
       "previous_names_and_registry_dates": "AUTOSPORTS GROUP LIMITED 29 Aug 2016 (current)",
       "previous_tickers": "UNRESOLVED",
-      "security_type": "UNRESOLVED",
-      "ISIN": "UNRESOLVED"
+      "security_type": "Ordinary fully paid shares referenced in cited primary report 2026-09-02; complete current class inventory and ISIN unresolved",
+      "ISIN": "UNRESOLVED",
+      "primary_ASX_legal_issuer": "AUTOSPORTS GROUP LIMITED."
     },
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=614505261",
-        "title": "ABN Lookup current details — AUTOSPORTS GROUP LIMITED",
+        "title": "ABN Lookup current details \u2014 AUTOSPORTS GROUP LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity AUTOSPORTS GROUP LIMITED; ABN 54 614 505 261; ASIC registration field 614 505 261; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -2547,16 +2790,25 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=614505261",
-        "title": "ABN Lookup historical details — AUTOSPORTS GROUP LIMITED",
+        "title": "ABN Lookup historical details \u2014 AUTOSPORTS GROUP LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "AUTOSPORTS GROUP LIMITED 29 Aug 2016 (current)",
         "verification_method": "Fresh primary registry history downloaded and name timeline extracted",
         "primary": true
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260902/pdf/073mvpm7hf7cnd.pdf",
+        "title": "Application for quotation of securities - ASG 7 pages 20.8KB",
+        "date": "2026-09-02",
+        "page_section": "Issuer details and issued-capital/security notes where stated",
+        "fact": "ASX Appendix 2A identifies AUTOSPORTS GROUP LIMITED. and security ASG. Reported table: ASG                  ORDINARY FULLY PAID                                                      387,008    01/09/2026; ASG : ORDINARY FULLY PAID. Full later security inventory and tradeability not established.",
+        "verification_method": "Live official ASX archive resolved to primary issuer PDF; freshly downloaded and extracted identity/security text independently reviewed",
+        "primary": true
       }
     ],
     "historical_conclusion": "PARTIAL: ABR legal-name chain evidenced. ABR name-change dates are registry dates and are not assumed ASX effective dates. Full legal/ticker succession and financial comparability remain open.",
-    "security_conclusion": "UNRESOLVED: complete quoted/unquoted security inventory, ISIN bridge and corporate-action history require reconciliation.",
+    "security_conclusion": "PARTIAL: ordinary fully paid shares evidenced at cited document date. Current complete quoted/unquoted classes, ISIN and historical actions remain open.",
     "trading_conclusion": "UNRESOLVED as at 2026-10-13: complete latest ASX status sequence not established.",
     "unresolved": [
       "Full historical identity/ticker succession and economic comparability",
@@ -2576,13 +2828,14 @@
       "registry_entity_type": "Australian Public Company",
       "previous_names_and_registry_dates": "BABY BUNTING GROUP LIMITED 22 Jul 2015 (current) Baby Investments Limited 29 Apr 2009 22 Jul 2015",
       "previous_tickers": "UNRESOLVED",
-      "security_type": "UNRESOLVED",
-      "ISIN": "UNRESOLVED"
+      "security_type": "Ordinary fully paid shares referenced in cited primary report 2026-08-14; complete current class inventory and ISIN unresolved",
+      "ISIN": "UNRESOLVED",
+      "primary_ASX_legal_issuer": "BABY BUNTING GROUP LIMITED"
     },
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=58128533693",
-        "title": "ABN Lookup current details — BABY BUNTING GROUP LIMITED",
+        "title": "ABN Lookup current details \u2014 BABY BUNTING GROUP LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity BABY BUNTING GROUP LIMITED; ABN 58 128 533 693; ASIC registration field 128 533 693; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -2591,16 +2844,25 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=58128533693",
-        "title": "ABN Lookup historical details — BABY BUNTING GROUP LIMITED",
+        "title": "ABN Lookup historical details \u2014 BABY BUNTING GROUP LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "BABY BUNTING GROUP LIMITED 22 Jul 2015 (current) Baby Investments Limited 29 Apr 2009 22 Jul 2015",
         "verification_method": "Fresh primary registry history downloaded and name timeline extracted",
         "primary": true
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260814/pdf/072rk3drb4f4wn.pdf",
+        "title": "Application for quotation of securities - BBN 7 pages 20.9KB",
+        "date": "2026-08-14",
+        "page_section": "Issuer details and issued-capital/security notes where stated",
+        "fact": "ASX Appendix 2A identifies BABY BUNTING GROUP LIMITED and security BBN. Reported table: BBN                  ORDINARY FULLY PAID                                                    1,443,173    14/08/2026; BBN : ORDINARY FULLY PAID. Full later security inventory and tradeability not established.",
+        "verification_method": "Live official ASX archive resolved to primary issuer PDF; freshly downloaded and extracted identity/security text independently reviewed",
+        "primary": true
       }
     ],
     "historical_conclusion": "PARTIAL: ABR legal-name chain evidenced. ABR name-change dates are registry dates and are not assumed ASX effective dates. Full legal/ticker succession and financial comparability remain open.",
-    "security_conclusion": "UNRESOLVED: complete quoted/unquoted security inventory, ISIN bridge and corporate-action history require reconciliation.",
+    "security_conclusion": "PARTIAL: ordinary fully paid shares evidenced at cited document date. Current complete quoted/unquoted classes, ISIN and historical actions remain open.",
     "trading_conclusion": "UNRESOLVED as at 2026-10-13: complete latest ASX status sequence not established.",
     "unresolved": [
       "Full historical identity/ticker succession and economic comparability",
@@ -2629,7 +2891,7 @@
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=73685311577",
-        "title": "ABN Lookup current details — BALLARD MINING LIMITED",
+        "title": "ABN Lookup current details \u2014 BALLARD MINING LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity BALLARD MINING LIMITED; ABN 73 685 311 577; ASIC registration field 685 311 577; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -2638,7 +2900,7 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=73685311577",
-        "title": "ABN Lookup historical details — BALLARD MINING LIMITED",
+        "title": "ABN Lookup historical details \u2014 BALLARD MINING LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "BALLARD MINING LIMITED 13 Mar 2025 (current)",
@@ -2647,16 +2909,16 @@
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250710/pdf/06lp8c17q2tpfz.pdf",
-        "title": "Admission — BM1",
+        "title": "Admission \u2014 BM1",
         "date": "2025-07-10",
-        "page_section": "PDF pages1–2",
+        "page_section": "PDF pages1\u20132",
         "fact": "ASX confirms Ballard Mining admission on 10 July 2025. Ordinary BM1 ISIN AU0000400376; 183,689,206 quoted shares; quotation scheduled 14 July 2025. Restricted ordinary shares, options and performance rights additionally listed. Scheduled commencement is not observed commencement.",
         "verification_method": "Fresh primary PDF downloaded after recovery; extracted substantive text independently reviewed",
         "primary": true
       },
       {
         "url": "https://announcements.asx.com.au/asxpdf/20250710/pdf/06lp8lth51f1bh.pdf",
-        "title": "Listing information — BM1",
+        "title": "Listing information \u2014 BM1",
         "date": "2025-07-10",
         "page_section": "PDF page1 Corporate details",
         "fact": "Ballard Mining Limited incorporated 13 March 2025 in Western Australia, Australia; ABN 73 685 311 577 and ACN 685 311 577.",
@@ -2685,13 +2947,14 @@
       "registry_entity_type": "Australian Private Company",
       "previous_names_and_registry_dates": "BARTON GOLD HOLDINGS LIMITED 29 Apr 2022 (current) BARTON GOLD HOLDINGS PTY LTD 01 Jan 2021 29 Apr 2022",
       "previous_tickers": "UNRESOLVED",
-      "security_type": "UNRESOLVED",
-      "ISIN": "UNRESOLVED"
+      "security_type": "Ordinary fully paid shares referenced in cited primary report 2026-09-30; complete current class inventory and ISIN unresolved",
+      "ISIN": "UNRESOLVED",
+      "primary_ASX_legal_issuer": "BARTON GOLD HOLDINGS LIMITED"
     },
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=633442618",
-        "title": "ABN Lookup current details — BARTON GOLD HOLDINGS LIMITED",
+        "title": "ABN Lookup current details \u2014 BARTON GOLD HOLDINGS LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity BARTON GOLD HOLDINGS LIMITED; ABN 36 633 442 618; ASIC registration field 633 442 618; entity type Australian Private Company. Active ABN does not prove ASX trading status.",
@@ -2700,16 +2963,34 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=633442618",
-        "title": "ABN Lookup historical details — BARTON GOLD HOLDINGS LIMITED",
+        "title": "ABN Lookup historical details \u2014 BARTON GOLD HOLDINGS LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "BARTON GOLD HOLDINGS LIMITED 29 Apr 2022 (current) BARTON GOLD HOLDINGS PTY LTD 01 Jan 2021 29 Apr 2022",
         "verification_method": "Fresh primary registry history downloaded and name timeline extracted",
         "primary": true
+      },
+      {
+        "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?by=asxCode&asxCode=BGD&timeframe=Y&year=2026",
+        "title": "ASX official 2026 announcement archive \u2014 BGD",
+        "date": "2026-10-13 (review; entries filtered to cutoff)",
+        "page_section": "Company announcements issuer heading and linked dated issuer report",
+        "fact": "Official archive identifies BARTON GOLD HOLDINGS LIMITED (BGD) and links the dated primary report Annual Report to shareholders 82 pages 8.2MB. Archive presence is not proof of current trading.",
+        "verification_method": "Official ASX archive downloaded and current issuer heading/dated links inspected",
+        "primary": true
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260930/pdf/074q1p8wrtsb8y.pdf",
+        "title": "Annual Report to shareholders 82 pages 8.2MB",
+        "date": "2026-09-30",
+        "page_section": "Issuer details and issued-capital/security notes where stated",
+        "fact": "ASX BGD archive identifies BARTON GOLD HOLDINGS LIMITED and links this issuer report. Actual report text independently read; fully paid ordinary shares referenced, with remaining current inventory unresolved.",
+        "verification_method": "Live official ASX archive resolved to primary issuer PDF; freshly downloaded and extracted identity/security text independently reviewed",
+        "primary": true
       }
     ],
     "historical_conclusion": "PARTIAL: ABR legal-name chain evidenced. ABR name-change dates are registry dates and are not assumed ASX effective dates. Full legal/ticker succession and financial comparability remain open.",
-    "security_conclusion": "UNRESOLVED: complete quoted/unquoted security inventory, ISIN bridge and corporate-action history require reconciliation.",
+    "security_conclusion": "PARTIAL: ordinary fully paid shares evidenced at cited document date. Current complete quoted/unquoted classes, ISIN and historical actions remain open.",
     "trading_conclusion": "UNRESOLVED as at 2026-10-13: complete latest ASX status sequence not established.",
     "unresolved": [
       "Full historical identity/ticker succession and economic comparability",
@@ -2733,12 +3014,13 @@
       "previous_names_and_registry_dates": "BASS OIL LIMITED 28 Feb 2017 (current) BASS STRAIT OIL COMPANY LTD 19 Dec 2000 28 Feb 2017 BASS STRAIT OIL COMPANY PTY. LTD. 05 Oct 2000 19 Dec 2000 BASS STRAIT OIL COMPANY PTY LTD 24 May 2000 05 Oct 2000",
       "previous_tickers": "UNRESOLVED",
       "security_type": "UNRESOLVED",
-      "ISIN": "UNRESOLVED"
+      "ISIN": "UNRESOLVED",
+      "primary_ASX_legal_issuer": "BASS OIL LIMITED"
     },
     "evidence": [
       {
         "url": "https://abr.business.gov.au/ABN/View?id=13008694817",
-        "title": "ABN Lookup current details — BASS OIL LIMITED",
+        "title": "ABN Lookup current details \u2014 BASS OIL LIMITED",
         "date": "2026-10-13 (live review/record extraction)",
         "page_section": "ABN details / ASIC registration",
         "fact": "Legal entity BASS OIL LIMITED; ABN 13 008 694 817; ASIC registration field 008 694 817; entity type Australian Public Company. Active ABN does not prove ASX trading status.",
@@ -2747,11 +3029,29 @@
       },
       {
         "url": "https://abr.business.gov.au/AbnHistory/View?id=13008694817",
-        "title": "ABN Lookup historical details — BASS OIL LIMITED",
+        "title": "ABN Lookup historical details \u2014 BASS OIL LIMITED",
         "date": "2026-10-13 (live review)",
         "page_section": "Entity names From/To",
         "fact": "BASS OIL LIMITED 28 Feb 2017 (current) BASS STRAIT OIL COMPANY LTD 19 Dec 2000 28 Feb 2017 BASS STRAIT OIL COMPANY PTY. LTD. 05 Oct 2000 19 Dec 2000 BASS STRAIT OIL COMPANY PTY LTD 24 May 2000 05 Oct 2000",
         "verification_method": "Fresh primary registry history downloaded and name timeline extracted",
+        "primary": true
+      },
+      {
+        "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?by=asxCode&asxCode=BAS&timeframe=Y&year=2026",
+        "title": "ASX official 2026 announcement archive \u2014 BAS",
+        "date": "2026-10-13 (review; entries filtered to cutoff)",
+        "page_section": "Company announcements issuer heading and linked dated issuer report",
+        "fact": "Official archive identifies BASS OIL LIMITED (BAS) and links the dated primary report Half Year Results - 30 June 2026 2 pages 311.8KB. Archive presence is not proof of current trading.",
+        "verification_method": "Official ASX archive downloaded and current issuer heading/dated links inspected",
+        "primary": true
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260910/pdf/073ytg922rpyw4.pdf",
+        "title": "Half Year Results - 30 June 2026 2 pages 311.8KB",
+        "date": "2026-09-10",
+        "page_section": "Issuer details and issued-capital/security notes where stated",
+        "fact": "ASX BAS archive identifies BASS OIL LIMITED and links this issuer report. Actual report text independently read; full quoted security-class reconciliation remains unresolved.",
+        "verification_method": "Live official ASX archive resolved to primary issuer PDF; freshly downloaded and extracted identity/security text independently reviewed",
         "primary": true
       }
     ],
