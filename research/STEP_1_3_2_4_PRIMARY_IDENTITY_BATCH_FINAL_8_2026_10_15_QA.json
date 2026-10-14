@@ -1,0 +1,218 @@
+{
+  "population": 316,
+  "selected_codes": [
+    "VYS",
+    "WTM",
+    "WWI",
+    "WCN",
+    "WEC",
+    "WC8",
+    "WZR",
+    "XRF"
+  ],
+  "baseline_status_counts": {
+    "PRIMARY_EVIDENCE_PARTIAL_REVIEW": 68,
+    "PRIMARY_ISSUER_IDENTITY_CONFIRMED": 235,
+    "PRIMARY_ASX_IDENTITY_CONFIRMED": 4,
+    "PRIMARY_HISTORICAL_ISSUER_IDENTITY_CONFIRMED": 1,
+    "PRIMARY_SOURCE_PENDING": 8
+  },
+  "checks": [
+    {
+      "code": "VYS",
+      "identity_verified": true,
+      "identifier_checks": [
+        "ACNchecksum_pass",
+        "ABNchecksum_pass"
+      ],
+      "source_count": 4,
+      "evidence_ids": [
+        "E01258",
+        "E01259",
+        "E01260",
+        "E01261"
+      ]
+    },
+    {
+      "code": "WTM",
+      "identity_verified": true,
+      "identifier_checks": [
+        "ACNchecksum_pass",
+        "ABNchecksum_pass"
+      ],
+      "source_count": 4,
+      "evidence_ids": [
+        "E01262",
+        "E01263",
+        "E01264",
+        "E01265"
+      ]
+    },
+    {
+      "code": "WWI",
+      "identity_verified": true,
+      "identifier_checks": [
+        "ACNchecksum_pass",
+        "ABNchecksum_pass"
+      ],
+      "source_count": 5,
+      "evidence_ids": [
+        "E01266",
+        "E01267",
+        "E01268",
+        "E01269",
+        "E01270"
+      ]
+    },
+    {
+      "code": "WCN",
+      "identity_verified": true,
+      "identifier_checks": [
+        "ACNchecksum_pass",
+        "ABNchecksum_pass"
+      ],
+      "source_count": 5,
+      "evidence_ids": [
+        "E01271",
+        "E01272",
+        "E01273",
+        "E01274",
+        "E01275"
+      ]
+    },
+    {
+      "code": "WEC",
+      "identity_verified": true,
+      "identifier_checks": [
+        "ACNchecksum_pass",
+        "ABNchecksum_pass"
+      ],
+      "source_count": 3,
+      "evidence_ids": [
+        "E01276",
+        "E01277",
+        "E01278"
+      ]
+    },
+    {
+      "code": "WC8",
+      "identity_verified": true,
+      "identifier_checks": [
+        "ACNchecksum_pass",
+        "ABNchecksum_pass"
+      ],
+      "source_count": 3,
+      "evidence_ids": [
+        "E01279",
+        "E01280",
+        "E01281"
+      ]
+    },
+    {
+      "code": "WZR",
+      "identity_verified": true,
+      "identifier_checks": [
+        "ACNchecksum_pass",
+        "ABNchecksum_pass"
+      ],
+      "source_count": 6,
+      "evidence_ids": [
+        "E01282",
+        "E01283",
+        "E01284",
+        "E01285",
+        "E01286",
+        "E01287"
+      ]
+    },
+    {
+      "code": "XRF",
+      "identity_verified": true,
+      "identifier_checks": [
+        "ACNchecksum_pass",
+        "ABNchecksum_pass"
+      ],
+      "source_count": 4,
+      "evidence_ids": [
+        "E01288",
+        "E01289",
+        "E01290",
+        "E01291"
+      ]
+    }
+  ],
+  "nonselected_rows_unchanged": true,
+  "original_notes_preserved": true,
+  "all_original_matrix_columns_preserved": true,
+  "after_status_counts": {
+    "PRIMARY_EVIDENCE_PARTIAL_REVIEW": 68,
+    "PRIMARY_ISSUER_IDENTITY_CONFIRMED": 243,
+    "PRIMARY_ASX_IDENTITY_CONFIRMED": 4,
+    "PRIMARY_HISTORICAL_ISSUER_IDENTITY_CONFIRMED": 1
+  },
+  "new_source_entries": 34,
+  "identity_confirmed_this_batch": 8,
+  "exactly8_selected_rows_updated": true,
+  "all316_candidates_retained": true,
+  "full_verification_signoffs_added": 0,
+  "verification_utc": "2026-10-14T20:18:54.133554+00:00",
+  "source_receipt_hashes_verified": 34,
+  "web_read_sources_without_fabricated_hash": 0,
+  "identifier_receipt_checks": [
+    {
+      "code": "VYS",
+      "kind": "ACN",
+      "identifier": "124212175",
+      "present_in_actual_receipt_text_or_explicit_web_read": true
+    },
+    {
+      "code": "WTM",
+      "kind": "ACN",
+      "identifier": "152071095",
+      "present_in_actual_receipt_text_or_explicit_web_read": true
+    },
+    {
+      "code": "WWI",
+      "kind": "ACN",
+      "identifier": "124894060",
+      "present_in_actual_receipt_text_or_explicit_web_read": true
+    },
+    {
+      "code": "WCN",
+      "kind": "ACN",
+      "identifier": "126299125",
+      "present_in_actual_receipt_text_or_explicit_web_read": true
+    },
+    {
+      "code": "WEC",
+      "kind": "ACN",
+      "identifier": "071527083",
+      "present_in_actual_receipt_text_or_explicit_web_read": true
+    },
+    {
+      "code": "WC8",
+      "kind": "ACN",
+      "identifier": "098236938",
+      "present_in_actual_receipt_text_or_explicit_web_read": true
+    },
+    {
+      "code": "WZR",
+      "kind": "ACN",
+      "identifier": "004661205",
+      "present_in_actual_receipt_text_or_explicit_web_read": true
+    },
+    {
+      "code": "XRF",
+      "kind": "ACN",
+      "identifier": "107908314",
+      "present_in_actual_receipt_text_or_explicit_web_read": true
+    }
+  ],
+  "evidence_id_first": "E01258",
+  "evidence_id_last": "E01291",
+  "canonical_ledger_rows": 1291,
+  "primary_source_pending_remaining": 0,
+  "confirmed_identity_status_variants_total": 248,
+  "partial_evidence_reviews_remaining": 68,
+  "full_step_1_3_2_4_signoff": false
+}

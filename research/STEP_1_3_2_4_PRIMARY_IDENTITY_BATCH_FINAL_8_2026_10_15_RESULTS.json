@@ -1,0 +1,561 @@
+[
+  {
+    "code": "VYS",
+    "legal_name": "VYSARN LIMITED",
+    "ACN": "124212175",
+    "ABN": "41124212175",
+    "ARBN": "NOT_APPLICABLE_AU_ISSUER",
+    "jurisdiction": "Australia",
+    "security_type": "ORDINARY FULLY PAID",
+    "ISIN": "UNKNOWN",
+    "identity_verified": true,
+    "sources": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260914/pdf/0741ky88567w2f.pdf",
+        "title": "Termination of Acquisition of NewGround",
+        "date": "2026-09-14",
+        "pages": "PDF p1",
+        "fact": "Issuer Vysarn Limited ASX:VYS; footer explicitly states ABN41 124 212 175 and ACN124 212 175. Target NWG registration is separate. NewGround acquisition will no longer proceed.",
+        "method": "Fresh original primary PDF downloaded, complete pdftotext -layout extraction; actual cited passages read.",
+        "sha256": "10aa4555bc3a8dc7f6746397c3161491ff75d34c5435c7148918f55fed18a69b",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_a/VYS_latest.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260903/pdf/073pf2ckvg8996.pdf",
+        "title": "Application for quotation of securities - VYS",
+        "date": "2026-09-03",
+        "pages": "PDF pp1-2",
+        "fact": "Appendix2A identifies VYSARN LIMITED, ABN41124212175, issuer codeVYS, ORDINARY FULLY PAID.",
+        "method": "Fresh original primary PDF downloaded, complete pdftotext -layout extraction; actual cited passages read.",
+        "sha256": "80ce95e0693086eb4075a5764a8b6b4fd6214ebb1a9a58e5c52cf98f27dfdce7",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_a/VYS_inherited.pdf"
+      },
+      {
+        "url": "https://www.vysarn.com.au/wp-content/uploads/2021/10/Annual-Report-2282369.pdf",
+        "title": "Vysarn Limited Annual Report2021",
+        "date": "Report period2021-06-30; original publication date not independently established",
+        "pages": "PDF p35 Note1; p76 footer",
+        "fact": "Note1 explicitly states company incorporated and domiciled in Australia; footer separately states ACN124212175. Historical jurisdiction source corroborated by current official ABR Australian Public Company type and current issuer identity.",
+        "method": "Fresh original primary PDF downloaded, complete pdftotext -layout extraction; actual cited passages read.",
+        "sha256": "8ee2e0a1e8684c41972a2511b6a82df7a3950b1d317bbfdd8a4217567f88f9b0",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_a/VYS_annual2021.pdf"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=41124212175",
+        "title": "ABN Lookup historical details forABN41124212175",
+        "date": "Snapshot extracted2026-10-15; historical events before cutoff",
+        "pages": "Entity-name history; ABN; entitytype; ASICregistration",
+        "fact": "Official registry links VYSARN LIMITED to ABN41124212175 and explicit ASICregistration124212175, entitytypeAustralianPublicCompany. ABR historical entity names: Macquarie Mining Limited 2007-04-01 to 2007-05-22; MACQUARIE HARBOUR MINING LIMITED 2007-05-22 to 2011-07-08; MHM METALS LIMITED 2011-07-08 to 2017-12-06; VYSARN LIMITED from 2017-12-06. These are registry-effective dates, not ASX ticker dates.",
+        "method": "Fresh direct official ABR historical-details HTML download; actual entity-name, ABN, entity-type and ASIC-registration tables read.",
+        "sha256": "33179d17a87682fa79c4288139771da271fbe93b65a88c707fa865ccd06b3ebd",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_a/VYS_abr.html"
+      }
+    ],
+    "historical_findings": [
+      "ABR historical entity names: Macquarie Mining Limited 2007-04-01 to 2007-05-22; MACQUARIE HARBOUR MINING LIMITED 2007-05-22 to 2011-07-08; MHM METALS LIMITED 2011-07-08 to 2017-12-06; VYSARN LIMITED from 2017-12-06. These are registry-effective dates, not ASX ticker dates.",
+      "Issuer 2026-09-14 says NewGround share-sale agreement will be terminated and acquisition will no longer proceed; do not record proposed acquisition as completed. NWG Enterprises Pty Ltd ACN 650035279 is acquisition target, distinct from Vysarn ACN124212175."
+    ],
+    "security_findings": [
+      "Primary issuer ordinary fully paid class substantiated; full class/action history and permanent ISIN remain open."
+    ],
+    "exceptions": [
+      "Full historical continuity (ticker reuse, mergers/RTOs, admission/delisting/relisting, historical joins) remains open.",
+      "Permanent ISIN and complete corporate-action/security-class history remain open.",
+      "Current trading status at2026-10-13 remains unresolved; quotation applications and absence of archive status headlines do not establish tradability.",
+      "Jurisdiction incorporation statement is2021 source;15Oct2026 ABR confirms same issuer Australian Public Company. No dated2026 CEDS available in retrieved source set. Initial14SepPDF retrieval502 succeeded on retry; legacy archive without/v2 returned404 and not relied upon."
+    ],
+    "next_checks": [
+      "Obtain ASX admission and code/name-change records to reconcile exact ticker-effective dates and any code reuse.",
+      "Reconcile historical actions/security classes and obtain primary permanentISIN.",
+      "Obtain dated primary trading-state evidence through13Oct2026."
+    ],
+    "review_date": "2026-10-15",
+    "evidence_cutoff": "2026-10-13"
+  },
+  {
+    "code": "WTM",
+    "legal_name": "WARATAH MINERALS LIMITED",
+    "ACN": "152071095",
+    "ABN": "75152071095",
+    "ARBN": "NOT_APPLICABLE_AU_ISSUER",
+    "jurisdiction": "Australia",
+    "security_type": "ORDINARY FULLY PAID",
+    "ISIN": "UNKNOWN",
+    "identity_verified": true,
+    "sources": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260423/pdf/06ysl4lgkftf7d.pdf",
+        "title": "Notice of Annual General Meeting/Proxy Form",
+        "date": "2026-04-23",
+        "pages": "PDF pp1,25",
+        "fact": "WARATAH MINERALS LIMITED cover ACN152071095; glossary independently defines Company as same legal name and explicitACN.",
+        "method": "Fresh original primary PDF downloaded, complete pdftotext -layout extraction; actual cited passages read.",
+        "sha256": "ca04a5930498eca822e67e2b88ec961e01adbd5856fff0564b6d3fc77c87abf6",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_a/WTM_agm.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260831/pdf/073hnwq342tgtz.pdf",
+        "title": "Application for quotation of securities - WTM",
+        "date": "2026-08-31",
+        "pages": "PDF pp1-2",
+        "fact": "WARATAH MINERALS LIMITED, ABN75152071095, ASX issuer codeWTM; ORDINARY FULLY PAID;500000 shares issued31Aug2026.",
+        "method": "Fresh original primary PDF downloaded, complete pdftotext -layout extraction; actual cited passages read.",
+        "sha256": "1f9a8877b0d1c954b3187503a0f5b0d929649aa8b72710fe51f5b1702e056689",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_a/WTM_class.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260325/pdf/06xt33tqfwqntf.pdf",
+        "title": "2025 Annual Report",
+        "date": "2026-03-25",
+        "pages": "PDF pp3,39,77",
+        "fact": "Waratah Minerals Limited explicitly incorporated and domiciled Australia; corporate directory ASXcodeWTM; shareholder information confirms ordinary fully paid shares.",
+        "method": "Fresh original primary PDF downloaded, complete pdftotext -layout extraction; actual cited passages read.",
+        "sha256": "241b804e7933b16c80d5e18804f3486043bb47095f2f4555dbffd69b7f17f61d",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_a/WTM_inherited.pdf"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=75152071095",
+        "title": "ABN Lookup historical details forABN75152071095",
+        "date": "Snapshot extracted2026-10-15; historical events before cutoff",
+        "pages": "Entity-name history; ABN; entitytype; ASICregistration",
+        "fact": "Official registry links WARATAH MINERALS LIMITED to ABN75152071095 and explicit ASICregistration152071095, entitytypeAustralianPublicCompany. ABR historical entity names: Rio Mazowe Limited 2011-10-25 to 2011-11-21; METALS OF AFRICA LIMITED 2011-11-21 to 2016-12-30; BATTERY MINERALS LIMITED 2016-12-30 to 2023-12-30; WARATAH MINERALS LIMITED from 2023-12-30. Registry name date must not be substituted for independently evidenced ASX code-effective date; BAT->WTM ticker event remains to reconcile.",
+        "method": "Fresh direct official ABR historical-details HTML download; actual entity-name, ABN, entity-type and ASIC-registration tables read.",
+        "sha256": "67989c533af667753253004ac344ed2fd7eededcad4b23efe578e6730e2d3ac9",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_a/WTM_abr.html"
+      }
+    ],
+    "historical_findings": [
+      "ABR historical entity names: Rio Mazowe Limited 2011-10-25 to 2011-11-21; METALS OF AFRICA LIMITED 2011-11-21 to 2016-12-30; BATTERY MINERALS LIMITED 2016-12-30 to 2023-12-30; WARATAH MINERALS LIMITED from 2023-12-30. Registry name date must not be substituted for independently evidenced ASX code-effective date; BAT->WTM ticker event remains to reconcile."
+    ],
+    "security_findings": [
+      "Primary issuer ordinary fully paid class substantiated; full class/action history and permanent ISIN remain open."
+    ],
+    "exceptions": [
+      "Full historical continuity (ticker reuse, mergers/RTOs, admission/delisting/relisting, historical joins) remains open.",
+      "Permanent ISIN and complete corporate-action/security-class history remain open.",
+      "Current trading status at2026-10-13 remains unresolved; quotation applications and absence of archive status headlines do not establish tradability."
+    ],
+    "next_checks": [
+      "Obtain ASX admission and code/name-change records to reconcile exact ticker-effective dates and any code reuse.",
+      "Reconcile historical actions/security classes and obtain primary permanentISIN.",
+      "Obtain dated primary trading-state evidence through13Oct2026."
+    ],
+    "review_date": "2026-10-15",
+    "evidence_cutoff": "2026-10-13"
+  },
+  {
+    "code": "WWI",
+    "legal_name": "WEST WITS MINING LIMITED",
+    "ACN": "124894060",
+    "ABN": "89124894060",
+    "ARBN": "NOT_APPLICABLE_AU_ISSUER",
+    "jurisdiction": "Australia",
+    "security_type": "ORDINARY FULLY PAID",
+    "ISIN": "UNKNOWN",
+    "identity_verified": true,
+    "sources": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20261008/pdf/07530df50w3rb0.pdf",
+        "title": "Notice of2026 Annual General Meeting and Proxy Form",
+        "date": "2026-10-08",
+        "pages": "PDF p2",
+        "fact": "Notice expressly names West Wits Mining Limited ACN124894060.",
+        "method": "Fresh original primary PDF downloaded, complete pdftotext -layout extraction; actual cited passages read.",
+        "sha256": "f2051068d95f2f264795cbe765981bb1e106b88a7c047f8e2b514c78186287cf",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_a/WWI_agm.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260907/pdf/073tmgzkt98nk9.pdf",
+        "title": "Application for quotation of securities - WWI",
+        "date": "2026-09-07",
+        "pages": "PDF pp1-2",
+        "fact": "WEST WITS MINING LIMITED; ABN89124894060; ASXissuer codeWWI; ORDINARY FULLY PAID.",
+        "method": "Fresh original primary PDF downloaded, complete pdftotext -layout extraction; actual cited passages read.",
+        "sha256": "c4526b4d851851f5daaa2a63e3ffa8952321c8ef8bd76f5499d2ec9d97f96f49",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_a/WWI_class.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260831/pdf/073hfd0y2jh469.pdf",
+        "title": "Annual Report to shareholders2026",
+        "date": "2026-08-31",
+        "pages": "PDF pp12,45",
+        "fact": "Note1 explicitly confirms West Wits Mining Limited incorporated and domiciled Australia; review of operations confirms actual10-for-1 capital consolidation after8Apr2026 approval and16Apr2026 statement dispatch.",
+        "method": "Fresh original primary PDF downloaded, complete pdftotext -layout extraction; actual cited passages read.",
+        "sha256": "1ab3cd04147472693399ddac2988b48dfebf59bafb621276714eaed7b1e23210",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_a/WWI_annual.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260416/pdf/06yk903tt09hp6.pdf",
+        "title": "Completion of Consolidation and Dispatch of Updated Holding Statements",
+        "date": "2026-04-16",
+        "pages": "PDF p1",
+        "fact": "Issuer ASX:WWI expressly confirms completed10-for-1 consolidation; fractional entitlements rounded up; register updated. Distinguishes ordinaryWWI, listed optionsWWIO, unlisted optionsWWIAC, performance rightsWWIAD and warrantsWWIAG.",
+        "method": "Fresh original primary PDF downloaded, complete pdftotext -layout extraction; actual cited passages read.",
+        "sha256": "9e426fa649168177df819536c5d5aec77326e4078f7289139b6dcc2ce3bdcec8",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_a/WWI_consolidation.pdf"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=89124894060",
+        "title": "ABN Lookup historical details forABN89124894060",
+        "date": "Snapshot extracted2026-10-15; historical events before cutoff",
+        "pages": "Entity-name history; ABN; entitytype; ASICregistration",
+        "fact": "Official registry links WEST WITS MINING LIMITED to ABN89124894060 and explicit ASICregistration124894060, entitytypeAustralianPublicCompany. ABR historical entity names: KGOSI PTY LTD 2007-04-13 to 2007-07-05; WEST WITS MINING LIMITED from 2007-07-05. Registry dates are not ASX admission/ticker dates.",
+        "method": "Fresh direct official ABR historical-details HTML download; actual entity-name, ABN, entity-type and ASIC-registration tables read.",
+        "sha256": "7d3a80b3d24c9eecd034d53b9c415fdb36f92b77a191bf3960cf2b72794781a7",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_a/WWI_abr.html"
+      }
+    ],
+    "historical_findings": [
+      "ABR historical entity names: KGOSI PTY LTD 2007-04-13 to 2007-07-05; WEST WITS MINING LIMITED from 2007-07-05. Registry dates are not ASX admission/ticker dates.",
+      "2026-04-16 issuer completion notice expressly confirms capital consolidated 10-for-1 following shareholder approval 2026-04-08, register updated and holding statements dispatched. Annual report2026 independently corroborates. Historical price/share joins need corresponding adjustment."
+    ],
+    "security_findings": [
+      "Primary issuer ordinary fully paid class substantiated; full class/action history and permanent ISIN remain open.",
+      "Completed10-for-1 event documented for WWI, WWIO, WWIAC, WWIAD and WWIAG. Ordinary shares pre4346465221 post434647512; fractional rounding means avoid simplistic exact count equality. Full dated history before/after this event remains open."
+    ],
+    "exceptions": [
+      "Full historical continuity (ticker reuse, mergers/RTOs, admission/delisting/relisting, historical joins) remains open.",
+      "Permanent ISIN and complete corporate-action/security-class history remain open.",
+      "Current trading status at2026-10-13 remains unresolved; quotation applications and absence of archive status headlines do not establish tradability."
+    ],
+    "next_checks": [
+      "Obtain ASX admission and code/name-change records to reconcile exact ticker-effective dates and any code reuse.",
+      "Reconcile historical actions/security classes and obtain primary permanentISIN.",
+      "Obtain dated primary trading-state evidence through13Oct2026."
+    ],
+    "review_date": "2026-10-15",
+    "evidence_cutoff": "2026-10-13"
+  },
+  {
+    "code": "WCN",
+    "legal_name": "WHITE CLIFF MINERALS LIMITED",
+    "ACN": "126299125",
+    "ABN": "22126299125",
+    "ARBN": "NOT_APPLICABLE_AU_ISSUER",
+    "jurisdiction": "Australia",
+    "security_type": "ORDINARY FULLY PAID",
+    "ISIN": "UNKNOWN",
+    "identity_verified": true,
+    "sources": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260916/pdf/07456p5hvpj2vn.pdf",
+        "title": "Notice of General Meeting",
+        "date": "2026-09-16",
+        "pages": "PDF pp1,3,10",
+        "fact": "Notice expressly names White Cliff Minerals Limited ACN126299125. Resolution proposes20existing securities consolidated into1, conditional on shareholder approval at19Oct2026meeting.",
+        "method": "Fresh original primary PDF downloaded, complete pdftotext -layout extraction; actual cited passages read.",
+        "sha256": "3c3df70e7692121f4622816e007140fe7fa101018adf47d6fa729dc2ebc51c9e",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_a/WCN_nom.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260925/pdf/074k2y8hs76w7z.pdf",
+        "title": "Application for quotation of securities - WCN",
+        "date": "2026-09-25",
+        "pages": "PDF pp1-2",
+        "fact": "WHITE CLIFF MINERALS LIMITED, ABN22126299125, ASXissuer codeWCN, ORDINARY FULLY PAID.",
+        "method": "Fresh original primary PDF downloaded, complete pdftotext -layout extraction; actual cited passages read.",
+        "sha256": "63143b145b000819e8a0c106d4f3eec2bb05375548538cd573a9b6f90082badc",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_a/WCN_class.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260930/pdf/074pr4cwcmvl18.pdf",
+        "title": "Annual Report to Shareholders2026",
+        "date": "2026-09-30",
+        "pages": "PDF pp4,18,76",
+        "fact": "Corporate information explicitly states incorporatedAustralia; report20:1 consolidation subject to shareholder approval19Oct2026.",
+        "method": "Fresh original primary PDF downloaded, complete pdftotext -layout extraction; actual cited passages read.",
+        "sha256": "4ef5a0115e080ee5a39c83d0ea3b78b91c1f2ca09e0451dcbceff2a4e6612393",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_a/WCN_annual.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260916/pdf/074577qtcyw7rl.pdf",
+        "title": "Appendix3A.3 Consolidation/Split - WCN",
+        "date": "2026-09-16",
+        "pages": "PDF pp4-5",
+        "fact": "Part2 shareholder approval receivedNO, meeting19Oct2026; proposed20:1 ratio; effective26Oct, deferred trading28Oct and record29Oct2026. WCN ordinary shares quoted; WCNAV/WCNAP options and WCNAL performance rights shown unquoted.",
+        "method": "Fresh original primary PDF downloaded, complete pdftotext -layout extraction; actual cited passages read.",
+        "sha256": "ce39a542c85071c68c44f0ef6907115bb3d4c473102ce746b33f809a1a397759",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_a/WCN_consolidation.pdf"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=22126299125",
+        "title": "ABN Lookup historical details forABN22126299125",
+        "date": "Snapshot extracted2026-10-15; historical events before cutoff",
+        "pages": "Entity-name history; ABN; entitytype; ASICregistration",
+        "fact": "Official registry links WHITE CLIFF MINERALS LIMITED to ABN22126299125 and explicit ASICregistration126299125, entitytypeAustralianPublicCompany. ABR historical entity names: White Cliff Nickel Limited 2007-07-02 to 2011-11-30; WHITE CLIFF MINERALS LIMITED from 2011-11-30. Registry dates are not ASX code-effective dates.",
+        "method": "Fresh direct official ABR historical-details HTML download; actual entity-name, ABN, entity-type and ASIC-registration tables read.",
+        "sha256": "068cbe6f20f2c586640f00c7d69e575ff8e76d07e89ff5f07499d681390fe1af",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_a/WCN_abr.html"
+      }
+    ],
+    "historical_findings": [
+      "ABR historical entity names: White Cliff Nickel Limited 2007-07-02 to 2011-11-30; WHITE CLIFF MINERALS LIMITED from 2011-11-30. Registry dates are not ASX code-effective dates.",
+      "As at cutoff2026-10-13, proposed20:1 consolidation is conditional, not completed:16Sep2026 Appendix3A.3 Part2 approval received NO, shareholder approval meeting19Oct2026; planned effective26Oct, deferred trading28Oct, record29Oct2026. Annual report2026 expressly describes subject-to-approval status."
+    ],
+    "security_findings": [
+      "Primary issuer ordinary fully paid class substantiated; full class/action history and permanent ISIN remain open.",
+      "20:1 event remains planned as at cutoff13Oct2026; DO NOT apply ratio to pre-cutoff shares/prices. Proposed fractional treatment rounded down, unlike WWI completed10:1 rounded up. Appendix quoted/unquoted classifications must be preserved."
+    ],
+    "exceptions": [
+      "Full historical continuity (ticker reuse, mergers/RTOs, admission/delisting/relisting, historical joins) remains open.",
+      "Permanent ISIN and complete corporate-action/security-class history remain open.",
+      "Current trading status at2026-10-13 remains unresolved; quotation applications and absence of archive status headlines do not establish tradability.",
+      "Fresh registryread uses full eleven-digit ABN22126299125; earlier nine-digit URL is accepted by ABR as an ACN lookup, not an invalidABN. Explicit issuer ACNkind substantiated separately in16Sep2026Notice; no ACN derived from ABNsuffix."
+    ],
+    "next_checks": [
+      "Obtain ASX admission and code/name-change records to reconcile exact ticker-effective dates and any code reuse.",
+      "Reconcile historical actions/security classes and obtain primary permanentISIN.",
+      "Obtain dated primary trading-state evidence through13Oct2026."
+    ],
+    "review_date": "2026-10-15",
+    "evidence_cutoff": "2026-10-13"
+  },
+  {
+    "code": "WEC",
+    "legal_name": "WHITE ENERGY COMPANY LIMITED",
+    "ACN": "071527083",
+    "ABN": "62071527083",
+    "ARBN": "NOT_APPLICABLE",
+    "jurisdiction": "Australia",
+    "security_type": "ORDINARY FULLY PAID",
+    "ISIN": "UNKNOWN",
+    "identity_verified": true,
+    "sources": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260930/pdf/074rc0sbqmx6r3.pdf",
+        "title": "Application for quotation of securities - WEC",
+        "date": "2026-09-30",
+        "pages": "PDF pp1-4; Part1 issuer/registration p2; security summary p1",
+        "fact": "IssuerWHITE ENERGY COMPANY LIMITED; ASXWEC; explicitACN071527083; ORDINARY FULLY PAID. Existing-class application, not proof of current tradability.",
+        "method": "Fresh original primary PDF downloaded; complete pdftotext extraction; actual identity/class or specified passages read.",
+        "sha256": "c135d9ba322bd7caef1ef6fbdd7f41a4e73acb5b756f69f46214c8cb23fcc798",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_b/WEC_new.pdf"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=62071527083",
+        "title": "ABN Lookup current details62071527083",
+        "date": "Retrieved2026-10-15; last updated2025-03-25",
+        "pages": "ABN details/entity type/ASIC registration",
+        "fact": "WHITE ENERGY COMPANY LIMITED; ABN62071527083; Australian Public Company; separate ASIC registration071527083. Record last update precedes cutoff.",
+        "method": "Fresh original primary HTML downloaded and complete actual registry fields read.",
+        "sha256": "1eaa5bb62c520ef4c9385cf6e5a642adbe28d528e1c59e1ed7d9d07112066881",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_b/WEC_0.html"
+      },
+      {
+        "url": "https://www.asx.com.au/asxpdf/20230315/pdf/45mpscl7hpv93s.pdf",
+        "title": "Half-year financial report31December2022",
+        "date": "2023-03-15",
+        "pages": "PDF p2 entity; p27 note15 contributed equity (printedp26)",
+        "fact": "White Energy Company Limited incorporated Australia; actual sharecapital note records30:1 share consolidation2Sep2022, not merely proposed action.",
+        "method": "Fresh original primary PDF downloaded; complete pdftotext extraction; actual identity/class or specified passages read.",
+        "sha256": "c8d629074889b4323eda234a0cd9ae8d7dc81257582821a53f223e489ae31318",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_b/WEC_extra_2.pdf"
+      }
+    ],
+    "historical_findings": "Actual statutory sharecapital movement confirms30:1 share consolidation2Sep2022; historical share-count and price joins crossing action require adjustment. Complete action/legal history remains open.",
+    "security_findings": "Dated Appendix2A confirms ordinary fully paid class. Permanent ISIN, complete historic security classes and corporate actions, and trading status at cutoff remain open. Historical actual30:1 consolidation2Sep2022 documented.",
+    "exceptions": [],
+    "next_checks": [
+      "Obtain primary permanent ISIN.",
+      "Complete historical legal lineage and ticker/corporate action reconciliation.",
+      "Confirm trading status as at2026-10-13 including any suspension/resumption notices."
+    ]
+  },
+  {
+    "code": "WC8",
+    "legal_name": "WILDCAT RESOURCES LIMITED",
+    "ACN": "098236938",
+    "ABN": "65098236938",
+    "ARBN": "NOT_APPLICABLE",
+    "jurisdiction": "Australia",
+    "security_type": "ORDINARY FULLY PAID",
+    "ISIN": "UNKNOWN",
+    "identity_verified": true,
+    "sources": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260928/pdf/074ln52m9jvdnd.pdf",
+        "title": "Application for quotation of securities - WC8",
+        "date": "2026-09-28",
+        "pages": "PDF pp1-4; Part1 issuer/registration p2; security summary p1",
+        "fact": "IssuerWILDCAT RESOURCES LIMITED; ASXWC8; explicitACN098236938; ORDINARY FULLY PAID. Existing-class application, not proof of current tradability.",
+        "method": "Fresh original primary PDF downloaded; complete pdftotext extraction; actual identity/class or specified passages read.",
+        "sha256": "8e126922ec8781ec8a6bf5640a930e823fbadac354dc467fc6a189e8c435e146",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_b/WC8_new.pdf"
+      },
+      {
+        "url": "https://abr.business.gov.au/Search/ResultsActive?SearchText=098236938",
+        "title": "ABN Lookup current details65098236938",
+        "date": "Retrieved2026-10-15; last updated2024-02-08",
+        "pages": "ABN details/entity type/ASIC registration",
+        "fact": "WILDCAT RESOURCES LIMITED; ABN65098236938; Australian Public Company; separate ASIC registration098236938. Record last update precedes cutoff.",
+        "method": "Fresh original primary HTML downloaded and complete actual registry fields read.",
+        "sha256": "90a9ebb5f941e1e11b7babcf34d68b98d6bf7421a0860d2fa694c14c5e185e46",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_b/WC8_8.html"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20230921/pdf/05v4b3nfklcw60.pdf",
+        "title": "Wildcat Resources Annual Report2023",
+        "date": "2023-09-21",
+        "pages": "PDF pages1,15,38,44",
+        "fact": "Wildcat Resources Limited reporting issuer ACN098236938; corroborative earlier issuer report.",
+        "method": "Fresh original primary PDF downloaded; complete pdftotext extraction; actual identity/class or specified passages read.",
+        "sha256": "9c252d5c13c55a3c8d97698904661655aea6fe08a72f4b1fd03f00100cca2d9b",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_b/WC8_1.pdf"
+      }
+    ],
+    "historical_findings": "Complete legal lineage, former names/tickers, code reuse and merger/RTO/relisting reconciliation remain open.",
+    "security_findings": "Dated Appendix2A confirms ordinary fully paid class. Permanent ISIN, complete historic security classes and corporate actions, and trading status at cutoff remain open.",
+    "exceptions": [
+      "ABR retains trading nameAAQ HOLDINGS LIMITED (FORMERLY KNOWN AS AUSTRALIS AQUACULTURE LTD). ABR ceased trading-name updates2012; retained trading name is not current legal issuer or a verified securities-history bridge."
+    ],
+    "next_checks": [
+      "Obtain primary permanent ISIN.",
+      "Complete historical legal lineage and ticker/corporate action reconciliation.",
+      "Confirm trading status as at2026-10-13 including any suspension/resumption notices."
+    ]
+  },
+  {
+    "code": "WZR",
+    "legal_name": "WISR LIMITED",
+    "ACN": "004661205",
+    "ABN": "80004661205",
+    "ARBN": "NOT_APPLICABLE",
+    "jurisdiction": "Australia",
+    "security_type": "ORDINARY FULLY PAID",
+    "ISIN": "UNKNOWN",
+    "identity_verified": true,
+    "sources": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260911/pdf/07400wp47437bv.pdf",
+        "title": "Application for quotation of securities - WZR",
+        "date": "2026-09-11",
+        "pages": "PDF pp1-4; Part1 issuer/registration p2; security summary p1",
+        "fact": "IssuerWISR LIMITED; ASXWZR; ABN80004661205; ORDINARY FULLY PAID. Existing-class application, not proof of current tradability.",
+        "method": "Fresh original primary PDF downloaded; complete pdftotext extraction; actual identity/class or specified passages read.",
+        "sha256": "cede7c0f42810d3648b3bf0c8a24210699e75cb89b37be3d439991c774771982",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_b/WZR_new.pdf"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=80004661205",
+        "title": "ABN Lookup current details80004661205",
+        "date": "Retrieved2026-10-15; last updated2018-05-08",
+        "pages": "ABN details/entity type/ASIC registration",
+        "fact": "WISR LIMITED; ABN80004661205; Australian Public Company; separate ASIC registration004661205. Record last update precedes cutoff.",
+        "method": "Fresh original primary HTML downloaded and complete actual registry fields read.",
+        "sha256": "3e694b36677fa6864e47f0ace620b70320d5c70f3f3a56ae951124863972d20c",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_b/WZR_9.html"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20250827/pdf/06nd0ldkzfx61z.pdf",
+        "title": "Wisr preliminary final report Appendix4E",
+        "date": "2025-08-27",
+        "pages": "PDF p1 legal issuer/footer and ASX code",
+        "fact": "Wisr Limited ASXWZR and expressly ACN004661205.",
+        "method": "Fresh original primary PDF downloaded; complete pdftotext extraction; actual identity/class or specified passages read.",
+        "sha256": "4e46626e878938d3d644613506cb28cd9c6bef6693704a12b26ceb81d177e0c5",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_b/WZR_2.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260826/pdf/0736t9nqkppvnt.pdf",
+        "title": "Annual Report to Shareholders2026",
+        "date": "2026-08-26",
+        "pages": "PDF p77 general information; p121 corporate directory",
+        "fact": "Wisr Limited incorporated and domiciled Australia; ASXWZR.",
+        "method": "Fresh original primary PDF downloaded; complete pdftotext extraction; actual identity/class or specified passages read.",
+        "sha256": "b2ba93b6fa6f70b3a6adea3ed62f5332690fe48aefe863037ff1015fbeff76c1",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_b/WZR_extra_4.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20180313/pdf/43sctj1rw96twb.pdf",
+        "title": "Change of ASX Code",
+        "date": "2018-03-13",
+        "pages": "PDF p1 entire release",
+        "fact": "Shareholders28Feb2018 approved DirectMoney Limited to Wisr Limited; ASX code DM1 to WZR effective14Mar2018.",
+        "method": "Fresh original primary PDF downloaded; complete pdftotext extraction; actual identity/class or specified passages read.",
+        "sha256": "1e8b23311d65a6330f872aa25ff2bde91d01dbd1c4fd9853ae227008a3f8b4e8",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_b/WZR_extra_0.pdf"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=80004661205",
+        "title": "ABR historical details80004661205",
+        "date": "Retrieved2026-10-15; last updated2018-05-08",
+        "pages": "Entity name history",
+        "fact": "ABR name history Berklee Limited to20Dec2013; Basper Ltd to6Jul2015; DirectMoney Limited to9Mar2018; Wisr to12Apr2018; WSR Limited to8May2018; Wisr current. These are registry record dates, not ASX code effective dates.",
+        "method": "Fresh original primary HTML downloaded and complete actual registry fields read.",
+        "sha256": "01c34bea26b2c869e9a9913dbcdea235ef3da21389f61a7d98335602ea549292",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_b/WZR_extra_1.html"
+      }
+    ],
+    "historical_findings": "Actual issuer13Mar2018 release confirms shareholders approved DirectMoney to Wisr28Feb2018 and ASXDM1 to WZR effective14Mar2018. Fresh ABR history supplies longer prior name sequence but legal/ASX continuity across Berklee/Basper not fully reconciled.",
+    "security_findings": "Dated Appendix2A confirms ordinary fully paid class. Permanent ISIN, complete historic security classes and corporate actions, and trading status at cutoff remain open.",
+    "exceptions": [
+      "ABR name history includes interim WSR LIMITED12Apr2018-8May2018 and Wisr entries9Mar2018/8May2018; do not infer a tickerWSR or overwrite actual ASXWZR effective14Mar2018. Registry update chronology needs separate legal-name reconciliation."
+    ],
+    "next_checks": [
+      "Obtain primary permanent ISIN.",
+      "Complete historical legal lineage and ticker/corporate action reconciliation.",
+      "Confirm trading status as at2026-10-13 including any suspension/resumption notices."
+    ]
+  },
+  {
+    "code": "XRF",
+    "legal_name": "XRF SCIENTIFIC LIMITED",
+    "ACN": "107908314",
+    "ABN": "80107908314",
+    "ARBN": "NOT_APPLICABLE",
+    "jurisdiction": "Australia",
+    "security_type": "ORDINARY FULLY PAID",
+    "ISIN": "UNKNOWN",
+    "identity_verified": true,
+    "sources": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260925/pdf/074jdzd69zm116.pdf",
+        "title": "Application for quotation of securities - XRF",
+        "date": "2026-09-25",
+        "pages": "PDF pp1-4; Part1 issuer/registration p2; security summary p1",
+        "fact": "IssuerXRF SCIENTIFIC LIMITED; ASXXRF; ABN80107908314; ORDINARY FULLY PAID. Existing-class application, not proof of current tradability.",
+        "method": "Fresh original primary PDF downloaded; complete pdftotext extraction; actual identity/class or specified passages read.",
+        "sha256": "959e95e0a11362bdc40f558d14116653cac5f4d0fb3725d432b474a8b04f2cc7",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_b/XRF_new.pdf"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=80107908314",
+        "title": "ABN Lookup current details80107908314",
+        "date": "Retrieved2026-10-15; last updated2019-01-24",
+        "pages": "ABN details/entity type/ASIC registration",
+        "fact": "XRF SCIENTIFIC LIMITED; ABN80107908314; Australian Public Company; separate ASIC registration107908314. Record last update precedes cutoff.",
+        "method": "Fresh original primary HTML downloaded and complete actual registry fields read.",
+        "sha256": "de7833e8edb98ae9b533ba22c9e0e21aeb56e09a3c016ead83cd28ae666fe48d",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_b/XRF_10.html"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260914/pdf/0742mg2cvqk5jp.pdf",
+        "title": "Notice of Annual General Meeting/Proxy Form",
+        "date": "2026-09-14",
+        "pages": "PDF p2 first paragraph; p11 glossary",
+        "fact": "XRF Scientific Limited expressly ACN107908314.",
+        "method": "Fresh original primary PDF downloaded; complete pdftotext extraction; actual identity/class or specified passages read.",
+        "sha256": "1e009f150d9673cfc86be45859a44f42daca1fc6f63be7f671208c4f7e4af7b3",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_b/XRF_extra_3.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20250819/pdf/06n11cqb699mh1.pdf",
+        "title": "XRF Scientific annual financial report2025",
+        "date": "2025-08-19",
+        "pages": "PDF p24 reporting entity; p60 directors declaration",
+        "fact": "XRF Scientific Limited company limited by shares incorporated Australia; directors declaration explicitly ACN107908314.",
+        "method": "Fresh original primary PDF downloaded; complete pdftotext extraction; actual identity/class or specified passages read.",
+        "sha256": "8621adc8821647981c99f4b22d6ca5817d56372194ad1783f70c654fa14d55a4",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/last8_b/XRF_3.pdf"
+      }
+    ],
+    "historical_findings": "Complete legal lineage, former names/tickers, code reuse and merger/RTO/relisting reconciliation remain open.",
+    "security_findings": "Dated Appendix2A confirms ordinary fully paid class. Permanent ISIN, complete historic security classes and corporate actions, and trading status at cutoff remain open.",
+    "exceptions": [],
+    "next_checks": [
+      "Obtain primary permanent ISIN.",
+      "Complete historical legal lineage and ticker/corporate action reconciliation.",
+      "Confirm trading status as at2026-10-13 including any suspension/resumption notices."
+    ]
+  }
+]

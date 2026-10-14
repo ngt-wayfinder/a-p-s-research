@@ -58,3 +58,9 @@ Next 20 pending rows freshly checked against issuer/ASX documents and ABR. 20 mo
 
 Twenty live PRIMARY_SOURCE_PENDING records (SOP, SYR, TAM, TER, TTM, TTT, TVN, TOK, TOR, TRE, TGN, TYR, USL, VR8, VBX, VMC, VBC, VHM, VTM, VVA) have freshly inspected primary issuer/ASX name, ticker and explicit registration evidence. Current authoritative counts: 240 confirmed identities across status variants; 8 primary-source pending; 68 partial-evidence reviews; 76 identity closure cases remain. Source entries E01185–E01257, receipt hashes and specific source conflicts are documented in [batch report](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_15.md). These are identity-only closures; broader historical/security/trading conclusions remain PARTIALLY_VERIFIED. Original matrix notes and all other296 rows are preserved.
 
+
+
+
+## Final eight primary-source-pending identities — 15 October 2026
+
+VYS, WTM, WWI, WCN, WEC, WC8, WZR and XRF have fresh primary issuer identity evidence. The actual matrix now contains **248 confirmed identities across status variants, zero primary-source pending, and 68 partial-evidence reviews**. These eight narrow identity closures do not sign off complete historical, security or trading continuity. All existing notes and the other 308 rows are preserved. Specific source qualifications and source IDs E01258–E01291 appear in the [final-eight report](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_FINAL_8_2026_10_15.md). Step 1.3.2.4 remains IN PROGRESS.
