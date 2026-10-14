@@ -52,3 +52,9 @@ Next 20 pending rows freshly checked against issuer/ASX documents and ABR. 20 mo
 ## Primary identity batch F — 14 October 2026
 
 Next 20 pending rows freshly checked against issuer/ASX documents and ABR. 20 move to PRIMARY_ISSUER_IDENTITY_CONFIRMED; 53 pending remain. Recorded primary identity evidence totals 195. This records identity evidence only, with detailed qualifications in [STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_F](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_F.md). Full historical/security/trading sign-off remains open.
+
+
+## Primary identity batch — next 20, 15 October 2026
+
+Twenty live PRIMARY_SOURCE_PENDING records (SOP, SYR, TAM, TER, TTM, TTT, TVN, TOK, TOR, TRE, TGN, TYR, USL, VR8, VBX, VMC, VBC, VHM, VTM, VVA) have freshly inspected primary issuer/ASX name, ticker and explicit registration evidence. Current authoritative counts: 240 confirmed identities across status variants; 8 primary-source pending; 68 partial-evidence reviews; 76 identity closure cases remain. Source entries E01185–E01257, receipt hashes and specific source conflicts are documented in [batch report](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_15.md). These are identity-only closures; broader historical/security/trading conclusions remain PARTIALLY_VERIFIED. Original matrix notes and all other296 rows are preserved.
+

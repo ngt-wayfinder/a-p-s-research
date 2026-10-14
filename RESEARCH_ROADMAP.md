@@ -256,3 +256,9 @@ Confirmed issuer identity evidence for **SRZ, STK, STX, SS1, STM**. Live matrix 
 ## Concurrent batch reconciliation — 15 October 2026
 
 Rechecked the live 316-record evidence matrix after concurrent updates. Current matrix counts: **215 PRIMARY_ISSUER_IDENTITY_CONFIRMED + 4 PRIMARY_ASX_IDENTITY_CONFIRMED + 1 PRIMARY_HISTORICAL_ISSUER_IDENTITY_CONFIRMED = 220 primary identities confirmed**; **28 PRIMARY_SOURCE_PENDING** and **68 PRIMARY_EVIDENCE_PARTIAL_REVIEW**. Thus **96 primary-identity closure cases remain**. Earlier batch-local 210/215 totals above are chronological snapshots and must not override these live counts. All 316 still have broader history/trading review gaps, so **0 full verification sign-offs**. The newest SRZ/STK/STX/SS1/STM source evidence is detailed in [Batch I, 15 Oct](research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_5_2026_10_15_I.md), with five new evidence ledger receipts and updated exception/register records.
+
+
+
+## Primary issuer identity batch — next 20, 15 October 2026
+
+Fresh original issuer/ASX documents corroborate **SOP, SYR, TAM, TER, TTM, TTT, TVN, TOK, TOR, TRE, TGN, TYR, USL, VR8, VBX, VMC, VBC, VHM, VTM, VVA**. Exactly 20 selected pending rows changed to `PRIMARY_ISSUER_IDENTITY_CONFIRMED`; all prior notes and all 316 candidates retained. Current authoritative matrix totals: **240 primary identities confirmed across status variants (235+4+1);8 PRIMARY_SOURCE_PENDING;68 PRIMARY_EVIDENCE_PARTIAL_REVIEW;76 primary identity closure cases remain**. Evidence ledger entries **E01185–E01257** added; full historical/security/trading sign-offs remain **0/316** and Step 1.3.2.4 remains **IN PROGRESS**. SOP foreign registry classification,TRE continuance,VBC implementation dates and TOR report-identifier attribution are explicitly qualified. [Batch report](research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_15.md).

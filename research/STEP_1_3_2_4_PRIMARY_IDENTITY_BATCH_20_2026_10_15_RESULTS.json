@@ -1,0 +1,1255 @@
+[
+  {
+    "code": "SOP",
+    "legal_name": "Synertec Corporation Limited",
+    "ACN": "NOT_APPLICABLE",
+    "ABN": "37161803032",
+    "ARBN": "161803032",
+    "jurisdiction": "Bermuda",
+    "security_type": "ORDINARY FULLY PAID",
+    "ISIN": "UNRESOLVED",
+    "identity_verified": true,
+    "sources": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260820/pdf/072znchb1whmlm.pdf",
+        "title": "Application for quotation of securities - SOP",
+        "date": "2026-08-20",
+        "pages": "PDF pp1-2,4-5",
+        "fact": "Part1 explicitly names SYNERTEC CORPORATION LIMITED, registered-number type ARBN 161803032, ASX issuer code SOP; class SOP ORDINARY FULLY PAID.",
+        "method": "Fresh HTTPS download of actual official ASX PDF; pdftotext -layout; relevant complete pages read 2026-10-15",
+        "sha256": "813e873799e92fffa7a2408095a6124443037a655246c18fa6e2c3bfb0b7f501",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_a_sources/SOP_E00728.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260831/pdf/073hn1fvbtk7wz.pdf",
+        "title": "Appendix 4E and 2026 Annual Report",
+        "date": "2026-08-31",
+        "pages": "PDF pp1,30,65 (printed p64)",
+        "fact": "Appendix4E names Synertec Corporation Limited ARBN161803032; financial-report cover states ASX:SOP; note1 explicitly calls ultimate parent incorporated in Bermuda. Australian subsidiaries are not issuer domicile.",
+        "method": "Fresh HTTPS download of actual official ASX PDF; pdftotext -layout; relevant complete pages read 2026-10-15",
+        "sha256": "c26ab094f18a7adb35c4c3645ed94c3d0bcb2935e5d77e59bfc3ceeae6105161",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_a_sources/SOP_E00729.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260901/pdf/073kp2slzgp8st.pdf",
+        "title": "Trading Halt",
+        "date": "2026-09-01",
+        "pages": "PDF p1",
+        "fact": "ASX market announcement names Synertec Corporation Limited ASX:SOP; trading halt dated1Sep2026, stated expected endpoint3Sep2026 subject to announcement. Expected endpoint is not independently verified reinstatement.",
+        "method": "Fresh HTTPS download of actual official ASX PDF; pdftotext -layout; relevant complete pages read 2026-10-15",
+        "sha256": "5a4d8e431e022f0f910f5078bef083de76cf1630c5b8341b1830bba6309bb5f7",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_a_sources/SOP_E00730.pdf"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=37161803032",
+        "title": "ABN Lookup current details 37161803032",
+        "date": "2026-10-15",
+        "pages": "Entity name / ABN details / ASIC registration; extracted15Oct2026",
+        "fact": "Fresh government registry corroborates Synertec Corporation Limited, ABN37161803032, ASIC registration number 161803032. Registry current extraction is after13Oct2026 cutoff; corroboration only, not historical trading status proof.",
+        "method": "Fresh HTTPS HTML download; labels and actual record read15Oct2026",
+        "sha256": "f4a7a61c3e76a9e34eb90efa1e47f82f81cb32b3ef4394584fa9a47157379ab4",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_a_sources/SOP_ABR.html"
+      }
+    ],
+    "historical_findings": "Full legal name/ticker lineage, code reuse, mergers/RTO, delisting/relisting and adjusted history joins remain open. Current issuer identity closure is a narrower conclusion.",
+    "security_findings": "Dated ordinary equity evidence verified; ISIN and complete historical class/action reconciliation remain open. Application for quotation alone is not current trading-status evidence.",
+    "exceptions": [
+      "Permanent ISIN unresolved; complete historical security classes/corporate actions and current trading status at13Oct2026 not signed off.",
+      "ABR extraction15Oct2026 is later than13Oct2026 cutoff; used only corroboratively with dated primary issuer evidence.",
+      "ABR entity type says Australian Public Company, conflicting with issuer annual report explicit Bermuda incorporation and Appendix2A explicit ARBN. Preserve conflict; jurisdiction remains Bermuda from direct issuer evidence, ACN not inferred fromABN. Bermuda local registration number still unlocated."
+    ],
+    "next_checks": [
+      "Retrieve ASIC full historical company/foreign company extract and match effective legal-name/code chronology.",
+      "Verify permanent ISIN, complete security/corporate-action history and independent trading state at13Oct2026."
+    ],
+    "review_date": "2026-10-15",
+    "evidence_cutoff": "2026-10-13"
+  },
+  {
+    "code": "SYR",
+    "legal_name": "Syrah Resources Limited",
+    "ACN": "125242284",
+    "ABN": "77125242284",
+    "ARBN": "NOT_APPLICABLE",
+    "jurisdiction": "Australia",
+    "security_type": "ORDINARY FULLY PAID",
+    "ISIN": "UNRESOLVED",
+    "identity_verified": true,
+    "sources": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260520/pdf/06zs9c246xdyrj.pdf",
+        "title": "Application for quotation of securities - SYR",
+        "date": "2026-05-20",
+        "pages": "PDF pp1-2,4,6",
+        "fact": "Part1 explicitly names SYRAH RESOURCES LIMITED, registered-number type ACN125242284, issuer code SYR. Class SYR ORDINARY FULLY PAID and separate unquoted performance rights; application relates to1,319,233 performance rights converted.",
+        "method": "Fresh HTTPS download of actual official ASX PDF; pdftotext -layout; relevant complete pages read 2026-10-15",
+        "sha256": "77a1bd9aacc028ac6eb1c3eedf8ab32666a2caad6dcc5e88a0e7207d6a2c68d9",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_a_sources/SYR_E00731.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260326/pdf/06xv29j0wp3tr8.pdf",
+        "title": "2025 Annual Report",
+        "date": "2026-03-26",
+        "pages": "PDF p81 (printed p79)",
+        "fact": "Consolidated financial statements identify Syrah Resources Limited as company limited by shares incorporated and domiciled in Australia.",
+        "method": "Fresh HTTPS download of actual official ASX PDF; pdftotext -layout; relevant complete pages read 2026-10-15",
+        "sha256": "0308e70632771b2615ea80020c02f2f041e9ab82642d56bb999bb999fa9360bd",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_a_sources/SYR_E00732.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260325/pdf/06xsby4lmfh02z.pdf",
+        "title": "Trading Halt",
+        "date": "2026-03-25",
+        "pages": "PDF pp1-2",
+        "fact": "ASX issuer mapping Syrah Resources Limited ASX:SYR; issuer request letterhead explicitly ABN77125242284. Trading halt25Mar2026 has expected endpoint27Mar2026; not proof of current status.",
+        "method": "Fresh HTTPS download of actual official ASX PDF; pdftotext -layout; relevant complete pages read 2026-10-15",
+        "sha256": "fa8b1a028d97429e047f2d7f5022ba8d47f337a6eec1fa992ae753192bebae2d",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_a_sources/SYR_E00733.pdf"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=77125242284",
+        "title": "ABN Lookup current details 77125242284",
+        "date": "2026-10-15",
+        "pages": "Entity name / ABN details / ASIC registration; extracted15Oct2026",
+        "fact": "Fresh government registry corroborates Syrah Resources Limited, ABN77125242284, ASIC registration number 125242284. Registry current extraction is after13Oct2026 cutoff; corroboration only, not historical trading status proof.",
+        "method": "Fresh HTTPS HTML download; labels and actual record read15Oct2026",
+        "sha256": "1f8a9301c7809f2de37cb991c0de08f5607880f168471192e4c233a32a9d39b0",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_a_sources/SYR_ABR.html"
+      }
+    ],
+    "historical_findings": "Full legal name/ticker lineage, code reuse, mergers/RTO, delisting/relisting and adjusted history joins remain open. Current issuer identity closure is a narrower conclusion.",
+    "security_findings": "Dated ordinary equity evidence verified; ISIN and complete historical class/action reconciliation remain open. Application for quotation alone is not current trading-status evidence.",
+    "exceptions": [
+      "Permanent ISIN unresolved; complete historical security classes/corporate actions and current trading status at13Oct2026 not signed off.",
+      "ABR extraction15Oct2026 is later than13Oct2026 cutoff; used only corroboratively with dated primary issuer evidence."
+    ],
+    "next_checks": [
+      "Retrieve ASIC full historical company/foreign company extract and match effective legal-name/code chronology.",
+      "Verify permanent ISIN, complete security/corporate-action history and independent trading state at13Oct2026."
+    ],
+    "review_date": "2026-10-15",
+    "evidence_cutoff": "2026-10-13"
+  },
+  {
+    "code": "TAM",
+    "legal_name": "Tanami Gold NL",
+    "ACN": "000617176",
+    "ABN": "51000617176",
+    "ARBN": "NOT_APPLICABLE",
+    "jurisdiction": "Australia",
+    "security_type": "ORDINARY SHARES",
+    "ISIN": "UNRESOLVED",
+    "identity_verified": true,
+    "sources": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260922/pdf/074cf9knlwgm6l.pdf",
+        "title": "Annual Report to shareholders",
+        "date": "2026-09-22",
+        "pages": "PDF pp6,30,57 (printed pp5,29,56)",
+        "fact": "Tanami Gold NL annual report, authorized22Sep2026, explicitly incorporated Australia (note1); equity section at16Sep2026 records2,350,194,092 ordinary shares and nil options. Report does not supply explicit issuer ACN in extracted passages.",
+        "method": "Fresh HTTPS download of actual official ASX PDF; pdftotext -layout; relevant complete pages read 2026-10-15",
+        "sha256": "2d124782827ba50937eb2861183d42e8723c5809261b684b84381860a87d6aab",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_a_sources/TAM_E00734.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260506/pdf/06z963qm5blf5v.pdf",
+        "title": "Trading Halt",
+        "date": "2026-05-06",
+        "pages": "PDF pp1-2",
+        "fact": "ASX market announcement Tanami Gold NL ASX:TAM; issuer letterhead explicitly ABN51000617176. Trading halt6May2026 expected endpoint8May2026 does not prove current trading.",
+        "method": "Fresh HTTPS download of actual official ASX PDF; pdftotext -layout; relevant complete pages read 2026-10-15",
+        "sha256": "f4d0fa1897e4ea5cd71cc06b61c923a67447bf3754e1766fefa72790412fb830",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_a_sources/TAM_E00735.pdf"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=51000617176",
+        "title": "ABN Lookup current details 51000617176",
+        "date": "2026-10-15",
+        "pages": "Entity name / ABN details / ASIC registration; extracted15Oct2026",
+        "fact": "Fresh government registry corroborates Tanami Gold NL, ABN51000617176, ASIC registration number 000617176. Registry current extraction is after13Oct2026 cutoff; corroboration only, not historical trading status proof.",
+        "method": "Fresh HTTPS HTML download; labels and actual record read15Oct2026",
+        "sha256": "0927f18b9195b5e16328ebdf10f187a93418e3bd8c713d42353602ea4c5ab9f9",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_a_sources/TAM_ABR.html"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20131115/pdf/42kwykhkrwzthq.pdf",
+        "title": "Tanami Gold NL rights issue Prospectus",
+        "date": "2013-11-15",
+        "pages": "PDF p4 timetable; p48 glossary (printed pp2,46)",
+        "fact": "Timetable states lodgement with ASIC15Nov2013. Glossary explicitly Company means Tanami Gold NL (ACN000617176); matches fresh ABR number and current issuer ABN, with legal name unchanged in selected current source.",
+        "method": "Fresh official ASX PDF download; actual glossary/timetable read15Oct2026",
+        "sha256": "c5b80c470e344a80266bb85ef9c29cad07258e66384743bceb4b3feb8c677b67",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_a_sources/TAM_2013AGM.pdf"
+      },
+      {
+        "url": "https://www.tanami.com.au/images/shareholders_meetings/2023_TAM_Notice_of_Meeting_ASX.pdf",
+        "title": "Tanami Gold NL Notice of Annual General Meeting",
+        "date": "2023-10-18",
+        "pages": "PDF p5 date / p6 explanatory memorandum introduction",
+        "fact": "Notice dated18Oct2023; explanatory memorandum explicitly Tanami Gold NL ACN000617176. Fresh web open read actual PDF. Direct shell retrieval403; no local PDF hash available.",
+        "method": "Web open actual primary issuer PDF (turn52view0); relevant lines141-145 read15Oct2026",
+        "sha256": null,
+        "local_path": null
+      }
+    ],
+    "historical_findings": "Full legal name/ticker lineage, code reuse, mergers/RTO, delisting/relisting and adjusted history joins remain open. Current issuer identity closure is a narrower conclusion. Explicit ACN in2013 prospectus and2023 AGM matches2026 ABN/registry; selected continuity points corroborated, not exhaustive lineage.",
+    "security_findings": "Dated ordinary equity evidence verified; ISIN and complete historical class/action reconciliation remain open. Application for quotation alone is not current trading-status evidence.",
+    "exceptions": [
+      "Permanent ISIN unresolved; complete historical security classes/corporate actions and current trading status at13Oct2026 not signed off.",
+      "ABR extraction15Oct2026 is later than13Oct2026 cutoff; used only corroboratively with dated primary issuer evidence.",
+      "Issuer2023 AGM shell downloadHTTP403; original PDF content read successfully through web. No PDF hash fabricated."
+    ],
+    "next_checks": [
+      "Retrieve ASIC full historical company/foreign company extract and match effective legal-name/code chronology.",
+      "Verify permanent ISIN, complete security/corporate-action history and independent trading state at13Oct2026."
+    ],
+    "review_date": "2026-10-15",
+    "evidence_cutoff": "2026-10-13"
+  },
+  {
+    "code": "TER",
+    "legal_name": "TerraCom Limited",
+    "ACN": "143533537",
+    "ABN": "35143533537",
+    "ARBN": "NOT_APPLICABLE",
+    "jurisdiction": "Australia",
+    "security_type": "ORDINARY FULLY PAID",
+    "ISIN": "UNRESOLVED",
+    "identity_verified": true,
+    "sources": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260225/pdf/06wr8rftqt8vqd.pdf",
+        "title": "Application for quotation of securities - TER",
+        "date": "2026-02-25",
+        "pages": "PDF pp1-2,4,6",
+        "fact": "Part1 explicitly names TERRACOM LIMITED, registered-number type ACN143533537, ASX issuer code TER; class ORDINARY FULLY PAID.",
+        "method": "Fresh HTTPS download of actual official ASX PDF; pdftotext -layout; relevant complete pages read 2026-10-15",
+        "sha256": "eb2ff671d65c7547cba3ecd3738f49a120d90051f4343b93b0bcc7dfe1e36930",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_a_sources/TER_E00739.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20261007/pdf/07514h3g5pwcq5.pdf",
+        "title": "FY2026 Audited Annual Report",
+        "date": "2026-10-07",
+        "pages": "PDF pp1,6-7,58 (printed pp4-5,56)",
+        "fact": "FY2026 Audited Annual Report release dated7Oct2026 explicitly TerraCom Limited ASX:TER ABN35143533537; GeneralInformation confirms listed public company incorporated and domiciled Australia. Accounts authorized6Oct2026.",
+        "method": "Fresh HTTPS download of actual official ASX PDF; pdftotext -layout; relevant complete pages read 2026-10-15",
+        "sha256": "feb7eefec1efa856c2eb1dc63efa497b9ac36ef6dc370325d0085d5cb748392e",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_a_sources/TER_E00740.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20261007/pdf/07521jhfkbw5v6.pdf",
+        "title": "Reinstatement to Quotation",
+        "date": "2026-10-07",
+        "pages": "PDF p1",
+        "fact": "ASX announcement7Oct2026 explicitly TerraCom Limited ASX:TER; suspension lifted from commencement8Oct2026 following audited accounts lodgement. Dated reinstatement does not exhaust subsequent status review through13Oct2026.",
+        "method": "Fresh HTTPS download of actual official ASX PDF; pdftotext -layout; relevant complete pages read 2026-10-15",
+        "sha256": "d859416b84ec67757d7dc86118f666f000040918334bb6b0e6ef9379ef246d1c",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_a_sources/TER_E00741.pdf"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=35143533537",
+        "title": "ABN Lookup current details 35143533537",
+        "date": "2026-10-15",
+        "pages": "Entity name / ABN details / ASIC registration; extracted15Oct2026",
+        "fact": "Fresh government registry corroborates TerraCom Limited, ABN35143533537, ASIC registration number 143533537. Registry current extraction is after13Oct2026 cutoff; corroboration only, not historical trading status proof.",
+        "method": "Fresh HTTPS HTML download; labels and actual record read15Oct2026",
+        "sha256": "eec2761252f20cad5a0be224c965c533b0003a179aeb76e3994d93a999a2a6f1",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_a_sources/TER_ABR.html"
+      }
+    ],
+    "historical_findings": "Full legal name/ticker lineage, code reuse, mergers/RTO, delisting/relisting and adjusted history joins remain open. Current issuer identity closure is a narrower conclusion. ABR business name TerraCom Resources from23Dec2016 is not an alternative legal issuer name or proved legal-name change.",
+    "security_findings": "Dated ordinary equity evidence verified; ISIN and complete historical class/action reconciliation remain open. Application for quotation alone is not current trading-status evidence.",
+    "exceptions": [
+      "Permanent ISIN unresolved; complete historical security classes/corporate actions and current trading status at13Oct2026 not signed off.",
+      "ABR extraction15Oct2026 is later than13Oct2026 cutoff; used only corroboratively with dated primary issuer evidence."
+    ],
+    "next_checks": [
+      "Retrieve ASIC full historical company/foreign company extract and match effective legal-name/code chronology.",
+      "Verify permanent ISIN, complete security/corporate-action history and independent trading state at13Oct2026."
+    ],
+    "review_date": "2026-10-15",
+    "evidence_cutoff": "2026-10-13"
+  },
+  {
+    "code": "TTM",
+    "legal_name": "Titan Minerals Limited",
+    "ACN": "117790897",
+    "ABN": "97117790897",
+    "ARBN": "NOT_APPLICABLE",
+    "jurisdiction": "Australia",
+    "security_type": "ORDINARY FULLY PAID",
+    "ISIN": "UNRESOLVED",
+    "identity_verified": true,
+    "sources": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260520/pdf/06zrvyzqgjctr9.pdf",
+        "title": "Application for quotation of securities - TTM",
+        "date": "2026-05-20",
+        "pages": "PDF pp1-2,4,6",
+        "fact": "Appendix2A explicitly TITAN MINERALS LIMITED, registration type ABN97117790897, issuer TTM, class ORDINARY FULLY PAID.",
+        "method": "Fresh HTTPS download of actual official ASX PDF; pdftotext -layout; relevant complete pages read 2026-10-15",
+        "sha256": "71ce846eba6f9541a76031cff8dd9dd6c0c0f73d48e0a8449c02554af2fb6b2b",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_a_sources/TTM_E00744.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260430/pdf/06z1dfqq9mc8dc.pdf",
+        "title": "Annual Report to shareholders",
+        "date": "2026-04-30",
+        "pages": "PDF pp2,49 (printed pii,p47)",
+        "fact": "Annual Report2025 corporate directory explicitly ASX Code TTM, Australian Company Number ACN117790897 and ABN97117790897. Note1 identifies Titan Minerals Limited parent incorporated Australia; subsidiaries elsewhere not issuer domicile.",
+        "method": "Fresh HTTPS download of actual official ASX PDF; pdftotext -layout; relevant complete pages read 2026-10-15",
+        "sha256": "954edc73c9976be854e5a74ab7ed1378a5db4fc4b7e02ef863ca3dee07246a4f",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_a_sources/TTM_E00745.pdf"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?abn=97117790897",
+        "title": "ABN Lookup current details 97117790897",
+        "date": "2026-10-15",
+        "pages": "Entity name / ABN details / ASIC registration; extracted15Oct2026",
+        "fact": "Fresh government registry corroborates Titan Minerals Limited, ABN97117790897, ASIC registration number 117790897. Registry current extraction is after13Oct2026 cutoff; corroboration only, not historical trading status proof.",
+        "method": "Fresh HTTPS HTML download; labels and actual record read15Oct2026",
+        "sha256": "6fe9e3ca57d2af223aa0156887b956e485b2d1cf24782ceeb51620748e694ff3",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_a_sources/TTM_ABR.html"
+      }
+    ],
+    "historical_findings": "Full legal name/ticker lineage, code reuse, mergers/RTO, delisting/relisting and adjusted history joins remain open. Current issuer identity closure is a narrower conclusion. ABR records legacy trading name Mundo Minerals Limited from23Feb2006; trading-name record is not definitive legal name-change chronology and ABR stopped updating trading names2012.",
+    "security_findings": "Dated ordinary equity evidence verified; ISIN and complete historical class/action reconciliation remain open. Application for quotation alone is not current trading-status evidence.",
+    "exceptions": [
+      "Permanent ISIN unresolved; complete historical security classes/corporate actions and current trading status at13Oct2026 not signed off.",
+      "ABR extraction15Oct2026 is later than13Oct2026 cutoff; used only corroboratively with dated primary issuer evidence."
+    ],
+    "next_checks": [
+      "Retrieve ASIC full historical company/foreign company extract and match effective legal-name/code chronology.",
+      "Verify permanent ISIN, complete security/corporate-action history and independent trading state at13Oct2026."
+    ],
+    "review_date": "2026-10-15",
+    "evidence_cutoff": "2026-10-13"
+  },
+  {
+    "code": "TTT",
+    "legal_name": "Titomic Limited",
+    "ACN": "602793644",
+    "ABN": "77602793644",
+    "ARBN": "NOT_APPLICABLE",
+    "jurisdiction": "Australia",
+    "security_type": "ORDINARY FULLY PAID",
+    "ISIN": "UNKNOWN",
+    "identity_verified": true,
+    "sources": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260908/pdf/073vjm2h5wdnx3.pdf",
+        "title": "Application for quotation of securities - TTT",
+        "date": "2026-09-08",
+        "pages": "PDF pp1-2; Part1",
+        "fact": "TITOMIC LIMITED explicitly names ACN 602793644 and ASX issuer code TTT; summary class ORDINARY FULLY PAID.",
+        "method": "Fresh direct primary-source download; full PDF extracted with pdftotext -layout; cited passages read.",
+        "sha256": "4e23ab4b7a6167d749bc08a87c168ab57251b9ea5bf1b3cb993dfe0e99da23e6",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_b_sources/TTT_073vjm2h5wdnx3.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260227/pdf/06wvjgnw8gkwst.pdf",
+        "title": "Titomic Limited Annual Report",
+        "date": "2026-02-27",
+        "pages": "PDF pp1,35; Note1",
+        "fact": "Titomic Limited ABN 77 602 793 644; Note1 states listed public company incorporated and domiciled in Australia.",
+        "method": "Fresh direct primary-source download; full PDF extracted with pdftotext -layout; cited passages read.",
+        "sha256": "69d84844b3c865bbc79bd8a8a6c8df9dc1f76e4cf2e2088017101c3ad788dd1b",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_b_sources/TTT_06wvjgnw8gkwst.pdf"
+      }
+    ],
+    "historical_findings": "Full lineage, code reuse and merger/RTO reconciliation remain open.",
+    "security_findings": "Dated Appendix 2A confirms ordinary fully paid class only; complete corporate-action, historical security-class and ISIN reconciliation remain open.",
+    "exceptions": [
+      "Identity closure does not constitute full Step 1.3.2.4 verification."
+    ],
+    "next_checks": [
+      "Reconcile full legal-name and ticker lineage against dated implementation notices.",
+      "Confirm permanent ISIN and complete security/action mapping.",
+      "Confirm trading state at 2026-10-13 using ASX current-state and lifting/suspension evidence."
+    ],
+    "review_date": "2026-10-15",
+    "evidence_cutoff": "2026-10-13"
+  },
+  {
+    "code": "TVN",
+    "legal_name": "Tivan Limited",
+    "ACN": "000817023",
+    "ABN": "12000817023",
+    "ARBN": "NOT_APPLICABLE",
+    "jurisdiction": "Australia",
+    "security_type": "ORDINARY FULLY PAID",
+    "ISIN": "UNKNOWN",
+    "identity_verified": true,
+    "sources": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20261012/pdf/0757790tyvnz8q.pdf",
+        "title": "Application for quotation of securities - TVN",
+        "date": "2026-10-12",
+        "pages": "PDF pp1-2; Part1",
+        "fact": "TIVAN LIMITED explicitly names ABN 12000817023 and ASX issuer code TVN; ordinary fully paid class.",
+        "method": "Fresh direct primary-source download; full PDF extracted with pdftotext -layout; cited passages read.",
+        "sha256": "191fcb5e3acbb41e07d22a4cae9e6289a19364b8b66246b5b1b06eb850fbfa3e",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_b_sources/TVN_0757790tyvnz8q.pdf"
+      },
+      {
+        "url": "https://clients3.weblink.com.au/Clients/JuniorMining/headline.aspx?id=61220608",
+        "title": "Tivan Limited Entitlement Offer Prospectus",
+        "date": "2024-08-15",
+        "pages": "PDF pp1,3,47",
+        "fact": "Cover explicitly names Tivan Limited ACN 000 817 023. Important Notes dates prospectus 15August2024; definitions repeats issuer ACN.",
+        "method": "Fresh vendor-hosted issuer prospectus downloaded; response contains small HTML prefix then original PDF; pdftotext successfully extracts full49-page document; cited passages read.",
+        "sha256": "d2048d74fc3d4163e896c58b88525e2d183f40137fdf6982e3f3b7096a036095",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_b_sources/TVN_prospectus.html"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=12000817023",
+        "title": "ABN Lookup Tivan Limited",
+        "date": "2026-08-26",
+        "pages": "Current details; ASIC registration link",
+        "fact": "Fresh registry page identifies Tivan Limited Australian Public Company, ABN 12 000 817 023, separately displayed ASIC registration 000 817 023. Last updated26Aug2026; record extracted15Oct2026. Corroboration rather than sole cutoff-dated proof.",
+        "method": "Fresh direct HTML downloaded; full current-details text read; explicit ASIC registration separately observed, not inferred from ABN.",
+        "sha256": "5c4c30cc14e7233f04aa12f5a9f61840398a248104a36997f0bc675ca328a368",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_b_sources/TVN_abr.html"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20230926/pdf/05v8m5lwntdf50.pdf",
+        "title": "Tivan Annual Report 2023",
+        "date": "2023-09-26",
+        "pages": "PDF pp6-7",
+        "fact": "Issuer reports shareholder-approved change from TNG Limited to Tivan Limited January2023 and ASX code TVN effective25January2023.",
+        "method": "Fresh direct primary-source download; full PDF extracted with pdftotext -layout; cited passages read.",
+        "sha256": "e21f91867222c641965c95284f94427806d96d690eeb061396ceb642bd8b086a",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_b_sources/TVN_2023annual.pdf"
+      }
+    ],
+    "historical_findings": "2023 annual report supports TNG Limited -> Tivan Limited name change and TVN code effective25January2023. Older legal history, complete code-reuse analysis and implementation notice reconciliation remain open.",
+    "security_findings": "Dated Appendix 2A confirms ordinary fully paid class only; complete corporate-action, historical security-class and ISIN reconciliation remain open.",
+    "exceptions": [
+      "Identity closure does not constitute full Step 1.3.2.4 verification."
+    ],
+    "next_checks": [
+      "Reconcile full legal-name and ticker lineage against dated implementation notices.",
+      "Confirm permanent ISIN and complete security/action mapping.",
+      "Confirm trading state at 2026-10-13 using ASX current-state and lifting/suspension evidence."
+    ],
+    "review_date": "2026-10-15",
+    "evidence_cutoff": "2026-10-13"
+  },
+  {
+    "code": "TOK",
+    "legal_name": "Tolu Minerals Limited",
+    "ACN": "NOT_APPLICABLE_FOREIGN_COMPANY",
+    "ABN": "UNKNOWN",
+    "ARBN": "657300359",
+    "jurisdiction": "Papua New Guinea",
+    "security_type": "ORDINARY FULLY PAID",
+    "ISIN": "UNKNOWN",
+    "identity_verified": true,
+    "sources": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260623/pdf/070xg2vdytjl4g.pdf",
+        "title": "Application for quotation of securities - TOK",
+        "date": "2026-06-23",
+        "pages": "PDF pp1-2; Part1",
+        "fact": "TOLU MINERALS LIMITED explicitly names ARBN657300359 and issuer codeTOK; ordinary fully paid class.",
+        "method": "Fresh direct primary-source download; full PDF extracted with pdftotext -layout; cited passages read.",
+        "sha256": "5bd988d6319f360c18db1c532c442dc9dfa518672fca86e0105ed4682a42f7a3",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_b_sources/TOK_070xg2vdytjl4g.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260331/pdf/06y0b7kswgq80l.pdf",
+        "title": "Tolu Minerals Limited 2025 Annual Report",
+        "date": "2026-03-31",
+        "pages": "PDF pp1,4,7,35",
+        "fact": "Parent Tolu Minerals Limited explicitly incorporated Papua New Guinea registration1-125888; incorporation19March2020. Note1 states issuer shares publicly traded ASX codeTOK.",
+        "method": "Fresh direct primary-source download; full PDF extracted with pdftotext -layout; cited passages read.",
+        "sha256": "6365beb3d3f16bea37f31c7ff9fe9ba1ee77ae222fef9bb99dc472cbd88124a4",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_b_sources/TOK_2026annual.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20250331/pdf/06h66ygfd759bl.pdf",
+        "title": "Tolu Minerals Limited 2024 Annual Report",
+        "date": "2025-03-31",
+        "pages": "PDF pp1,4,8,45",
+        "fact": "Same PNG registration1-125888; issuer formerly Lole Mining Ltd; PNG incorporation19March2020 and ASIC foreign-company registration28March2022; Note1 explicitlyASX TOK.",
+        "method": "Fresh direct primary-source download; full PDF extracted with pdftotext -layout; cited passages read.",
+        "sha256": "d3426895c3a27ed67d87dd2ef763ea9a910b6a0e8e90f51c69ccd004f46d5359",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_b_sources/TOK_2025annual.pdf"
+      }
+    ],
+    "historical_findings": "2024annual report identifies former Lole Mining Ltd; same PNG registration in2024/2025 reports and Australian foreign registration date28March2022 support identity. Exact effective renaming and full historical succession/actions remain open.",
+    "security_findings": "Dated Appendix 2A confirms ordinary fully paid class only; complete corporate-action, historical security-class and ISIN reconciliation remain open.",
+    "exceptions": [
+      "Identity closure does not constitute full Step 1.3.2.4 verification."
+    ],
+    "next_checks": [
+      "Reconcile full legal-name and ticker lineage against dated implementation notices.",
+      "Confirm permanent ISIN and complete security/action mapping.",
+      "Confirm trading state at 2026-10-13 using ASX current-state and lifting/suspension evidence."
+    ],
+    "review_date": "2026-10-15",
+    "evidence_cutoff": "2026-10-13",
+    "foreign_registration_identifier": "PNG Company Registration No. 1-125888"
+  },
+  {
+    "code": "TOR",
+    "legal_name": "Torque Metals Limited",
+    "ACN": "621122905",
+    "ABN": "44621122905",
+    "ARBN": "NOT_APPLICABLE",
+    "jurisdiction": "Australia",
+    "security_type": "ORDINARY FULLY PAID",
+    "ISIN": "UNKNOWN",
+    "identity_verified": true,
+    "sources": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260511/pdf/06zgpt87qbx7dn.pdf",
+        "title": "Application for quotation of securities - TOR",
+        "date": "2026-05-11",
+        "pages": "PDF pp1-2; Part1",
+        "fact": "TORQUE METALS LIMITED explicitly names ACN621122905 and issuer codeTOR; ordinary fully paid class.",
+        "method": "Fresh direct primary-source download; full PDF extracted with pdftotext -layout; cited passages read.",
+        "sha256": "b0dd5cf7077f2078c76fcac4bd60707102bc23ec8b0d023ae8c104cd0f47281b",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_b_sources/TOR_06zgpt87qbx7dn.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260925/pdf/074jcgdwcqmdv0.pdf",
+        "title": "Torque Metals Limited 2026 Annual Report",
+        "date": "2026-09-25",
+        "pages": "PDF pp1,48,104",
+        "fact": "Cover and final corporate page explicitly ACN621122905, ASXTOR; General Information states Torque Metals Limited listed public company incorporated and operating in Australia.",
+        "method": "Fresh direct primary-source download; full PDF extracted with pdftotext -layout; cited passages read.",
+        "sha256": "288628347bd7926c40d8d0341efe8b830c7d7b808b1c8fdd0dc2b0572f4c1243",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_b_sources/TOR_074jcgdwcqmdv0.pdf"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=44621122905",
+        "title": "ABN Lookup Torque Metals Limited",
+        "date": "2025-09-23",
+        "pages": "Current details; ASIC registration link",
+        "fact": "Fresh registry page explicitly identifies TORQUE METALS LIMITED, ABN44 621 122 905, Australian Public Company, separate ASIC registration621 122 905; lastupdated23September2025; extracted15October2026. Corroborative current snapshot, not sole cutoff-dated evidence.",
+        "method": "Fresh direct HTML download; current-details and explicit separate ASIC registration read.",
+        "sha256": "88705fe15116053a443431efddab8ff527fbb4478d323f9ea3ae5c2e27859da7",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_b_sources/TOR_abr.html"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260316/pdf/06xhf3m202xd16.pdf",
+        "title": "Torque Metals Limited Financial Statements for the Half Year Ended 31December2025",
+        "date": "2026-03-16",
+        "pages": "Full29-page document; PDFpp1-2 corporate directory",
+        "fact": "Fresh read confirms reporting issuer Torque Metals Limited and ASX TOR, but no ABN appears in extracted text or rendered cover. Inherited ABN attribution to this report was not substantiated; ABN independently corroborated via ABR instead.",
+        "method": "Fresh direct ASX PDF download; complete pdftotext extraction read; cover rendered with pdftoppm and visually inspected.",
+        "sha256": "4b13a2b0254dfb0c7e2b9060b9b9d633545e891ee5df57fa50d052b186a32d4b",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_b_sources/TOR_2026halfyear.pdf"
+      }
+    ],
+    "historical_findings": "Full lineage, code reuse and merger/RTO reconciliation remain open.",
+    "security_findings": "Dated Appendix 2A confirms ordinary fully paid class only; complete corporate-action, historical security-class and ISIN reconciliation remain open.",
+    "exceptions": [
+      "Identity closure does not constitute full Step 1.3.2.4 verification.",
+      "Inherited research attributed ABN44 621 122 905 to16March2026halfyear. Fresh report extraction/cover inspection did not substantiate that attribution; explicitABR confirmsABN independently."
+    ],
+    "next_checks": [
+      "Reconcile full legal-name and ticker lineage against dated implementation notices.",
+      "Confirm permanent ISIN and complete security/action mapping.",
+      "Confirm trading state at 2026-10-13 using ASX current-state and lifting/suspension evidence."
+    ],
+    "review_date": "2026-10-15",
+    "evidence_cutoff": "2026-10-13"
+  },
+  {
+    "code": "TRE",
+    "legal_name": "Toubani Resources Limited",
+    "ACN": "661082435",
+    "ABN": "80661082435",
+    "ARBN": "NOT_APPLICABLE",
+    "jurisdiction": "Australia",
+    "security_type": "ORDINARY FULLY PAID",
+    "ISIN": "UNKNOWN",
+    "identity_verified": true,
+    "sources": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260720/pdf/071vn1fqwljn5n.pdf",
+        "title": "Toubani Resources Limited Retail Entitlement Offer Booklet",
+        "date": "2026-07-20",
+        "pages": "PDF pp1-2,101,104",
+        "fact": "Toubani Resources Limited explicitly ACN661082435; issuer-issued booklet dated20July2026.",
+        "method": "Fresh direct primary-source download; full PDF extracted with pdftotext -layout; cited passages read.",
+        "sha256": "ae4ea1ed88e63c74d3b0631d35b0d22100692c3959b28417f2cf227516ddd646",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_b_sources/TRE_offer.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260814/pdf/072ry94qst0lj8.pdf",
+        "title": "Application for quotation of securities - TRE",
+        "date": "2026-08-14",
+        "pages": "PDF pp1-2; Part1",
+        "fact": "TOUBANI RESOURCES LIMITED ABN80661082435 issuer codeTRE; ordinary fully paid class.",
+        "method": "Fresh direct primary-source download; full PDF extracted with pdftotext -layout; cited passages read.",
+        "sha256": "b348251fe9a0767d13a0e6f22d5f135d64bd6539b7c2412ed3d2ebc5c8ea8c02",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_b_sources/TRE_072ry94qst0lj8.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20240112/pdf/05zcrqfqjyn049.pdf",
+        "title": "Toubani Resources Registered as an Australian Company",
+        "date": "2024-01-12",
+        "pages": "PDF p1",
+        "fact": "Issuer ASXTRE reports completed Australian continuance effective8January2024, nameToubani Resources Limited formerlyInc. Shareholder approval1September2023. Proposed remaining security timetable is explicitly indicative.",
+        "method": "Fresh direct primary-source download; full PDF extracted with pdftotext -layout; cited passages read.",
+        "sha256": "b7ff17e98a06498fa9d34d5ed440dcf90cbbd1007f0d7f6bcc1d684c88bb5010",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_b_sources/TRE_05zcrqfqjyn049.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260330/pdf/06xxxj8s7wfkym.pdf",
+        "title": "Toubani Resources Limited 2025 Annual Report",
+        "date": "2026-03-30",
+        "pages": "PDF pp10,31",
+        "fact": "Directors report says incorporatedAustralia; Note1 reports initialOntarioCanada incorporation2October2002 and Australia registration8January2024. Dated completed continuance notice distinguishes original history from currentAustralia.",
+        "method": "Fresh direct primary-source download; full PDF extracted with pdftotext -layout; cited passages read.",
+        "sha256": "537fd19f081a2551a38ba1cae3f0d2e6af167a05d314eec3b3fcbf96894a7568",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_b_sources/TRE_06xxxj8s7wfkym.pdf"
+      }
+    ],
+    "historical_findings": "Dated12Jan2024 primary notice confirms completed Canada->Australia continuance8Jan2024, Inc->Limited. 2025annual Note1 records originalOntario2002 incorporation while directors reportcurrentAustralia. No certificate/exhaustiveCanadian lineage or ultimate CDI implementation reconciliation performed.",
+    "security_findings": "12Jan2024notice described1:1 common-share->ordinary share/CDI cancellation and indicativeJan2024 settlement timetable; notice proves completedlegalcontinuance, not every subsequentsecurityimplementation. 14Aug2026Appendix2A confirmsordinaryfullypaid. ISIN/historicalclass mappingremainopen.",
+    "exceptions": [
+      "Identity closure does not constitute full Step 1.3.2.4 verification."
+    ],
+    "next_checks": [
+      "Reconcile full legal-name and ticker lineage against dated implementation notices.",
+      "Confirm permanent ISIN and complete security/action mapping.",
+      "Confirm trading state at 2026-10-13 using ASX current-state and lifting/suspension evidence."
+    ],
+    "review_date": "2026-10-15",
+    "evidence_cutoff": "2026-10-13"
+  },
+  {
+    "code": "TGN",
+    "legal_name": "TUNGSTEN MINING NL",
+    "ACN": "152084403",
+    "ABN": "67152084403",
+    "ARBN": "NOT_APPLICABLE_AU_ISSUER",
+    "jurisdiction": "Australia",
+    "security_type": "ORDINARY FULLY PAID",
+    "ISIN": "UNKNOWN",
+    "identity_verified": true,
+    "sources": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260924/pdf/074glc8s0yj3j0.pdf",
+        "title": "Application for quotation of securities - TGN",
+        "date": "2026-09-24",
+        "pages": "PDF pp1-2 and Part3",
+        "fact": "Appendix 2A names TUNGSTEN MINING NL, issuer code TGN, ACN 152084403; ordinary fully paid class. Application is not proof of current tradability.",
+        "method": "Fresh original source download; complete PDF text extraction with pdftotext -layout and cited passages read",
+        "sha256": "55453abdf6eac3032323788c14cc49ad70d2d911bae0ae3d5e8534691d238571",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_c/TGN_074glc8s0yj3j0.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260929/pdf/074p51k82flxtq.pdf",
+        "title": "Annual Report to shareholders",
+        "date": "2026-09-29",
+        "pages": "Cover; CEDS PDF p75",
+        "fact": "Report confirms TUNGSTEN MINING NL; CEDS expressly identifies Australia as parent country/place of incorporation (PDF p75). Corporate directory PDF p3 gives ABN 67 152 084 403, ASX TGN and distinct OTCQB TGNMF.",
+        "method": "Fresh original source download; complete PDF text extraction with pdftotext -layout and cited passages read",
+        "sha256": "879cdfcc52e2f76844eb3dc1d42582466cf6bd26ea4fbb43529944809d62b7e7",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_c/TGN_074p51k82flxtq.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260921/pdf/0749rx5wcq0gk4.pdf",
+        "title": "Trading Halt",
+        "date": "2026-09-21",
+        "pages": "PDF p1",
+        "fact": "ASX halted TGN on 2026-09-21; notice scheduled end at earlier of normal trading 2026-09-23 or relevant announcement unless ASX decides otherwise. This does not prove lifting or status at cutoff.",
+        "method": "Fresh original source download; complete PDF text extraction with pdftotext -layout and cited passages read",
+        "sha256": "d0ab40406b8a1c1952926bb74d5a13cf19016d33f355fd1e695fa3655544f30b",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_c/TGN_0749rx5wcq0gk4.pdf"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=152084403",
+        "title": "ABN Lookup historical details for 67152084403",
+        "date": "Snapshot extracted 2026-10-15; historical events before cutoff",
+        "pages": "Entity name history; ABN; ASIC registration; entity type",
+        "fact": "Registry explicitly links TUNGSTEN MINING NL to ABN 67152084403 and ASIC registration 152084403; Australian Public Company. ABR entity-name history: Tungsten West NL 2011-07-13 to 2012-07-25; Tungsten Mining NL from 2012-07-25. Registry dates, not inferred ASX code-change dates.",
+        "method": "Fresh direct official ABR HTML download and actual entity-name-history, registration and ABN tables read; current snapshot does not retroactively prove trading status",
+        "sha256": "50d91a861154a1a1396cf6910c1d83ce1531eb96d2fba80ec449d3881bd06eb8",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_c/TGN_hist.html"
+      }
+    ],
+    "historical_findings": [
+      "ABR entity-name history: Tungsten West NL 2011-07-13 to 2012-07-25; Tungsten Mining NL from 2012-07-25. Registry dates, not inferred ASX code-change dates.",
+      "Annual report corporate directory identifies ASX TGN separately from OTCQB TGNMF; these are not interchangeable securities."
+    ],
+    "security_findings": [
+      "Recent Appendix 2A substantiates ORDINARY FULLY PAID issuer class. ISIN remains UNKNOWN; no complete class/corporate-action reconciliation signed off."
+    ],
+    "exceptions": [
+      "Identity evidence sufficient; full historical continuity remains open (ticker reuse, merger/RTO, delisting/relisting and historical joins not comprehensively reconciled).",
+      "Permanent ISIN and complete historical share-class/corporate-action reconciliation remain open.",
+      "Trading state at 2026-10-13 remains unresolved; quotation application and halt expiry schedule are insufficient."
+    ],
+    "next_checks": [
+      "Obtain dated ASX name/code-change and admission records to reconcile exact ticker timeline and possible code reuse.",
+      "Reconcile full corporate-action and security-class history; obtain primary ISIN evidence.",
+      "Obtain dated ASX status/resumption/removal records through 2026-10-13."
+    ],
+    "review_date": "2026-10-15",
+    "evidence_cutoff": "2026-10-13"
+  },
+  {
+    "code": "TYR",
+    "legal_name": "TYRO PAYMENTS LIMITED",
+    "ACN": "103575042",
+    "ABN": "49103575042",
+    "ARBN": "NOT_APPLICABLE_AU_ISSUER",
+    "jurisdiction": "Australia",
+    "security_type": "ORDINARY FULLY PAID",
+    "ISIN": "UNKNOWN",
+    "identity_verified": true,
+    "sources": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20261008/pdf/0753bkmw64lb6d.pdf",
+        "title": "Application for quotation of securities - TYR",
+        "date": "2026-10-08",
+        "pages": "PDF pp1-2 and Part3",
+        "fact": "Appendix 2A names TYRO PAYMENTS LIMITED, issuer code TYR, ABN 49103575042; separate explicit ACN evidence below; ordinary fully paid class. Application is not proof of current tradability.",
+        "method": "Fresh original source download; complete PDF text extraction with pdftotext -layout and cited passages read",
+        "sha256": "ae8aaea3948b3e75db8e0b334176f2ef3ac5b9fd32cbbe91d2f0c92bf4db35f3",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_c/TYR_0753bkmw64lb6d.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260825/pdf/0735cf612qrd0w.pdf",
+        "title": "Annual Report to shareholders",
+        "date": "2026-08-25",
+        "pages": "Cover; CEDS PDF p146",
+        "fact": "Report confirms TYRO PAYMENTS LIMITED; CEDS expressly identifies Australia as parent country/place of incorporation (PDF p146).",
+        "method": "Fresh original source download; complete PDF text extraction with pdftotext -layout and cited passages read",
+        "sha256": "672b361499fc366ee70c84d558f696c2d1b1d959d37e3a0c196e7143dfd02a38",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_c/TYR_0735cf612qrd0w.pdf"
+      },
+      {
+        "url": "https://investors.tyro.com/DownloadFile.axd?file=%2FReport%2FComNews%2F20251022%2F03011496.pdf",
+        "title": "Tyro FY25 AGM Notice",
+        "date": "2025-10-22",
+        "pages": "PDF p18 (printed p17)",
+        "fact": "Glossary expressly defines Company or Tyro as Tyro Payments Limited ACN 103 575 042. Matched to recent Appendix 2A issuer name, ABN and TYR code.",
+        "method": "Fresh original source download; complete PDF text extraction with pdftotext -layout and cited passages read",
+        "sha256": "a1b2d42b3c10916ab74b04e503a6660c5f5d0b1019379abc67e3cc3ab8ff2266",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_c/TYR_2025AGM.pdf"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=49103575042",
+        "title": "ABN Lookup historical details for 49103575042",
+        "date": "Snapshot extracted 2026-10-15; historical events before cutoff",
+        "pages": "Entity name history; ABN; ASIC registration; entity type",
+        "fact": "Registry explicitly links TYRO PAYMENTS LIMITED to ABN 49103575042 and ASIC registration 103575042; Australian Public Company. ABR entity-name history: MONEYSWITCH LTD from 2003-02-03 to 2005-04-19; MONEYSWITCH LIMITED from 2005-04-19 to 2010-10-26; TYRO PAYMENTS LIMITED from 2010-10-26. Business-name registration MONEYSWITCH from 2003 does not establish an ASX ticker.",
+        "method": "Fresh direct official ABR HTML download and actual entity-name-history, registration and ABN tables read; current snapshot does not retroactively prove trading status",
+        "sha256": "fa5f9258e550e6af08814a80543e7bcb467dec6298af2e984eb415ad7b1ad6fc",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_c/TYR_hist.html"
+      }
+    ],
+    "historical_findings": [
+      "ABR entity-name history: MONEYSWITCH LTD from 2003-02-03 to 2005-04-19; MONEYSWITCH LIMITED from 2005-04-19 to 2010-10-26; TYRO PAYMENTS LIMITED from 2010-10-26. Business-name registration MONEYSWITCH from 2003 does not establish an ASX ticker."
+    ],
+    "security_findings": [
+      "Recent Appendix 2A substantiates ORDINARY FULLY PAID issuer class. ISIN remains UNKNOWN; no complete class/corporate-action reconciliation signed off.",
+      "2026-10-08 Appendix 2A PDF p4 distinguishes TYRAA PERFORMANCE RIGHTS converting to TYR ordinary fully paid; underlying shares described intended to be, but not yet, quoted. Class identifier does not itself mean exchange-listed performance rights."
+    ],
+    "exceptions": [
+      "Identity evidence sufficient; full historical continuity remains open (ticker reuse, merger/RTO, delisting/relisting and historical joins not comprehensively reconciled).",
+      "Permanent ISIN and complete historical share-class/corporate-action reconciliation remain open.",
+      "Trading state at 2026-10-13 remains unresolved; quotation application and halt expiry schedule are insufficient.",
+      "Direct tyro.com root HTML returned Incapsula challenge rather than issuer content; not relied upon. ACN closure instead supported by freshly downloaded dated issuer FY25 AGM notice."
+    ],
+    "next_checks": [
+      "Obtain dated ASX name/code-change and admission records to reconcile exact ticker timeline and possible code reuse.",
+      "Reconcile full corporate-action and security-class history; obtain primary ISIN evidence.",
+      "Obtain dated ASX status/resumption/removal records through 2026-10-13."
+    ],
+    "review_date": "2026-10-15",
+    "evidence_cutoff": "2026-10-13"
+  },
+  {
+    "code": "USL",
+    "legal_name": "UNICO SILVER LIMITED",
+    "ACN": "116865546",
+    "ABN": "34116865546",
+    "ARBN": "NOT_APPLICABLE_AU_ISSUER",
+    "jurisdiction": "Australia",
+    "security_type": "ORDINARY FULLY PAID",
+    "ISIN": "UNKNOWN",
+    "identity_verified": true,
+    "sources": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20261001/pdf/074t52pyvyzjzv.pdf",
+        "title": "Application for quotation of securities - USL",
+        "date": "2026-10-01",
+        "pages": "PDF pp1-2 and Part3",
+        "fact": "Appendix 2A names UNICO SILVER LIMITED, issuer code USL, ABN 34116865546; separate explicit ACN evidence below; ordinary fully paid class. Application is not proof of current tradability.",
+        "method": "Fresh original source download; complete PDF text extraction with pdftotext -layout and cited passages read",
+        "sha256": "73a1417736ec7301946e6ac2c0c0596a61d258159b788da217cdf53ea0f408a3",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_c/USL_074t52pyvyzjzv.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260929/pdf/074p039vmtwz5j.pdf",
+        "title": "2026 Annual Report to Shareholders",
+        "date": "2026-09-29",
+        "pages": "Cover; CEDS PDF p67",
+        "fact": "Report confirms UNICO SILVER LIMITED; CEDS expressly identifies Australia as parent country/place of incorporation (PDF p67).",
+        "method": "Fresh original source download; complete PDF text extraction with pdftotext -layout and cited passages read",
+        "sha256": "33b7ccd922b178e7dc5675ef97088651f045ef01ef0f91b819f95c0acdb80f32",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_c/USL_074p039vmtwz5j.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260922/pdf/074c38v98n90l9.pdf",
+        "title": "Trading Halt",
+        "date": "2026-09-22",
+        "pages": "PDF p1",
+        "fact": "ASX halted USL on 2026-09-22; notice scheduled end at earlier of normal trading 2026-09-24 or relevant announcement unless ASX decides otherwise. This does not prove lifting or status at cutoff.",
+        "method": "Fresh original source download; complete PDF text extraction with pdftotext -layout and cited passages read",
+        "sha256": "c91f43d044cfa9bcea7af470ccf31d4794bf63bf6e12730fc9a094b030acf41a",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_c/USL_074c38v98n90l9.pdf"
+      },
+      {
+        "url": "https://unicosilver.com.au/wp-content/uploads/2025/07/250312_USL_GOV_ShareholderCommunicationPolicy-1.pdf",
+        "title": "Unico Silver Shareholder Communication Policy v3.0",
+        "date": "2025-02-06",
+        "pages": "PDF pp1,3",
+        "fact": "Explicit Unico Silver Limited ACN 116 865 546; Board approval 6 February 2025 (publication pathname July 2025 is separate).",
+        "method": "Fresh original source download; complete PDF text extraction with pdftotext -layout and cited passages read",
+        "sha256": "7e83500f4cc383ca96c3dad13189dbd2ddc885991c578d6b976056cec64c6d2d",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_c/USL_policy.pdf"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=34116865546",
+        "title": "ABN Lookup historical details for 34116865546",
+        "date": "Snapshot extracted 2026-10-15; historical events before cutoff",
+        "pages": "Entity name history; ABN; ASIC registration; entity type",
+        "fact": "Registry explicitly links UNICO SILVER LIMITED to ABN 34116865546 and ASIC registration 116865546; Australian Public Company. ABR entity-name history: BALLARAT SOUTH GOLD LIMITED 2006-07-01 to 2010-02-05; NATIONAL ENERGY HOLDINGS LIMITED 2010-02-05 to 2014-12-16; E2 METALS LIMITED 2014-12-16 to 2023-03-01; UNICO SILVER LIMITED from 2023-03-01. These are registry dates; ASX ticker-effective dates require separate confirmation.",
+        "method": "Fresh direct official ABR HTML download and actual entity-name-history, registration and ABN tables read; current snapshot does not retroactively prove trading status",
+        "sha256": "0bc74652273cceb093d861ac668205ca0c9398c33d04c8efb1982c764c28edfb",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_c/USL_hist.html"
+      }
+    ],
+    "historical_findings": [
+      "ABR entity-name history: BALLARAT SOUTH GOLD LIMITED 2006-07-01 to 2010-02-05; NATIONAL ENERGY HOLDINGS LIMITED 2010-02-05 to 2014-12-16; E2 METALS LIMITED 2014-12-16 to 2023-03-01; UNICO SILVER LIMITED from 2023-03-01. These are registry dates; ASX ticker-effective dates require separate confirmation.",
+      "2026 annual report director biography independently calls Unico Silver Limited previously E2 Metals Limited (PDF page20)."
+    ],
+    "security_findings": [
+      "Recent Appendix 2A substantiates ORDINARY FULLY PAID issuer class. ISIN remains UNKNOWN; no complete class/corporate-action reconciliation signed off."
+    ],
+    "exceptions": [
+      "Identity evidence sufficient; full historical continuity remains open (ticker reuse, merger/RTO, delisting/relisting and historical joins not comprehensively reconciled).",
+      "Permanent ISIN and complete historical share-class/corporate-action reconciliation remain open.",
+      "Trading state at 2026-10-13 remains unresolved; quotation application and halt expiry schedule are insufficient."
+    ],
+    "next_checks": [
+      "Obtain dated ASX name/code-change and admission records to reconcile exact ticker timeline and possible code reuse.",
+      "Reconcile full corporate-action and security-class history; obtain primary ISIN evidence.",
+      "Obtain dated ASX status/resumption/removal records through 2026-10-13."
+    ],
+    "review_date": "2026-10-15",
+    "evidence_cutoff": "2026-10-13"
+  },
+  {
+    "code": "VR8",
+    "legal_name": "VANADIUM RESOURCES LIMITED",
+    "ACN": "618307887",
+    "ABN": "47618307887",
+    "ARBN": "NOT_APPLICABLE_AU_ISSUER",
+    "jurisdiction": "Australia",
+    "security_type": "ORDINARY FULLY PAID",
+    "ISIN": "UNKNOWN",
+    "identity_verified": true,
+    "sources": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260916/pdf/0744s84fcl6wl6.pdf",
+        "title": "Application for quotation of securities - VR8",
+        "date": "2026-09-16",
+        "pages": "PDF pp1-2 and Part3",
+        "fact": "Appendix 2A names VANADIUM RESOURCES LIMITED, issuer code VR8, ACN 618307887; ordinary fully paid class. Application is not proof of current tradability.",
+        "method": "Fresh original source download; complete PDF text extraction with pdftotext -layout and cited passages read",
+        "sha256": "387ae41d49c3a61a0d25571bba7d3fb92d15171499095e1dedb62b74499cf0a7",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_c/VR8_0744s84fcl6wl6.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260930/pdf/074rq0p5xcgl8s.pdf",
+        "title": "Annual Report to shareholders",
+        "date": "2026-09-30",
+        "pages": "Cover; CEDS PDF p64",
+        "fact": "Report confirms VANADIUM RESOURCES LIMITED; CEDS expressly identifies Australia as parent country/place of incorporation (PDF p64).",
+        "method": "Fresh original source download; complete PDF text extraction with pdftotext -layout and cited passages read",
+        "sha256": "e94f33294df1964db5f36eddb5f443eda5f1683469793f497fe427078e3e26db",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_c/VR8_074rq0p5xcgl8s.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20261001/pdf/074syyc17781t9.pdf",
+        "title": "Trading Halt",
+        "date": "2026-10-01",
+        "pages": "PDF p1",
+        "fact": "ASX halted VR8 on 2026-10-01; notice scheduled end at earlier of normal trading 2026-10-05 or relevant announcement unless ASX decides otherwise. This does not prove lifting or status at cutoff.",
+        "method": "Fresh original source download; complete PDF text extraction with pdftotext -layout and cited passages read",
+        "sha256": "90df9a50426ac85bbf796d09bfc268701fe27ef448186f1f483cfa8729a26b3e",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_c/VR8_074syyc17781t9.pdf"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=618307887",
+        "title": "ABN Lookup historical details for 47618307887",
+        "date": "Snapshot extracted 2026-10-15; historical events before cutoff",
+        "pages": "Entity name history; ABN; ASIC registration; entity type",
+        "fact": "Registry explicitly links VANADIUM RESOURCES LIMITED to ABN 47618307887 and ASIC registration 618307887; Australian Public Company. ABR entity-name history: TANDO RESOURCES LIMITED 2017-04-26 to 2019-07-29; VANADIUM RESOURCES LIMITED from 2019-07-29. Registry dates alone do not prove ASX ticker-effective dates.",
+        "method": "Fresh direct official ABR HTML download and actual entity-name-history, registration and ABN tables read; current snapshot does not retroactively prove trading status",
+        "sha256": "053855177e1bbb14511104145eee5853f23ece12ad450ed9b63f9b60db35c723",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_c/VR8_hist.html"
+      }
+    ],
+    "historical_findings": [
+      "ABR entity-name history: TANDO RESOURCES LIMITED 2017-04-26 to 2019-07-29; VANADIUM RESOURCES LIMITED from 2019-07-29. Registry dates alone do not prove ASX ticker-effective dates.",
+      "Annual report CEDS distinguishes Australian parent Vanadium Resources Ltd from South African subsidiary Vanadium Resources (Pty) Ltd (86.49% ownership); registration belongs to parent."
+    ],
+    "security_findings": [
+      "Recent Appendix 2A substantiates ORDINARY FULLY PAID issuer class. ISIN remains UNKNOWN; no complete class/corporate-action reconciliation signed off."
+    ],
+    "exceptions": [
+      "Identity evidence sufficient; full historical continuity remains open (ticker reuse, merger/RTO, delisting/relisting and historical joins not comprehensively reconciled).",
+      "Permanent ISIN and complete historical share-class/corporate-action reconciliation remain open.",
+      "Trading state at 2026-10-13 remains unresolved; quotation application and halt expiry schedule are insufficient."
+    ],
+    "next_checks": [
+      "Obtain dated ASX name/code-change and admission records to reconcile exact ticker timeline and possible code reuse.",
+      "Reconcile full corporate-action and security-class history; obtain primary ISIN evidence.",
+      "Obtain dated ASX status/resumption/removal records through 2026-10-13."
+    ],
+    "review_date": "2026-10-15",
+    "evidence_cutoff": "2026-10-13"
+  },
+  {
+    "code": "VBX",
+    "legal_name": "VBX LIMITED",
+    "ACN": "163215914",
+    "ABN": "79163215914",
+    "ARBN": "NOT_APPLICABLE_AU_ISSUER",
+    "jurisdiction": "Australia",
+    "security_type": "ORDINARY FULLY PAID",
+    "ISIN": "UNKNOWN",
+    "identity_verified": true,
+    "sources": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260930/pdf/074r5zgxr7g6z9.pdf",
+        "title": "Application for quotation of securities - VBX",
+        "date": "2026-09-30",
+        "pages": "PDF pp1-2 and Part3",
+        "fact": "Appendix 2A names VBX LIMITED, issuer code VBX, ACN 163215914; ordinary fully paid class. Application is not proof of current tradability.",
+        "method": "Fresh original source download; complete PDF text extraction with pdftotext -layout and cited passages read",
+        "sha256": "f697ea8906c1d485fd3e0c8c0fc7b496afe64df3c0f68ef1edf54a2b989ec293",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_c/VBX_074r5zgxr7g6z9.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260929/pdf/074p2dk9hb5pqk.pdf",
+        "title": "Annual Report to shareholders",
+        "date": "2026-09-29",
+        "pages": "Cover; CEDS PDF p42",
+        "fact": "Report confirms VBX LIMITED; CEDS expressly identifies Australia as parent country/place of incorporation (PDF p42). Cover explicitly states ACN 163 215 914.",
+        "method": "Fresh original source download; complete PDF text extraction with pdftotext -layout and cited passages read",
+        "sha256": "c2b41a27aa053b10b0fb974558ee0813983f0b2f5147e4b7a9468dacec6d941d",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_c/VBX_074p2dk9hb5pqk.pdf"
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=163215914",
+        "title": "ABN Lookup historical details for 79163215914",
+        "date": "Snapshot extracted 2026-10-15; historical events before cutoff",
+        "pages": "Entity name history; ABN; ASIC registration; entity type",
+        "fact": "Registry explicitly links VBX LIMITED to ABN 79163215914 and ASIC registration 163215914; Australian Public Company. ABR entity-name history: VALPERLON BULK COMMODITIES PTY LTD 2015-05-20 to 2020-04-01; VBX LIMITED from 2020-04-01. ABN active date 2014-07-01 predates first displayed name-history row; pre-2015 legal history remains open.",
+        "method": "Fresh direct official ABR HTML download and actual entity-name-history, registration and ABN tables read; current snapshot does not retroactively prove trading status",
+        "sha256": "620caf7570a88549fa2f1587c34641732a8f570c42c7a6b0239bfa9296f6e910",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_c/VBX_hist.html"
+      }
+    ],
+    "historical_findings": [
+      "ABR entity-name history: VALPERLON BULK COMMODITIES PTY LTD 2015-05-20 to 2020-04-01; VBX LIMITED from 2020-04-01. ABN active date 2014-07-01 predates first displayed name-history row; pre-2015 legal history remains open."
+    ],
+    "security_findings": [
+      "Recent Appendix 2A substantiates ORDINARY FULLY PAID issuer class. ISIN remains UNKNOWN; no complete class/corporate-action reconciliation signed off."
+    ],
+    "exceptions": [
+      "Identity evidence sufficient; full historical continuity remains open (ticker reuse, merger/RTO, delisting/relisting and historical joins not comprehensively reconciled).",
+      "Permanent ISIN and complete historical share-class/corporate-action reconciliation remain open.",
+      "Trading state at 2026-10-13 remains unresolved; quotation application and halt expiry schedule are insufficient."
+    ],
+    "next_checks": [
+      "Obtain dated ASX name/code-change and admission records to reconcile exact ticker timeline and possible code reuse.",
+      "Reconcile full corporate-action and security-class history; obtain primary ISIN evidence.",
+      "Obtain dated ASX status/resumption/removal records through 2026-10-13."
+    ],
+    "review_date": "2026-10-15",
+    "evidence_cutoff": "2026-10-13"
+  },
+  {
+    "code": "VMC",
+    "legal_name": "VENUS METALS CORPORATION LIMITED",
+    "ACN": "123250582",
+    "ABN": "99123250582",
+    "ARBN": "NOT_APPLICABLE",
+    "jurisdiction": "Australia",
+    "security_type": "ORDINARY FULLY PAID",
+    "ISIN": "UNKNOWN",
+    "identity_verified": true,
+    "sources": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260904/pdf/073r64tnzlv8l8.pdf",
+        "title": "Application for quotation of securities - VMC",
+        "date": "2026-09-04",
+        "pages": "PDF pp1-4; Appendix 2A Part1 pp2 and security summary pp1",
+        "fact": "Issuer VENUS METALS CORPORATION LIMITED; ASX code VMC; ABN 99123250582; VMC ordinary fully paid class. Quotation application only.",
+        "method": "Fresh original PDF download; complete pdftotext extraction; actual identity and security passages inspected.",
+        "sha256": "c42d89a95d4b418705add18ea6e7af36e078c99e6a4e6aaf1f8f5d9e33ef9963",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_d/VMC_073r64tnzlv8l8.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260731/pdf/0729qnyytsp1yg.pdf",
+        "title": "Annual Report to shareholders",
+        "date": "2026-07-31",
+        "pages": "PDF p2 directory; p48 reporting entity",
+        "fact": "Venus Metals Corporation Limited reporting issuer and ASX code VMC; domicile Australia. Domicile alone not used as incorporation evidence.",
+        "method": "Fresh original PDF download; complete pdftotext extraction; actual identity and security passages inspected.",
+        "sha256": "a634cd50bfef2736adec5eca5a99f496524e7b94fdcd00c36d0ca748112fd27d",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_d/VMC_0729qnyytsp1yg.pdf"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=99123250582",
+        "title": "ABN Lookup: current details for 99123250582",
+        "date": "Retrieved2026-10-14; record update date in source",
+        "pages": "ABN details and ASIC registration",
+        "fact": "Venus Metals Corporation Limited; ABN99123250582; Australian Public Company; separate ASIC registration123250582 (not derived from ABN). Record last updated2020-12-04.",
+        "method": "Fresh full official ABR HTML read; entity/type/ASIC registration and update date inspected.",
+        "sha256": "8acf58fbffdd3ebf4698b8743898710b23ab438be8efb2ba2d0c158ff9696bbe",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_d/VMC_View?id=99123250582"
+      },
+      {
+        "url": "https://download.asic.gov.au/media/fd0fqh1r/a21_23.pdf",
+        "title": "ASIC Gazette A21/23; ASIC Instrument23-0373",
+        "date": "2023-05-23",
+        "pages": "PDF p9 paragraph4",
+        "fact": "ASIC instrument expressly identifies Venus Metals Corporation Limited ACN123250582.",
+        "method": "Fresh original PDF download; pdftotext extracted only page headers on image-based relevant page, so PDF p9 rendered with pdftoppm and visually read.",
+        "sha256": "361d4cece7ffe0f278c42797d2ba2dfff9c42ba7ccf064165f9b3a1dfaa34d32",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_d/VMC_extra_a21_23.pdf"
+      }
+    ],
+    "historical_findings": "No full historical continuity sign-off; complete former names/codes, ticker reuse and merger/RTO/relisting reconciliation remain open.",
+    "security_findings": "Dated Appendix 2A confirms ordinary fully paid class; application is not proof of completed quotation or current tradability. Permanent ISIN and historical classes/actions remain open.",
+    "exceptions": [],
+    "next_checks": [
+      "Complete legal lineage and prior ticker/corporate action review.",
+      "Obtain permanent ISIN from primary source.",
+      "Confirm trading status as at 2026-10-13, including halt/suspension lifting evidence."
+    ]
+  },
+  {
+    "code": "VBC",
+    "legal_name": "VERBREC LIMITED",
+    "ACN": "127897689",
+    "ABN": "90127897689",
+    "ARBN": "NOT_APPLICABLE",
+    "jurisdiction": "Australia",
+    "security_type": "ORDINARY FULLY PAID",
+    "ISIN": "UNKNOWN",
+    "identity_verified": true,
+    "sources": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260904/pdf/073qm5hwdw5nx6.pdf",
+        "title": "Application for quotation of securities - VBC",
+        "date": "2026-09-04",
+        "pages": "PDF pp1-4; Appendix 2A Part1 pp2 and security summary pp1",
+        "fact": "Issuer VERBREC LIMITED; ASX code VBC; ABN 90127897689; VBC ordinary fully paid class. Quotation application only.",
+        "method": "Fresh original PDF download; complete pdftotext extraction; actual identity and security passages inspected.",
+        "sha256": "c6962e01fbbed644366f1637335338124cde91480b4bcb838e5c0a5c21645bb8",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_d/VBC_073qm5hwdw5nx6.pdf"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260831/pdf/073h7r76bqdg0v.pdf",
+        "title": "FY2026 Annual Report",
+        "date": "2026-08-31",
+        "pages": "PDF p115 note13; p118 CEDS; p127 directory",
+        "fact": "Holding issuer Verbrec Limited expressly ACN127897689; CEDS parent country of incorporation Australia; directory ASX code VBC.",
+        "method": "Fresh original PDF download; complete pdftotext extraction; actual identity and security passages inspected.",
+        "sha256": "c22422ccdd1564b435e0fd9e05060bccd3322b20b38b6c7c544f737a293c7521",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_d/VBC_073h7r76bqdg0v.pdf"
+      },
+      {
+        "url": "https://abr.business.gov.au/ABN/View?id=90127897689",
+        "title": "ABN Lookup current details for 90127897689",
+        "date": "Retrieved2026-10-15; last update 2026-01-08",
+        "pages": "ABN details; entity type; ASIC registration",
+        "fact": "VERBREC LIMITED; ABN90127897689; Australian Public Company; separate ASIC registration127897689. Fresh corroboration with record last updated before cutoff.",
+        "method": "Fresh complete official ABR HTML download and actual data fields inspected.",
+        "sha256": "4c8502f5f905b0e38e00735fcf8c814a62e35b7334c22301436e0e8420e76980",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_d/VBC_web_0.html"
+      },
+      {
+        "url": "https://verbrec.com/wp-content/uploads/Change-of-Company-Name-and-Ticker-Code.pdf",
+        "title": "Change of Company Name",
+        "date": "2020-12-10",
+        "pages": "p1",
+        "fact": "LogiCamms Limited to Verbrec Limited; ASIC processed3Dec2020; tickerVBC effective10Dec2020.",
+        "method": "Direct issuer download403; full original PDF fetched and read with web.open turn57view0 (entire1/2-page document).",
+        "sha256": null,
+        "local_path": null
+      },
+      {
+        "url": "https://verbrec.com/wp-content/uploads/27-October-2020-LCM-Rebranding-Announcement.pdf",
+        "title": "Intention to rebrand corporate entity to Verbrec",
+        "date": "2020-10-27",
+        "pages": "pp1-2",
+        "fact": "LogiCamms Limited ASXLCM ACN127897689; planned rebrand to Verbrec; proposedVBR only.",
+        "method": "Direct issuer download403; full original PDF fetched and read with web.open turn57view1 (entire1/2-page document).",
+        "sha256": null,
+        "local_path": null
+      },
+      {
+        "url": "https://abr.business.gov.au/AbnHistory/View?id=90127897689",
+        "title": "ABR historical details90127897689",
+        "date": "Retrieved2026-10-15; record last updated2026-01-08",
+        "pages": "Entity name history",
+        "fact": "ABR shows LogiCamms Limited8Oct2007 to8Jan2021 and Verbrec8Jan2021 current; ASIC registration127897689. ABR dates distinguished from issuer legal/ASX effective dates.",
+        "method": "Fresh complete ABR HTML downloaded and actual historical data fields read.",
+        "sha256": "eab2779b3c840815197637893a5c41cae42c22a1485777646f1c1708573ab7de",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_d/VBC_extra_View?id=90127897689"
+      }
+    ],
+    "historical_findings": "Primary issuer announcement10Dec2020 confirms LogiCamms Limited renamed Verbrec Limited, ASIC processed3Dec2020; ticker VBC effective10Dec2020. Earlier27Oct2020 issuer proposal identifies LogiCamms Limited ASXLCM ACN127897689 but proposedVBR; later effectiveVBC supersedes intent. Complete historical continuity remains open.",
+    "security_findings": "Dated Appendix 2A confirms ordinary fully paid class; application is not proof of completed quotation or current tradability. Permanent ISIN and historical classes/actions remain open.",
+    "exceptions": [
+      "ABR entity-name history says Verbrec from8Jan2021; issuer says ASIC processed3Dec2020 and ASXVBC10Dec2020. Preserve distinct ABR record date and legal/ASX effective dates; do not treat8Jan2021 as ASX change date.",
+      "Earlier27Oct2020 proposal said new tickerVBR; actual10Dec2020 notice says VBC. VBR is proposal only, not established historical traded ticker.",
+      "Issuer PDFs direct download403; full original issuer PDF contents retrieved and read via web open instead."
+    ],
+    "next_checks": [
+      "Complete legal lineage and prior ticker/corporate action review.",
+      "Obtain permanent ISIN from primary source.",
+      "Confirm trading status as at 2026-10-13, including halt/suspension lifting evidence."
+    ]
+  },
+  {
+    "code": "VHM",
+    "legal_name": "VHM LIMITED",
+    "ACN": "601004102",
+    "ABN": "58601004102",
+    "ARBN": "NOT_APPLICABLE",
+    "jurisdiction": "Australia",
+    "security_type": "ORDINARY FULLY PAID",
+    "ISIN": "UNKNOWN",
+    "identity_verified": true,
+    "sources": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260729/pdf/0724yhn2d72lmr.pdf",
+        "title": "Application for quotation of securities - VHM",
+        "date": "2026-07-29",
+        "pages": "PDF pp1-4; Appendix 2A Part1 pp2 and security summary pp1",
+        "fact": "Issuer VHM LIMITED; ASX code VHM; ACN 601004102; VHM ordinary fully paid class. Quotation application only.",
+        "method": "Fresh original PDF download; complete pdftotext extraction; actual identity and security passages inspected.",
+        "sha256": "3f7b762be9ed6e73e4928ffa3bdb939f81fc3ef32d88e9549b4e9a596116adeb",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_d/VHM_0724yhn2d72lmr.pdf"
+      },
+      {
+        "url": "https://abr.business.gov.au/Search/ResultsActive?SearchText=601004102",
+        "title": "ABN Lookup current details for 58601004102",
+        "date": "Retrieved2026-10-15; last update 2024-09-05",
+        "pages": "ABN details; entity type; ASIC registration",
+        "fact": "VHM LIMITED; ABN58601004102; Australian Public Company; separate ASIC registration601004102. Fresh corroboration with record last updated before cutoff.",
+        "method": "Fresh complete official ABR HTML download and actual data fields inspected.",
+        "sha256": "bc35eeb7b2884110f779ecda0a2f67b2791207748cbd3c1b8c92aa8af54ce78b",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_d/VHM_web_2.html"
+      }
+    ],
+    "historical_findings": "No full historical continuity sign-off; complete former names/codes, ticker reuse and merger/RTO/relisting reconciliation remain open.",
+    "security_findings": "Dated Appendix 2A confirms ordinary fully paid class; application is not proof of completed quotation or current tradability. Permanent ISIN and historical classes/actions remain open.",
+    "exceptions": [],
+    "next_checks": [
+      "Complete legal lineage and prior ticker/corporate action review.",
+      "Obtain permanent ISIN from primary source.",
+      "Confirm trading status as at 2026-10-13, including halt/suspension lifting evidence."
+    ]
+  },
+  {
+    "code": "VTM",
+    "legal_name": "VICTORY METALS LIMITED",
+    "ACN": "124279750",
+    "ABN": "12124279750",
+    "ARBN": "NOT_APPLICABLE",
+    "jurisdiction": "Australia",
+    "security_type": "ORDINARY FULLY PAID",
+    "ISIN": "UNKNOWN",
+    "identity_verified": true,
+    "sources": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20261001/pdf/074trhbbrdxxtp.pdf",
+        "title": "Application for quotation of securities - VTM",
+        "date": "2026-10-01",
+        "pages": "PDF pp1-4; Appendix 2A Part1 pp2 and security summary pp1",
+        "fact": "Issuer VICTORY METALS LIMITED; ASX code VTM; ACN 124279750; VTM ordinary fully paid class. Quotation application only.",
+        "method": "Fresh original PDF download; complete pdftotext extraction; actual identity and security passages inspected.",
+        "sha256": "7165b7573374d12dcf0a0306809ba1400e2faeaa4871938249a57b6df8ffeff1",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_d/VTM_074trhbbrdxxtp.pdf"
+      },
+      {
+        "url": "https://abr.business.gov.au/Search/ResultsActive?SearchText=124279750",
+        "title": "ABN Lookup current details for 12124279750",
+        "date": "Retrieved2026-10-15; last update 2022-11-18",
+        "pages": "ABN details; entity type; ASIC registration",
+        "fact": "VICTORY METALS LIMITED; ABN12124279750; Australian Public Company; separate ASIC registration124279750. Fresh corroboration with record last updated before cutoff.",
+        "method": "Fresh complete official ABR HTML download and actual data fields inspected.",
+        "sha256": "40fe8453c587cc1ee6b47f2aefc0f29d3a1989d7fcedcbd477ff8c8cdfebe0cc",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_d/VTM_web_3.html"
+      }
+    ],
+    "historical_findings": "No full historical continuity sign-off; complete former names/codes, ticker reuse and merger/RTO/relisting reconciliation remain open.",
+    "security_findings": "Dated Appendix 2A confirms ordinary fully paid class; application is not proof of completed quotation or current tradability. Permanent ISIN and historical classes/actions remain open.",
+    "exceptions": [],
+    "next_checks": [
+      "Complete legal lineage and prior ticker/corporate action review.",
+      "Obtain permanent ISIN from primary source.",
+      "Confirm trading status as at 2026-10-13, including halt/suspension lifting evidence."
+    ]
+  },
+  {
+    "code": "VVA",
+    "legal_name": "VIVA LEISURE LIMITED",
+    "ACN": "607079792",
+    "ABN": "76607079792",
+    "ARBN": "NOT_APPLICABLE",
+    "jurisdiction": "Australia",
+    "security_type": "ORDINARY FULLY PAID",
+    "ISIN": "UNKNOWN",
+    "identity_verified": true,
+    "sources": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20260908/pdf/073v9tzzwvb306.pdf",
+        "title": "Application for quotation of securities - VVA",
+        "date": "2026-09-08",
+        "pages": "PDF pp1-4; Appendix 2A Part1 pp2 and security summary pp1",
+        "fact": "Issuer VIVA LEISURE LIMITED; ASX code VVA; ACN 607079792; VVA ordinary fully paid class. Quotation application only.",
+        "method": "Fresh original PDF download; complete pdftotext extraction; actual identity and security passages inspected.",
+        "sha256": "c24ff37f963c6675645c64cfffad6321ee3902537816b46ead7872187010de78",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_d/VVA_073v9tzzwvb306.pdf"
+      },
+      {
+        "url": "https://abr.business.gov.au/Search/ResultsActive?SearchText=607079792",
+        "title": "ABN Lookup current details for 76607079792",
+        "date": "Retrieved2026-10-15; last update 2024-09-09",
+        "pages": "ABN details; entity type; ASIC registration",
+        "fact": "VIVA LEISURE LIMITED; ABN76607079792; Australian Public Company; separate ASIC registration607079792. Fresh corroboration with record last updated before cutoff.",
+        "method": "Fresh complete official ABR HTML download and actual data fields inspected.",
+        "sha256": "dc59fcf1199018ed585f9300c7e78b9c2301e4398bdb5bd6f0eea6c45645cb13",
+        "local_path": "/workspace/scratch/4a72468a46ae/output/next20_d/VVA_web_4.html"
+      }
+    ],
+    "historical_findings": "No full historical continuity sign-off; complete former names/codes, ticker reuse and merger/RTO/relisting reconciliation remain open.",
+    "security_findings": "Dated Appendix 2A confirms ordinary fully paid class; application is not proof of completed quotation or current tradability. Permanent ISIN and historical classes/actions remain open.",
+    "exceptions": [],
+    "next_checks": [
+      "Complete legal lineage and prior ticker/corporate action review.",
+      "Obtain permanent ISIN from primary source.",
+      "Confirm trading status as at 2026-10-13, including halt/suspension lifting evidence."
+    ]
+  }
+]
