@@ -231,3 +231,8 @@ Fresh source-supported name/ticker/identifier evidence recorded for NTU, NOU, NV
 ## Primary identity batch G — five companies, 14 October 2026
 
 Primary ASX / issuer sources reviewed for **RMC, RWL, RTR, SSG and SHG**; moved five matrix rows from `PRIMARY_SOURCE_PENDING` to `PRIMARY_ISSUER_IDENTITY_CONFIRMED`. **Primary identity evidence now 200/316; 48 primary-source pending, 68 partial-review, 116 requiring primary identity closure.** Parent/subsidiary ABN correction for RMC and identifier discrepancies for SSG/SHG are documented, not silently resolved. [Batch G evidence](research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_5_2026_10_14_G.md). **Full continuity/security/trading sign-off remains 0/316.**
+
+
+## Primary identity batch H — five companies, 14 October 2026
+
+Source-backed primary issuer checks for **RML, RIV, SMI, STN and SEA** moved five `PRIMARY_SOURCE_PENDING` cases to `PRIMARY_ISSUER_IDENTITY_CONFIRMED`. **205/316 identities confirmed; 43 primary-source pending; 68 partial-review; 111 require primary identity closure.** RIV formerly Duxton Water (D2O), effective ticker change to RIV 15 October 2025, flagged for independent investment-vehicle versus operating-company assessment under Step 1.3.3. SMI/STN intended future share issues not inferred as completed. [Batch H report](research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_5_2026_10_14_H.md). **No full historical/security/trading sign-off** yet.
