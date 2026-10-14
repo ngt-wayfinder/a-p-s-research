@@ -5,12 +5,12 @@
     "partially_verified": 316,
     "unresolved": 0,
     "open_exception_rows": 316,
-    "manual_review": 57,
-    "primary_assertions": 1094,
+    "manual_review": 63,
+    "primary_assertions": 1159,
     "checksum_failures": 0,
-    "primary_identity_evidence_count": 175,
-    "primary_source_pending": 73,
-    "manual_review_flags": 57
+    "primary_identity_evidence_count": 195,
+    "primary_source_pending": 53,
+    "manual_review_flags": 63
   },
   "checks": {
     "candidate_counts_and_unique_keys": "PASS",
@@ -26,48 +26,48 @@
   },
   "file_hashes_before_commit": {
     "RESEARCH_ROADMAP.md": {
-      "bytes": 24277,
-      "sha256": "9b2b830abd447f93907ae657b5f844301f0be1b72512ff229938cb4db70d8832"
-    },
-    "research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_E.csv": {
-      "bytes": 11023,
-      "sha256": "60bc45c3327cc262f058a69447eaabf7859255f52fff4806da7858ab34db552b"
+      "bytes": 24965,
+      "sha256": "1642591e341bda0c006d2cc74d3c977d861c3926ce7eba2dcc32253ab9f8282d"
     },
     "research/STEP_1_3_2_EVIDENCE_MATRIX.csv": {
-      "bytes": 301424,
-      "sha256": "5a6ef2fab56b7566366fc16695c5dbcf3d6a7f356be95ef33471e05b43580060"
+      "bytes": 311759,
+      "sha256": "08a3dc65d38e5655f59fc3052843cbce87c616eee781736f8218550db84fcd2f"
     },
     "research/STEP_1_3_2_4_IDENTIFIER_QA.csv": {
-      "bytes": 56879,
-      "sha256": "7e214d2f9c195daf356b17d7e40a19c151d4f64e00550a1efe8fb33e746df51c"
+      "bytes": 57034,
+      "sha256": "be77a42961abc3c483efff5192b3f1ea3456be833dbe6805983dfd10419baaf6"
     },
     "research/STEP_1_3_2_EVIDENCE_MATRIX_README.md": {
-      "bytes": 4804,
-      "sha256": "220e64da5efbdbe08652f3c57c01c909c859c883eb153ea9ff54a6f5f3d9115d"
+      "bytes": 5278,
+      "sha256": "1a37096a5a01b52a0ea7498061ac551ae679cb225b5b7cbc992dc2f1a461e22a"
     },
     "research/STEP_1_3_2_4_COMPLETE_VERIFICATION_REGISTER.csv": {
-      "bytes": 942867,
-      "sha256": "6d56f345a6b6a328157921ea28a25773438ffa025c3410f4a4289770c2e1edc3"
-    },
-    "research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_E_QA.json": {
-      "bytes": 2649,
-      "sha256": "f040d234194fefde12ea9b6ac8ce586353db15b03a2bcc9a56b90fb66817477c"
+      "bytes": 971170,
+      "sha256": "1f75507bb7316b7468d969546c7053924786402f06e5be4cd269cd124d50ef9b"
     },
     "research/STEP_1_3_2_4_UNRESOLVED_EXCEPTIONS.csv": {
-      "bytes": 412452,
-      "sha256": "073843945cef2eae9ddba7a6238bb14e6504b597de3b1ddec303de91a05dec91"
+      "bytes": 419226,
+      "sha256": "e7c62304510c20781167080194e440d315340ba7e21ea6777b657ed762dbbd8d"
     },
-    "research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_E.md": {
-      "bytes": 8314,
-      "sha256": "1db1d3de5c9888ba585ef245cd187ddbcdd927ebf0488f07f58b1806caabad85"
+    "research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_F.csv": {
+      "bytes": 12408,
+      "sha256": "d69b186ca3f30306ddae62ae587da7ce4fced595fd44f7bb254db3a27d95c725"
+    },
+    "research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_F.md": {
+      "bytes": 9212,
+      "sha256": "0d0a2e6425ba4679fe6fde935fc01cd948efe0f071a398debc1d7bcc0f709e6f"
+    },
+    "research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_F_QA.json": {
+      "bytes": 2647,
+      "sha256": "fa4b980371ef779090a18eda4658b9ba2ba5a156f336268152298c663f5d5f86"
     },
     "research/STEP_1_3_2_4_COMPREHENSIVE_VERIFICATION_REPORT.md": {
-      "bytes": 31856,
-      "sha256": "43256891be0f452170f1bc1cf5e421db3308afe6bdeda5134d42ceaf19008d07"
+      "bytes": 32593,
+      "sha256": "736ea9e5c390ca2f9626e1a56b8decbbacbf979b22fe53866ec1c495f9c21cb3"
     },
     "research/STEP_1_3_2_4_PRIMARY_EVIDENCE_LEDGER.csv": {
-      "bytes": 614207,
-      "sha256": "ed018fc37b7b432617c1af3416bbab36e22fd3d01ea2e22248dc7a8f4d1fb0d0"
+      "bytes": 658700,
+      "sha256": "7a46bfd36f184e22b561a3430a4c6ab03eae29e87186e9eac53a216516c56562"
     }
   },
   "previous_publication_stats": {
@@ -76,37 +76,37 @@
     "partially_verified": 316,
     "unresolved": 0,
     "open_exception_rows": 316,
-    "manual_review": 54,
-    "primary_assertions": 1029,
+    "manual_review": 57,
+    "primary_assertions": 1094,
     "checksum_failures": 0,
-    "primary_identity_evidence_count": 155,
-    "primary_source_pending": 93,
-    "manual_review_flags": 54
+    "primary_identity_evidence_count": 175,
+    "primary_source_pending": 73,
+    "manual_review_flags": 57
   },
   "latest_primary_identity_batch": {
     "batch_date": "2026-10-14",
-    "batch": "E",
+    "batch": "F",
     "selected_codes": [
-      "LKY",
-      "LOT",
-      "LTP",
-      "LM8",
-      "M24",
-      "MKR",
-      "MPK",
-      "MEU",
-      "MMA",
-      "MMI",
-      "MX1",
-      "MM1",
-      "MNB",
-      "MSV",
-      "MLG",
-      "MXO",
-      "NYM",
-      "NTI",
-      "NOL",
-      "NMD"
+      "NTU",
+      "NOU",
+      "NVX",
+      "OD6",
+      "OFX",
+      "OMA",
+      "OBL",
+      "PGC",
+      "PC2",
+      "PEN",
+      "PVT",
+      "PLT",
+      "PVE",
+      "POL",
+      "PPS",
+      "PTX",
+      "PSC",
+      "QML",
+      "RZI",
+      "RNU"
     ],
     "matrix_rows": 316,
     "unique_codes": 316,
@@ -114,44 +114,44 @@
     "other_candidate_rows_unchanged": 296,
     "original_notes_preserved": true,
     "abn_checksum_passes": 20,
-    "issuer_pdf_retrievals": 44,
+    "issuer_pdf_retrievals": 40,
     "abr_current_retrievals": 20,
     "before": {
-      "PRIMARY_EVIDENCE_PARTIAL_REVIEW": 68,
-      "PRIMARY_ISSUER_IDENTITY_CONFIRMED": 150,
-      "PRIMARY_ASX_IDENTITY_CONFIRMED": 4,
-      "PRIMARY_HISTORICAL_ISSUER_IDENTITY_CONFIRMED": 1,
-      "PRIMARY_SOURCE_PENDING": 93
-    },
-    "after": {
       "PRIMARY_EVIDENCE_PARTIAL_REVIEW": 68,
       "PRIMARY_ISSUER_IDENTITY_CONFIRMED": 170,
       "PRIMARY_ASX_IDENTITY_CONFIRMED": 4,
       "PRIMARY_HISTORICAL_ISSUER_IDENTITY_CONFIRMED": 1,
       "PRIMARY_SOURCE_PENDING": 73
     },
-    "primary_identity_evidence_total": 175,
-    "source_assertions_total": 1094,
+    "after": {
+      "PRIMARY_EVIDENCE_PARTIAL_REVIEW": 68,
+      "PRIMARY_ISSUER_IDENTITY_CONFIRMED": 190,
+      "PRIMARY_ASX_IDENTITY_CONFIRMED": 4,
+      "PRIMARY_HISTORICAL_ISSUER_IDENTITY_CONFIRMED": 1,
+      "PRIMARY_SOURCE_PENDING": 53
+    },
+    "primary_identity_evidence_total": 195,
+    "source_assertions_total": 1159,
     "new_assertions": 65,
-    "manual_review_flags": 57,
+    "manual_review_flags": 63,
     "full_step_signoff": false,
-    "baseline_commit": "15a1df1da2784881cc0f0f548f684d25127015b8",
+    "baseline_commit": "2c2d66b29a9fb60aa16725baf34144041f3f86c4",
     "pdf_metadata_and_extracted_page_counts_match": true,
     "pdf_extraction_repairs": [
-      "NTI:13 to35 PDF pages",
-      "NOL:93 to120 PDF pages"
+      "PVT:82 to98 PDF pages",
+      "PVE:4 to75 PDF pages"
     ],
     "file_hashes": {
-      "RESEARCH_ROADMAP.md": "9b2b830abd447f93907ae657b5f844301f0be1b72512ff229938cb4db70d8832",
-      "research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_E.csv": "60bc45c3327cc262f058a69447eaabf7859255f52fff4806da7858ab34db552b",
-      "research/STEP_1_3_2_EVIDENCE_MATRIX.csv": "5a6ef2fab56b7566366fc16695c5dbcf3d6a7f356be95ef33471e05b43580060",
-      "research/STEP_1_3_2_4_IDENTIFIER_QA.csv": "7e214d2f9c195daf356b17d7e40a19c151d4f64e00550a1efe8fb33e746df51c",
-      "research/STEP_1_3_2_EVIDENCE_MATRIX_README.md": "220e64da5efbdbe08652f3c57c01c909c859c883eb153ea9ff54a6f5f3d9115d",
-      "research/STEP_1_3_2_4_COMPLETE_VERIFICATION_REGISTER.csv": "6d56f345a6b6a328157921ea28a25773438ffa025c3410f4a4289770c2e1edc3",
-      "research/STEP_1_3_2_4_UNRESOLVED_EXCEPTIONS.csv": "073843945cef2eae9ddba7a6238bb14e6504b597de3b1ddec303de91a05dec91",
-      "research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_E.md": "1db1d3de5c9888ba585ef245cd187ddbcdd927ebf0488f07f58b1806caabad85",
-      "research/STEP_1_3_2_4_COMPREHENSIVE_VERIFICATION_REPORT.md": "43256891be0f452170f1bc1cf5e421db3308afe6bdeda5134d42ceaf19008d07",
-      "research/STEP_1_3_2_4_PRIMARY_EVIDENCE_LEDGER.csv": "ed018fc37b7b432617c1af3416bbab36e22fd3d01ea2e22248dc7a8f4d1fb0d0"
+      "RESEARCH_ROADMAP.md": "1642591e341bda0c006d2cc74d3c977d861c3926ce7eba2dcc32253ab9f8282d",
+      "research/STEP_1_3_2_EVIDENCE_MATRIX.csv": "08a3dc65d38e5655f59fc3052843cbce87c616eee781736f8218550db84fcd2f",
+      "research/STEP_1_3_2_4_IDENTIFIER_QA.csv": "be77a42961abc3c483efff5192b3f1ea3456be833dbe6805983dfd10419baaf6",
+      "research/STEP_1_3_2_EVIDENCE_MATRIX_README.md": "1a37096a5a01b52a0ea7498061ac551ae679cb225b5b7cbc992dc2f1a461e22a",
+      "research/STEP_1_3_2_4_COMPLETE_VERIFICATION_REGISTER.csv": "1f75507bb7316b7468d969546c7053924786402f06e5be4cd269cd124d50ef9b",
+      "research/STEP_1_3_2_4_UNRESOLVED_EXCEPTIONS.csv": "e7c62304510c20781167080194e440d315340ba7e21ea6777b657ed762dbbd8d",
+      "research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_F.csv": "d69b186ca3f30306ddae62ae587da7ce4fced595fd44f7bb254db3a27d95c725",
+      "research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_F.md": "0d0a2e6425ba4679fe6fde935fc01cd948efe0f071a398debc1d7bcc0f709e6f",
+      "research/STEP_1_3_2_4_COMPREHENSIVE_VERIFICATION_REPORT.md": "736ea9e5c390ca2f9626e1a56b8decbbacbf979b22fe53866ec1c495f9c21cb3",
+      "research/STEP_1_3_2_4_PRIMARY_EVIDENCE_LEDGER.csv": "7a46bfd36f184e22b561a3430a4c6ab03eae29e87186e9eac53a216516c56562"
     }
   }
 }

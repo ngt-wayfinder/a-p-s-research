@@ -219,3 +219,10 @@ Fresh source-supported name/ticker/identifier evidence recorded for INN, IMB, IV
 Fresh source-supported name/ticker/identifier evidence recorded for LKY, LOT, LTP, LM8, M24, MKR, MPK, MEU, MMA, MMI, MX1, MM1, MNB, MSV, MLG, MXO, NYM, NTI, NOL, NMD. Pending 93 → 73; recorded primary identity evidence 155 → 175. All 316 candidates retained. Country/history/security/trading gaps remain explicit; Step 1.3.2.4 remains IN PROGRESS. Manual-review flags: 57; source assertions: 1094.
 
 [Batch E report](research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_E.md) · [Batch E register](research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_E.csv). Exactly 20 matrix rows changed; other 296 preserved.
+
+
+## Primary identity batch F — next 20, 14 October 2026
+
+Fresh source-supported name/ticker/identifier evidence recorded for NTU, NOU, NVX, OD6, OFX, OMA, OBL, PGC, PC2, PEN, PVT, PLT, PVE, POL, PPS, PTX, PSC, QML, RZI, RNU. Pending 73 → 53; recorded primary identity evidence 175 → 195. All 316 candidates retained. Country/history/security/trading gaps remain explicit; Step 1.3.2.4 remains IN PROGRESS. Manual-review flags: 63; source assertions: 1159.
+
+[Batch F report](research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_F.md) · [Batch F register](research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_F.csv). Exactly 20 matrix rows changed; other 296 preserved.

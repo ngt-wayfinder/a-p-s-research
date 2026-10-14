@@ -13,8 +13,8 @@ Review and recovery date: **14 October 2026**. Research cutoff: **13 October 202
 | Partially verified | 316 |
 | No substantiated legal-name evidence / unresolved outcome | 0 |
 | Records with open verification issues | 316 |
-| Flagged for manual review | 57 |
-| Primary-source assertion entries | 1094 |
+| Flagged for manual review | 63 |
+| Primary-source assertion entries | 1159 |
 | Recorded identifier checksum failures | 0 |
 
 Outcome categories are mutually exclusive. PARTIALLY_VERIFIED means inspected primary evidence supports the recorded legal-name field, but one or more other gates remain open. Manual-review flags overlap these categories and highlight conflicts, listed-parent mapping or material continuity exceptions. Zero unresolved outcomes does **not** mean zero unresolved issues. The original 75 primary identity-evidence rows were not 75 fully verified issuers.
@@ -256,37 +256,37 @@ The complete register contains identity identifiers, jurisdiction, previous name
 | NTI | NEUROTECH INTERNATIONAL LIMITED | PARTIALLY_VERIFIED | NO |
 | NOL | NOBLEOAK LIFE LIMITED | PARTIALLY_VERIFIED | NO |
 | NMD | NORMANDY MINERALS LTD | PARTIALLY_VERIFIED | YES |
-| NTU | Northern Minerals Limited | PARTIALLY_VERIFIED | NO |
-| NOU | Noumi Limited | PARTIALLY_VERIFIED | NO |
-| NVX | Novonix Limited | PARTIALLY_VERIFIED | NO |
+| NTU | NORTHERN MINERALS LIMITED | PARTIALLY_VERIFIED | NO |
+| NOU | NOUMI LIMITED | PARTIALLY_VERIFIED | YES |
+| NVX | NOVONIX LIMITED | PARTIALLY_VERIFIED | YES |
 | NYR | Nyrada Inc. | PARTIALLY_VERIFIED | NO |
 | OCN | Oceana Metals Limited | PARTIALLY_VERIFIED | NO |
-| OD6 | OD6 Metals Limited | PARTIALLY_VERIFIED | NO |
+| OD6 | OD6 METALS LIMITED | PARTIALLY_VERIFIED | NO |
 | ODY | Odyssey Gold Ltd | PARTIALLY_VERIFIED | NO |
-| OFX | OFX Group Limited | PARTIALLY_VERIFIED | NO |
-| OMA | Omega Oil & Gas Limited | PARTIALLY_VERIFIED | NO |
-| OBL | Omni Bridgeway Limited | PARTIALLY_VERIFIED | NO |
+| OFX | OFX GROUP LIMITED | PARTIALLY_VERIFIED | NO |
+| OMA | OMEGA OIL & GAS LIMITED | PARTIALLY_VERIFIED | YES |
+| OBL | OMNI BRIDGEWAY LIMITED | PARTIALLY_VERIFIED | NO |
 | OCC | Orthocell Limited | PARTIALLY_VERIFIED | YES |
 | PAR | Paradigm Biopharmaceuticals Limited | PARTIALLY_VERIFIED | YES |
-| PGC | Paragon Care Limited | PARTIALLY_VERIFIED | NO |
-| PC2 | PC Gold Ltd | PARTIALLY_VERIFIED | NO |
-| PEN | Peninsula Energy Limited | PARTIALLY_VERIFIED | NO |
+| PGC | PARAGON CARE LIMITED | PARTIALLY_VERIFIED | YES |
+| PC2 | PC GOLD LTD | PARTIALLY_VERIFIED | YES |
+| PEN | PENINSULA ENERGY LIMITED | PARTIALLY_VERIFIED | YES |
 | PPE | Peoplein Limited | PARTIALLY_VERIFIED | NO |
 | PWR | Peter Warren Automotive Holdings Limited | PARTIALLY_VERIFIED | NO |
-| PVT | Pivotal Metals Limited | PARTIALLY_VERIFIED | NO |
-| PLT | Plenti Group Limited | PARTIALLY_VERIFIED | YES |
-| PVE | Po Valley Energy Limited | PARTIALLY_VERIFIED | NO |
-| POL | Polymetals Resources Ltd | PARTIALLY_VERIFIED | NO |
+| PVT | PIVOTAL METALS LIMITED | PARTIALLY_VERIFIED | NO |
+| PLT | PLENTI GROUP LIMITED | PARTIALLY_VERIFIED | YES |
+| PVE | PO VALLEY ENERGY LIMITED | PARTIALLY_VERIFIED | NO |
+| POL | POLYMETALS RESOURCES LTD | PARTIALLY_VERIFIED | NO |
 | PNN | Power Minerals Limited | PARTIALLY_VERIFIED | NO |
-| PPS | Praemium Limited | PARTIALLY_VERIFIED | NO |
-| PTX | Prescient Therapeutics Limited | PARTIALLY_VERIFIED | NO |
-| PSC | Prospect Resources Limited | PARTIALLY_VERIFIED | NO |
-| QML | QMines Limited | PARTIALLY_VERIFIED | YES |
+| PPS | PRAEMIUM LIMITED | PARTIALLY_VERIFIED | NO |
+| PTX | PRESCIENT THERAPEUTICS LIMITED | PARTIALLY_VERIFIED | NO |
+| PSC | PROSPECT RESOURCES LIMITED | PARTIALLY_VERIFIED | NO |
+| QML | QMINES LIMITED | PARTIALLY_VERIFIED | YES |
 | RAC | Racura Oncology Ltd | PARTIALLY_VERIFIED | NO |
-| RZI | Raiz Invest Limited | PARTIALLY_VERIFIED | NO |
+| RZI | RAIZ INVEST LIMITED | PARTIALLY_VERIFIED | NO |
 | RDY | ReadyTech Holdings Limited | PARTIALLY_VERIFIED | NO |
 | REC | Recharge Metals Limited | PARTIALLY_VERIFIED | YES |
-| RNU | Renascor Resources Limited | PARTIALLY_VERIFIED | NO |
+| RNU | RENASCOR RESOURCES LIMITED | PARTIALLY_VERIFIED | NO |
 | RMC | Resimac Group Ltd | PARTIALLY_VERIFIED | YES |
 | RML | Resolution Minerals Ltd | PARTIALLY_VERIFIED | NO |
 | RMI | Resource Minerals International Ltd | PARTIALLY_VERIFIED | NO |
@@ -434,3 +434,8 @@ All 316 unique candidate codes and all original matrix columns/notes are retaine
 ## Primary identity batch E — 14 October 2026
 
 [Next 20 report](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_E.md): 20 further pending companies received freshly checked primary identity evidence. Matrix: {'PRIMARY_EVIDENCE_PARTIAL_REVIEW': 68, 'PRIMARY_ISSUER_IDENTITY_CONFIRMED': 170, 'PRIMARY_ASX_IDENTITY_CONFIRMED': 4, 'PRIMARY_HISTORICAL_ISSUER_IDENTITY_CONFIRMED': 1, 'PRIMARY_SOURCE_PENDING': 73}. Recorded primary identity evidence: 175. Overall full-step outcomes remain 316 partially verified and zero fully signed off. Manual-review flags: 57; source assertions: 1094. Historical/security/trading exceptions remain open. See batch qualifications and the exception register for each company's unresolved facts.
+
+
+## Primary identity batch F — 14 October 2026
+
+[Next 20 report](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_F.md): 20 further pending companies received freshly checked primary identity evidence. Matrix: {'PRIMARY_EVIDENCE_PARTIAL_REVIEW': 68, 'PRIMARY_ISSUER_IDENTITY_CONFIRMED': 190, 'PRIMARY_ASX_IDENTITY_CONFIRMED': 4, 'PRIMARY_HISTORICAL_ISSUER_IDENTITY_CONFIRMED': 1, 'PRIMARY_SOURCE_PENDING': 53}. Recorded primary identity evidence: 195. Overall full-step outcomes remain 316 partially verified and zero fully signed off. Manual-review flags: 63; source assertions: 1159. Historical/security/trading exceptions remain open. See batch qualifications and the exception register for each company's unresolved facts.

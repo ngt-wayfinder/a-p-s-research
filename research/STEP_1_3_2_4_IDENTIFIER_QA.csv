@@ -487,3 +487,4 @@ KSL,ARBN,606168594,PASS,Arithmetic check of freshly substantiated identity-batch
 LFT,ARBN,696815595,PASS,Arithmetic check of freshly substantiated identity-batch identifier. Not a substitute for issuer mapping; no ACN derived from ABN.
 NMD,ABN,15693252578,PASS,Arithmetic check of freshly substantiated identity-batch identifier. Not a substitute for issuer mapping; no ACN derived from ABN.
 NMD,ACN,693252578,PASS,Arithmetic check of freshly substantiated identity-batch identifier. Not a substitute for issuer mapping; no ACN derived from ABN.
+PC2,ACN,609609047,PASS,Arithmetic check of freshly substantiated identity-batch identifier. Not a substitute for issuer mapping; no ACN derived from ABN.
