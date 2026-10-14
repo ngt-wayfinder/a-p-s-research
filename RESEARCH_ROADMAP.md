@@ -226,3 +226,8 @@ Fresh source-supported name/ticker/identifier evidence recorded for LKY, LOT, LT
 Fresh source-supported name/ticker/identifier evidence recorded for NTU, NOU, NVX, OD6, OFX, OMA, OBL, PGC, PC2, PEN, PVT, PLT, PVE, POL, PPS, PTX, PSC, QML, RZI, RNU. Pending 73 → 53; recorded primary identity evidence 175 → 195. All 316 candidates retained. Country/history/security/trading gaps remain explicit; Step 1.3.2.4 remains IN PROGRESS. Manual-review flags: 63; source assertions: 1159.
 
 [Batch F report](research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_F.md) · [Batch F register](research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_F.csv). Exactly 20 matrix rows changed; other 296 preserved.
+
+
+## Primary identity batch G — five companies, 14 October 2026
+
+Primary ASX / issuer sources reviewed for **RMC, RWL, RTR, SSG and SHG**; moved five matrix rows from `PRIMARY_SOURCE_PENDING` to `PRIMARY_ISSUER_IDENTITY_CONFIRMED`. **Primary identity evidence now 200/316; 48 primary-source pending, 68 partial-review, 116 requiring primary identity closure.** Parent/subsidiary ABN correction for RMC and identifier discrepancies for SSG/SHG are documented, not silently resolved. [Batch G evidence](research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_5_2026_10_14_G.md). **Full continuity/security/trading sign-off remains 0/316.**
