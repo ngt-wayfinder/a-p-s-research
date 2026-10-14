@@ -246,3 +246,8 @@ Fresh issuer/ASX evidence recorded for **SNM, SVL, SKY, SPZ and SVR**. Five reco
 ## Primary identity batch — five companies, 15 October 2026
 
 Official ASX documents corroborate **SPD, SVM, SGQ, SPL and SLB**. Exactly five former `PRIMARY_SOURCE_PENDING` evidence-matrix rows changed to `PRIMARY_ISSUER_IDENTITY_CONFIRMED`, preserving prior notes. **Current matrix: 215/316 identity-confirmed; 33 primary-source pending; 68 partial review; 101 requiring primary identity closure.** [Batch report](research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_5_2026_10_15.md). See appended source IDs E01175–E01179 in the evidence ledger and complete register. Full historic continuity/security/trading sign-off remains **0/316**.
+
+
+## Primary issuer identity batch I — five companies, 15 October 2026
+
+Confirmed issuer identity evidence for **SRZ, STK, STX, SS1, STM**. Live matrix now: **210/316** identity evidence recorded, **68** partial-evidence reviews, **38** primary-source pending, hence **106** issuer identity closure cases remain. SS1 conflicting ABN in May 2025 AGM vote disclosure is explicitly retained as an exception. Full historical/security/trading status sign-off remains **0/316**. [Batch I report](research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_5_2026_10_15_I.md).
