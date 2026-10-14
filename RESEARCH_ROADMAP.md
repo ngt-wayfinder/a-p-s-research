@@ -241,3 +241,8 @@ Source-backed primary issuer checks for **RML, RIV, SMI, STN and SEA** moved fiv
 ## Primary identity batch I — next five, 14 October 2026
 
 Fresh issuer/ASX evidence recorded for **SNM, SVL, SKY, SPZ and SVR**. Five records upgraded from PRIMARY_SOURCE_PENDING to PRIMARY_ISSUER_IDENTITY_CONFIRMED, with original research notes preserved. **210/316 identity evidence records confirmed; 38 primary-source pending; 68 partial review; 106 primary-identity closure cases remain.** SNM original ASX PDF/ASIC identifier check, SPZ proposed acquisition implementation, and all full historical/security/trading sign-off gates remain open. [Batch I report](research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_5_2026_10_14_I.md).
+
+
+## Primary identity batch — five companies, 15 October 2026
+
+Official ASX documents corroborate **SPD, SVM, SGQ, SPL and SLB**. Exactly five former `PRIMARY_SOURCE_PENDING` evidence-matrix rows changed to `PRIMARY_ISSUER_IDENTITY_CONFIRMED`, preserving prior notes. **Current matrix: 215/316 identity-confirmed; 33 primary-source pending; 68 partial review; 101 requiring primary identity closure.** [Batch report](research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_5_2026_10_15.md). See appended source IDs E01175–E01179 in the evidence ledger and complete register. Full historic continuity/security/trading sign-off remains **0/316**.
