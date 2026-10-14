@@ -13,8 +13,8 @@ Review and recovery date: **14 October 2026**. Research cutoff: **13 October 202
 | Partially verified | 316 |
 | No substantiated legal-name evidence / unresolved outcome | 0 |
 | Records with open verification issues | 316 |
-| Flagged for manual review | 47 |
-| Primary-source assertion entries | 905 |
+| Flagged for manual review | 50 |
+| Primary-source assertion entries | 967 |
 | Recorded identifier checksum failures | 0 |
 
 Outcome categories are mutually exclusive. PARTIALLY_VERIFIED means inspected primary evidence supports the recorded legal-name field, but one or more other gates remain open. Manual-review flags overlap these categories and highlight conflicts, listed-parent mapping or material continuity exceptions. Zero unresolved outcomes does **not** mean zero unresolved issues. The original 75 primary identity-evidence rows were not 75 fully verified issuers.
@@ -158,7 +158,7 @@ The complete register contains identity identifiers, jurisdiction, previous name
 | ETM | ENERGY TRANSITION MINERALS LTD | PARTIALLY_VERIFIED | NO |
 | EWC | ENERGY WORLD CORPORATION LTD | PARTIALLY_VERIFIED | YES |
 | ECT | ENVIRONMENTAL CLEAN TECHNOLOGIES LIMITED | PARTIALLY_VERIFIED | NO |
-| EQU | EQUUS ENERGY LIMITED | PARTIALLY_VERIFIED | NO |
+| EQU | EQUUS ENERGY LIMITED | PARTIALLY_VERIFIED | YES |
 | EGH | EUREKA GROUP HOLDINGS LIMITED | PARTIALLY_VERIFIED | NO |
 | EZL | EUROZ HARTLEYS GROUP LIMITED | PARTIALLY_VERIFIED | NO |
 | EVZ | EVZ LIMITED | PARTIALLY_VERIFIED | NO |
@@ -178,11 +178,11 @@ The complete register contains identity identifiers, jurisdiction, previous name
 | GHY | GOLD HYDROGEN LIMITED | PARTIALLY_VERIFIED | NO |
 | GHM | GOLDEN HORSE MINERALS LIMITED | PARTIALLY_VERIFIED | NO |
 | GRR | GRANGE RESOURCES LIMITED | PARTIALLY_VERIFIED | NO |
-| GBR | GREAT BOULDER RESOURCES LTD. | PARTIALLY_VERIFIED | NO |
+| GBR | GREAT BOULDER RESOURCES LIMITED | PARTIALLY_VERIFIED | YES |
 | GW1 | GREENWING RESOURCES LTD | PARTIALLY_VERIFIED | NO |
 | GWR | GWR GROUP LIMITED | PARTIALLY_VERIFIED | YES |
 | HMG | HAMELIN GOLD LIMITED | PARTIALLY_VERIFIED | NO |
-| HMX | HAMMER METALS LIMITED | PARTIALLY_VERIFIED | NO |
+| HMX | HAMMER METALS LIMITED | PARTIALLY_VERIFIED | YES |
 | HAV | HAVILAH RESOURCES LIMITED | PARTIALLY_VERIFIED | NO |
 | HLS | HEALIUS LIMITED | PARTIALLY_VERIFIED | NO |
 | HLO | HELLOWORLD TRAVEL LIMITED | PARTIALLY_VERIFIED | NO |
@@ -419,3 +419,8 @@ All 316 unique candidate codes and all original matrix columns/notes are retaine
 ## Primary identity batch B status reconciliation — 14 October 2026
 
 [Next 20 report](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_B.md): 20 further PRIMARY_SOURCE_PENDING rows independently rechecked and promoted to primary identity evidence status. Matrix now 133 pending, 110 PRIMARY_ISSUER_IDENTITY_CONFIRMED, 4 PRIMARY_ASX_IDENTITY_CONFIRMED, 1 PRIMARY_HISTORICAL_ISSUER_IDENTITY_CONFIRMED and 68 partial-review rows, total 316. Recorded primary identity evidence 115. Overall outcomes remain 316 partially verified, 0 fully signed off. New CCV report-cover/subsidiary identity conflict retained; manual-review flags now 47. Source assertions now 905.
+
+
+## Primary identity batch C — 14 October 2026
+
+[Next 20 report](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_C.md): 20 further pending companies received freshly checked primary identity evidence. Matrix: {'PRIMARY_EVIDENCE_PARTIAL_REVIEW': 68, 'PRIMARY_ISSUER_IDENTITY_CONFIRMED': 130, 'PRIMARY_ASX_IDENTITY_CONFIRMED': 4, 'PRIMARY_SOURCE_PENDING': 113, 'PRIMARY_HISTORICAL_ISSUER_IDENTITY_CONFIRMED': 1}. Recorded primary identity evidence: 135. Overall full-step outcomes remain 316 partially verified and zero fully signed off. Manual-review flags: 50; source assertions: 967. Historical/security/trading exceptions remain open. See batch qualifications and the exception register for each company's unresolved facts.

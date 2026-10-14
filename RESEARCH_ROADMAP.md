@@ -198,3 +198,10 @@ Freshly inspected primary issuer/ASX documents and ABR records for AIH, ALU, ANX
 Fresh primary verification completed for BVR, BKY, BWN, BPM, BRK, CRS, CMA, CNB, CCV, CPN, CXU, CTM, CAF, CTS, CTT, CBE, COD, COI, DAL, EDE. All 20 selected rows now PRIMARY_ISSUER_IDENTITY_CONFIRMED with remaining country/history/security/trading gaps explicitly open. Primary-source pending 153 → 133; recorded primary identity evidence 95 → 115. 316 candidates retained. No full Step 1.3.2.4 sign-off. CCV cover/parent-versus-subsidiary ABN discrepancy newly documented; CMA, CTS, BWN registry discrepancies retained; DAL missing ABN recovered.
 
 [Batch B report](research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_B.md) · [Batch B source register](research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_B.csv). Current manual-review flags: 47; ledger assertions: 905. Only the 20 selected matrix rows changed; other 296 preserved.
+
+
+## Primary identity batch C — next 20, 14 October 2026
+
+Fresh source-supported name/ticker/identifier evidence recorded for EDU, ELT, EMP, EQU, EVZ, FMR, FML, FHE, GML, GL1, GHY, GHM, GRR, GBR, GW1, HMG, HMX, HAV, HTM, IFN. Pending 133 → 113; recorded primary identity evidence 115 → 135. All 316 candidates retained. Country/history/security/trading gaps remain explicit; Step 1.3.2.4 remains IN PROGRESS. Manual-review flags: 50; source assertions: 967.
+
+[Batch C report](research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_C.md) · [Batch C register](research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_C.csv). Exactly 20 matrix rows changed; other 296 preserved.

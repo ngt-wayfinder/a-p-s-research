@@ -32,3 +32,8 @@ Twenty freshly rechecked PRIMARY_SOURCE_PENDING rows now use PRIMARY_ISSUER_IDEN
 ## Primary identity batch B — 14 October 2026
 
 The next 20 pending records received fresh issuer/ASX and ABR checks. 20 statuses changed to PRIMARY_ISSUER_IDENTITY_CONFIRMED; 133 PRIMARY_SOURCE_PENDING remain. This records source-supported name/ticker/identifier facts only. Conflicting registry names/types or printed report identifiers remain separate visible exceptions. Full historical/security/trading sign-off remains open.
+
+
+## Primary identity batch C — 14 October 2026
+
+Next 20 pending rows freshly checked against issuer/ASX documents and ABR. 20 move to PRIMARY_ISSUER_IDENTITY_CONFIRMED; 113 pending remain. Recorded primary identity evidence totals 135. This records identity evidence only, with detailed qualifications in [STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_C](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_C.md). Full historical/security/trading sign-off remains open.

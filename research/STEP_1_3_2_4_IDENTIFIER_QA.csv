@@ -474,3 +474,11 @@ WRK,ACN,611202414,PASS,Arithmetic QA only; does not establish correct issuer map
 XRF,ABN,80107908314,PASS,Arithmetic QA only; does not establish correct issuer mapping. Do not infer ACN from ABN.
 BAS,ACN,008694817,PASS,Arithmetic check of freshly substantiated identity-batch identifier. Not a substitute for issuer mapping; no ACN derived from ABN.
 DAL,ABN,23648476699,PASS,Arithmetic check of freshly substantiated identity-batch identifier. Not a substitute for issuer mapping; no ACN derived from ABN.
+EDU,ACN,108962152,PASS,Arithmetic check of freshly substantiated identity-batch identifier. Not a substitute for issuer mapping; no ACN derived from ABN.
+FMR,ACN,107371497,PASS,Arithmetic check of freshly substantiated identity-batch identifier. Not a substitute for issuer mapping; no ACN derived from ABN.
+FHE,ACN,139522553,PASS,Arithmetic check of freshly substantiated identity-batch identifier. Not a substitute for issuer mapping; no ACN derived from ABN.
+GML,ACN,008402391,PASS,Arithmetic check of freshly substantiated identity-batch identifier. Not a substitute for issuer mapping; no ACN derived from ABN.
+GL1,ACN,626093150,PASS,Arithmetic check of freshly substantiated identity-batch identifier. Not a substitute for issuer mapping; no ACN derived from ABN.
+GBR,ACN,611695955,PASS,Arithmetic check of freshly substantiated identity-batch identifier. Not a substitute for issuer mapping; no ACN derived from ABN.
+HMX,ACN,095092158,PASS,Arithmetic check of freshly substantiated identity-batch identifier. Not a substitute for issuer mapping; no ACN derived from ABN.
+HTM,ACN,657249995,PASS,Arithmetic check of freshly substantiated identity-batch identifier. Not a substitute for issuer mapping; no ACN derived from ABN.
