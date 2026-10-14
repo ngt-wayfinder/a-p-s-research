@@ -13,8 +13,8 @@ Review and recovery date: **14 October 2026**. Research cutoff: **13 October 202
 | Partially verified | 316 |
 | No substantiated legal-name evidence / unresolved outcome | 0 |
 | Records with open verification issues | 316 |
-| Flagged for manual review | 46 |
-| Primary-source assertion entries | 844 |
+| Flagged for manual review | 47 |
+| Primary-source assertion entries | 905 |
 | Recorded identifier checksum failures | 0 |
 
 Outcome categories are mutually exclusive. PARTIALLY_VERIFIED means inspected primary evidence supports the recorded legal-name field, but one or more other gates remain open. Manual-review flags overlap these categories and highlight conflicts, listed-parent mapping or material continuity exceptions. Zero unresolved outcomes does **not** mean zero unresolved issues. The original 75 primary identity-evidence rows were not 75 fully verified issuers.
@@ -94,47 +94,47 @@ The complete register contains identity identifiers, jurisdiction, previous name
 | BAS | BASS OIL LIMITED | PARTIALLY_VERIFIED | NO |
 | BLX | Beacon Lighting Group Limited | PARTIALLY_VERIFIED | NO |
 | BFG | Bell Financial Group Limited | PARTIALLY_VERIFIED | YES |
-| BVR | Bellavista Resources Ltd | PARTIALLY_VERIFIED | NO |
-| BKY | Berkeley Energia Limited | PARTIALLY_VERIFIED | NO |
+| BVR | BELLAVISTA RESOURCES LTD | PARTIALLY_VERIFIED | NO |
+| BKY | BERKELEY ENERGIA LIMITED | PARTIALLY_VERIFIED | NO |
 | BET | BetMakers Technology Group Ltd | PARTIALLY_VERIFIED | NO |
-| BWN | Bhagwan Marine Limited | PARTIALLY_VERIFIED | YES |
+| BWN | BHAGWAN MARINE LIMITED | PARTIALLY_VERIFIED | YES |
 | BIO | Biome Australia Limited | PARTIALLY_VERIFIED | NO |
 | BB1 | BlinkLab Limited | PARTIALLY_VERIFIED | YES |
 | BLG | BluGlass Limited | PARTIALLY_VERIFIED | NO |
 | BOA | BOA Resources Ltd | PARTIALLY_VERIFIED | NO |
 | BML | Boab Metals Limited | PARTIALLY_VERIFIED | NO |
 | BOT | Botanix Pharmaceuticals Ltd | PARTIALLY_VERIFIED | NO |
-| BPM | BPM Minerals Limited | PARTIALLY_VERIFIED | NO |
+| BPM | BPM MINERALS LIMITED | PARTIALLY_VERIFIED | NO |
 | BRN | BrainChip Holdings Ltd | PARTIALLY_VERIFIED | NO |
 | BCM | Brazilian Critical Minerals Limited | PARTIALLY_VERIFIED | NO |
-| BRK | Brookside Energy Limited | PARTIALLY_VERIFIED | NO |
+| BRK | BROOKSIDE ENERGY LIMITED | PARTIALLY_VERIFIED | NO |
 | BSA | BSA Limited | PARTIALLY_VERIFIED | YES |
 | BUB | Bubs Australia Limited | PARTIALLY_VERIFIED | NO |
-| CRS | Caprice Resources Ltd | PARTIALLY_VERIFIED | NO |
+| CRS | CAPRICE RESOURCES LTD | PARTIALLY_VERIFIED | NO |
 | CVV | Caravel Minerals Limited | PARTIALLY_VERIFIED | NO |
-| CMA | Carma Limited | PARTIALLY_VERIFIED | YES |
-| CNB | Carnaby Resources Limited | PARTIALLY_VERIFIED | NO |
+| CMA | CARMA LIMITED | PARTIALLY_VERIFIED | YES |
+| CNB | CARNABY RESOURCES LIMITED | PARTIALLY_VERIFIED | NO |
 | CVN | Carnarvon Energy Limited | PARTIALLY_VERIFIED | NO |
-| CCV | Cash Converters International Limited | PARTIALLY_VERIFIED | NO |
-| CPN | Caspin Resources Limited | PARTIALLY_VERIFIED | NO |
-| CXU | Cauldron Energy Limited | PARTIALLY_VERIFIED | NO |
-| CTM | Centaurus Metals Limited | PARTIALLY_VERIFIED | NO |
-| CAF | Centrepoint Alliance Limited | PARTIALLY_VERIFIED | NO |
-| CTS | Ceretas Limited | PARTIALLY_VERIFIED | YES |
-| CTT | Cettire Limited | PARTIALLY_VERIFIED | NO |
+| CCV | CASH CONVERTERS INTERNATIONAL LIMITED | PARTIALLY_VERIFIED | YES |
+| CPN | CASPIN RESOURCES LIMITED | PARTIALLY_VERIFIED | NO |
+| CXU | CAULDRON ENERGY LIMITED | PARTIALLY_VERIFIED | NO |
+| CTM | CENTAURUS METALS LIMITED | PARTIALLY_VERIFIED | NO |
+| CAF | CENTREPOINT ALLIANCE LIMITED | PARTIALLY_VERIFIED | NO |
+| CTS | CERETAS LIMITED | PARTIALLY_VERIFIED | YES |
+| CTT | CETTIRE LIMITED | PARTIALLY_VERIFIED | NO |
 | CHN | Chalice Mining Limited | PARTIALLY_VERIFIED | NO |
 | CEL | Challenger Gold Limited | PARTIALLY_VERIFIED | NO |
 | CLV | Clover Corporation Limited | PARTIALLY_VERIFIED | NO |
 | CEH | Coast Entertainment Holdings Limited | PARTIALLY_VERIFIED | NO |
-| CBE | Cobre Limited | PARTIALLY_VERIFIED | NO |
-| COD | Coda Minerals Ltd | PARTIALLY_VERIFIED | NO |
+| CBE | COBRE LIMITED | PARTIALLY_VERIFIED | NO |
+| COD | CODA MINERALS LTD | PARTIALLY_VERIFIED | NO |
 | COG | COG Financial Services Limited | PARTIALLY_VERIFIED | NO |
-| COI | Comet Ridge Limited | PARTIALLY_VERIFIED | NO |
+| COI | COMET RIDGE LIMITED | PARTIALLY_VERIFIED | NO |
 | CRN | Coronado Global Resources Inc. | PARTIALLY_VERIFIED | NO |
 | CUP | Count Limited | PARTIALLY_VERIFIED | NO |
 | CY5 | Cygnus Metals Limited | PARTIALLY_VERIFIED | NO |
 | CYM | Cyprium Metals Limited | PARTIALLY_VERIFIED | NO |
-| DAL | Dalaroo Metals Ltd | PARTIALLY_VERIFIED | NO |
+| DAL | DALAROO METALS LTD | PARTIALLY_VERIFIED | NO |
 | DTR | Dateline Resources Limited | PARTIALLY_VERIFIED | NO |
 | DLI | Delta Lithium Limited | PARTIALLY_VERIFIED | NO |
 | DEV | DevEx Resources Limited | PARTIALLY_VERIFIED | NO |
@@ -144,7 +144,7 @@ The complete register contains identity identifiers, jurisdiction, previous name
 | DXN | DXN Limited | PARTIALLY_VERIFIED | NO |
 | EBR | EBR Systems Inc. | PARTIALLY_VERIFIED | YES |
 | EIQ | EchoIQ Limited | PARTIALLY_VERIFIED | NO |
-| EDE | Eden Innovations Ltd | PARTIALLY_VERIFIED | NO |
+| EDE | EDEN INNOVATIONS LTD | PARTIALLY_VERIFIED | NO |
 | EDU | EDU HOLDINGS LIMITED | PARTIALLY_VERIFIED | NO |
 | ELT | ELEMENTOS LIMITED | PARTIALLY_VERIFIED | NO |
 | EL8 | ELEVATE URANIUM LTD | PARTIALLY_VERIFIED | YES |
@@ -414,3 +414,8 @@ All 316 unique candidate codes and all original matrix columns/notes are retaine
 ## Primary identity status reconciliation — 14 October 2026
 
 [Batch of 20](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14.md) independently re-read issuer/ASX and ABR sources for 20 previously pending rows. Identity statuses now agree with the batch evidence:153 PRIMARY_SOURCE_PENDING, 90 PRIMARY_ISSUER_IDENTITY_CONFIRMED, 4 PRIMARY_ASX_IDENTITY_CONFIRMED, 1 PRIMARY_HISTORICAL_ISSUER_IDENTITY_CONFIRMED, 68 PRIMARY_EVIDENCE_PARTIAL_REVIEW. Total 316. Overall verification categories remain 316 partially verified, 0 fully verified. Other pending statuses are preserved for further individual evidence closure. Ledger now contains 844 assertion entries.
+
+
+## Primary identity batch B status reconciliation — 14 October 2026
+
+[Next 20 report](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_B.md): 20 further PRIMARY_SOURCE_PENDING rows independently rechecked and promoted to primary identity evidence status. Matrix now 133 pending, 110 PRIMARY_ISSUER_IDENTITY_CONFIRMED, 4 PRIMARY_ASX_IDENTITY_CONFIRMED, 1 PRIMARY_HISTORICAL_ISSUER_IDENTITY_CONFIRMED and 68 partial-review rows, total 316. Recorded primary identity evidence 115. Overall outcomes remain 316 partially verified, 0 fully signed off. New CCV report-cover/subsidiary identity conflict retained; manual-review flags now 47. Source assertions now 905.

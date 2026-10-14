@@ -27,3 +27,8 @@ The additive complete register stores detailed source/date-scoped facts and gaps
 ## Primary identity batch — 14 October 2026
 
 Twenty freshly rechecked PRIMARY_SOURCE_PENDING rows now use PRIMARY_ISSUER_IDENTITY_CONFIRMED, consistent with existing primary-identity batches. This establishes source-supported name/ticker/identifier evidence only; country, historical continuity, full security/capital-action and latest trading status may remain unresolved. Original notes retained; only selected rows changed. 153 pending statuses remain and must not be represented as closed.
+
+
+## Primary identity batch B — 14 October 2026
+
+The next 20 pending records received fresh issuer/ASX and ABR checks. 20 statuses changed to PRIMARY_ISSUER_IDENTITY_CONFIRMED; 133 PRIMARY_SOURCE_PENDING remain. This records source-supported name/ticker/identifier facts only. Conflicting registry names/types or printed report identifiers remain separate visible exceptions. Full historical/security/trading sign-off remains open.

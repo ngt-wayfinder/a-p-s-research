@@ -175,7 +175,7 @@ The titles below are identical to the detailed headings and must remain synchron
 
 ## Step 1.3.2.4 — Population primary review, 14 October 2026
 
-**STILL IN PROGRESS.** Research cutoff: 13 October 2026. All 316 candidates retained. Fully verified: 0; partially verified: 316; unresolved legal-name outcome: 0; records with open issues: 316; manual-review flags: 46. Population coverage is not full historical/security/trading sign-off. The earlier 75 identity-evidence count is a baseline, not a fully verified count.
+**STILL IN PROGRESS.** Research cutoff: 13 October 2026. All 316 candidates retained. Fully verified: 0; partially verified: 316; unresolved legal-name outcome: 0; records with open issues: 316; manual-review flags:  46. Population coverage is not full historical/security/trading sign-off. The earlier 75 identity-evidence count is a baseline, not a fully verified count.
 
 - [Complete population register](research/STEP_1_3_2_4_COMPLETE_VERIFICATION_REGISTER.csv)
 - [Comprehensive report and acceptance limitations](research/STEP_1_3_2_4_COMPREHENSIVE_VERIFICATION_REPORT.md)
@@ -191,3 +191,10 @@ Valid prior research preserved. The interrupted run hit a usage limit; recovered
 Freshly inspected primary issuer/ASX documents and ABR records for AIH, ALU, ANX, AON, APX, ARD, A1N, ALA, AMD, AS1, A11, AKN, AEE, AWJ, AUE, AHC, AUZ, AVL, BM1, BAS. All 20 moved from PRIMARY_SOURCE_PENDING to PRIMARY_ISSUER_IDENTITY_CONFIRMED with explicit limited scope and remaining gaps. Primary-source pending: 173 → 153. Primary identity-evidence count: 75 → 95. All 316 retained; fully verified: 0. Overall Step 1.3.2.4 remains IN PROGRESS.
 
 [Batch report](research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14.md) · [Batch source register](research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14.csv). The earlier population publication accidentally retained PRIMARY_SOURCE_PENDING statuses; this commit reconciles only these 20 freshly rechecked rows, preserving the remaining 153 as pending.
+
+
+## Primary identity batch B — next 20, 14 October 2026
+
+Fresh primary verification completed for BVR, BKY, BWN, BPM, BRK, CRS, CMA, CNB, CCV, CPN, CXU, CTM, CAF, CTS, CTT, CBE, COD, COI, DAL, EDE. All 20 selected rows now PRIMARY_ISSUER_IDENTITY_CONFIRMED with remaining country/history/security/trading gaps explicitly open. Primary-source pending 153 → 133; recorded primary identity evidence 95 → 115. 316 candidates retained. No full Step 1.3.2.4 sign-off. CCV cover/parent-versus-subsidiary ABN discrepancy newly documented; CMA, CTS, BWN registry discrepancies retained; DAL missing ABN recovered.
+
+[Batch B report](research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_B.md) · [Batch B source register](research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_B.csv). Current manual-review flags: 47; ledger assertions: 905. Only the 20 selected matrix rows changed; other 296 preserved.
