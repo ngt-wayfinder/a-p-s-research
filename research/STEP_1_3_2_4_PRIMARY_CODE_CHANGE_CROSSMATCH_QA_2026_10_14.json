@@ -1,0 +1,25 @@
+{
+  "source_url": "https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes",
+  "retrieved_utc": "2026-10-14T11:59:27.167174+00:00",
+  "source_sha256": "7e5f64143eafb7d040e919babec74ce4ab929229499f5e10a01168d5191eb6c7",
+  "year_counts": {
+    "2026": 55,
+    "2025": 105,
+    "2024": 72,
+    "2023": 82,
+    "2022": 87,
+    "2021": 122,
+    "2020": 125,
+    "2019": 100,
+    "2018": 125
+  },
+  "source_rows": 873,
+  "matched_event_rows": 111,
+  "matched_codes": 100,
+  "matched_code_changes": 70,
+  "matched_name_only": 41,
+  "future_rows_excluded": 1,
+  "parse_errors": [],
+  "cutoff": "2026-10-13",
+  "limitations": "Official register is an event list, not an exhaustive issuer legal/capital history. Old-code collision rows require separate issuer mapping."
+}
