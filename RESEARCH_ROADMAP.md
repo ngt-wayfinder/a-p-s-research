@@ -251,3 +251,8 @@ Official ASX documents corroborate **SPD, SVM, SGQ, SPL and SLB**. Exactly five 
 ## Primary issuer identity batch I — five companies, 15 October 2026
 
 Confirmed issuer identity evidence for **SRZ, STK, STX, SS1, STM**. Live matrix now: **210/316** identity evidence recorded, **68** partial-evidence reviews, **38** primary-source pending, hence **106** issuer identity closure cases remain. SS1 conflicting ABN in May 2025 AGM vote disclosure is explicitly retained as an exception. Full historical/security/trading status sign-off remains **0/316**. [Batch I report](research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_5_2026_10_15_I.md).
+
+
+## Concurrent batch reconciliation — 15 October 2026
+
+Rechecked the live 316-record evidence matrix after concurrent updates. Current matrix counts: **215 PRIMARY_ISSUER_IDENTITY_CONFIRMED + 4 PRIMARY_ASX_IDENTITY_CONFIRMED + 1 PRIMARY_HISTORICAL_ISSUER_IDENTITY_CONFIRMED = 220 primary identities confirmed**; **28 PRIMARY_SOURCE_PENDING** and **68 PRIMARY_EVIDENCE_PARTIAL_REVIEW**. Thus **96 primary-identity closure cases remain**. Earlier batch-local 210/215 totals above are chronological snapshots and must not override these live counts. All 316 still have broader history/trading review gaps, so **0 full verification sign-offs**. The newest SRZ/STK/STX/SS1/STM source evidence is detailed in [Batch I, 15 Oct](research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_5_2026_10_15_I.md), with five new evidence ledger receipts and updated exception/register records.
