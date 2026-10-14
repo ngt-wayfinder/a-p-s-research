@@ -14,7 +14,7 @@ Review and recovery date: **14 October 2026**. Research cutoff: **13 October 202
 | No substantiated legal-name evidence / unresolved outcome | 0 |
 | Records with open verification issues | 316 |
 | Flagged for manual review | 46 |
-| Primary-source assertion entries | 800 |
+| Primary-source assertion entries | 844 |
 | Recorded identifier checksum failures | 0 |
 
 Outcome categories are mutually exclusive. PARTIALLY_VERIFIED means inspected primary evidence supports the recorded legal-name field, but one or more other gates remain open. Manual-review flags overlap these categories and highlight conflicts, listed-parent mapping or material continuity exceptions. Zero unresolved outcomes does **not** mean zero unresolved issues. The original 75 primary identity-evidence rows were not 75 fully verified issuers.
@@ -409,3 +409,8 @@ The [identifier QA file](STEP_1_3_2_4_IDENTIFIER_QA.csv) tests recorded ABN/ACN 
 ## Publication and preservation
 
 All 316 unique candidate codes and all original matrix columns/notes are retained. Historical batch reports remain unchanged. Detailed register, ledger, exception and QA files are additive. The roadmap remains IN PROGRESS. GitHub commit and committed-file read-back are verified separately before publication success is reported.
+
+
+## Primary identity status reconciliation — 14 October 2026
+
+[Batch of 20](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14.md) independently re-read issuer/ASX and ABR sources for 20 previously pending rows. Identity statuses now agree with the batch evidence:153 PRIMARY_SOURCE_PENDING, 90 PRIMARY_ISSUER_IDENTITY_CONFIRMED, 4 PRIMARY_ASX_IDENTITY_CONFIRMED, 1 PRIMARY_HISTORICAL_ISSUER_IDENTITY_CONFIRMED, 68 PRIMARY_EVIDENCE_PARTIAL_REVIEW. Total 316. Overall verification categories remain 316 partially verified, 0 fully verified. Other pending statuses are preserved for further individual evidence closure. Ledger now contains 844 assertion entries.

@@ -22,3 +22,8 @@ This is a tracking baseline, not completion of Step 1.3.2. No investment ranking
 The eight existing columns are unchanged. Original notes remain verbatim before the appended review note. PRIMARY_EVIDENCE_PARTIAL_REVIEW, PRIMARY_REVIEW_PARTIAL_GAPS_OPEN, DATED_PRIMARY_SECURITY_EVIDENCE_GAPS_OPEN and DATED_PRIMARY_REVIEW_STATUS_GAPS_OPEN mean limited primary evidence with open acceptance gates. Existing primary identity statuses are preserved but do not imply complete history.
 
 The additive complete register stores detailed source/date-scoped facts and gaps; Evidence_IDs reference the primary ledger. Outcomes are mutually exclusive; every row still has unresolved issues. Review/recovery date 14 October differs from the research cutoff of 13 October. Unsubstantiated fields stay explicitly unknown.
+
+
+## Primary identity batch — 14 October 2026
+
+Twenty freshly rechecked PRIMARY_SOURCE_PENDING rows now use PRIMARY_ISSUER_IDENTITY_CONFIRMED, consistent with existing primary-identity batches. This establishes source-supported name/ticker/identifier evidence only; country, historical continuity, full security/capital-action and latest trading status may remain unresolved. Original notes retained; only selected rows changed. 153 pending statuses remain and must not be represented as closed.

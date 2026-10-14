@@ -472,3 +472,4 @@ WZR,ABN,80004661205,PASS,Arithmetic QA only; does not establish correct issuer m
 WZR,ACN,004661205,PASS,Arithmetic QA only; does not establish correct issuer mapping. Do not infer ACN from ABN.
 WRK,ACN,611202414,PASS,Arithmetic QA only; does not establish correct issuer mapping. Do not infer ACN from ABN.
 XRF,ABN,80107908314,PASS,Arithmetic QA only; does not establish correct issuer mapping. Do not infer ACN from ABN.
+BAS,ACN,008694817,PASS,Arithmetic check of freshly substantiated identity-batch identifier. Not a substitute for issuer mapping; no ACN derived from ABN.

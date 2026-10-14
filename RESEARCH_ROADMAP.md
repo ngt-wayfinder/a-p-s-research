@@ -1,6 +1,6 @@
 # ASX Penny-Stock Research Roadmap
 
-**Goal:** Progress from a provisional ASX operating-company universe to 5–10 deeply researched opportunities over a 1–2-year horizon. Intended portfolio budget: under A$10,000. Research plan only, not investment advice.
+**Goal:** Progress from a provisional ASX operating-company universe to 5–10 deeply researched opportunities over a 1–2-year horizon. Intended portfolio budget: under A$10, 000. Research plan only, not investment advice.
 
 **Last reviewed:** 13 October 2026
 
@@ -34,7 +34,7 @@ The titles below are identical to the detailed headings and must remain synchron
 
 ## Phase 0 — Initial universe and numerical screening [COMPLETED — historical baseline]
 
-- **0.1 [COMPLETED]** Assemble initial ASX directory universe: 1,923 securities (historical baseline).
+- **0.1 [COMPLETED]** Assemble initial ASX directory universe: 1, 923 securities (historical baseline).
 - **0.2 [COMPLETED]** Apply preliminary numerical price, market-cap and liquidity criteria: 339 qualified (historical baseline).
 - **0.3 [COMPLETED — PROVISIONAL]** Initial operating/investment-vehicle classification: 318 operating candidates, 20 excluded investment vehicles and 1 uncertain (historical classification, not independently validated).
 - **0.4 [COMPLETED]** Upload working `operating_candidates.csv` to GitHub. Subsequent verification used **316 rows**, not 318. The difference is explained: GDF (Garda Property Group) and GDI (GDI Property Group) were removed as REIT/property investment vehicles; original workbook GICS labels both as Equity Real Estate Investment Trusts (REITs).
@@ -149,7 +149,7 @@ The titles below are identical to the detailed headings and must remain synchron
 
 ## Step 11 — Propose portfolio construction [NOT STARTED]
 
-- **11.1 [NOT STARTED]** Assess liquidity, sizing and diversification for a portfolio under A$10,000.
+- **11.1 [NOT STARTED]** Assess liquidity, sizing and diversification for a portfolio under A$10, 000.
 - **11.2 [NOT STARTED]** Define entry criteria, thesis-invalidating events and exits.
 - **11.3 [NOT STARTED]** Document portfolio risks; do not assume high returns are likely.
 
@@ -184,3 +184,10 @@ The titles below are identical to the detailed headings and must remain synchron
 - [Identifier arithmetic QA](research/STEP_1_3_2_4_IDENTIFIER_QA.csv)
 
 Valid prior research preserved. The interrupted run hit a usage limit; recovered work is now checkpointed and consolidated. Remaining historical archives, security/capital-action reconciliation and latest trading-status evidence are unfinished research, not automatically accepted irreducible exceptions.
+
+
+## Primary identity batch of 20 — 14 October 2026
+
+Freshly inspected primary issuer/ASX documents and ABR records for AIH, ALU, ANX, AON, APX, ARD, A1N, ALA, AMD, AS1, A11, AKN, AEE, AWJ, AUE, AHC, AUZ, AVL, BM1, BAS. All 20 moved from PRIMARY_SOURCE_PENDING to PRIMARY_ISSUER_IDENTITY_CONFIRMED with explicit limited scope and remaining gaps. Primary-source pending: 173 → 153. Primary identity-evidence count: 75 → 95. All 316 retained; fully verified: 0. Overall Step 1.3.2.4 remains IN PROGRESS.
+
+[Batch report](research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14.md) · [Batch source register](research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14.csv). The earlier population publication accidentally retained PRIMARY_SOURCE_PENDING statuses; this commit reconciles only these 20 freshly rechecked rows, preserving the remaining 153 as pending.
