@@ -13,8 +13,8 @@ Review and recovery date: **14 October 2026**. Research cutoff: **13 October 202
 | Partially verified | 316 |
 | No substantiated legal-name evidence / unresolved outcome | 0 |
 | Records with open verification issues | 316 |
-| Flagged for manual review | 54 |
-| Primary-source assertion entries | 1029 |
+| Flagged for manual review | 57 |
+| Primary-source assertion entries | 1094 |
 | Recorded identifier checksum failures | 0 |
 
 Outcome categories are mutually exclusive. PARTIALLY_VERIFIED means inspected primary evidence supports the recorded legal-name field, but one or more other gates remain open. Manual-review flags overlap these categories and highlight conflicts, listed-parent mapping or material continuity exceptions. Zero unresolved outcomes does **not** mean zero unresolved issues. The original 75 primary identity-evidence rows were not 75 fully verified issuers.
@@ -224,14 +224,14 @@ The complete register contains identity identifiers, jurisdiction, previous name
 | LAU | LINDSAY AUSTRALIA LIMITED | PARTIALLY_VERIFIED | NO |
 | LNQ | LINQ MINERALS LIMITED | PARTIALLY_VERIFIED | YES |
 | LKY | LOCKSLEY RESOURCES LIMITED | PARTIALLY_VERIFIED | NO |
-| LOT | LOTUS RESOURCES LIMITED | PARTIALLY_VERIFIED | NO |
-| LTP | LTR PHARMA LTD | PARTIALLY_VERIFIED | YES |
+| LOT | LOTUS RESOURCES LIMITED | PARTIALLY_VERIFIED | YES |
+| LTP | LTR PHARMA LIMITED | PARTIALLY_VERIFIED | YES |
 | LDX | LUMOS DIAGNOSTICS HOLDINGS LIMITED | PARTIALLY_VERIFIED | YES |
 | LM8 | LUNNON METALS LIMITED | PARTIALLY_VERIFIED | NO |
 | LUX | LUX COPPER CORP. LTD | PARTIALLY_VERIFIED | YES |
 | M24 | MAMBA EXPLORATION LIMITED | PARTIALLY_VERIFIED | NO |
 | MHC | MANHATTAN GOLD CORPORATION LIMITED | PARTIALLY_VERIFIED | YES |
-| MKR | MANUKA RESOURCES LTD | PARTIALLY_VERIFIED | NO |
+| MKR | MANUKA RESOURCES LTD. | PARTIALLY_VERIFIED | NO |
 | MPK | MANY PEAKS MINERALS LTD | PARTIALLY_VERIFIED | YES |
 | MEU | MARMOTA LIMITED | PARTIALLY_VERIFIED | NO |
 | MMA | MARONAN METALS LIMITED | PARTIALLY_VERIFIED | NO |
@@ -244,18 +244,18 @@ The complete register contains identity identifiers, jurisdiction, previous name
 | MGX | MGX Resources Limited | PARTIALLY_VERIFIED | NO |
 | MX1 | MICRO-X LIMITED | PARTIALLY_VERIFIED | NO |
 | MM1 | MIDAS MINERALS LTD | PARTIALLY_VERIFIED | NO |
-| MNB | Minbos Resources Limited | PARTIALLY_VERIFIED | NO |
+| MNB | MINBOS RESOURCES LIMITED | PARTIALLY_VERIFIED | NO |
 | MSV | MITCHELL SERVICES LIMITED | PARTIALLY_VERIFIED | NO |
 | MLG | MLG OZ LIMITED | PARTIALLY_VERIFIED | NO |
 | MVF | MONASH IVF GROUP LIMITED | PARTIALLY_VERIFIED | NO |
-| MXO | MOTIO LTD | PARTIALLY_VERIFIED | NO |
+| MXO | MOTIO LTD | PARTIALLY_VERIFIED | YES |
 | MRD | MOUNT RIDLEY MINES LIMITED | PARTIALLY_VERIFIED | YES |
 | MYR | MYER HOLDINGS LIMITED | PARTIALLY_VERIFIED | NO |
-| NYM | Narryer Metals Limited | PARTIALLY_VERIFIED | NO |
+| NYM | NARRYER METALS LIMITED | PARTIALLY_VERIFIED | NO |
 | NMR | Native Mineral Resources Holdings Limited | PARTIALLY_VERIFIED | NO |
-| NTI | Neurotech International Limited | PARTIALLY_VERIFIED | NO |
-| NOL | NobleOak Life Limited | PARTIALLY_VERIFIED | NO |
-| NMD | Normandy Minerals Ltd | PARTIALLY_VERIFIED | NO |
+| NTI | NEUROTECH INTERNATIONAL LIMITED | PARTIALLY_VERIFIED | NO |
+| NOL | NOBLEOAK LIFE LIMITED | PARTIALLY_VERIFIED | NO |
+| NMD | NORMANDY MINERALS LTD | PARTIALLY_VERIFIED | YES |
 | NTU | Northern Minerals Limited | PARTIALLY_VERIFIED | NO |
 | NOU | Noumi Limited | PARTIALLY_VERIFIED | NO |
 | NVX | Novonix Limited | PARTIALLY_VERIFIED | NO |
@@ -429,3 +429,8 @@ All 316 unique candidate codes and all original matrix columns/notes are retaine
 ## Primary identity batch D — 14 October 2026
 
 [Next 20 report](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_D.md): 20 further pending companies received freshly checked primary identity evidence. Matrix: {'PRIMARY_EVIDENCE_PARTIAL_REVIEW': 68, 'PRIMARY_ISSUER_IDENTITY_CONFIRMED': 150, 'PRIMARY_ASX_IDENTITY_CONFIRMED': 4, 'PRIMARY_HISTORICAL_ISSUER_IDENTITY_CONFIRMED': 1, 'PRIMARY_SOURCE_PENDING': 93}. Recorded primary identity evidence: 155. Overall full-step outcomes remain 316 partially verified and zero fully signed off. Manual-review flags: 54; source assertions: 1029. Historical/security/trading exceptions remain open. See batch qualifications and the exception register for each company's unresolved facts.
+
+
+## Primary identity batch E — 14 October 2026
+
+[Next 20 report](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_E.md): 20 further pending companies received freshly checked primary identity evidence. Matrix: {'PRIMARY_EVIDENCE_PARTIAL_REVIEW': 68, 'PRIMARY_ISSUER_IDENTITY_CONFIRMED': 170, 'PRIMARY_ASX_IDENTITY_CONFIRMED': 4, 'PRIMARY_HISTORICAL_ISSUER_IDENTITY_CONFIRMED': 1, 'PRIMARY_SOURCE_PENDING': 73}. Recorded primary identity evidence: 175. Overall full-step outcomes remain 316 partially verified and zero fully signed off. Manual-review flags: 57; source assertions: 1094. Historical/security/trading exceptions remain open. See batch qualifications and the exception register for each company's unresolved facts.

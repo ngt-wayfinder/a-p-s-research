@@ -212,3 +212,10 @@ Fresh source-supported name/ticker/identifier evidence recorded for EDU, ELT, EM
 Fresh source-supported name/ticker/identifier evidence recorded for INN, IMB, IVZ, JLL, KAU, KZR, KAO, KGL, KLI, KSL, KRR, KME, KTK, LKE, LRV, LMG, LFT, LML, LAU, LNQ. Pending 113 → 93; recorded primary identity evidence 135 → 155. All 316 candidates retained. Country/history/security/trading gaps remain explicit; Step 1.3.2.4 remains IN PROGRESS. Manual-review flags: 54; source assertions: 1029.
 
 [Batch D report](research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_D.md) · [Batch D register](research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_D.csv). Exactly 20 matrix rows changed; other 296 preserved.
+
+
+## Primary identity batch E — next 20, 14 October 2026
+
+Fresh source-supported name/ticker/identifier evidence recorded for LKY, LOT, LTP, LM8, M24, MKR, MPK, MEU, MMA, MMI, MX1, MM1, MNB, MSV, MLG, MXO, NYM, NTI, NOL, NMD. Pending 93 → 73; recorded primary identity evidence 155 → 175. All 316 candidates retained. Country/history/security/trading gaps remain explicit; Step 1.3.2.4 remains IN PROGRESS. Manual-review flags: 57; source assertions: 1094.
+
+[Batch E report](research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_E.md) · [Batch E register](research/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_E.csv). Exactly 20 matrix rows changed; other 296 preserved.
