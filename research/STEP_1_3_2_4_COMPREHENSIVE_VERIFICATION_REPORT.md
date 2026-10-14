@@ -13,8 +13,8 @@ Review and recovery date: **14 October 2026**. Research cutoff: **13 October 202
 | Partially verified | 316 |
 | No substantiated legal-name evidence / unresolved outcome | 0 |
 | Records with open verification issues | 316 |
-| Flagged for manual review | 50 |
-| Primary-source assertion entries | 967 |
+| Flagged for manual review | 54 |
+| Primary-source assertion entries | 1029 |
 | Recorded identifier checksum failures | 0 |
 
 Outcome categories are mutually exclusive. PARTIALLY_VERIFIED means inspected primary evidence supports the recorded legal-name field, but one or more other gates remain open. Manual-review flags overlap these categories and highlight conflicts, listed-parent mapping or material continuity exceptions. Zero unresolved outcomes does **not** mean zero unresolved issues. The original 75 primary identity-evidence rows were not 75 fully verified issuers.
@@ -195,7 +195,7 @@ The complete register contains identity identifiers, jurisdiction, previous name
 | IMM | IMMUTEP LIMITED | PARTIALLY_VERIFIED | NO |
 | IMU | IMUGENE LIMITED | PARTIALLY_VERIFIED | NO |
 | IFN | INFRAGREEN GROUP LIMITED | PARTIALLY_VERIFIED | NO |
-| INN | INNOVAERO TECHNOLOGIES LIMITED | PARTIALLY_VERIFIED | NO |
+| INN | INNOVAERO TECHNOLOGIES LIMITED | PARTIALLY_VERIFIED | YES |
 | IMB | INTELLIGENT MONITORING GROUP LIMITED | PARTIALLY_VERIFIED | NO |
 | IVR | INVESTIGATOR SILVER LIMITED | PARTIALLY_VERIFIED | NO |
 | IVZ | INVICTUS ENERGY LTD | PARTIALLY_VERIFIED | NO |
@@ -215,11 +215,11 @@ The complete register contains identity identifiers, jurisdiction, previous name
 | KRR | KING RIVER RESOURCES LIMITED | PARTIALLY_VERIFIED | NO |
 | KME | KIP MCGRATH EDUCATION CENTRES LIMITED | PARTIALLY_VERIFIED | NO |
 | KMD | KMD Brands Limited | PARTIALLY_VERIFIED | NO |
-| KTK | KTEK AEROSYSTEMS LTD | PARTIALLY_VERIFIED | NO |
+| KTK | KTEK AEROSYSTEMS LTD | PARTIALLY_VERIFIED | YES |
 | LKE | LAKE RESOURCES N.L. | PARTIALLY_VERIFIED | NO |
-| LRV | LARVOTTO RESOURCES LIMITED | PARTIALLY_VERIFIED | NO |
+| LRV | LARVOTTO RESOURCES LIMITED | PARTIALLY_VERIFIED | YES |
 | LMG | LATROBE MAGNESIUM LIMITED | PARTIALLY_VERIFIED | NO |
-| LFT | Li-FT Power Ltd. | PARTIALLY_VERIFIED | NO |
+| LFT | LI-FT POWER LTD. | PARTIALLY_VERIFIED | YES |
 | LML | LINCOLN MINERALS LIMITED | PARTIALLY_VERIFIED | NO |
 | LAU | LINDSAY AUSTRALIA LIMITED | PARTIALLY_VERIFIED | NO |
 | LNQ | LINQ MINERALS LIMITED | PARTIALLY_VERIFIED | YES |
@@ -424,3 +424,8 @@ All 316 unique candidate codes and all original matrix columns/notes are retaine
 ## Primary identity batch C — 14 October 2026
 
 [Next 20 report](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_C.md): 20 further pending companies received freshly checked primary identity evidence. Matrix: {'PRIMARY_EVIDENCE_PARTIAL_REVIEW': 68, 'PRIMARY_ISSUER_IDENTITY_CONFIRMED': 130, 'PRIMARY_ASX_IDENTITY_CONFIRMED': 4, 'PRIMARY_SOURCE_PENDING': 113, 'PRIMARY_HISTORICAL_ISSUER_IDENTITY_CONFIRMED': 1}. Recorded primary identity evidence: 135. Overall full-step outcomes remain 316 partially verified and zero fully signed off. Manual-review flags: 50; source assertions: 967. Historical/security/trading exceptions remain open. See batch qualifications and the exception register for each company's unresolved facts.
+
+
+## Primary identity batch D — 14 October 2026
+
+[Next 20 report](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_D.md): 20 further pending companies received freshly checked primary identity evidence. Matrix: {'PRIMARY_EVIDENCE_PARTIAL_REVIEW': 68, 'PRIMARY_ISSUER_IDENTITY_CONFIRMED': 150, 'PRIMARY_ASX_IDENTITY_CONFIRMED': 4, 'PRIMARY_HISTORICAL_ISSUER_IDENTITY_CONFIRMED': 1, 'PRIMARY_SOURCE_PENDING': 93}. Recorded primary identity evidence: 155. Overall full-step outcomes remain 316 partially verified and zero fully signed off. Manual-review flags: 54; source assertions: 1029. Historical/security/trading exceptions remain open. See batch qualifications and the exception register for each company's unresolved facts.

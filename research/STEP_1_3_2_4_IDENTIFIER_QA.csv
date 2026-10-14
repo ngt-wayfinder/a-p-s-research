@@ -482,3 +482,6 @@ GL1,ACN,626093150,PASS,Arithmetic check of freshly substantiated identity-batch 
 GBR,ACN,611695955,PASS,Arithmetic check of freshly substantiated identity-batch identifier. Not a substitute for issuer mapping; no ACN derived from ABN.
 HMX,ACN,095092158,PASS,Arithmetic check of freshly substantiated identity-batch identifier. Not a substitute for issuer mapping; no ACN derived from ABN.
 HTM,ACN,657249995,PASS,Arithmetic check of freshly substantiated identity-batch identifier. Not a substitute for issuer mapping; no ACN derived from ABN.
+INN,ABN,98638938897,PASS,Arithmetic check of freshly substantiated identity-batch identifier. Not a substitute for issuer mapping; no ACN derived from ABN.
+KSL,ARBN,606168594,PASS,Arithmetic check of freshly substantiated identity-batch identifier. Not a substitute for issuer mapping; no ACN derived from ABN.
+LFT,ARBN,696815595,PASS,Arithmetic check of freshly substantiated identity-batch identifier. Not a substitute for issuer mapping; no ACN derived from ABN.

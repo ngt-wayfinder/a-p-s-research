@@ -37,3 +37,8 @@ The next 20 pending records received fresh issuer/ASX and ABR checks. 20 statuse
 ## Primary identity batch C — 14 October 2026
 
 Next 20 pending rows freshly checked against issuer/ASX documents and ABR. 20 move to PRIMARY_ISSUER_IDENTITY_CONFIRMED; 113 pending remain. Recorded primary identity evidence totals 135. This records identity evidence only, with detailed qualifications in [STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_C](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_C.md). Full historical/security/trading sign-off remains open.
+
+
+## Primary identity batch D — 14 October 2026
+
+Next 20 pending rows freshly checked against issuer/ASX documents and ABR. 20 move to PRIMARY_ISSUER_IDENTITY_CONFIRMED; 93 pending remain. Recorded primary identity evidence totals 155. This records identity evidence only, with detailed qualifications in [STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_D](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_D.md). Full historical/security/trading sign-off remains open.
