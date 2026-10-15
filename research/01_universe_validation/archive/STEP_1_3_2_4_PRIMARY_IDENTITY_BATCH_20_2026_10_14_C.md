@@ -71,4 +71,4 @@ ABN arithmetic checks are independent quality checks, not identity proof. Generi
 
 ## Publication QA
 
-Exactly 316 unique candidates retained; exactly 20 matrix rows updated; other 296 rows and all original notes preserved. CSV structure, identifiers and ledger references validated. See [batch source register](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_C.csv) and [primary ledger](STEP_1_3_2_4_PRIMARY_EVIDENCE_LEDGER.csv). GitHub commit and exact readback verification must succeed before publication is reported complete.
+Exactly 316 unique candidates retained; exactly 20 matrix rows updated; other 296 rows and all original notes preserved. CSV structure, identifiers and ledger references validated. See [batch source register](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_C.csv) and [primary ledger](../registers/STEP_1_3_2_4_PRIMARY_EVIDENCE_LEDGER.csv). GitHub commit and exact readback verification must succeed before publication is reported complete.

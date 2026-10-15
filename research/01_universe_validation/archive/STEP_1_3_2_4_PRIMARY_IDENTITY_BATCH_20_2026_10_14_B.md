@@ -57,4 +57,4 @@ Auditor/subsidiary identifiers are not substituted for issuer identifiers. Gener
 
 ## Traceability and publication QA
 
-The [batch CSV](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_B.csv) contains source URLs, qualifications and outcome per company. The [primary ledger](STEP_1_3_2_4_PRIMARY_EVIDENCE_LEDGER.csv), complete register and exception register contain the new page-specific facts and continuing gaps. All 316 candidates retained; exactly 20 matrix rows changed; the other 296 rows and original notes are preserved. CSVs and evidence references validated. Commit/readback verification precedes reporting success.
+The [batch CSV](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_B.csv) contains source URLs, qualifications and outcome per company. The [primary ledger](../registers/STEP_1_3_2_4_PRIMARY_EVIDENCE_LEDGER.csv), complete register and exception register contain the new page-specific facts and continuing gaps. All 316 candidates retained; exactly 20 matrix rows changed; the other 296 rows and original notes are preserved. CSVs and evidence references validated. Commit/readback verification precedes reporting success.
