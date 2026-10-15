@@ -31,7 +31,7 @@ ABR name-history dates, legal-change dates and ASX effective dates are kept dist
 
 Primary sources comprise official ASX notices, forms and reports; ABR/ASIC and overseas regulator/exchange records; and issuer prospectuses, annual reports and implementation disclosures. Third-party pages are used for discovery, or to distribute an identifiable issuer/ASX-authored document, rather than to independently certify assertions.
 
-The [primary evidence ledger](STEP_1_3_2_4_PRIMARY_EVIDENCE_LEDGER.csv) records exact URL, title, document/review date, page or section, established fact and verification method. The [complete register](STEP_1_3_2_4_COMPLETE_VERIFICATION_REGISTER.csv) links its evidence IDs to each issuer. Unknown fields remain explicit. An extraction date is not a document publication date. Inherited matrix notes are separately preserved and are not automatically upgraded to verified facts.
+The [primary evidence ledger](../registers/STEP_1_3_2_4_PRIMARY_EVIDENCE_LEDGER.csv) records exact URL, title, document/review date, page or section, established fact and verification method. The [complete register](../registers/STEP_1_3_2_4_COMPLETE_VERIFICATION_REGISTER.csv) links its evidence IDs to each issuer. Unknown fields remain explicit. An extraction date is not a document publication date. Inherited matrix notes are separately preserved and are not automatically upgraded to verified facts.
 
 ## 4. Results for all 316 companies
 
@@ -366,7 +366,7 @@ See the PARTIALLY_VERIFIED rows. Individual facts may be used only within their 
 
 ## 7. Unresolved exceptions and remaining queue
 
-The [exception register](STEP_1_3_2_4_UNRESOLVED_EXCEPTIONS.csv) retains all 316 candidates with their specific missing/conflicting facts, examined evidence, blockage, recommended resolution and downstream impact. Some rows are incomplete research, not demonstrably impossible verification. They are deliberately not presented as accepted irreducible exceptions or as completed investigation.
+The [exception register](../registers/STEP_1_3_2_4_UNRESOLVED_EXCEPTIONS.csv) retains all 316 candidates with their specific missing/conflicting facts, examined evidence, blockage, recommended resolution and downstream impact. Some rows are incomplete research, not demonstrably impossible verification. They are deliberately not presented as accepted irreducible exceptions or as completed investigation.
 
 ## 8. Ticker reuse and issuer-identity collisions
 
@@ -396,7 +396,7 @@ Preserve BFG's corrected ABN 59 083 194 763. EL8's registry-supported 71 prefix 
 
 Registry private/public company names or types can conflict with listed-issuer disclosures; affected records, including CMA, CTS, KAO, LDX, LUX and SLB, retain this discrepancy. MTM's exchange-effective name date differs from the earlier baseline date. MHC has multiple date bases. TRE's January 2024 Australian continuance explains original Canadian incorporation, while complete security/ISIN succession remains open.
 
-The [identifier QA file](STEP_1_3_2_4_IDENTIFIER_QA.csv) tests recorded ABN/ACN checksums. A passing checksum does not establish the correct entity, country, listed parent or security mapping.
+The [identifier QA file](../qa/STEP_1_3_2_4_IDENTIFIER_QA.csv) tests recorded ABN/ACN checksums. A passing checksum does not establish the correct entity, country, listed parent or security mapping.
 
 ## 12. Recommendations for final sign-off
 
