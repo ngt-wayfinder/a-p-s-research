@@ -51,6 +51,43 @@
 
 ---
 
+## Risk-based historical continuity acceptance model — approved 15 October 2026
+
+**Decision:** Exhaustive historical-continuity sign-off for all 316 provisional companies is **not a prerequisite to Step 2**. Replace the previous all-or-nothing sequencing gate with staged, risk-based checks. This changes the **screening entry gate**, not the standard for eventual investment recommendations. Preserve all prior evidence, flags and audit records.
+
+### Level 1 — Screening eligibility (all 316 candidates)
+
+Before relying on a company's market and financial data, verify or explicitly quarantine:
+1. Current legal issuer identity (name, jurisdiction and ACN/ABN/ARBN or foreign equivalent), linking the listed ticker to the actual issuer using dated primary evidence; audit source quality, not merely matrix status.
+2. Current listed security form (ordinary shares/CDIs/other), units, ISIN and CDI ratio when applicable; establish reliable current shares outstanding for market-cap calculations.
+3. Material recent name/ticker changes, ticker reuse, reverse takeovers, redomiciliations, consolidations/splits, mergers, and security conversions **to the extent they affect the lookback window or attribution of screening data**.
+4. Dated trading status and current listing eligibility, distinguishing halt, suspension, administration, delisting and ordinary trading.
+5. Operating-company versus investment-vehicle classification, and any unresolvable identity/data conflicts.
+
+**Disposition:** `LEVEL_1_SCREEN_ELIGIBLE` only when all required checks pass; otherwise `LEVEL_1_QUARANTINED` with explicit reason, source/date and re-entry condition. A historical gap outside the screening lookback window does not automatically prevent Level 1 eligibility if it cannot contaminate the measures used. Never equate a missing data point with zero, and never treat an unverified issuer as eligible.
+
+### Level 2 — Extended continuity (companies surviving preliminary financial screening, target ~100–150)
+
+Reconcile dated predecessor legal names and ticker mappings, material business transformations, reverse takeovers, acquisitions/disposals, share consolidations/splits, relevant delistings/relistings, and share-count/capital history over the **actual financial and price lookback windows**. Document comparability breaks and restatements before dilution or historical trend calculations. Escalate exceptions early whenever they could affect Step 2–5 conclusions.
+
+### Level 3 — Full investment-grade continuity (15–20 deep-research candidates; all 5–10 finalists)
+
+Perform comprehensive issuer lineage, capital-action, security-class and historical disclosure reconciliation sufficient to support management, dilution, valuation and risk analysis. Trace unresolved exceptions to primary evidence or document irreducible uncertainty and its investment impact. **No investment recommendation or finalist sign-off** with a material unresolved issuer, security, dilution or trading-status conflict.
+
+### Revised sequencing and acceptance gates
+
+- **Step 1.3.2.4 remains IN PROGRESS:** Identity classification is 316/316, but historical continuity remains 316/316 partial and independent citation QA is pending. Its *Level 1 screening-specific sub-gate* may close independently of full Level 3 historical sign-off.
+- **Step 1.2.6, 1.3.2.5–1.3.2.6, 1.3.3 and 1.3.4** remain required to the extent needed for Level 1 eligibility; unresolved material cases are quarantined rather than holding the entire population.
+- **Step 1.4 Step 1 sign-off:** Sign off the **screening-eligible subset** plus a documented quarantined subset; do not claim the entire 316 fully historically verified.
+- **Step 2 may begin for Level 1 eligible issuers** as each is approved. Step 2 data fixes and Step 3–5 screening can proceed in parallel with extended historical research on surviving names. Excluded/quarantined names do not silently enter rankings.
+- **Before Step 6 dilution analysis:** Resolve capital history relevant to each company's selected lookback window (Level 2).
+- **Before Steps 9–10 final diligence and valuation:** Complete Level 3 for the 15–20 researched names and each finalist, or explicitly exclude cases with material unresolved risks.
+- **Control:** Keep historical `Historical_Continuity_Status` unchanged until underlying evidence supports a real upgrade; use a separate Level 1 eligibility disposition/register, not a misleading `FULLY_VERIFIED` label.
+
+**Immediate execution:** Build a per-company Level 1 screening-eligibility register from the 316-row evidence matrix; cross-check current security forms, dated trading status, source/identifier QA and operating classification; publish explicit eligible/quarantined outcomes with supporting evidence. Prioritise known ticker-reuse, CDI, reverse-takeover, merger and identifier-conflict cases. Start Step 2 on the approved eligible cohort without waiting for full historical sign-off across 316 companies.
+
+---
+
 ## Entire sequence — authoritative stage titles
 
 The titles below are identical to the detailed headings and must remain synchronised if a stage is renamed.
@@ -129,7 +166,7 @@ The titles below are identical to the detailed headings and must remain synchron
    - **1.4.1 [NOT STARTED]** Resolve or explicitly document outstanding 1.2 trading-status uncertainties and 1.3 classification/count exceptions.
    - **1.4.2 [NOT STARTED]** Approve the final eligible operating-company universe for downstream screening.
 
-**Step 1 exit criterion:** Every included candidate has an auditable identity and business classification; halted/suspended status is distinguished from delisting; outstanding exceptions are explicitly flagged.
+**Step 1 exit criterion (revised Level 1 gate):** Each screening-eligible candidate has an auditable current identity, relevant security/corporate-action attribution, dated trading status and operating-business classification; unresolved material cases are quarantined. Full historical lineage is required at Level 3 for investment-grade finalists, not for every preliminary candidate.
 
 ## Step 2 — Resolve missing market data [NOT STARTED]
 
@@ -199,7 +236,7 @@ The titles below are identical to the detailed headings and must remain synchron
 - **12.3 [NOT STARTED]** Track financial/catalyst updates and thesis changes.
 - **12.4 [NOT STARTED]** Test alerts and establish a review cadence.
 
-## Immediate next action
+## Earlier immediate action (superseded by the risk-based acceptance model above)
 
 **Step 1.3.2.4–1.3.2.6:** Work through the [316-company evidence matrix](research/STEP_1_3_2_EVIDENCE_MATRIX.csv), obtaining dated primary ASX/issuer evidence for outstanding identity and security-form checks; reconcile implemented corporate actions and historical delisting/relisting events; document any unresolved cases. Update the matrix only when the supporting evidence is inspected. Then undertake **1.3.3** operating-business classification and **1.3.4** final auditable candidate register. Keep **1.2.6** trading-status verification open separately until resumption and suspension statuses are confirmed.
 
