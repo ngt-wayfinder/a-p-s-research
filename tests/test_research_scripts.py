@@ -72,7 +72,7 @@ class ResearchScriptRegression(unittest.TestCase):
             result = run("verify_asx_directory.py", "--candidates", c,
                          "--directory", official, "--output", out)
             self.assertEqual(result.returncode, 0, result.stderr)
-            rows = list(csv.DictReader(out.open()))
+            rows = list(csv.DictReader(io.StringIO(out.read_text(encoding="utf-8"))))
             self.assertEqual([row["Result"] for row in rows],
                              ["MATCHED", "NAME_REVIEW", "MISSING"])
             self.assertTrue(all(row["Listing_Status"] == "NOT_CHECKED" for row in rows))
@@ -99,7 +99,7 @@ class ResearchScriptRegression(unittest.TestCase):
             self.assertEqual(qa["matched_event_rows"], 9)
             self.assertEqual(qa["parse_errors"], [])
             self.assertEqual(len(list(csv.DictReader(
-                (output/"asx_code_changes_population.csv").open()))), 9)
+                io.StringIO((output/"asx_code_changes_population.csv").read_text(encoding="utf-8"))))), 9)
 
 if __name__ == "__main__":
     unittest.main(verbosity=2)
