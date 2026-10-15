@@ -73,7 +73,7 @@ The final output is an **auditable, ranked decision-support shortlist**, not mer
 
 ## Authoritative current-state reconciliation — 15 October 2026
 
-**Source of truth:** [316-company evidence matrix](research/STEP_1_3_2_EVIDENCE_MATRIX.csv), read after the final identity batch commit `a3d93b4`. Earlier batch counts and progress snapshots elsewhere in this document are historical, not current.
+**Source of truth:** [316-company evidence matrix](research/01_universe_validation/registers/STEP_1_3_2_EVIDENCE_MATRIX.csv), read after the final identity batch commit `a3d93b4`. Earlier batch counts and progress snapshots elsewhere in this document are historical, not current.
 
 | Acceptance dimension | Live matrix result | Roadmap treatment |
 |---|---|---|
@@ -172,14 +172,14 @@ The titles below are identical to the detailed headings and must remain synchron
 - **0.1 [COMPLETED]** Assemble initial ASX directory universe: 1, 923 securities (historical baseline).
 - **0.2 [COMPLETED]** Apply preliminary numerical price, market-cap and liquidity criteria: 339 qualified (historical baseline).
 - **0.3 [COMPLETED — PROVISIONAL]** Initial operating/investment-vehicle classification: 318 operating candidates, 20 excluded investment vehicles and 1 uncertain (historical classification, not independently validated).
-- **0.4 [COMPLETED]** Upload working `operating_candidates.csv` to GitHub. Subsequent verification used **316 rows**, not 318. The difference is explained: GDF (Garda Property Group) and GDI (GDI Property Group) were removed as REIT/property investment vehicles; original workbook GICS labels both as Equity Real Estate Investment Trusts (REITs).
+- **0.4 [COMPLETED]** Upload working `data/working/operating_candidates.csv` to GitHub. Subsequent verification used **316 rows**, not 318. The difference is explained: GDF (Garda Property Group) and GDI (GDI Property Group) were removed as REIT/property investment vehicles; original workbook GICS labels both as Equity Real Estate Investment Trusts (REITs).
 
 ## Step 1 — Validate the operating-company universe [IN PROGRESS]
 
 **Purpose:** Reconcile the working candidate count, confirm directory identity, examine trading-status exceptions and validate the business model and listing status before establishing the final universe.
 
 - **1.1 [COMPLETED] Directory identity check**
-   - **1.1.1 [COMPLETED]** Obtain and upload `ASXListedCompanies.csv` from the ASX directory.
+   - **1.1.1 [COMPLETED]** Obtain and upload `data/raw/ASXListedCompanies.csv` from the ASX directory.
    - **1.1.2 [COMPLETED]** Compare the 316 working candidates with the uploaded directory: 316 ticker/name matches, zero missing tickers and zero name mismatches.
    - **Limitation:** Directory membership does not confirm that shares are presently tradeable.
 
@@ -198,7 +198,7 @@ The titles below are identical to the detailed headings and must remain synchron
      - **1.3.2.1 [COMPLETED] Duplicate audit:** 316 records, 316 unique tickers; no exact/normalised duplicate names; four fuzzy-name pairs identified. [Duplicate audit](research/STEP_1_3_2_DUPLICATE_AUDIT.md).
      - **1.3.2.2 [COMPLETED] Fuzzy-name resolution:** Four fuzzy-name pairs independently established as distinct legal entities and retained.
      - **1.3.2.3 [COMPLETED — DEFINED SCOPE] Ticker/name-change register:** 2018–13 October 2026 ticker/name-change register: 111 matched historical events (64 ticker changes, 41 name-only, six historic code collisions). [Ticker-change register](research/STEP_1_3_2_TICKER_CHANGE_REGISTER.md). This does not certify every issuer's full legal lineage.
-     - **1.3.2.4 [IN PROGRESS — EVIDENCE CLOSURE] Issuer identity and historical continuity:** All **279** remaining issuer records have been triaged: **13 P1, 46 P2 and 220 P3**; the other **37** are covered by the separate name-continuity review. All **220/220 P3** have initial triage, but initial triage **does not** constitute independent primary-source verification. A [316-company evidence matrix](research/STEP_1_3_2_EVIDENCE_MATRIX.csv) and [methodology](research/STEP_1_3_2_EVIDENCE_MATRIX_README.md) now track evidence and gaps. Many records still require issuer-specific primary filings, ACN/ARBN and security-class checks, and historical continuity review. [Issuer continuity queue](research/STEP_1_3_2_ISSUER_CONTINUITY_QUEUE.md).
+     - **1.3.2.4 [IN PROGRESS — EVIDENCE CLOSURE] Issuer identity and historical continuity:** All **279** remaining issuer records have been triaged: **13 P1, 46 P2 and 220 P3**; the other **37** are covered by the separate name-continuity review. All **220/220 P3** have initial triage, but initial triage **does not** constitute independent primary-source verification. A [316-company evidence matrix](research/01_universe_validation/registers/STEP_1_3_2_EVIDENCE_MATRIX.csv) and [methodology](research/STEP_1_3_2_EVIDENCE_MATRIX_README.md) now track evidence and gaps. Many records still require issuer-specific primary filings, ACN/ARBN and security-class checks, and historical continuity review. [Issuer continuity queue](research/STEP_1_3_2_ISSUER_CONTINUITY_QUEUE.md).
      - **1.3.2.5 [IN PROGRESS — EXCEPTIONS DOCUMENTED] Corporate actions:** [Corporate-action exception register](research/STEP_1_3_2_CORPORATE_ACTION_EXCEPTIONS.md) records material mergers, demergers, ticker reuse, consolidations, CDIs and acquisition events. AIH's Matrix acquisition is documented as completed in July 2026; IXR, ALU, ECT, SXL, WJL, SLD and other exceptions have specific treatment flags. Comprehensive 316-issuer action reconciliation and completion/implementation evidence remain outstanding.
      - **1.3.2.6 [IN PROGRESS — SELECTED CASES ONLY] Delisting/relisting review:** Selected ASX notices reviewed, including TNC's former Duke Exploration identity, October 2024 administration/suspension and January 2026 placement settlement activity. This is **not** an exhaustive delisting/relisting audit; dates of reinstatement and present trading status remain subject to separate Step 1.2 evidence.
      - **1.3.2.4 progress update (13 Oct 2026):** Four additional primary issuer identity confirmations (AX1, ALC, ATH, AMA), bringing the evidence-recorded total to **41/316**. [Primary verification report](research/STEP_1_3_2_4_PRIMARY_VERIFICATION_2026_10_13.md). Historical continuity remains pending; identity confirmation alone is not full Step 1.3.2.4 sign-off.
@@ -297,7 +297,7 @@ The titles below are identical to the detailed headings and must remain synchron
 
 ## Earlier immediate action (superseded by the risk-based acceptance model above)
 
-**Step 1.3.2.4–1.3.2.6:** Work through the [316-company evidence matrix](research/STEP_1_3_2_EVIDENCE_MATRIX.csv), obtaining dated primary ASX/issuer evidence for outstanding identity and security-form checks; reconcile implemented corporate actions and historical delisting/relisting events; document any unresolved cases. Update the matrix only when the supporting evidence is inspected. Then undertake **1.3.3** operating-business classification and **1.3.4** final auditable candidate register. Keep **1.2.6** trading-status verification open separately until resumption and suspension statuses are confirmed.
+**Step 1.3.2.4–1.3.2.6:** Work through the [316-company evidence matrix](research/01_universe_validation/registers/STEP_1_3_2_EVIDENCE_MATRIX.csv), obtaining dated primary ASX/issuer evidence for outstanding identity and security-form checks; reconcile implemented corporate actions and historical delisting/relisting events; document any unresolved cases. Update the matrix only when the supporting evidence is inspected. Then undertake **1.3.3** operating-business classification and **1.3.4** final auditable candidate register. Keep **1.2.6** trading-status verification open separately until resumption and suspension statuses are confirmed.
 
 ## Research controls
 
@@ -312,10 +312,10 @@ The titles below are identical to the detailed headings and must remain synchron
 
 **STILL IN PROGRESS.** Research cutoff: 13 October 2026. All 316 candidates retained. Fully verified: 0; partially verified: 316; unresolved legal-name outcome: 0; records with open issues: 316; manual-review flags:  46. Population coverage is not full historical/security/trading sign-off. The earlier 75 identity-evidence count is a baseline, not a fully verified count.
 
-- [Complete population register](research/STEP_1_3_2_4_COMPLETE_VERIFICATION_REGISTER.csv)
-- [Comprehensive report and acceptance limitations](research/STEP_1_3_2_4_COMPREHENSIVE_VERIFICATION_REPORT.md)
-- [Precise remaining queue](research/STEP_1_3_2_4_UNRESOLVED_EXCEPTIONS.csv)
-- [Primary assertion ledger](research/STEP_1_3_2_4_PRIMARY_EVIDENCE_LEDGER.csv)
+- [Complete population register](research/01_universe_validation/registers/STEP_1_3_2_4_COMPLETE_VERIFICATION_REGISTER.csv)
+- [Comprehensive report and acceptance limitations](research/01_universe_validation/archive/STEP_1_3_2_4_COMPREHENSIVE_VERIFICATION_REPORT.md)
+- [Precise remaining queue](research/01_universe_validation/registers/STEP_1_3_2_4_UNRESOLVED_EXCEPTIONS.csv)
+- [Primary assertion ledger](research/01_universe_validation/registers/STEP_1_3_2_4_PRIMARY_EVIDENCE_LEDGER.csv)
 - [Identifier arithmetic QA](research/STEP_1_3_2_4_IDENTIFIER_QA.csv)
 
 Valid prior research preserved. The interrupted run hit a usage limit; recovered work is now checkpointed and consolidated. Remaining historical archives, security/capital-action reconciliation and latest trading-status evidence are unfinished research, not automatically accepted irreducible exceptions.
