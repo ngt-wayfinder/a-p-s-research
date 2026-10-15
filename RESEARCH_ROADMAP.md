@@ -4,6 +4,65 @@
 
 **Last reviewed:** 15 October 2026 — reconciled with latest evidence matrix
 
+## Investment research objectives and decision methodology
+
+### Original investment intent
+
+Identify **5–10 ASX-listed, potentially undervalued or underappreciated operating-company opportunities** from a broad provisional penny-stock universe, for an indicative **1–2-year investment horizon** and a proposed portfolio **under A$10,000**. Seek asymmetric potential upside supported by evidence, rather than equating a low nominal share price with cheap valuation. High returns are uncertain; substantial or total capital loss is possible. This roadmap is a research framework, not a recommendation to buy.
+
+### Why the validations exist
+
+Validation is an **enabling control, not the end product**. It should prevent material errors in the investment decision:
+
+1. **Correct issuer and security:** Establish that the ticker, legal entity, security class and historical data refer to the intended investment, including ticker reuse and CDI ratios.
+2. **Actually investable:** Distinguish current listing/trading eligibility, suspensions, halts, administration and investment vehicles from eligible operating businesses.
+3. **Reliable financial comparisons:** Reconcile share counts, market capitalisation, corporate actions, relevant historical financial statements and reporting dates; do not mistake a consolidation for investment returns or acquired revenue for organic growth.
+4. **Risk identification:** Surface cash shortfalls, future financing needs, dilution, governance weaknesses, operational risks and adverse disclosures before committing capital.
+5. **Reproducibility:** Preserve primary-source URLs, dates, assumptions, exceptions and the rationale for including, excluding or quarantining each company.
+
+**Proportionality rule:** A validation should advance a screening, valuation, risk or investment decision, or prevent a material analytical error. Do not require exhaustive remote historical research on every early-stage candidate when its unresolved history cannot contaminate the measures being used. Escalate immediately when ticker reuse, issuer identity, reverse takeovers, security conversions or corporate actions *can* affect the current screen. Quarantine unresolved material cases instead of treating missing evidence as confirmation.
+
+### What makes an attractive candidate
+
+Evaluate opportunities using **multiple independent dimensions**, with sector-specific treatment for explorers, biotechnology, pre-revenue developers and established operating companies:
+
+- **Potential mispricing and valuation:** Current enterprise/equity value versus defensible operating, asset or probability-weighted scenarios; avoid relying solely on nominal share price or price targets.
+- **Financial survivability:** Cash, debt, cash burn, funding runway and ability to reach the next value-changing milestone.
+- **Catalysts over 3–24 months:** Specific, dated or bounded events (e.g. drilling, approvals, trials, commissioning, commercial contracts), their prerequisites and probabilities.
+- **Dilution and capital structure:** Historical issuance, outstanding options/convertibles, funding requirements and dilution-adjusted upside.
+- **Quality and execution:** Management capability, governance, disclosure quality, ownership, project economics and evidence of delivering against milestones.
+- **Downside, liquidity and portfolio fit:** Bear-case loss, permanent-impairment risks, trading liquidity, concentration and exit feasibility within a sub-A$10,000 portfolio.
+
+No single dimension is sufficient. A low share price, a large theoretical resource, or a promotional catalyst alone does not qualify a company.
+
+### Progressive funnel and decision gates
+
+| Stage | Approximate scope | Decision and output |
+|---|---:|---|
+| Historical starting universe | 1,923 securities | Preliminary numerical screening; historical snapshot, not current investment eligibility |
+| Provisional operating-company universe | 316 | Risk-based Level 1 checks: identity, security, relevant corporate actions, trading status, operating-business classification; eligible versus quarantined register |
+| Financial resilience screen | ~100–150 | Verified financial data, runway, leverage, sector metrics and documented rejection reasons; Level 2 continuity where historical comparisons require it |
+| Prioritised research list | 30–50 | Relative assessment of valuation, survivability, dilution, execution and plausible catalysts |
+| Deep-diligence candidates | 15–20 | Level 3 historical/capital verification, primary filings, management and asset review, thesis and invalidation conditions |
+| Final opportunities | 5–10 | Dilution-adjusted bear/base/bull valuation, catalyst probabilities, entry conditions, downside/liquidity assessment and explicit investment-case rationale |
+
+Numbers are **targets, not quotas**: retain fewer candidates if evidence does not support the target count. A candidate may be rejected or quarantined at any gate. Investment research must not imply a guaranteed return or that any capital must be deployed.
+
+### Definition of a successful final research deliverable
+
+For each of the 5–10 finalists, provide a sourced investment dossier stating:
+
+1. What the company owns/does and why the market may be mispricing it.
+2. Current cash, burn, debt, funding runway and credible financing/dilution scenarios.
+3. Key 3–24-month catalysts, probabilities, dependencies and measurable outcomes.
+4. Bear/base/bull valuations with explicit assumptions, share counts, corporate actions and sensitivities.
+5. Management/governance and execution evidence, material risks, liquidity constraints and thesis-invalidating events.
+6. Conditions for entry, monitoring and exit, with evidence date and unresolved uncertainties.
+
+The final output is an **auditable, ranked decision-support shortlist**, not merely a validated ticker list. Screening and validation work should be prioritised by its ability to improve that outcome.
+
+---
+
 ## Status definitions
 
 - **COMPLETED:** The specified deliverable has been produced and checked within its stated scope.
