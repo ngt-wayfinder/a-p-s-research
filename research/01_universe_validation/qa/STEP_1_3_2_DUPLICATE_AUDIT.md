@@ -38,7 +38,7 @@ Action 2: investigate flagged pairs and any identity-related corporate actions, 
 
 ## Action 2 — Pair-by-pair verification
 
-- **AUQ / AS1 — VERIFIED DISTINCT (13 Oct 2026):** Different ABNs (27 122 892 719 vs 39 006 710 774) and different mining projects (Oman vs Guinea). Both retained. [Evidence record](identity_checks/AUQ_AS1_2026-10-13.md).
-- **AS1 / AAR — VERIFIED DISTINCT (13 Oct 2026):** Different ABNs (39 006 710 774 vs 24 651 541 976), different ACNs and separate Guinea / WA gold projects. Both retained. [Evidence record](identity_checks/AS1_AAR_2026-10-13.md).
-- **SHN / STM — VERIFIED DISTINCT (13 Oct 2026):** Different ABNs (12 063 388 821 vs 68 123 184 412) and different Australian / Ecuadorian projects. Both retained. [Evidence record](identity_checks/SHN_STM_2026-10-13.md).
-- **KGL / MGX — VERIFIED DISTINCT (13 Oct 2026):** Different ABNs (52 082 658 080 vs 87 008 670 817) and separate Jervois copper / Central Tanami gold projects. MGX renamed from Mount Gibson Iron in Dec 2025 without ticker change. Both retained. [Evidence record](identity_checks/KGL_MGX_2026-10-13.md).
+- **AUQ / AS1 — VERIFIED DISTINCT (13 Oct 2026):** Different ABNs (27 122 892 719 vs 39 006 710 774) and different mining projects (Oman vs Guinea). Both retained. [Evidence record](../identity/AUQ_AS1_2026-10-13.md).
+- **AS1 / AAR — VERIFIED DISTINCT (13 Oct 2026):** Different ABNs (39 006 710 774 vs 24 651 541 976), different ACNs and separate Guinea / WA gold projects. Both retained. [Evidence record](../identity/AS1_AAR_2026-10-13.md).
+- **SHN / STM — VERIFIED DISTINCT (13 Oct 2026):** Different ABNs (12 063 388 821 vs 68 123 184 412) and different Australian / Ecuadorian projects. Both retained. [Evidence record](../identity/SHN_STM_2026-10-13.md).
+- **KGL / MGX — VERIFIED DISTINCT (13 Oct 2026):** Different ABNs (52 082 658 080 vs 87 008 670 817) and separate Jervois copper / Central Tanami gold projects. MGX renamed from Mount Gibson Iron in Dec 2025 without ticker change. Both retained. [Evidence record](../identity/KGL_MGX_2026-10-13.md).
