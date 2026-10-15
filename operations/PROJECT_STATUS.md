@@ -16,5 +16,5 @@
 
 - Audited all **66 Markdown files** in the `repository-restructure` Git tree using the complete tracked-file path set.
 - **Zero unresolved internal Markdown file-path links** remained after repair.
-- Scope: standard inline Markdown `](relative-path)` references, ignoring external URLs and fragments; does **not** validate heading anchors, reference-style links, or external destinations.
+- Scope: standard inline Markdown links with relative file paths, ignoring external URLs and fragments; does **not** validate heading anchors, reference-style links, or external destinations.
 - Full GitHub Actions execution and Python regression tests remain pending; baseline tag must not be created until those checks pass.
