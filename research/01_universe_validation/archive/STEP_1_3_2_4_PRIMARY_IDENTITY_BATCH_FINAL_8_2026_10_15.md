@@ -129,10 +129,10 @@ The eight pending primary issuer identity cases are closed with primary evidence
 
 - [Batch CSV](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_FINAL_8_2026_10_15.csv)
 - [Detailed source-supported results](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_FINAL_8_2026_10_15_RESULTS.json)
-- [QA checks](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_FINAL_8_2026_10_15_QA.json)
+- [QA checks](../qa/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_FINAL_8_2026_10_15_QA.json)
 - [Source receipt manifest](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_FINAL_8_2026_10_15_RECEIPTS.csv)
-- [Evidence matrix](STEP_1_3_2_EVIDENCE_MATRIX.csv)
-- [Canonical source ledger](STEP_1_3_2_4_PRIMARY_EVIDENCE_LEDGER.csv)
-- [Complete verification register](STEP_1_3_2_4_COMPLETE_VERIFICATION_REGISTER.csv)
+- [Evidence matrix](../registers/STEP_1_3_2_EVIDENCE_MATRIX.csv)
+- [Canonical source ledger](../registers/STEP_1_3_2_4_PRIMARY_EVIDENCE_LEDGER.csv)
+- [Complete verification register](../registers/STEP_1_3_2_4_COMPLETE_VERIFICATION_REGISTER.csv)
 
 Source receipt paths identify transient audit downloads; public original URLs and hashes in the ledger and manifest provide the reproducible evidence trail.
