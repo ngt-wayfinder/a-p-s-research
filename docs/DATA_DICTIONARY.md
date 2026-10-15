@@ -1,11 +1,11 @@
 # Data dictionary and authoritative sources
 
 **Current canonical locations (until migration completes):**
-- Candidate population: `operating_candidates.csv` (provisional working input).
-- Status matrix: `research/STEP_1_3_2_EVIDENCE_MATRIX.csv` (316 rows; status classifications, not eligibility).
-- Evidence ledger: `research/STEP_1_3_2_4_PRIMARY_EVIDENCE_LEDGER.csv`.
-- Exceptions: `research/STEP_1_3_2_4_UNRESOLVED_EXCEPTIONS.csv`.
-- Historical comprehensive report: `research/STEP_1_3_2_4_COMPREHENSIVE_VERIFICATION_REPORT.md` (dated snapshot).
+- Candidate population: `data/working/operating_candidates.csv` (provisional working input).
+- Status matrix: `research/01_universe_validation/registers/STEP_1_3_2_EVIDENCE_MATRIX.csv` (316 rows; status classifications, not eligibility).
+- Evidence ledger: `research/01_universe_validation/registers/STEP_1_3_2_4_PRIMARY_EVIDENCE_LEDGER.csv`.
+- Exceptions: `research/01_universe_validation/registers/STEP_1_3_2_4_UNRESOLVED_EXCEPTIONS.csv`.
+- Historical comprehensive report: `research/01_universe_validation/archive/STEP_1_3_2_4_COMPREHENSIVE_VERIFICATION_REPORT.md` (dated snapshot).
 
 **Proposed after migration:** candidate input in `data/working/`; registers and evidence ledger in `research/01_universe_validation/registers/`. Verify actual Git paths first.
 
