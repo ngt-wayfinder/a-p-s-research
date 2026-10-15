@@ -1,0 +1,22 @@
+name: Validate research repository
+on:
+  push:
+    branches: [main, repository-restructure]
+  pull_request:
+    branches: [main]
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate repository integrity
+        run: python scripts/validate_repository.py
+      - name: Compile Python scripts
+        run: python -m compileall -q scripts
+      - name: Install research parser dependencies
+        run: python -m pip install beautifulsoup4 lxml
+      - name: Execute functional regression suite
+        run: python -m unittest discover -s tests -p 'test_*.py' -v

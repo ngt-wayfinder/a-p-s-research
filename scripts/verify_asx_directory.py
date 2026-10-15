@@ -2,7 +2,7 @@
 """Compare provisional ASX candidates with a user-supplied official ASX company directory CSV.
 
 Usage:
- python scripts/verify_asx_directory.py --candidates operating_candidates.csv --directory ASXListedCompanies.csv --output verification_results.csv
+ python scripts/verify_asx_directory.py --candidates data/working/operating_candidates.csv --directory data/raw/ASXListedCompanies.csv --output verification_results.csv
 """
 import argparse
 import csv
@@ -26,7 +26,7 @@ def normalise_name(value):
 
 def main():
     p = argparse.ArgumentParser()
-    p.add_argument("--candidates", default="operating_candidates.csv")
+    p.add_argument("--candidates", default="data/working/operating_candidates.csv")
     p.add_argument("--directory", required=True, help="CSV downloaded from the official ASX company directory")
     p.add_argument("--output", default="verification_results.csv")
     a = p.parse_args()

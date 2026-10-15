@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-10-15",
+  "active_phase": "REPOSITORY_MIGRATION",
+  "active_branch": "repository-restructure",
+  "baseline_tag": null,
+  "issuer_identity_classified": 316,
+  "candidates": 316,
+  "level_1_assessed": 0,
+  "next_action_id": "R1",
+  "migration_status": "IN_PROGRESS",
+  "notes": "Do not mark baseline complete until verified merge and tag."
+}

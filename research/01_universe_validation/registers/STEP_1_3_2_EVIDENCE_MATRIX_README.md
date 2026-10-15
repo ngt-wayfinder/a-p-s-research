@@ -36,31 +36,31 @@ The next 20 pending records received fresh issuer/ASX and ABR checks. 20 statuse
 
 ## Primary identity batch C — 14 October 2026
 
-Next 20 pending rows freshly checked against issuer/ASX documents and ABR. 20 move to PRIMARY_ISSUER_IDENTITY_CONFIRMED; 113 pending remain. Recorded primary identity evidence totals 135. This records identity evidence only, with detailed qualifications in [STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_C](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_C.md). Full historical/security/trading sign-off remains open.
+Next 20 pending rows freshly checked against issuer/ASX documents and ABR. 20 move to PRIMARY_ISSUER_IDENTITY_CONFIRMED; 113 pending remain. Recorded primary identity evidence totals 135. This records identity evidence only, with detailed qualifications in [STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_C](../archive/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_C.md). Full historical/security/trading sign-off remains open.
 
 
 ## Primary identity batch D — 14 October 2026
 
-Next 20 pending rows freshly checked against issuer/ASX documents and ABR. 20 move to PRIMARY_ISSUER_IDENTITY_CONFIRMED; 93 pending remain. Recorded primary identity evidence totals 155. This records identity evidence only, with detailed qualifications in [STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_D](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_D.md). Full historical/security/trading sign-off remains open.
+Next 20 pending rows freshly checked against issuer/ASX documents and ABR. 20 move to PRIMARY_ISSUER_IDENTITY_CONFIRMED; 93 pending remain. Recorded primary identity evidence totals 155. This records identity evidence only, with detailed qualifications in [STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_D](../archive/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_D.md). Full historical/security/trading sign-off remains open.
 
 
 ## Primary identity batch E — 14 October 2026
 
-Next 20 pending rows freshly checked against issuer/ASX documents and ABR. 20 move to PRIMARY_ISSUER_IDENTITY_CONFIRMED; 73 pending remain. Recorded primary identity evidence totals 175. This records identity evidence only, with detailed qualifications in [STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_E](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_E.md). Full historical/security/trading sign-off remains open.
+Next 20 pending rows freshly checked against issuer/ASX documents and ABR. 20 move to PRIMARY_ISSUER_IDENTITY_CONFIRMED; 73 pending remain. Recorded primary identity evidence totals 175. This records identity evidence only, with detailed qualifications in [STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_E](../archive/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_E.md). Full historical/security/trading sign-off remains open.
 
 
 ## Primary identity batch F — 14 October 2026
 
-Next 20 pending rows freshly checked against issuer/ASX documents and ABR. 20 move to PRIMARY_ISSUER_IDENTITY_CONFIRMED; 53 pending remain. Recorded primary identity evidence totals 195. This records identity evidence only, with detailed qualifications in [STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_F](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_F.md). Full historical/security/trading sign-off remains open.
+Next 20 pending rows freshly checked against issuer/ASX documents and ABR. 20 move to PRIMARY_ISSUER_IDENTITY_CONFIRMED; 53 pending remain. Recorded primary identity evidence totals 195. This records identity evidence only, with detailed qualifications in [STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_F](../archive/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14_F.md). Full historical/security/trading sign-off remains open.
 
 
 ## Primary identity batch — next 20, 15 October 2026
 
-Twenty live PRIMARY_SOURCE_PENDING records (SOP, SYR, TAM, TER, TTM, TTT, TVN, TOK, TOR, TRE, TGN, TYR, USL, VR8, VBX, VMC, VBC, VHM, VTM, VVA) have freshly inspected primary issuer/ASX name, ticker and explicit registration evidence. Current authoritative counts: 240 confirmed identities across status variants; 8 primary-source pending; 68 partial-evidence reviews; 76 identity closure cases remain. Source entries E01185–E01257, receipt hashes and specific source conflicts are documented in [batch report](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_15.md). These are identity-only closures; broader historical/security/trading conclusions remain PARTIALLY_VERIFIED. Original matrix notes and all other296 rows are preserved.
+Twenty live PRIMARY_SOURCE_PENDING records (SOP, SYR, TAM, TER, TTM, TTT, TVN, TOK, TOR, TRE, TGN, TYR, USL, VR8, VBX, VMC, VBC, VHM, VTM, VVA) have freshly inspected primary issuer/ASX name, ticker and explicit registration evidence. Current authoritative counts: 240 confirmed identities across status variants; 8 primary-source pending; 68 partial-evidence reviews; 76 identity closure cases remain. Source entries E01185–E01257, receipt hashes and specific source conflicts are documented in [batch report](../archive/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_15.md). These are identity-only closures; broader historical/security/trading conclusions remain PARTIALLY_VERIFIED. Original matrix notes and all other296 rows are preserved.
 
 
 
 
 ## Final eight primary-source-pending identities — 15 October 2026
 
-VYS, WTM, WWI, WCN, WEC, WC8, WZR and XRF have fresh primary issuer identity evidence. The actual matrix now contains **248 confirmed identities across status variants, zero primary-source pending, and 68 partial-evidence reviews**. These eight narrow identity closures do not sign off complete historical, security or trading continuity. All existing notes and the other 308 rows are preserved. Specific source qualifications and source IDs E01258–E01291 appear in the [final-eight report](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_FINAL_8_2026_10_15.md). Step 1.3.2.4 remains IN PROGRESS.
+VYS, WTM, WWI, WCN, WEC, WC8, WZR and XRF have fresh primary issuer identity evidence. The actual matrix now contains **248 confirmed identities across status variants, zero primary-source pending, and 68 partial-evidence reviews**. These eight narrow identity closures do not sign off complete historical, security or trading continuity. All existing notes and the other 308 rows are preserved. Specific source qualifications and source IDs E01258–E01291 appear in the [final-eight report](../archive/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_FINAL_8_2026_10_15.md). Step 1.3.2.4 remains IN PROGRESS.

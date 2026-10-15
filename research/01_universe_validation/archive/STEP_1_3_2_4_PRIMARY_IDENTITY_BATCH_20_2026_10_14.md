@@ -42,6 +42,6 @@ No failure was concealed by relabelling old notes. All 20 original selected PDFs
 
 ## Evidence and quality assurance
 
-[Batch CSV](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14.csv) provides exact source URLs per company. [Primary ledger](STEP_1_3_2_4_PRIMARY_EVIDENCE_LEDGER.csv) contains the new page-specific assertions. [Complete register](STEP_1_3_2_4_COMPLETE_VERIFICATION_REGISTER.csv) and [exception register](STEP_1_3_2_4_UNRESOLVED_EXCEPTIONS.csv) carry refreshed facts and continuing gaps.
+[Batch CSV](STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_20_2026_10_14.csv) provides exact source URLs per company. [Primary ledger](../registers/STEP_1_3_2_4_PRIMARY_EVIDENCE_LEDGER.csv) contains the new page-specific assertions. [Complete register](../registers/STEP_1_3_2_4_COMPLETE_VERIFICATION_REGISTER.csv) and [exception register](../registers/STEP_1_3_2_4_UNRESOLVED_EXCEPTIONS.csv) carry refreshed facts and continuing gaps.
 
 Checked 20 names against ABR and issuer documents; explicit form identifiers matched ABR independent registration numbers; 20 ABN checksums passed. Matrix population 316 and exactly 20 changed candidate rows validated. Original notes and other 296 rows preserved. Commit/readback verification is performed before reporting success.

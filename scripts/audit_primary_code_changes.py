@@ -4,7 +4,7 @@ from lxml import html
 SOURCE='https://www.asx.com.au/markets/market-resources/asx-codes-and-descriptors/asx-code-changes'
 parser=argparse.ArgumentParser()
 parser.add_argument('--html',required=True)
-parser.add_argument('--matrix',default='research/STEP_1_3_2_EVIDENCE_MATRIX.csv')
+parser.add_argument('--matrix',default='research/01_universe_validation/registers/STEP_1_3_2_EVIDENCE_MATRIX.csv')
 parser.add_argument('--output-dir',default='research')
 parser.add_argument('--cutoff',default='2026-10-13')
 args=parser.parse_args();out=pathlib.Path(args.output_dir);out.mkdir(parents=True,exist_ok=True)

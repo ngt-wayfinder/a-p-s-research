@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Step 1.3.2 Action 1: deterministic duplicate audit of operating_candidates.csv."""
+"""Step 1.3.2 Action 1: deterministic duplicate audit of data/working/operating_candidates.csv."""
 import csv
 import re
 import sys
@@ -56,4 +56,4 @@ def audit(path):
     return bool(exact_ticker or exact_name or normalized_name)
 
 if __name__ == "__main__":
-    sys.exit(1 if audit(sys.argv[1] if len(sys.argv) > 1 else "operating_candidates.csv") else 0)
+    sys.exit(1 if audit(sys.argv[1] if len(sys.argv) > 1 else "data/working/operating_candidates.csv") else 0)
