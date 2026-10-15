@@ -11,3 +11,10 @@
 - Next research task after baseline: create evidence-based Level 1 eligibility register for 316 candidates.
 
 **Do not conflate** a 316-row identity classification with complete investment due diligence. Counts are from the 15 October roadmap reconciliation and must be recalculated when data changes.
+
+## Repository link audit — 15 October 2026
+
+- Audited all **66 Markdown files** in the `repository-restructure` Git tree using the complete tracked-file path set.
+- **Zero unresolved internal Markdown file-path links** remained after repair.
+- Scope: standard inline Markdown `](relative-path)` references, ignoring external URLs and fragments; does **not** validate heading anchors, reference-style links, or external destinations.
+- Full GitHub Actions execution and Python regression tests remain pending; baseline tag must not be created until those checks pass.
