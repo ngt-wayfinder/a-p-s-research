@@ -115,4 +115,4 @@ When migrating, update every Markdown relative link, literal path in prose, scri
 
 ## 7. Current state
 
-**Documentation only.** This file describes the target architecture. The existing repository has **not been reorganised**; use current paths in the roadmap until a separate migration commit is completed and validated.
+**Migration in progress.** Original artifacts have been moved on `repository-restructure`; link repair and acceptance tests are still pending. `main` remains unchanged. Do not tag a baseline before validation and merge.
