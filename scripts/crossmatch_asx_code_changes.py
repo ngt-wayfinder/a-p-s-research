@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Cross-match all rows of a saved official ASX code-change HTML page with candidate tickers.
-Usage: python scripts/crossmatch_asx_code_changes.py operating_candidates.csv asx-code-changes.html
+Usage: python scripts/crossmatch_asx_code_changes.py data/working/operating_candidates.csv asx-code-changes.html
 Requires: pip install beautifulsoup4
 Outputs: stdout CSV of matches and a coverage summary on stderr.
 Important: check the source page is complete and includes all year sections 2018-2026.
