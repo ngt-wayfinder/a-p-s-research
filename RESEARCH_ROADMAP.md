@@ -2,7 +2,7 @@
 
 **Goal:** Progress from a provisional ASX operating-company universe to 5–10 deeply researched opportunities over a 1–2-year horizon. Intended portfolio budget: under A$10, 000. Research plan only, not investment advice.
 
-**Last reviewed:** 15 October 2026
+**Last reviewed:** 15 October 2026 — reconciled with latest evidence matrix
 
 ## Status definitions
 
@@ -11,6 +11,45 @@
 - **NOT STARTED:** No completed deliverable is recorded.
 - **BLOCKED / NEEDS VERIFICATION:** A specific evidence gap prevents completion. An ASX announcement headline is not equivalent to reading the underlying PDF.
 - Statuses reflect the repository evidence and work performed to date, not a claim of live market status.
+
+## Authoritative current-state reconciliation — 15 October 2026
+
+**Source of truth:** [316-company evidence matrix](research/STEP_1_3_2_EVIDENCE_MATRIX.csv), read after the final identity batch commit `a3d93b4`. Earlier batch counts and progress snapshots elsewhere in this document are historical, not current.
+
+| Acceptance dimension | Live matrix result | Roadmap treatment |
+|---|---|---|
+| Candidate population | 316 rows / 316 unique ASX codes | Working universe reconciled; remains provisional |
+| Current issuer identity classification | **316/316**: 311 `PRIMARY_ISSUER_IDENTITY_CONFIRMED`, four `PRIMARY_ASX_IDENTITY_CONFIRMED`, one `PRIMARY_HISTORICAL_ISSUER_IDENTITY_CONFIRMED` | **COMPLETED — classification coverage only**; independent source-quality audit still advisable |
+| Primary-source-pending issuer status | **0** | **COMPLETED — pending-source queue exhausted** |
+| Partial issuer-identity status | **0** | **COMPLETED — partial identity queue exhausted** |
+| Historical legal/ticker continuity | **316/316** `PRIMARY_REVIEW_PARTIAL_GAPS_OPEN` | **IN PROGRESS; no full sign-offs** |
+| Security-form evidence | 236 `DATED_PRIMARY_SECURITY_EVIDENCE_GAPS_OPEN`, 66 `NOT_FULLY_VERIFIED`, eight `SECURITY_CLASS_PENDING`, six specific class-confirmed variants | **IN PROGRESS**; 310 have non-closed/ambiguous class evidence |
+| Dated trading status | **316/316** `DATED_PRIMARY_REVIEW_STATUS_GAPS_OPEN` | **IN PROGRESS**; Step 1.2.6 remains open |
+| Full Step 1.3.2.4 acceptance | **0/316** supported by all required gates | **NOT SIGNED OFF** |
+
+**Data-quality qualification:** The issuer-identity count reflects the recorded classifications, not a fresh independent re-audit of every cited document. Earlier rapid batch updates include issuer/ABN assertions and links that should undergo URL resolution, document-content verification, identifier attribution, and cross-ledger reconciliation before final acceptance. Do not promote identity-only classification to historical continuity completion. Preserve previously documented anomalies (including EMD and RFG incorrect identifiers in issuer filings), foreign issuer/CDI structures, name collisions, ticker reuse, and corporate actions.
+
+### Completed work to retain
+
+- Phase 0 numerical screening and 316-row working universe reconciliation (GDF/GDI REIT exclusions).
+- Step 1.1 directory crossmatch: 316/316 matched in the historical directory snapshot.
+- Step 1.2.1–1.2.5 preliminary market-price review, trading-status exception triage, primary halt notices and GitHub records.
+- Steps 1.3.1, 1.3.2.1, 1.3.2.2, 1.3.2.3 (defined 2018–2026 register scope), and 1.3.2.7 (inventory only).
+- Step 1.3.2.4 **issuer-identity classification milestone**: 316/316 status records classified as identity-confirmed; zero pending or partial statuses.
+
+### Remaining work — recommended execution order
+
+1. **1.3.2.4 evidence integrity QA:** Verify every cited primary-source URL resolves to the claimed issuer document; compare legal names, ABN/ACN/ARBN, incorporation jurisdiction, and date; reconcile matrix against primary evidence ledger, complete verification register, and unresolved exceptions file. Flag invalid citations or issuer/subsidiary identifier confusion without inventing closure.
+2. **1.3.2.4 historical continuity:** Per issuer, establish dated name/ticker changes, prior issuers of reused codes, redomiciliations, reverse takeovers, mergers, delist/relist events, and legal entity lineage. Mark evidence gaps or irreducible exceptions explicitly.
+3. **1.3.2.4 security-form closure + 1.3.2.5 corporate actions:** Determine ordinary shares vs CDIs vs other classes; verify ISIN and CDI ratio where applicable; reconcile consolidations, splits, options and completed issuance events against effective dates.
+4. **1.3.2.6 delisting/relisting review and 1.2.6 dated trading status:** Obtain underlying ASX halt/suspension/reinstatement notices and post-halt resumption evidence, including PAR and the ten prior exceptions. Keep tradeability separate from issuer identity.
+5. **1.3.3 operating-business classification:** Review 316 candidate business models and investment-vehicle exceptions, especially GWR and RIV; document inclusions/exclusions.
+6. **1.3.4 final candidate register and 1.4 Step 1 sign-off:** Publish sourced final universe with per-company evidence and dated exceptions, then formally accept or quarantine outstanding items.
+7. **Step 2 onward:** Resolve historical missing price/market-cap data and rerun screens; then collect statements, assess resilience and dilution, review catalysts, shortlist, value and monitor as described below.
+
+**Acceptance rule:** The 316/316 identity-classification milestone is complete; Step 1, Step 1.3.2 and Step 1.3.2.4 remain IN PROGRESS. No company is labelled fully verified solely from a primary identity status.
+
+---
 
 ## Entire sequence — authoritative stage titles
 
