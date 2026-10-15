@@ -55,7 +55,7 @@ Empty future directories need not be committed. No proposed filename above impli
 |---|---|---|
 | `RESEARCH_ROADMAP.md` | **Stay at root** | Authoritative roadmap and decision gates; rewrite moved relative links |
 | `data/raw/ASXListedCompanies.csv` | `data/raw/` | Source directory snapshot; record snapshot/cutoff date |
-| `data/working/operating_candidates.csv` | `data/working/` | Provisional population; scripts currently reference root path |
+| `data/working/operating_candidates.csv` | `data/working/` | Provisional population; migrated scripts reference the working-data path |
 | `research/01_universe_validation/registers/STEP_1_3_2_EVIDENCE_MATRIX.csv` | `research/01_universe_validation/registers/` | Working 316-company status matrix; **not** a Level 1 approval register |
 | `research/01_universe_validation/registers/STEP_1_3_2_4_PRIMARY_EVIDENCE_LEDGER.csv` | Same `registers/` | Primary evidence IDs and provenance |
 | `research/01_universe_validation/registers/STEP_1_3_2_4_COMPLETE_VERIFICATION_REGISTER.csv` | Same `registers/` | Historical verification coverage; inspect scope and cutoff before treating as current |
@@ -94,8 +94,8 @@ The pre-migration spot check on 15 October 2026 found **64 local Markdown links*
 
 Known script dependencies include:
 - `scripts/audit_operating_duplicates.py`: default `data/working/operating_candidates.csv`.
-- `scripts/verify_asx_directory.py`: default candidates at root; directory/output supplied by flags.
-- `scripts/crossmatch_asx_code_changes.py`: documented usage references root candidates.
+- `scripts/verify_asx_directory.py`: default candidates at `data/working/operating_candidates.csv`; directory/output supplied by flags.
+- `scripts/crossmatch_asx_code_changes.py`: documented usage references `data/working/operating_candidates.csv`.
 - `scripts/audit_primary_code_changes.py`: default matrix at `research/01_universe_validation/registers/STEP_1_3_2_EVIDENCE_MATRIX.csv` and output under `research/`.
 
 When migrating, update every Markdown relative link, literal path in prose, script default, documented command, and any GitHub workflow. Validate references from the **new containing directory**, not merely from repository root. Prefer relative Markdown links within the repo and explicit root-aware path handling in scripts. External URLs and evidence IDs must remain unchanged.
@@ -115,4 +115,4 @@ When migrating, update every Markdown relative link, literal path in prose, scri
 
 ## 7. Current state
 
-**Migration in progress.** Original artifacts have been moved on `repository-restructure`; link repair and acceptance tests are still pending. `main` remains unchanged. Do not tag a baseline before validation and merge.
+**Migration validated on branch.** All 100 original files are accounted for: 82 byte-identical and 18 intentionally edited (documentation links and script path adjustments). All 37 original data files retain identical Git blob hashes. The current branch passes repository integrity checks, Python compilation, and five functional regression tests covering four scripts. The migration remains unmerged on `repository-restructure`; `main` is unchanged. Do not create the baseline tag until the merge is completed.
