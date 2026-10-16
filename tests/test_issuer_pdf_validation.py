@@ -34,9 +34,9 @@ class ClassificationTests(unittest.TestCase):
 
     def test_quarterly_activities_without_statements(self):
         result = self.check("Quarterly activities report", "QUARTERLY",
-                            ["Quarterly activities report for quarter ended 30 June 2026 " * 4])
+                            ["Quarterly activities report for quarter ended 30 June 2026; Q4 FY26 production and sales " * 4])
         self.assertEqual(result.status, "CANDIDATE_VALIDATED")
-        self.assertEqual(result.subtype, "ACTIVITIES")
+        self.assertEqual(result.subtype, "OPERATIONAL")
 
     def test_presentation_rejected(self):
         result = self.check("Half-year results presentation", "HALF_YEAR", ["text " * 30])
@@ -47,6 +47,19 @@ class ClassificationTests(unittest.TestCase):
             ["Year ended 30 June 2025. Year ended 30 June 2026. "
              "Statement of financial position. Statement of profit or loss. " * 3])
         self.assertEqual(result.status, "REVIEW_REQUIRED")
+
+    def test_comparative_period_does_not_override_primary(self):
+        result = self.check("Annual report", "ANNUAL",
+            ["Report for the year ended 30 June 2026. Comparison year ended 30 June 2025. " * 3,
+             "Statement of financial position. Statement of profit or loss. " * 3])
+        self.assertEqual(result.status, "CANDIDATE_VALIDATED")
+        self.assertEqual(result.period_end, "2026-06-30")
+
+    def test_operational_review_title(self):
+        result = self.check("Operational Review", "QUARTERLY",
+            ["Operational review for the year ended 30 June 2026. Q4 FY26 production and sales " * 4])
+        self.assertEqual(result.status, "CANDIDATE_VALIDATED")
+        self.assertEqual(result.subtype, "OPERATIONAL")
 
     def test_invalid_pdf(self):
         result = validate_pdf(b"not pdf", "Annual report", "ANNUAL")
