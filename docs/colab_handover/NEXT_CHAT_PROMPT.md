@@ -6,17 +6,19 @@ Continue the ASX Penny Stock Research project in GitHub at https://github.com/ng
 
 Context: Five-company V2 test produced 5/15 accepted report categories, with 87 audited candidates. BHP-only V2 test found all 1,878 BHP announcements, accepted annual but rejected half-year and quarterly; actual audit contains 21 candidates (16 stale, 4 content-rejected, 1 accepted). The BHP-only ZIP accidentally retained four ACW/ACE PDFs from earlier runs. Root issues: overly narrow PDF text inspection, inappropriate quarterly marker requirements, output directory contamination, weak report-period identity checks.
 
-**Source integrity:** `scripts/asx_issuer_reports_google_colab.py` in GitHub is only a limited five-company, first-page announcement-title prototype with tranche delays. It is **not** the full Version 2 downloader. Full Version 2 source is in the prior chat and `asx_batch_v2.py` attachment/local artifact, not yet committed. The original outputs are `asx_batch_5.zip`, `asx_batch_v2.zip`, `asx_batch_v2(1).zip`. Ask for the files if they are not accessible; never invent their content.
+**Source integrity:** `scripts/asx_issuer_reports_google_colab.py` in GitHub is only a limited five-company, first-page announcement-title prototype with tranche delays. It is **not** the full Version 2 downloader. Full Version 2 experimental baseline is now committed at `scripts/asx_batch_v2_google_colab.py` (176 lines). The original `asx_batch_v2.py` is also in the prior chat/local artifact. The original outputs are `asx_batch_5.zip`, `asx_batch_v2.zip`, `asx_batch_v2(1).zip`. Ask for the files if they are not accessible; never invent their content.
 
 **User requirements:** Provide fully commented, runnable Google Colab code; suffix Colab-only scripts `_google_colab.py`; keep version control in GitHub with clear documentation and auditable evidence. Requested pacing: 10 companies/tranche, 15-second inter-company pause, 15-minute inter-tranche pause, stop on HTTP 403/429; full V2 has NOT yet received these changes. Test BHP first, then five-company regression, then 316 only after a quality gate. Keep eligibility evidence separate from automated report collection.
 
 **Source/compliance:** Public ASX API accessibility does not imply permission for unattended/bulk downloads. Do not activate GitHub Actions or run bulk collection until access rights are confirmed. Consider authorised/licensed APIs or issuer investor-relations sources. Rate limiting is not a substitute for authorisation.
 
 **Immediate deliverables:**
-1. Verify branch/PR and full V2 source availability.
+1. Verify branch/PR and inspect committed full V2 source and `docs/colab_handover/STATUS.md`.
 2. Implement improved annual/half-year/quarterly classification, robust bounded PDF text checks, isolated run output, audit diagnostics and tests in a new documented `*_google_colab.py` file.
 3. Commit reviewed changes to the existing feature branch, keeping the prototype distinct.
 4. Provide a BHP-only Colab test procedure and objective acceptance criteria; analyse actual new ZIP only after user executes.
 5. Update roadmap and handover documentation with factual progress.
 
-Do not claim unexecuted tests passed, or that full V2 has been committed. Begin by reporting verified repository state and the exact next step.
+Do not claim unexecuted tests passed or that V2 defects are fixed. The full experimental baseline is committed, but it has not been repaired or rerun. Begin by reporting verified repository state and the exact next step.
+
+**Latest handover update:** `docs/colab_handover/STATUS.md` is the authoritative inventory and defect tracker. Do not commit the approximately 20 MB test ZIP archives or issuer PDFs.
