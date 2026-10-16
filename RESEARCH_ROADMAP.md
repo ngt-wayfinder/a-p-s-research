@@ -89,6 +89,22 @@ The final output is an **auditable, ranked decision-support shortlist**, not mer
 
 ---
 
+## Final Level 1 decision rule — simplified three-question screen (16 October 2026)
+
+**This section supersedes the five-gate Level 1 completion language elsewhere in this roadmap.** The five risk dimensions remain a reference framework, **not five universal prerequisites**. Apply only these three mandatory initial questions to each of the 316 candidates:
+
+1. **Correct investable security:** Can the currently listed ASX code be attributed to an identifiable issuer and ordinary equity (or a clearly understood equivalent, such as a CDI)?
+2. **Operating business:** Is the issuer a genuine operating company rather than a passive investment vehicle, shell or excluded trust?
+3. **Known material impediment:** Is there evidence of delisting, prolonged/unresolved suspension, administration or another material barrier to realistic investment? Check a dated current source; do not demand exhaustive trading-halt history.
+
+**Disposition:** `ELIGIBLE` when the three questions are supported by sufficient dated evidence and no material unresolved contradiction exists; `QUARANTINED` for a demonstrated disqualifying condition or irresolvable material ambiguity, with a documented re-entry condition; `REVIEW_PENDING` only while evidence needed to answer one of the three questions is still being obtained. Document source, date and concise rationale. A lack of standalone ISIN, precise share count, complete historical continuity or detailed corporate-action reconciliation **does not block Level 1** unless it creates a material doubt about one of these three questions.
+
+**Later-stage verification:** Financial screening may start immediately for ELIGIBLE candidates. Verify current shares outstanding, price/market-cap basis, dilution, completed capital actions and lookback adjustments **when needed for financial comparison, valuation or a material risk**. Defer exhaustive historical/legal investigation to shortlists and deep diligence. Do not create new blanket Level 1 requirements without documenting which investment decision they change.
+
+**Overarching constraint:** Every research task must either eliminate an unsuitable company, improve the ranking of potential investments, or resolve a material investment risk.
+
+---
+
 ## Status definitions
 
 - **COMPLETED:** The specified deliverable has been produced and checked within its stated scope.
