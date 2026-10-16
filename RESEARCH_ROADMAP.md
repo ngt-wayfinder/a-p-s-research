@@ -464,3 +464,8 @@ Fresh original issuer/ASX documents corroborate **SOP, SYR, TAM, TER, TTM, TTT, 
 ## Final eight primary-source-pending issuer identities — 15 October 2026
 
 Fresh original primary issuer/ASX evidence establishes identity for **VYS, WTM, WWI, WCN, WEC, WC8, WZR and XRF**. Exactly eight pending matrix statuses changed, preserving earlier notes and all 316 candidates. **Authoritative current counts: 248 primary identities confirmed across status variants (243+4+1), zero PRIMARY_SOURCE_PENDING, and 68 PRIMARY_EVIDENCE_PARTIAL_REVIEW requiring further identity closure.** The pending-source cohort is complete; the 68 partial cases remain open. Added **34** source entries, **E01258–E01291**. Full historical/security/trading sign-offs remain **0/316**, and Step 1.3.2.4 remains **IN PROGRESS**. [Final-eight batch report](research/01_universe_validation/archive/STEP_1_3_2_4_PRIMARY_IDENTITY_BATCH_FINAL_8_2026_10_15.md).
+
+
+## Automated current issuer report downloader — 16 October 2026
+
+**Status: IN PROGRESS / NOT VALIDATED.** Draft PR #8 introduces an experimental ticker-based downloader and documentation. ASX discovery endpoint and download permissions are not verified. ACW/ACE live tests and the 316-company execution have **not** been completed; no report downloads are claimed. Next gate: validate authorised discovery and actual PDF retrieval for ACW and ACE, fix source/schema issues, then run the full register with exceptions logged. Do not mark this step complete until results are evidenced.
