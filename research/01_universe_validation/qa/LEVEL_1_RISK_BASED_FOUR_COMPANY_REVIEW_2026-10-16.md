@@ -18,3 +18,6 @@ Apply the revised minimum-sufficient-evidence Level 1 gates from RESEARCH_ROADMA
 
 ## Decision
 No supported basis to mark any of these four ELIGIBLE or QUARANTINED yet. Historical continuity and standalone ISIN are **not independent blocking conditions** absent material attribution ambiguity. Remaining decision-critical trading and share-capital facts are not established. Existing authoritative register remains unchanged: 0 ELIGIBLE / 0 QUARANTINED / 316 REVIEW_PENDING.
+
+## Superseding three-question interpretation
+The earlier five-column assessment is a **risk inventory, not a mandatory Level 1 checklist**. For each of 14D, ACF, ACW and ACE, assess only (1) identifiable currently listed equity, (2) operating-company activity, and (3) absence of a known material investment impediment, supported by dated evidence. The cited historical issuer filings provide partial evidence for (1) and (2), but do not alone prove current listing/trading eligibility. Consequently the four remain REVIEW_PENDING until that decision-critical fact is established. Do **not** block their Level 1 progress for missing ISIN, precise share count, proposed-placement reconciliation or remote continuity in the absence of a material contradiction. Those items move to Step 2 or later.
