@@ -33,7 +33,8 @@ TRANCHE_DELAY_SECONDS = 15 * 60
 REQUEST_DELAY_SECONDS = 1.5
 PAGE_SIZE = 25
 MAX_PAGES = 100
-MAX_CANDIDATES_PER_TYPE = 5\nCURRENT_LOOKBACK_DAYS = 550
+MAX_CANDIDATES_PER_TYPE = 5
+CURRENT_LOOKBACK_DAYS = 550
 BASE = "https://asx.api.cmfyapp.com/asx-research/1.0"
 NOW = datetime.now(timezone.utc)
 RUN_ID = NOW.strftime("%Y%m%dT%H%M%SZ") + "_" + uuid.uuid4().hex[:8]
