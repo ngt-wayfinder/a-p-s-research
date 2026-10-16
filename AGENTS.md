@@ -22,3 +22,6 @@ Work on a feature branch. Inspect current HEAD and file SHA before writing. Do n
 ## Level 1 proportionality — adopted 16 October 2026
 
 Use the approved minimum-sufficient-evidence Level 1 model in RESEARCH_ROADMAP.md. Five controls remain: correct issuer/listed security; dated tradeability; reliable dated ordinary shares and market-cap basis (ISIN only where instrument identity is ambiguous); corporate actions material to actual screening lookback; and operating-business classification. Defer immaterial historical continuity to Level 2/3. Do not confuse proposed financing with completed allotment or infer a live trading state from an expired halt. Record decision-critical gaps and source dates. Advance only demonstrably eligible issuers; quarantine documented material defects; otherwise retain REVIEW_PENDING.
+
+## Simplified Level 1 superseding instruction
+The three-question screen in RESEARCH_ROADMAP.md supersedes any instruction above implying five mandatory detailed gate closures. Check identifiable currently listed equity, operating business, and no known material impediment. Shares-outstanding, ISIN, detailed corporate actions and historical continuity are conditional downstream checks unless material to these three answers. Never hold back all 316 for exhaustive evidence collection.
