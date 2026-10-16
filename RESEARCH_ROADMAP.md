@@ -6,6 +6,14 @@
 
 ## Investment research objectives and decision methodology
 
+### Governing research prioritisation principle
+
+> **Every research task must either eliminate an unsuitable company, improve the ranking of potential investments, or resolve a material investment risk.**
+
+This is a binding scope-control rule for all phases of the project. Before adding a screening criterion, evidence requirement, script, or manual research task, identify which of these three outcomes it serves and what decision it could change. If none applies, defer or remove the task. Do not expand universal Level 1 acceptance criteria to collect data that is only relevant to later-stage valuation or deep diligence. Preserve existing evidence without requiring its exhaustive completion before financial screening. Changes to the screening gates must be explicitly justified against this rule and documented before adoption.
+
+
+
 ### Original investment intent
 
 Identify **5–10 ASX-listed, potentially undervalued or underappreciated operating-company opportunities** from a broad provisional penny-stock universe, for an indicative **1–2-year investment horizon** and a proposed portfolio **under A$10,000**. Seek asymmetric potential upside supported by evidence, rather than equating a low nominal share price with cheap valuation. High returns are uncertain; substantial or total capital loss is possible. This roadmap is a research framework, not a recommendation to buy.
