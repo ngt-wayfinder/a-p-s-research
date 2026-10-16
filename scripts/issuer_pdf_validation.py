@@ -33,7 +33,7 @@ TITLE_RULES = {
     HALF_YEAR: re.compile(r"half.year(ly)? (financial )?(report|accounts|results|financial statements)|"
                           r"interim (financial )?(report|accounts|financial statements)|appendix\s*4d\b", re.I),
     QUARTERLY: re.compile(r"quarterly (activities|activity|cash.flow) report|"
-                          r"appendix\s*[45][cb]\b|quarterly report", re.I),
+                          r"appendix\s*[45][cb]\b|quarterly report|operational review|production report", re.I),
 }
 STATEMENTS = {
     "position": re.compile(r"(statement of financial position|balance sheet)", re.I),
@@ -70,16 +70,22 @@ class Validation:
 
 
 def _period(pages: list[str]) -> Optional[str]:
-    """Use primary issuer front matter; never infer from comparative tables."""
+    """Require a unique primary date in front matter; ignore explicit comparisons."""
     for limit in (1, 3):
-        matches = list(PERIOD.finditer("\n".join(pages[:limit])))
-        if matches:
-            for match in matches:
-                for fmt in DATE_FORMATS:
-                    try:
-                        return datetime.strptime(match.group(1), fmt).date().isoformat()
-                    except ValueError:
-                        continue
+        text = "\n".join(pages[:limit])
+        primary = []
+        for match in PERIOD.finditer(text):
+            context = text[max(0, match.start() - 30):match.start()]
+            if re.search(r"comparison|comparative|prior|previous", context, re.I):
+                continue
+            for fmt in DATE_FORMATS:
+                try:
+                    primary.append(datetime.strptime(match.group(1), fmt).date().isoformat())
+                    break
+                except ValueError:
+                    pass
+        if primary:
+            return primary[0] if len(set(primary)) == 1 else None
     return None
 
 
