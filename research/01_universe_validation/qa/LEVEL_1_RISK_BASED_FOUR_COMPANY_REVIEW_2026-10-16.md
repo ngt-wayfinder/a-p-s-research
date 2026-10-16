@@ -1,0 +1,20 @@
+# Risk-based Level 1 application — 14D, ACF, ACW, ACE (16 October 2026)
+
+## Scope and evidence standard
+Apply the revised minimum-sufficient-evidence Level 1 gates from RESEARCH_ROADMAP.md. Review existing issuer disclosures without treating an announced transaction as completed or a historical filing as current trading proof. The source evidence listed here was documented in prior targeted audits; this review does not assert a fresh live ASX trading or registry query. A gate is PASS only with evidence sufficient for the specific screening decision. `PARTIAL` and `PENDING` are not passes.
+
+| Code | Issuer / operating-business | Current tradeability | Shares / security | Material corporate actions | Level 1 decision |
+|---|---|---|---|---|---|
+| 14D | PARTIAL: [issuer filing](https://announcements.asx.com.au/asxpdf/20260327/pdf/06xw6d346czpdx.pdf) supports ticker and ABN; thermal-storage activity described | PENDING: dated current ASX listing/trading state not established | PENDING: current ordinary shares and reliable market-cap denominator not reconciled; ISIN conditional | PARTIAL: Aurora transaction and proposed shares/options flagged; establish which completed and materially affect current capital/lookback | REVIEW_PENDING |
+| ACF | PARTIAL: [FY2025 issuer report](https://announcements.asx.com.au/asxpdf/20250825/pdf/06n9n3xy67tggy.pdf) supports Acrow operating activities and equity reporting | PENDING: current state not established | PENDING: latest shares outstanding not established; ISIN conditional | PARTIAL: historical DRP and performance-right exercises identified; only reconcile subsequent material share-count effects | REVIEW_PENDING |
+| ACW | PARTIAL: [2024 option terms](https://announcements.asx.com.au/asxpdf/20240920/pdf/06842cv47z4vtc.pdf) support issuer ACN and ordinary underlying security; [2026 financing letter](https://announcements.asx.com.au/asxpdf/20260210/pdf/06w4hgp7508t82.pdf) supports biotech activity | PENDING: current state not established | PENDING: current ordinary shares and option overhang not reconciled; ISIN conditional | PARTIAL: placement/SPP proposals identified; verify actual allotment and material dilution only | REVIEW_PENDING |
+| ACE | PARTIAL: [issuer capital-raise presentation](https://announcements.asx.com.au/asxpdf/20251215/pdf/06tbqgp03z8v5d.pdf) supports operating activity; listed issuer legal identity requires attribution review | PENDING: current state not established | PENDING: latest issued ordinary shares not established; ISIN conditional | PARTIAL: proposed 20m-share placement; verify completed issuance and resulting denominator | REVIEW_PENDING |
+
+## Minimum evidence to close (per company)
+1. Dated trading/listing status covering the assessment cutoff, and any relevant suspension/reinstatement documentation.
+2. Latest issuer/ASX Appendix 2A, annual/quarterly capital note, registry or other dated primary share-count evidence; reconcile material subsequent issuance and price/market-cap denominator.
+3. Confirm issuer/security and operating business from existing primary disclosures, escalating only actual discrepancies. Obtain ISIN only if an unresolved security attribution issue exists.
+4. Record each source URL, publication date, extracted fact, materiality judgement and reviewer date; update the authoritative eligibility register with justified PASS/EXCEPTION/DEFERRED gate outcomes and final ELIGIBLE/QUARANTINED/REVIEW_PENDING.
+
+## Decision
+No supported basis to mark any of these four ELIGIBLE or QUARANTINED yet. Historical continuity and standalone ISIN are **not independent blocking conditions** absent material attribution ambiguity. Remaining decision-critical trading and share-capital facts are not established. Existing authoritative register remains unchanged: 0 ELIGIBLE / 0 QUARANTINED / 316 REVIEW_PENDING.
