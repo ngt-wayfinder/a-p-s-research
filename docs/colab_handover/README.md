@@ -4,7 +4,7 @@
 
 Repository: `ngt-wayfinder/a-p-s-research`. Working branch: `feature/issuer-report-downloader`. The prior draft PR #8 should be inspected rather than assumed merged. These handover notes are on the feature branch only. No unattended collection is authorised or enabled.
 
-The existing `scripts/download_issuer_reports.py` is a separate experimental implementation and must **not** be confused with the interactive Version 2 Colab downloader. `scripts/asx_issuer_reports_google_colab.py` is a *limited first-page title-audit prototype*, not the full Version 2 PDF downloader. `scripts/requirements_google_colab.txt` and `docs/GOOGLE_COLAB_RESEARCH.md` describe that prototype. The full Version 2 Colab code was supplied in the chat and saved locally as `asx_batch_v2.py`, but **has not been committed to GitHub** as part of this handover. Recover the exact source from the chat/user attachment and verify its contents before integration.
+The existing `scripts/download_issuer_reports.py` is a separate experimental implementation and must **not** be confused with the interactive Version 2 Colab downloader. `scripts/asx_issuer_reports_google_colab.py` is a *limited first-page title-audit prototype*, not the full Version 2 PDF downloader. `scripts/requirements_google_colab.txt` and `docs/GOOGLE_COLAB_RESEARCH.md` describe that prototype. The full experimental Version 2 Colab baseline is now committed as `scripts/asx_batch_v2_google_colab.py` (176 lines); it has not been repaired or rerun after the commit. See `docs/colab_handover/STATUS.md`.
 
 ## Research objective
 
@@ -58,7 +58,7 @@ ASX website terms may restrict automated scraping/downloading; obtain ASX permis
 ## How to resume safely
 
 1. Read this README, `docs/GOOGLE_COLAB_RESEARCH.md`, the relevant scripts, current branch/PR and roadmap.
-2. Retrieve actual test ZIPs and full Version 2 source from the conversation/user attachments; **do not infer ZIP contents from chat alone**.
+2. Inspect the committed V2 baseline and retrieve the actual test ZIPs from conversation/user attachments; **do not infer ZIP contents from chat alone**.
 3. Repair BHP content validation and output isolation in a distinct `*_google_colab.py` full V2 script. Add unit tests with local fixtures; do not issue bulk ASX requests until access is authorised.
 4. Re-run a controlled, authorised BHP-only validation; compare annual/half-year/quarterly document identity, report period, statement markers and output files.
 5. After quality gate passes, return to five-company regression and only then plan scaling to 316.
@@ -70,4 +70,8 @@ ASX website terms may restrict automated scraping/downloading; obtain ASX permis
 - `asx_batch_v2(1).zip` (BHP-only V2)
 - `asx_batch_v2.py` (full V2 source, local/chat artifact)
 
-These were verified in the conversation runtime on 16 October 2026, but **have not been committed to the repository**. Avoid committing large PDF archives without an explicit storage decision.
+The full V2 Python source is now committed as `scripts/asx_batch_v2_google_colab.py`; the ZIP archives and copied PDFs have **not** been committed. Avoid committing large PDF archives without an explicit storage decision.
+
+## Handover status update
+
+On 16 October 2026, the complete experimental Version 2 baseline was committed at `scripts/asx_batch_v2_google_colab.py`. For the definitive code inventory, historical results, defects, access safeguards and next steps, see [`STATUS.md`](STATUS.md). The original test ZIPs and issuer PDFs are intentionally not in GitHub.
