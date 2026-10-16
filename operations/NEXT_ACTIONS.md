@@ -1,17 +1,6 @@
-# Next actions — ordered
+# Next actions — simplified Level 1, 16 October 2026
 
-## R1: Controlled repository migration
-**State:** In progress. **Owner:** next available agent.  
-**Preconditions:** branch `repository-restructure`, documented file manifest and preserved original blobs.  
-**Actions:** reorganise files per structure guide; update every internal link and script path; preserve source/QA/batch artifacts; add root README and AGENTS, operations and tests.  
-**Acceptance:** 100 original files accounted for; zero broken local Markdown links; four scripts tested; 316 unique evidence-matrix tickers unchanged; source ledger and IDs preserved; clear authoritative registers.  
-**On completion:** merge reviewed changes to `main`, then create immutable `research-baseline-v1.0` tag at merged commit. Do not claim baseline before both actions succeed.
-
-## R2: Level 1 eligibility register
-**State:** Blocked on R1.  
-**Actions:** assess identity, security, relevant corporate actions, dated trading and operating classification for all 316; record dated primary sources and pending/quarantine reasons.  
-**Acceptance:** one unique row per candidate, explicit statuses and source-backed decisions, no blanket eligibility.
-
-## R3: Financial screen
-**State:** Not started.  
-**Actions:** advance only eligible companies to financial resilience and dilution-aware screening; record exclusion reasons and sources.
+1. Apply the **three mandatory questions** from RESEARCH_ROADMAP.md to all 316: correct identifiable currently listed equity, operating business, and no known material investability impediment. Use dated sources, document exceptions and record ELIGIBLE / QUARANTINED / REVIEW_PENDING. Five historical risk dimensions are NOT five mandatory completion tasks.
+2. For 14D, ACF, ACW and ACE, confirm current ASX listing/trading condition and sufficiently reliable issuer/business attribution; decide eligibility without waiting for standalone ISIN, full current share count or corporate-action history unless those reveal a material contradiction.
+3. Start Step 2 financial screening on eligible companies **as soon as they qualify**. Obtain share counts, financing details and dilution adjustments at the point of actual financial comparisons.
+4. Maintain CSV integrity, source traceability and explicit exception/re-entry reasons. Do not broaden screening requirements without showing how the task eliminates an unsuitable company, improves investment ranking or resolves material investment risk.
