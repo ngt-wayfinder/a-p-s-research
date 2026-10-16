@@ -13,6 +13,10 @@ import re
 import sys
 import time
 import uuid
+
+
+def log(message):
+    print(f"[{datetime.now(timezone.utc).strftime('%H:%M:%S UTC')}] {message}", flush=True)
 import zipfile
 from datetime import datetime, timezone
 from pathlib import Path
@@ -49,10 +53,12 @@ def fetch(path, *, params=None):
     url = f"{BASE}/{path}"
     for attempt in range(3):
         try:
+            log(f"GET {path} | attempt {attempt + 1}/3")
             response = session.get(url, params=params, timeout=90)
             if response.status_code in (403, 429):
                 raise AccessRestricted(f"HTTP {response.status_code} at {path}; stopping")
             response.raise_for_status()
+            log(f"HTTP {response.status_code} | {len(response.content):,} bytes | {path}")
             return response
         except AccessRestricted:
             raise
@@ -91,6 +97,7 @@ def discover(xid):
             if key and key not in seen:
                 seen.add(key)
                 rows.append(item)
+        log(f"Announcements page {page + 1}: {len(items)} items; unique {len(rows)}/{total if total is not None else '?'}")
         if total is not None and len(rows) >= total:
             break
         if len(items) < PAGE_SIZE:
@@ -135,15 +142,19 @@ try:
         for index, code in enumerate(tranche):
             if index:
                 time.sleep(COMPANY_DELAY_SECONDS)
+            log(f"START {code}: resolving issuer identity")
             xid, company = resolve(code)
+            log(f"{code}: issuer resolved as {company} ({xid}); retrieving announcements")
             announcements, total, complete = discover(xid)
             print(f"{code}: {len(announcements)}/{total} announcements; complete={complete}")
             if not complete:
                 raise ValueError(f"{code}: announcement discovery incomplete; selection withheld")
             for category, rule in TITLE_RULES.items():
+                log(f"{code} {category}: identifying report candidates")
                 candidates = [a for a in announcements if a.get("documentKey")
                               and rule.search(str(a.get("headline", "")))]
                 candidates.sort(key=lambda a: str(a.get("date", "")), reverse=True)
+                log(f"{code} {category}: {len(candidates)} matching titles; inspecting up to {MAX_CANDIDATES_PER_TYPE}")
                 selected = None
                 for item in candidates[:MAX_CANDIDATES_PER_TYPE]:
                     key = str(item["documentKey"])
@@ -155,8 +166,10 @@ try:
                                Age_Days=age_days(announcement_date),
                                Decision="", Reason="")
                     try:
+                        log(f"{code} {category}: validating {key} | {announcement_date} | {title[:90]}")
                         content = fetch(f"file/{key}").content
                         result = validate_pdf(content, title, category)
+                        log(f"{code} {category}: {result.status} | {result.reason} | {result.pages_inspected}/{result.pages_total} pages | period {result.period_end}")
                         row.update(Detected_Type=result.detected_type,
                                    Subtype=result.subtype, Period_End=result.period_end,
                                    Pages_Total=result.pages_total,
@@ -199,6 +212,7 @@ try:
                     record.update(Status="REVIEW_REQUIRED",
                                   Reason="No candidate passed conservative PDF checks; inspect audit")
                 register.append(record)
+                log(f"{code} {category}: FINAL {record['Status']}")
 except (AccessRestricted, PermissionError, ValueError, requests.RequestException) as exc:
     fatal_error = f"{type(exc).__name__}: {exc}"
     print("RUN STOPPED:", fatal_error)
@@ -218,7 +232,7 @@ finally:
         for path in sorted(ROOT.rglob("*")):
             if path.is_file():
                 archive.write(path, path.relative_to(ROOT.parent))
-    print("ZIP:", ARCHIVE)
+    log(f"ZIP created: {ARCHIVE}")
     print("Candidate audit rows:", len(audit), "Register rows:", len(register))
     try:
         from google.colab import files
