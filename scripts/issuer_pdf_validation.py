@@ -9,7 +9,7 @@ import hashlib
 import io
 import re
 from dataclasses import asdict, dataclass
-from datetime import date
+from datetime import datetime
 from typing import Optional
 
 from pypdf import PdfReader
@@ -69,25 +69,18 @@ class Validation:
         return asdict(self)
 
 
-def _period(text: str) -> Optional[str]:
-    dates = set()
-    for match in PERIOD.finditer(text):
-        raw = match.group(1)
-        for fmt in DATE_FORMATS:
-            try:
-                dates.add(date.strptime(raw, fmt).isoformat())
-                break
-            except AttributeError:
-                from datetime import datetime
-                try:
-                    dates.add(datetime.strptime(raw, fmt).date().isoformat())
-                    break
-                except ValueError:
-                    continue
-            except ValueError:
-                continue
-    # Multiple period ends must not be silently resolved to the latest one.
-    return next(iter(dates)) if len(dates) == 1 else None
+def _period(pages: list[str]) -> Optional[str]:
+    """Use primary issuer front matter; never infer from comparative tables."""
+    for limit in (1, 3):
+        matches = list(PERIOD.finditer("\\n".join(pages[:limit])))
+        if matches:
+            for match in matches:
+                for fmt in DATE_FORMATS:
+                    try:
+                        return datetime.strptime(match.group(1), fmt).date().isoformat()
+                    except ValueError:
+                        continue
+    return None
 
 
 def validate_pdf(content: bytes, title: str, expected_type: str,
@@ -137,23 +130,29 @@ def validate_pdf(content: bytes, title: str, expected_type: str,
         return result("REVIEW_REQUIRED", total=total, inspected=total,
                       reason="Insufficient extractable text; OCR/manual review needed")
 
-    period = _period(full)
+    period = _period(texts)
     subtype = ""
     detected = expected_type
     markers = tuple(sorted(marker_pages))
     if expected_type == QUARTERLY:
-        activities = bool(QUARTER_ACTIVITIES.search(full))
+        operational = bool(re.search(
+            r"operational review|production report|quarterly (activities|activity)|quarterly performance|quarter performance",
+            full, re.I))
+        quarter = bool(re.search(
+            r"\\bQ[1-4]\\s*FY\\s*\\d{2,4}\\b|quarter ended|quarterly performance|quarter performance",
+            full, re.I))
+        metrics = bool(re.search(r"production|sales|tonnes|shipments|copper|iron ore", full, re.I))
         cash = bool(QUARTER_CASH.search(full))
-        subtype = "ACTIVITIES_AND_CASH_FLOW" if activities and cash else (
-            "ACTIVITIES" if activities else "CASH_FLOW" if cash else "UNKNOWN")
+        subtype = "OPERATIONAL" if operational and quarter and metrics else (
+            "CASH_FLOW" if cash else "UNKNOWN")
         if subtype == "UNKNOWN":
             return result("REVIEW_REQUIRED", detected, subtype, period, total, total,
-                          markers, marker_pages, "Quarterly content identity unconfirmed")
+                          markers, marker_pages, "Quarterly identity evidence insufficient")
     elif len(markers) < 2 or not ("position" in markers or "performance" in markers):
         return result("REVIEW_REQUIRED", detected, subtype, period, total, total,
                       markers, marker_pages, "Insufficient financial statement evidence")
     if period is None:
         return result("REVIEW_REQUIRED", detected, subtype, None, total, total,
-                      markers, marker_pages, "Reporting period missing or ambiguous")
+                      markers, marker_pages, "Primary reporting period missing in front matter")
     return result("CANDIDATE_VALIDATED", detected, subtype, period, total, total,
                   markers, marker_pages, "Content evidence found; analyst period/type confirmation required")
