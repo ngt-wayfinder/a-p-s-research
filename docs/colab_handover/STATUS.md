@@ -30,3 +30,11 @@ The BHP-only ZIP also included four ACW/ACE PDFs left over from an earlier run; 
 ## Repository and evidence policy
 
 All listed source files and handover documents are on `feature/issuer-report-downloader`; do not assume the branch or PR #8 is merged. No GitHub Actions bulk schedule has been enabled. Do not commit the approximately 20 MB test ZIP archives or copied issuer PDFs. The actual ZIPs remain local/conversation evidence and are not reproducible from GitHub alone. Rate limits do not confer permission for bulk ASX access; confirm rights or use an authorised source before unattended collection.
+
+
+## 16 October 2026 — offline validator development
+- Added `scripts/issuer_pdf_validation.py` (offline, bounded full-PDF text inspection and conservative annual/half-year/quarterly classification).
+- Added `tests/test_issuer_pdf_validation.py` (six synthetic tests, including late-page half-year statements and quarterly activities without cash-flow statements).
+- These are **committed but tests have not yet been executed in a Python environment**. No BHP rerun has occurred.
+- Known limitations: PDF text extraction cannot validate scanned/image-only documents; period extraction may flag documents with comparative reporting dates; issuer identity, financial-period expectations and quarterly reporting applicability still require external metadata and/or analyst review.
+- The module is **not yet integrated** into the full V2 Colab downloader. Next: execute tests, repair any failures, implement output isolation and 403/429 stop handling, then integrate the module into a new V3 Colab script.
