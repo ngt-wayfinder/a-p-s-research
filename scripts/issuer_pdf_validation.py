@@ -145,7 +145,7 @@ def validate_pdf(content: bytes, title: str, expected_type: str,
             r"operational review|production report|quarterly (activities|activity)|quarterly performance|quarter performance",
             full, re.I))
         quarter = bool(re.search(
-            r"\\bQ[1-4]\\s*FY\\s*\\d{2,4}\\b|quarter ended|quarterly performance|quarter performance",
+            r"\bQ[1-4]\s*FY\s*\d{2,4}\b|quarter ended|quarterly performance|quarter performance",
             full, re.I))
         metrics = bool(re.search(r"production|sales|tonnes|shipments|copper|iron ore", full, re.I))
         cash = bool(QUARTER_CASH.search(full))
