@@ -2,7 +2,7 @@
 
 **Goal:** Progress from a provisional ASX operating-company universe to 5–10 deeply researched opportunities over a 1–2-year horizon. Intended portfolio budget: under A$10, 000. Research plan only, not investment advice.
 
-**Last reviewed:** 15 October 2026 — reconciled with latest evidence matrix
+**Last reviewed:** 16 October 2026 — current issuer-report gathering prioritised next; earlier historical snapshots retained
 
 ## Investment research objectives and decision methodology
 
@@ -102,6 +102,25 @@ The final output is an **auditable, ranked decision-support shortlist**, not mer
 **Later-stage verification:** Financial screening may start immediately for ELIGIBLE candidates. Verify current shares outstanding, price/market-cap basis, dilution, completed capital actions and lookback adjustments **when needed for financial comparison, valuation or a material risk**. Defer exhaustive historical/legal investigation to shortlists and deep diligence. Do not create new blanket Level 1 requirements without documenting which investment decision they change.
 
 **Overarching constraint:** Every research task must either eliminate an unsuitable company, improve the ranking of potential investments, or resolve a material investment risk.
+
+---
+
+## Next execution activity — current issuer-report gathering (16 October 2026)
+
+**Priority: NEXT — NOT STARTED.** Bring forward the existing Step 3.1 document-collection activity as the immediate operational task for the full **316-company provisional universe**. This is a sequencing change, not a new eligibility criterion, and does not imply that Steps 1–2 or Step 3 have been signed off.
+
+**Scope and execution:**
+1. Reuse the existing issuer evidence ledger and source URLs before discovering additional documents. For each ASX code, locate the most recent issuer annual report, latest half-year report where applicable, and relevant quarterly cash-flow reports (Appendix 4C/5B where filed). Capture issuer announcements containing material financial or business updates when useful to the existing roadmap.
+2. Prefer primary issuer/ASX publications; third-party listing pages may be used for discovery, not as substitutes for checking the underlying issuer document. Respect source access restrictions and avoid asserting that a URL contains a report until its document is checked.
+3. Maintain a **316-row coverage register** with ticker, issuer, report type, period end, publication date, source URL, retrieval/verification status, local or repository path where retained, and explicit missing/inapplicable/access-blocked exceptions. Preserve provenance and avoid treating absent reports as zero financial values.
+4. Collect in batches with checkpoints and deduplication; record successful downloads and failures without blocking the entire population on isolated exceptions. Do not silently substitute older periods for current reports.
+5. Use retrieved reports to support the **existing** Step 1.3.3 operating-business classification and prepare inputs for **existing** Steps 3.2–3.3 extraction/QA and Steps 4–8 financial and catalyst screening. Financial extraction and investment ranking remain subsequent work, not completion criteria for document gathering.
+
+**Acceptance for this next activity:** Every one of the 316 candidates has an auditable report-coverage outcome (retrieved/verified, genuinely not applicable, not found, or access blocked) with source and reporting-period metadata where available. Report retrieval coverage must not be conflated with 316 current-listing confirmations or investment eligibility.
+
+**Explicit deferrals:** Step 1.2.6 current suspension/trading-status verification remains open and deferred by user direction; exhaustive historical continuity, full corporate-action reconstruction, and unrelated extra Level 1 checks are not prerequisites to this collection. Existing three-question Level 1 decisions remain evidence-based and may stay `REVIEW_PENDING`.
+
+**Next after gathering:** Complete targeted Step 1.3.3 operating-business exceptions (including GWR and RIV), record Level 1 dispositions as evidence allows, and proceed with Steps 3.2–3.3 financial extraction and Steps 2/4 onward as their inputs become available. The original numbered steps remain unchanged; this section governs immediate execution priority.
 
 ---
 
