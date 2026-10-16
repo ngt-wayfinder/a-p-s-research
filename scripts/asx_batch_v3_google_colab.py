@@ -6,6 +6,7 @@ Never bypass 403/429. No unattended collection, no eligibility decisions.
 The full Version 2 baseline remains unchanged in GitHub.
 """
 import csv
+import io
 import hashlib
 import json
 import os
@@ -22,6 +23,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
+from pypdf import PdfReader
 
 # Load the standalone offline validator from the same repository checkout.
 from issuer_pdf_validation import validate_pdf, TITLE_RULES
@@ -115,6 +117,23 @@ def age_days(value):
     except (ValueError, TypeError):
         return None
 
+def save_front_matter_diagnostic(content, code, category, key, title, reason):
+    """Capture up to three extracted pages for analyst review, without approving the PDF."""
+    try:
+        reader = PdfReader(io.BytesIO(content), strict=False)
+        parts = []
+        for i in range(min(3, len(reader.pages))):
+            parts.append("--- PAGE {} ---\n{}".format(i + 1, (reader.pages[i].extract_text() or "")[:12000]))
+        folder = ROOT / "diagnostics"
+        folder.mkdir(exist_ok=True)
+        target = folder / f"{code}_{category}_{key}_front_matter.txt"
+        target.write_text(
+            f"Headline: {title}\nReason: {reason}\nPages: {len(reader.pages)}\n\n"
+            + "\n\n".join(parts), encoding="utf-8")
+        log(f"{code} {category}: diagnostic saved: {target.name}")
+    except Exception as exc:
+        log(f"{code} {category}: diagnostic unavailable: {type(exc).__name__}")
+
 def write_csv(path, rows, fields):
     with path.open("w", newline="", encoding="utf-8") as handle:
         writer = csv.DictWriter(handle, fieldnames=fields, extrasaction="ignore")
@@ -154,7 +173,14 @@ try:
                 log(f"{code} {category}: identifying report candidates")
                 candidates = [a for a in announcements if a.get("documentKey")
                               and rule.search(str(a.get("headline", "")))]
-                candidates.sort(key=lambda a: str(a.get("date", "")), reverse=True)
+                def priority(a):
+                    headline = str(a.get("headline", ""))
+                    current = bool(re.search(r"\b2026\b|\bFY\s*26\b", headline, re.I))
+                    form20 = bool(re.search(r"form\s*20.f|\bUS annual\b", headline, re.I))
+                    appendix4e = bool(re.search(r"appendix\s*4e", headline, re.I))
+                    return (current, appendix4e if category == "ANNUAL" else False,
+                            not form20, str(a.get("date", "")))
+                candidates.sort(key=priority, reverse=True)
                 candidates = [a for a in candidates if age_days(a.get("date")) is not None and 0 <= age_days(a.get("date")) <= CURRENT_LOOKBACK_DAYS and not re.search(r"presentation|transcript|webcast|briefing", str(a.get("headline", "")), re.I)]
                 log(f"{code} {category}: {len(candidates)} matching titles; inspecting up to {MAX_CANDIDATES_PER_TYPE}")
                 selected = None
@@ -181,6 +207,8 @@ try:
                                    Marker_Pages=json.dumps(result.marker_pages),
                                    SHA256=result.sha256, Bytes=len(content),
                                    Decision=result.status, Reason=result.reason)
+                        if result.status == "REVIEW_REQUIRED" and result.reason == "Primary reporting period missing in front matter":
+                            save_front_matter_diagnostic(content, code, category, key, title, result.reason)
                         if result.status == "CANDIDATE_VALIDATED" and result.period_end != expected_period:
                             row.update(Decision="REVIEW_REQUIRED", Reason=f"Expected {expected_period}; detected {result.period_end}")
                             log(f"{code} {category}: PERIOD MISMATCH; expected {expected_period}")
