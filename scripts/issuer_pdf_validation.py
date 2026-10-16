@@ -72,7 +72,7 @@ class Validation:
 def _period(pages: list[str]) -> Optional[str]:
     """Use primary issuer front matter; never infer from comparative tables."""
     for limit in (1, 3):
-        matches = list(PERIOD.finditer("\\n".join(pages[:limit])))
+        matches = list(PERIOD.finditer("\n".join(pages[:limit])))
         if matches:
             for match in matches:
                 for fmt in DATE_FORMATS:
