@@ -31,3 +31,9 @@ Parsed `research/01_universe_validation/registers/LEVEL_1_SCREENING_ELIGIBILITY_
 | **Total** | **316** |
 
 Integrity checks: 316 data rows; 316 unique ASX codes; 25 header columns; zero malformed-width rows, duplicate codes, or unexpected decision values. These are **recorded decisions**, not an independent re-assessment of the underlying evidence. Recent 14D/ACF/ACW/ACE evidence work does not itself satisfy all Level 1 gates. No Step 2 eligible cohort is established. Prior statements above describing the Level 1 register as not yet created are superseded by this reconciliation; update `NEXT_ACTIONS.md` separately to reflect the completed register creation and remaining gate assessments.
+
+## Risk-based Level 1 method adopted — 16 October 2026
+
+The roadmap now specifies five proportionate decision gates: issuer/security identity, dated tradeability, reliable shares/market-cap basis, *material* corporate actions, and operating-business classification. Standalone ISIN and remote historical lineage are conditional rather than universal prerequisites. This does not waive verification of current shares, actual allotments or unresolved trading restrictions.
+
+Applied to 14D, ACF, ACW and ACE: all remain REVIEW_PENDING because sufficiently current dated trading status and reliable shares-outstanding/completed capital-action evidence have not been demonstrated. No eligibility promotion has been inferred from issuer announcements. Authoritative population remains 0 ELIGIBLE / 0 QUARANTINED / 316 REVIEW_PENDING. Refer to the risk-based four-company review and roadmap for exact next checks.
