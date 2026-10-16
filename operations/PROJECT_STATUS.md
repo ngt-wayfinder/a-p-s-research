@@ -18,3 +18,16 @@
 - **Zero unresolved internal Markdown file-path links** remained after repair.
 - Scope: standard inline Markdown links with relative file paths, ignoring external URLs and fragments; does **not** validate heading anchors, reference-style links, or external destinations.
 - Full GitHub Actions execution and Python regression tests remain pending; baseline tag must not be created until those checks pass.
+
+## Level 1 eligibility register reconciliation — 16 October 2026
+
+Parsed `research/01_universe_validation/registers/LEVEL_1_SCREENING_ELIGIBILITY_REGISTER.csv` from `main` with a quote-aware CSV parser (including escaped quotes and embedded commas). Source blob SHA: `8d3e6add77b2dcade4d2d12c0fc694a2244c3434`.
+
+| Level_1_Decision | Count |
+|---|---:|
+| `ELIGIBLE` | 0 |
+| `QUARANTINED` | 0 |
+| `REVIEW_PENDING` | 316 |
+| **Total** | **316** |
+
+Integrity checks: 316 data rows; 316 unique ASX codes; 25 header columns; zero malformed-width rows, duplicate codes, or unexpected decision values. These are **recorded decisions**, not an independent re-assessment of the underlying evidence. Recent 14D/ACF/ACW/ACE evidence work does not itself satisfy all Level 1 gates. No Step 2 eligible cohort is established. Prior statements above describing the Level 1 register as not yet created are superseded by this reconciliation; update `NEXT_ACTIONS.md` separately to reflect the completed register creation and remaining gate assessments.
