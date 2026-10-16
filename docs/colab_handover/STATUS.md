@@ -38,3 +38,10 @@ All listed source files and handover documents are on `feature/issuer-report-dow
 - These are **committed but tests have not yet been executed in a Python environment**. No BHP rerun has occurred.
 - Known limitations: PDF text extraction cannot validate scanned/image-only documents; period extraction may flag documents with comparative reporting dates; issuer identity, financial-period expectations and quarterly reporting applicability still require external metadata and/or analyst review.
 - The module is **not yet integrated** into the full V2 Colab downloader. Next: execute tests, repair any failures, implement output isolation and 403/429 stop handling, then integrate the module into a new V3 Colab script.
+
+## 17 October 2026 — BHP source-based repair
+- Real local PDF test: BHP 2026 Appendix 4E annual (250 pages) and June 2026 Operational Review (25 pages) both classified as CANDIDATE_VALIDATED with period 2026-06-30 in a local prototype; neither PDF is committed.
+- Validator updated to recognise production-based operational reviews, prefer primary front-matter period over comparative dates, and preserve bounded extraction.
+- BHP Colab script updated to limit to five recent candidates/category, enforce FY2026 period expectations, and avoid subprocess-triggered Colab download exception.
+- Annual and quarterly sample validation was executed locally; complete GitHub regression suite and 2026 half-year PDF remain unverified. BHP Colab network rerun is user-operated only.
+- 2026 BHP period expectations are intentionally hardcoded for the BHP-only acceptance run; generalise before five-company scaling.
