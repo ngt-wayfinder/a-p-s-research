@@ -154,9 +154,11 @@ try:
                 log(f"{code} {category}: identifying report candidates")
                 candidates = [a for a in announcements if a.get("documentKey")
                               and rule.search(str(a.get("headline", "")))]
-                candidates.sort(key=lambda a: str(a.get("date", "")), reverse=True)\n                candidates = [a for a in candidates if age_days(a.get("date")) is not None and 0 <= age_days(a.get("date")) <= CURRENT_LOOKBACK_DAYS and not re.search(r"presentation|transcript|webcast|briefing", str(a.get("headline", "")), re.I)]
+                candidates.sort(key=lambda a: str(a.get("date", "")), reverse=True)
+                candidates = [a for a in candidates if age_days(a.get("date")) is not None and 0 <= age_days(a.get("date")) <= CURRENT_LOOKBACK_DAYS and not re.search(r"presentation|transcript|webcast|briefing", str(a.get("headline", "")), re.I)]
                 log(f"{code} {category}: {len(candidates)} matching titles; inspecting up to {MAX_CANDIDATES_PER_TYPE}")
-                selected = None\n                expected_period = {"ANNUAL": "2026-06-30", "HALF_YEAR": "2025-12-31", "QUARTERLY": "2026-06-30"}[category]
+                selected = None
+                expected_period = {"ANNUAL": "2026-06-30", "HALF_YEAR": "2025-12-31", "QUARTERLY": "2026-06-30"}[category]
                 for item in candidates[:MAX_CANDIDATES_PER_TYPE]:
                     key = str(item["documentKey"])
                     title = str(item.get("headline", ""))
@@ -179,7 +181,12 @@ try:
                                    Marker_Pages=json.dumps(result.marker_pages),
                                    SHA256=result.sha256, Bytes=len(content),
                                    Decision=result.status, Reason=result.reason)
-                        if result.status == "CANDIDATE_VALIDATED" and result.period_end != expected_period:\n                            row.update(Decision="REVIEW_REQUIRED", Reason=f"Expected {expected_period}; detected {result.period_end}")\n                            log(f"{code} {category}: PERIOD MISMATCH; expected {expected_period}")\n                            audit.append(row)\n                            continue\n                        # The candidate is saved for analyst inspection, NOT marked
+                        if result.status == "CANDIDATE_VALIDATED" and result.period_end != expected_period:
+                            row.update(Decision="REVIEW_REQUIRED", Reason=f"Expected {expected_period}; detected {result.period_end}")
+                            log(f"{code} {category}: PERIOD MISMATCH; expected {expected_period}")
+                            audit.append(row)
+                            continue
+                        # The candidate is saved for analyst inspection, NOT marked
                         # verified or Level 1 eligible. Recency is recorded, not inferred.
                         if result.status == "CANDIDATE_VALIDATED":
                             pdf_dir = ROOT / code
