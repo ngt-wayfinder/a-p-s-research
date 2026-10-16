@@ -63,6 +63,24 @@ The final output is an **auditable, ranked decision-support shortlist**, not mer
 
 ---
 
+## Approved Level 1 proportionality clarification — 16 October 2026
+
+**Decision:** Adopt a risk-based, minimum-sufficient-evidence screening gate for all 316 provisional candidates. This refines (and does not waive) the five existing controls. Investment decisions, not historical verification counts, determine depth. This section supersedes any earlier wording implying that every issuer requires a complete historical continuity, every ISIN, or exhaustive capital-action reconstruction before Step 2.
+
+1. **Issuer/security identity (mandatory):** Link the current ticker and listed security class to the actual legal issuer using a dated credible primary filing or register. Obtain registration/jurisdiction where needed to resolve identity; escalate collisions, foreign issuers, CDIs, reverse takeovers and conflicting identifiers. An unresolved *material* identity conflict blocks eligibility.
+2. **Tradeability (mandatory):** Establish a sufficiently recent, dated listing/trading state using ASX notices or reliable current market evidence, explicitly investigating suspensions, delistings, administration and unresolved halts. Record evidence date; no inference of reinstatement from scheduled halt expiry. Liquidity remains a later investment risk, not an automatic Level 1 pass.
+3. **Screening-input reliability (mandatory):** Establish the correct ordinary equity class (or CDI conversion), reliable dated shares outstanding and a consistent price/market-cap basis. Standalone ISIN retrieval is **conditional**, required where ambiguity in instrument attribution exists; otherwise document that ISIN is deferred, not verified.
+4. **Material corporate actions (conditional depth):** Identify only completed or pending events capable of distorting the *actual screening lookback*, current share count, issuer attribution or market capitalisation. Record effect and evidence. Do not require an exhaustive historical chronology at Level 1. Proposals are not completed allotments.
+5. **Operating-business classification (mandatory):** Confirm the principal activities from a recent issuer-authored report; distinguish operating companies from passive investment vehicles and shells. Use sector-aware treatment for pre-revenue biotech, exploration and developers.
+
+**Disposition rule:** `ELIGIBLE` only when all applicable material Level 1 requirements are supported; `QUARANTINED` for a demonstrated material defect/conflict or persistent decision-blocking uncertainty with a documented re-entry condition; `REVIEW_PENDING` while feasible, material verification is underway. Absence of evidence is neither an automatic pass nor an automatic exclusion. Each gate records source URL, date, finding, limitations and next action. A deferred non-material ISIN or remote historical gap does not by itself block approval. Keep full Level 2 continuity for survivors and Level 3 for finalists.
+
+**Workflow:** (a) perform lightweight issuer/business/trading/market-input triage, (b) escalate only material discrepancies, (c) apply explicit disposition and audit, (d) advance approved companies to Step 2 as they qualify, (e) conduct deeper continuity/dilution checks only where necessary for subsequent comparisons. Do not relabel existing `Historical_Continuity_Status` as fully verified merely because the Level 1 subset passes.
+
+**Initial four-company application:** 14D, ACF, ACW and ACE have relevant issuer disclosures and operating-business indications, but the existing evidence audit does not establish sufficiently recent dated trading state or reliable current share count/capital-action reconciliation. All four remain `REVIEW_PENDING` pending those *decision-critical* checks. Missing standalone ISIN and immaterial remote history are no longer independent blockers. See `research/01_universe_validation/qa/LEVEL_1_RISK_BASED_FOUR_COMPANY_REVIEW_2026-10-16.md`.
+
+---
+
 ## Status definitions
 
 - **COMPLETED:** The specified deliverable has been produced and checked within its stated scope.
