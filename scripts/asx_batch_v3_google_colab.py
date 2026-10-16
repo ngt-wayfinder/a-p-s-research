@@ -242,8 +242,4 @@ finally:
                 archive.write(path, path.relative_to(ROOT.parent))
     log(f"ZIP created: {ARCHIVE}")
     print("Candidate audit rows:", len(audit), "Register rows:", len(register))
-    try:
-        from google.colab import files
-        files.download(str(ARCHIVE))
-    except ImportError:
-        pass
+    log("Archive ready. Download it from a separate Colab notebook cell.")
