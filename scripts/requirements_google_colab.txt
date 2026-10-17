@@ -1,0 +1,4 @@
+# Google Colab research-only dependencies
+# Install in a fresh Colab runtime: pip install -r scripts/requirements_google_colab.txt
+requests>=2.31,<3
+pypdf>=5,<7
